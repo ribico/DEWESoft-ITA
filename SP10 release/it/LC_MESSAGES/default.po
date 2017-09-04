@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2017-05-24 14:54\n"
-"PO-Revision-Date: 2017-09-01 18:23+0200\n"
+"PO-Revision-Date: 2017-09-04 22:34+0200\n"
 "Last-Translator: Somebody <your.email@address.com>\n"
 "Language-Team: \n"
 "Language: it\n"
@@ -7526,7 +7526,7 @@ msgstr ""
 #. MainForm..MainAdvToolBar..DataFilesPage..AdvToolBar10..ApplyActionGlowBtn..Caption
 #: Core/Data/BatchCalc/ReferenceFileUnit.dfm:6 DEWEsoft/MainUnit.dfm:5975
 msgid "Apply action"
-msgstr ""
+msgstr "Applica azione"
 
 #. ReferenceFileForm..ReferenceFilePanel..Caption
 #: Core/Data/BatchCalc/ReferenceFileUnit.dfm:34
@@ -7728,7 +7728,7 @@ msgstr "niente"
 #: Core/Data/Visuals/PhysicalQuantitiesEditorUnit.dfm:5
 #: DEWEsoft/MainUnit.dfm:22832
 msgid "Physical quantities editor"
-msgstr ""
+msgstr "Editor di unità ingegneristiche"
 
 #. PhysicalQuantitiesEditor..PhysicalQuantitiesPanel..Caption
 #. PhysicalQuantitiesEditor..MenuPanel..SIUnitXAdvToolBarPager..AdvPage1..PhysicialQuantitiesToolBar..Caption
@@ -10559,7 +10559,7 @@ msgstr "Asse Y"
 #. MainForm..MainPageControl..DisplaysTabSheet..SettingsMenu..SettingsButtonPanel..ControlPropertiesViewButton..Hint
 #: Core/GObjects/Visuals/GroupFrameUnit.dfm:14 DEWEsoft/MainUnit.dfm:20377
 msgid "Control properties"
-msgstr ""
+msgstr "Proprietà del controllo"
 
 #. GroupFrame..GroupPanel..Label1..Caption
 #: Core/GObjects/Visuals/GroupFrameUnit.dfm:103
@@ -11146,7 +11146,7 @@ msgstr "Mostra bordo"
 #. RecVCFrame..PageControl..CommonTS..RecTimeAxisEmptyPanel..Caption
 #: Core/GObjects/Visuals/RecVCFrameUnit.dfm:196
 msgid "Time axis type"
-msgstr ""
+msgstr "Tipo asse tempo"
 
 #. RecVCFrame..PageControl..CommonTS..RecTimeAxisEmptyPanel..XAxisComboBox....Items.Strings
 #. VideoVCFrame..PageControl..AnalisysTS..SettingsFilmPanel..FrameNumbersCombo....Items.Strings
@@ -11196,7 +11196,7 @@ msgstr "Assoluto (day+time)"
 #: Core/GObjects/Visuals/RecVCFrameUnit.dfm:306
 #: Core/GObjects/Visuals/ScopeVCFrameUnit.dfm:672
 msgid "Y axis ticks"
-msgstr ""
+msgstr "Divisioni asse Y"
 
 #. RecVCFrame..PageControl..CommonTS..RecAlarmPanel..Caption
 #: Core/GObjects/Visuals/RecVCFrameUnit.dfm:430
@@ -11224,7 +11224,7 @@ msgstr ""
 #. RecVCFrame..PageControl..CommonTS..RecCursorPanel..Rec1Panelx..ShowCursorValuesCheckBox..Caption
 #: Core/GObjects/Visuals/RecVCFrameUnit.dfm:697
 msgid "Show cursor values"
-msgstr ""
+msgstr "Mostra valori cursore"
 
 #. ScopeVCFrame..PageControl..CommonTS..MainPageControl..TriggerTabSheet..TriggerMasterPanel..LinkStoreTrigPanel..Caption
 #: Core/GObjects/Visuals/ScopeVCFrameUnit.dfm:151
@@ -12652,7 +12652,7 @@ msgstr ""
 #: Core/Sequencer/Visuals/SeqMainFrameUnit.dfm:485
 #: Core/Sequencer/Visuals/SeqMainFrameUnit.dfm:3965 DEWEsoft/MainUnit.dfm:2598
 msgid "Save as"
-msgstr ""
+msgstr "Salva come"
 
 #. CAMathSetupFrame..CaMathPageCtrl..CalcTabSheet..Caption
 #: Core/MathObjects/CAMath/Visuals/CAMathSetupUnit.dfm:4870
@@ -17673,7 +17673,7 @@ msgstr ""
 #: Core/Sequencer/DSUnit/DSMainUnitTest.pas:366
 #: Visuals/Frames/FileListFrameUnit.pas:3220
 msgid "Duration"
-msgstr ""
+msgstr "Durata"
 
 #. DSUnitFrame..AdvCaptionPanel1..TestCaseListView......Caption
 #. DSUnitFrame..TestCaseDetailPanel..ErrorMsgLabel..Caption
@@ -19286,14 +19286,14 @@ msgstr "Rimuovi"
 #: Core/Variables/Visuals/SelectionListUnit.dfm:116
 #: SharedLib/DS.UI.DSDrawGridColumnsEditor.dfm:56
 msgid "Move up"
-msgstr ""
+msgstr "Porta su"
 
 #. SelectionListForm..Panel1..MoveDownButton..Caption
 #. DSDrawGridEditor..ButtonMoveDown..Caption
 #: Core/Variables/Visuals/SelectionListUnit.dfm:125
 #: SharedLib/DS.UI.DSDrawGridColumnsEditor.dfm:66
 msgid "Move down"
-msgstr ""
+msgstr "Porta giù"
 
 #. VariablesFrame..AddVariable..Hint
 #: Core/Variables/Visuals/VariablesFrameUnit.dfm:18
@@ -19355,7 +19355,7 @@ msgstr "Nuova sequenza"
 #. FileListFrame..FileActionsPopUpMenu..CutFileMenuItem..Caption
 #: DEWEsoft/MainUnit.dfm:1785 Visuals/Frames/FileListFrameUnit.dfm:741
 msgid "Cut"
-msgstr ""
+msgstr "Taglia"
 
 #. MainForm..MainAdvToolBar..SetupFilesPage..TestToolBar..CompactCaption
 #. MainForm..MainAdvToolBar..ExportPage..ExportToToolBar..ExportDewesoftButton..Caption
@@ -19458,22 +19458,22 @@ msgstr ""
 #. MainForm..MainAdvToolBar..DataFilesPage..AdvToolBar10..UseForMeasureGlowButton..Caption
 #: DEWEsoft/MainUnit.dfm:5532
 msgid "Use for measure"
-msgstr ""
+msgstr "Usa per misura"
 
 #. MainForm..MainAdvToolBar..DataFilesPage..AdvToolBar10..MultiExportButton..Caption
 #: DEWEsoft/MainUnit.dfm:5638
 msgid "Multifile export"
-msgstr ""
+msgstr "Esporta multifile"
 
 #. MainForm..MainAdvToolBar..DataFilesPage..AdvToolBar10..CompressVideoAviButton..Caption
 #: DEWEsoft/MainUnit.dfm:5753
 msgid "AVI compress"
-msgstr ""
+msgstr "Comprimi AVI"
 
 #. MainForm..MainAdvToolBar..DataFilesPage..AdvToolBar10..RevertButton..Caption
 #: DEWEsoft/MainUnit.dfm:5860
 msgid "Revert to orig"
-msgstr ""
+msgstr "Ritorna a orig"
 
 #. MainForm..MainAdvToolBar..DataFilesPage..AdvToolBar10..PostSyncVideoButton..Caption
 #: DEWEsoft/MainUnit.dfm:6090 DEWEsoft/MainUnit.pas:12607
@@ -19508,7 +19508,7 @@ msgstr ""
 #. MainForm..MainAdvToolBar..ReviewPage..Caption
 #: DEWEsoft/MainUnit.dfm:6869
 msgid "Review"
-msgstr ""
+msgstr "Analisi"
 
 #. MainForm..MainAdvToolBar..ReviewPage..ReplayAdvToolBar..CompactCaption
 #: DEWEsoft/MainUnit.dfm:6888
@@ -20135,12 +20135,12 @@ msgstr "Progetto"
 #. SensorEditorFormX..Caption
 #: DEWEsoft/MainUnit.dfm:22822 Visuals/Forms/SensorEditorUnitX.dfm:4
 msgid "Sensor editor"
-msgstr ""
+msgstr "Editor sensori"
 
 #. MainForm..SystemPopupMenu..Countersensoreditor1..Caption
 #: DEWEsoft/MainUnit.dfm:22827
 msgid "Counter sensor editor"
-msgstr ""
+msgstr "Editor sensori counter"
 
 #. MainForm..OpenDialogData..Title
 #: DEWEsoft/MainUnit.dfm:22859
@@ -20266,7 +20266,7 @@ msgstr ""
 #: DEWEsoft/MainUnit.dfm:23123 Visuals/Forms/AOFormUnit.pas:198
 #: Visuals/Forms/AOFormUnit.pas:246
 msgid "From data"
-msgstr "From data"
+msgstr "Da dati"
 
 #. MainForm..RemotePopupMenu..ConnectRemoteMenuItem..Caption
 #: DEWEsoft/MainUnit.dfm:23234 DEWEsoft/MainUnit.pas:17256
@@ -20385,12 +20385,12 @@ msgstr ""
 #. DSDrawGridEditor..Caption
 #: SharedLib/DS.UI.DSDrawGridColumnsEditor.dfm:6
 msgid "Choose columns"
-msgstr ""
+msgstr "Scegli colonne"
 
 #. DSDrawGridEditor..Label1..Caption
 #: SharedLib/DS.UI.DSDrawGridColumnsEditor.dfm:32
 msgid "Select columns you wish to display"
-msgstr ""
+msgstr "Seleziona colonne da visualizzare"
 
 #. DSDrawGridEditor..Label3..Caption
 #: SharedLib/DS.UI.DSDrawGridColumnsEditor.dfm:40
@@ -22584,7 +22584,7 @@ msgstr ""
 #. GlobalChnListFrame..AdvCaptionPanel2..ShowGroupsCheckBox..Caption
 #: Visuals/Frames/GlobalChnListFrameUnit.dfm:48
 msgid "Group channels"
-msgstr ""
+msgstr "Raggruppa canali"
 
 #. GlobalSettingsFrame..Panel4..MainMenuPanel..MenuScrollBox..SettingsMenu..MIExtensions..Caption
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabExtensions..Caption
@@ -28617,7 +28617,7 @@ msgstr "every"
 #. waiting for holdoff
 #: Core/Objects/TriggerUnit.pas:2950 Core/Objects/TriggerUnit.pas:3084
 msgid "Manual trigger"
-msgstr ""
+msgstr "Trigger manuale"
 
 #: Core/Objects/TriggerUnit.pas:3256 DEWEsoft/MainUnit.pas:8675
 #: DEWEsoft/MainUnit.pas:8680
@@ -30415,7 +30415,7 @@ msgstr ""
 #: Visuals/DelphiComponents/FileListView.pas:1405
 #: Visuals/Frames/FileListFrameUnit.pas:3215
 msgid "Start store time"
-msgstr ""
+msgstr "Ora inizio rec"
 
 #: Visuals/Forms/AddAnalyseEvent.pas:90 Visuals/Forms/AddAnalyseEvent.pas:99
 msgid "Miliseconds entry not valid."
