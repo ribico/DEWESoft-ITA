@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2017-08-31 16:50\n"
-"PO-Revision-Date: 2017-09-05 14:34+0200\n"
+"PO-Revision-Date: 2017-09-07 17:41+0200\n"
 "Last-Translator: Somebody <your.email@address.com>\n"
 "Language-Team: \n"
 "Language: it\n"
@@ -236,7 +236,7 @@ msgstr ""
 #: Visuals/Plugins/ChannelScalingUnit.dfm:228
 #: Visuals/Plugins/ChannelScalingUnit.dfm:353
 msgid "V"
-msgstr "V"
+msgstr ""
 
 #. AmplifierFrame..MainAmplPanel..AmplifierPageControl..GeneralTabSheet..ExcitationPanel..ExcPowerLabel..Caption
 #: Core/Daq/Amplifiers/Visuals/AmplifierFrameUnit.dfm:243
@@ -461,7 +461,7 @@ msgstr ""
 #: Core/GObjects/Visuals/ScopeVCFrameUnit.dfm:11807 DEWEsoft/MainUnit.pas:17273
 #: Visuals/Frames/ControlChannelsFrameUnit.pas:226
 msgid "Reset"
-msgstr "Reset"
+msgstr ""
 
 #. AmplifierFrame..MainAmplPanel..AmplifierPageControl..GeneralTabSheet..AmplButtonPanel..OutputMathButton..Caption
 #: Core/Daq/Amplifiers/Visuals/AmplifierFrameUnit.dfm:923
@@ -689,7 +689,7 @@ msgstr ""
 #: Core/Daq/DaqCards/Visuals/CNTChannelSetup.dfm:344
 #: Core/Daq/DaqCards/Visuals/DIChannelSetupUnit.dfm:157
 msgid "100 ns"
-msgstr "100 ns"
+msgstr ""
 
 #. CACPUSetupForm..FilterCBox....Items.Strings
 #. CNTChannelSetupForm..HWSetupPanel..HWPanel..CNTHWTypeNotebook....OrionTopPanel..ORIONInputFilterComboBox....Items.Strings
@@ -698,7 +698,7 @@ msgstr "100 ns"
 #: Core/Daq/DaqCards/Visuals/CNTChannelSetup.dfm:345
 #: Core/Daq/DaqCards/Visuals/DIChannelSetupUnit.dfm:158
 msgid "200 ns"
-msgstr "200 ns"
+msgstr ""
 
 #. CACPUSetupForm..FilterCBox....Items.Strings
 #. CNTChannelSetupForm..HWSetupPanel..HWPanel..CNTHWTypeNotebook....OrionTopPanel..ORIONInputFilterComboBox....Items.Strings
@@ -713,7 +713,7 @@ msgstr "200 ns"
 #: Core/Daq/DaqCards/Visuals/DIChannelSetupUnit.dfm:159
 #: Core/MathObjects/Visuals/MathOrderTrackingSetupUnit.dfm:102
 msgid "500 ns"
-msgstr "500 ns"
+msgstr ""
 
 #. CACPUSetupForm..FilterCBox....Items.Strings
 #. AngleSensorSetupFrame..SensorTypePanel..FilterComboBox....Items.Strings
@@ -841,7 +841,7 @@ msgstr ""
 #: Visuals/Forms/NotificationWindowUnit.pas:586
 #: Visuals/Forms/NotificationWindowUnit.pas:598
 msgid "OK"
-msgstr "OK"
+msgstr ""
 
 #. CACPUSetupForm..DefaultTrgPanel..TriggerLevelLabel..Caption
 #. CNTSensorForm..SignalLevelPanel..SignalTriggerLabel..Caption
@@ -1403,12 +1403,12 @@ msgstr ""
 #: Core/Daq/CAN/Visuals/CANChannelSetupUnit.dfm:80
 #: Core/Sequencer/Items/Visuals/ControlItemFrameUnit.dfm:189
 msgid "Arb. ID"
-msgstr "Arb. ID"
+msgstr ""
 
 #. CanSetupForm..MsgDefinitionGroupBox..MSGByteLengthLbl..Caption
 #: Core/Daq/CAN/Visuals/CANChannelSetupUnit.dfm:93
 msgid "DLC"
-msgstr "DLC"
+msgstr ""
 
 #. CanSetupForm..MsgDefinitionGroupBox..MSGFrameFormatLbl..Caption
 #. AxisFrame..AxisTypeLabel..Caption
@@ -1593,12 +1593,12 @@ msgstr "Elimina"
 #. CanSetupForm..MsgDefinitionGroupBox..MSGFrameFormatCombo....Items.Strings
 #: Core/Daq/CAN/Visuals/CANChannelSetupUnit.dfm:215
 msgid "CAN standard"
-msgstr "CAN Standard"
+msgstr ""
 
 #. CanSetupForm..MsgDefinitionGroupBox..MSGFrameFormatCombo....Items.Strings
 #: Core/Daq/CAN/Visuals/CANChannelSetupUnit.dfm:216
 msgid "CAN extended"
-msgstr "CAN Extended"
+msgstr ""
 
 #. CanSetupForm..MsgDefinitionGroupBox..RXTXPageControl..RXTabSheet..Caption
 #. CanSetupFrame..GeneralPanel..RxTXFilterPanel..RxButton..Caption
@@ -1645,7 +1645,7 @@ msgstr ""
 #: Visuals/Frames/TriggerSetupFrameUnit.dfm:162
 #: Visuals/Frames/TriggerSetupFrameUnit.dfm:170
 msgid "ms"
-msgstr "ms"
+msgstr ""
 
 #. CanSetupForm..MsgDefinitionGroupBox..RXTXPageControl..RXTabSheet..DelayLabel..Caption
 #. MathDelaySetupFrame..AdvCaptionPanel1..Label2..Caption
@@ -1794,7 +1794,7 @@ msgstr ""
 #: Core/Daq/CAN/Visuals/CanSetupFrameUnit.dfm:60
 #: Core/Daq/CAN/CanChannels.pas:2213 Visuals/Forms/MessagesFormUnit.pas:145
 msgid "Message"
-msgstr "Message"
+msgstr ""
 
 #. CanSetupForm..MsgDefinitionGroupBox..RXTXPageControl..TXTabSheet..TransmitPageControl..ReferenceTabSheet..ReferenceMessageComboBox....Items.Strings
 #. CanSetupForm..MsgDefinitionGroupBox..RXTXPageControl..TXTabSheet..TransmitPageControl..ButtonTabSheet..ButtonChComboBox....Items.Strings
@@ -1803,7 +1803,7 @@ msgstr "Message"
 #: Core/Daq/CAN/Visuals/CANChannelSetupUnit.dfm:487
 #: Core/Daq/CAN/Visuals/CANChannelSetupUnit.dfm:774
 msgid "Unsigned"
-msgstr "Unsigned"
+msgstr ""
 
 #. CanSetupForm..MsgDefinitionGroupBox..RXTXPageControl..TXTabSheet..TransmitPageControl..TriggerTabSheet..Caption
 #. MainForm..MainAdvToolBar..MeasurePage..DataControlToolBar..TrigButton..Caption
@@ -1816,7 +1816,7 @@ msgstr "Unsigned"
 #: Visuals/Frames/TriggerFrameUnit.pas:277
 #: Visuals/Frames/TriggerFrameUnit.pas:289
 msgid "Trig"
-msgstr "Trig"
+msgstr ""
 
 #. CanSetupForm..MsgDefinitionGroupBox..RXTXPageControl..TXTabSheet..TransmitPageControl..ButtonTabSheet..Caption
 #: Core/Daq/CAN/Visuals/CANChannelSetupUnit.dfm:468
@@ -1836,7 +1836,7 @@ msgstr ""
 #. CanSetupForm..SignalDefinitionGroupBox..Caption
 #: Core/Daq/CAN/Visuals/CANChannelSetupUnit.dfm:531
 msgid "Signal setup"
-msgstr "Signal setup"
+msgstr ""
 
 #. CanSetupForm..SignalDefinitionGroupBox..ColorLabel..Caption
 #. CamSettingsForm..Panel1..SettingsPageControl..BasicSettingsTabSheet..Panel2..ColorLabel..Caption
@@ -1897,12 +1897,12 @@ msgstr "Valore corrente non scalato"
 #. CanSetupForm..SignalDefinitionGroupBox..MSGStartbitLbl..Caption
 #: Core/Daq/CAN/Visuals/CANChannelSetupUnit.dfm:606
 msgid "Start bit"
-msgstr "Start bit"
+msgstr ""
 
 #. CanSetupForm..SignalDefinitionGroupBox..SGDataFormatLbl..Caption
 #: Core/Daq/CAN/Visuals/CANChannelSetupUnit.dfm:619
 msgid "Data format"
-msgstr "Data format"
+msgstr ""
 
 #. CanSetupForm..SignalDefinitionGroupBox..SGDataTypeLbl..Caption
 #. RPCFrame..DataTypeLabel..Caption
@@ -1918,12 +1918,12 @@ msgstr "Data format"
 #: Visuals/Forms/ChannelInfoForm.pas:121
 #: Visuals/Frames/ExportSelectFrameUnit.pas:295
 msgid "Data type"
-msgstr "Data tipo"
+msgstr ""
 
 #. CanSetupForm..SignalDefinitionGroupBox..SGLengthLbl..Caption
 #: Core/Daq/CAN/Visuals/CANChannelSetupUnit.dfm:645
 msgid "Length [bits]"
-msgstr "Length [bits]"
+msgstr ""
 
 #. CanSetupForm..SignalDefinitionGroupBox..SGUnitLbl..Caption
 #. ChannelSetupExForm..BlockDiagPanel..SensorPanel..SensorPageControl..GeneralSensorTabSheet..SensorPropsPanel..UnitLabel..Caption
@@ -2000,22 +2000,22 @@ msgstr "Sensibilità"
 #. CanSetupForm..SignalDefinitionGroupBox..SGDataFormatCombo....Items.Strings
 #: Core/Daq/CAN/Visuals/CANChannelSetupUnit.dfm:761
 msgid "Intel"
-msgstr "Intel"
+msgstr ""
 
 #. CanSetupForm..SignalDefinitionGroupBox..SGDataFormatCombo....Items.Strings
 #: Core/Daq/CAN/Visuals/CANChannelSetupUnit.dfm:762
 msgid "Motorola"
-msgstr "Motorola"
+msgstr ""
 
 #. CanSetupForm..SignalDefinitionGroupBox..SGDataTypeCombo....Items.Strings
 #: Core/Daq/CAN/Visuals/CANChannelSetupUnit.dfm:775
 msgid "Signed"
-msgstr "Signed"
+msgstr ""
 
 #. CanSetupForm..SignalDefinitionGroupBox..SGDataTypeCombo....Items.Strings
 #: Core/Daq/CAN/Visuals/CANChannelSetupUnit.dfm:776
 msgid "IEEE float"
-msgstr "IEEE Float"
+msgstr ""
 
 #. CanSetupForm..SignalDefinitionGroupBox..SignalSetupTXPanel..ValueTypeLabel..Caption
 #. DOChannelSetupForm..SettingsPanel..SchedulePanel..Panel1..ValueTypeLabel..Caption
@@ -2090,17 +2090,17 @@ msgstr "Valore multiplexer"
 #. CanSetupForm..SignalDefinitionGroupBox..SignalTypePanel..SGMultiplexType....Items.Strings
 #: Core/Daq/CAN/Visuals/CANChannelSetupUnit.dfm:979
 msgid "Regular signal"
-msgstr "Regular signal"
+msgstr ""
 
 #. CanSetupForm..SignalDefinitionGroupBox..SignalTypePanel..SGMultiplexType....Items.Strings
 #: Core/Daq/CAN/Visuals/CANChannelSetupUnit.dfm:980
 msgid "Multiplexor signal"
-msgstr "Multiplexer Signal"
+msgstr ""
 
 #. CanSetupForm..SignalDefinitionGroupBox..SignalTypePanel..SGMultiplexType....Items.Strings
 #: Core/Daq/CAN/Visuals/CANChannelSetupUnit.dfm:981
 msgid "Multiplexed signal"
-msgstr "Multiplexed Signal"
+msgstr ""
 
 #. CanSetupForm..SignalDefinitionGroupBox..MinMaxPanel..SGMaxLbl..Caption
 #. DSDaqDeviceSettingsFrame..ScrollBox1..LayoutPanel..SettingsGroup..ComboFanSpeed....ComboBox.Items.Strings
@@ -2232,7 +2232,7 @@ msgstr ""
 #. CanSetupFrame..GeneralPanel..kBaudLabel..Caption
 #: Core/Daq/CAN/Visuals/CanSetupFrameUnit.dfm:33
 msgid "kBaud"
-msgstr "kBaud"
+msgstr ""
 
 #. CanSetupFrame..GeneralPanel..MessageLabel..Caption
 #: Core/Daq/CAN/Visuals/CanSetupFrameUnit.dfm:46
@@ -2288,7 +2288,7 @@ msgstr ""
 #: Core/Objects/ExtensionsUnit.pas:614 Core/Objects/SetupModulesUnit.pas:2367
 #: Visuals/Forms/VersionInfoUnit.pas:132
 msgid "Import"
-msgstr "Import"
+msgstr ""
 
 #. CanSetupFrame..GeneralPanel..ExportButton..Caption
 #. CAMathSetupFrame..CaMathPageCtrl..EngineTabSheet..Panel2..AdvCaptionPanel5..ExportTemplateBtn..Caption
@@ -2314,7 +2314,7 @@ msgstr "Import"
 #: Visuals/Forms/ScopeAVIExpUnit.dfm:336 Visuals/Forms/VideoExportUnit.dfm:341
 #: Core/Objects/ExtensionsUnit.pas:577 Visuals/Forms/VersionInfoUnit.pas:135
 msgid "Export"
-msgstr "Export"
+msgstr ""
 
 #. CanSetupFrame..GeneralPanel..RxTXFilterPanel..AllButton..Caption
 #. CAMathSetupFrame..CaMathPageCtrl..MeasureTabSheet..TDCPanel..AdvCaptionPanel4..TDCDetectionPanel..TDCDetectCBox....Items.Strings
@@ -2392,7 +2392,7 @@ msgstr "Registra tutti i messaggi"
 #: Core/Daq/CAN/Visuals/CanSetupFrameUnit.dfm:1192
 #: Core/Daq/CAN/Visuals/CanSetupFrameUnit.dfm:1201
 msgid "Scan"
-msgstr "Scan"
+msgstr ""
 
 #. CanSetupFrame..PluginPanel..ConfigureButton..Caption
 #. PluginSetupFrame..PluginPanel..ConfigureButton..Caption
@@ -2406,14 +2406,14 @@ msgstr ""
 #: Core/Daq/CAN/Visuals/CanSetupFrameUnit.dfm:1255
 #: Core/GObjects/Visuals/TabFrameUnit.dfm:455
 msgid "Binary"
-msgstr "Binary"
+msgstr ""
 
 #. CanSetupFrame..MsgViewPopupMenu..HexadecimalView..Caption
 #. CanSetupFrame..MsgIdPopupMenu..IdHexMenuItem..Caption
 #: Core/Daq/CAN/Visuals/CanSetupFrameUnit.dfm:1262
 #: Core/Daq/CAN/Visuals/CanSetupFrameUnit.dfm:1272
 msgid "Hexadecimal"
-msgstr "Hexadecimal"
+msgstr ""
 
 #. CanSetupFrame..MsgIdPopupMenu..IdDecMenuItem..Caption
 #. TabVCFrame..PageControl..CommonTS..PrintFormatPanel..RawFormatComboBox....Items.Strings
@@ -2544,7 +2544,7 @@ msgstr "Versione"
 #: Visuals/Forms/VersionInfoUnit.pas:147 Visuals/Forms/VersionInfoUnit.pas:158
 #: Visuals/Frames/Settings/LicensingFrameUnit.pas:494
 msgid "CAN"
-msgstr "CAN"
+msgstr ""
 
 #. TestCanFrame..ScrollBox1..LayoutPanel..InfoGroup..Caption
 #: Core/Daq/CAN/Visuals/TestCanFrameUnit.dfm:48
@@ -2709,10 +2709,8 @@ msgstr "Elimina gruppo da tutti i canali"
 
 #. ADCardSetupFrame..ChZeroPopupMenu..EditGroups..Caption
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.dfm:317
-#, fuzzy
-#| msgid "All groups"
 msgid "Edit groups"
-msgstr "Tutti gruppi"
+msgstr "Modifica gruppi"
 
 #. ADCardSetupFrame..ChZeroPopupMenu..ZeroallAUTOchannels1..Caption
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.dfm:325
@@ -2847,7 +2845,7 @@ msgstr ""
 #. ADCardSetupFrame..AmplifierPopUpMenu..DAQPBridgeAB1..BridgeABsensorzero1..Caption
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.dfm:467
 msgid "Sensor balance all"
-msgstr "Bridge zero"
+msgstr ""
 
 #. ADCardSetupFrame..AmplifierPopUpMenu..DAQPBridgeAB1..ResetSensorBalanceAllMenuItem..Caption
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.dfm:471
@@ -2866,10 +2864,8 @@ msgstr ""
 
 #. ADCardSetupFrame..AmplifierPopUpMenu..DAQPBridgeAB1..BridgeShortOffMenuItem..Caption
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.dfm:483
-#, fuzzy
-#| msgid "Shunt off"
 msgid "Short off all"
-msgstr "Shunt dif"
+msgstr ""
 
 #. ADCardSetupFrame..AmplifierPopUpMenu..DAQPBridgeAB1..BridgeABshunton..Caption
 #. MainForm..BridgeABPopupMenu..ShuntonallMenuItem..Caption
@@ -3071,7 +3067,7 @@ msgstr ""
 #: Core/Daq/DaqCards/Visuals/AOSetupFrameUnit.pas:275
 #: Core/MathObjects/MathFFTUnit.pas:1211
 msgid "Rectangular"
-msgstr "Rectangular"
+msgstr ""
 
 #. AOChannelSetup..Panel2..SignalSettingsGroupBox..WaveFormCombo....Items.Strings
 #: Core/Daq/DaqCards/Visuals/AOChannelSetupUnit.dfm:226
@@ -3154,7 +3150,7 @@ msgstr ""
 #: Visuals/Forms/ChannelRemappingFormUnit.dfm:99
 #: Visuals/Frames/DevicesSettingsFrameUnit.dfm:98
 msgid "Filter"
-msgstr "5 µs"
+msgstr ""
 
 #. AOChannelSetup..Panel2..SignalSettingsGroupBox..PageControl..SignalSheet..SignalSettingsPanel..PhaseButton..Caption
 #: Core/Daq/DaqCards/Visuals/AOChannelSetupUnit.dfm:436
@@ -3367,7 +3363,7 @@ msgstr "Scala"
 #: Core/Daq/DaqCards/Visuals/AOSetupFrameUnit.pas:779
 #: Visuals/Forms/AOFormUnit.pas:196 Visuals/Forms/AOFormUnit.pas:236
 msgid "Direct"
-msgstr "Direct"
+msgstr ""
 
 #. AOChannelSetup..Panel2..SignalSettingsGroupBox..PageControl..PointsSheet..Panel3..ScaleCombo....Items.Strings
 #. AOChannelSetup..Panel2..SignalSettingsGroupBox..PageControl..ChannelTabSheet..ScalingInpChComboBox....Items.Strings
@@ -3401,7 +3397,7 @@ msgstr "Direct"
 #: Core/MathObjects/Visuals/AmplExtractMathSetupUnit.pas:647
 #: Visuals/Forms/AOFormUnit.pas:199 Visuals/Forms/AOFormUnit.pas:251
 msgid "Custom"
-msgstr "Custom"
+msgstr ""
 
 #. AOChannelSetup..Panel2..SignalSettingsGroupBox..PageControl..ChannelTabSheet..Label1..Caption
 #: Core/Daq/DaqCards/Visuals/AOChannelSetupUnit.dfm:682
@@ -3681,7 +3677,7 @@ msgstr "Lineare"
 #: Visuals/Forms/TriggerSetupUnit.dfm:130
 #: Core/MathObjects/Visuals/MathArrayReferenceSetupUnit.pas:316
 msgid "Log"
-msgstr "Log"
+msgstr ""
 
 #. AOSetupFrame..FGenPanel..TopPanel..MainPanel..ModesPanel..OperationPageControl..SweepSheet..SweepPanel..SweepModeSweepCombo....Items.Strings
 #. MainForm..PlayPopup..Loop1..Caption
@@ -3849,7 +3845,7 @@ msgstr ""
 #: Core/Objects/SetupObjectUnit.pas:1345
 #: Core/Objects/ShortcutMappingUnit.pas:295
 msgid "Channel setup"
-msgstr "GPS Canale setup"
+msgstr "Setup canale"
 
 #. ChannelSetupExForm..ChannelSettingsPanel..Caption
 #. ChannelSettingsForm..Caption
@@ -4045,7 +4041,7 @@ msgstr ""
 #. ChannelSetupExForm..BlockDiagPanel..SensorPanel..SensorPageControl..GeneralSensorTabSheet..BridgeScalingPanel..LeadWireCompensationPanel..LeadWireCompensateButton..Caption
 #: Core/Daq/DaqCards/Visuals/ChannelSetupUnitEx.dfm:720
 msgid "Compensate"
-msgstr "Calibrate"
+msgstr ""
 
 #. ChannelSetupExForm..BlockDiagPanel..SensorPanel..SensorPageControl..GeneralSensorTabSheet..BridgeScalingPanel..BridgeWirePanel..BrigeWireLabel..Caption
 #: Core/Daq/DaqCards/Visuals/ChannelSetupUnitEx.dfm:776
@@ -4175,7 +4171,7 @@ msgstr "Misura in corso"
 #: Visuals/Frames/ChannelsDSGridView.pas:179
 #: Visuals/Frames/ChannelsDSGridView.pas:450
 msgid "Sensor"
-msgstr "Valore letto"
+msgstr ""
 
 #. ChannelSetupExForm..BlockDiagPanel..Panel8..Panel10..ScalingGroupBox..ScalePageControl..ScaleByPointsTabSheet..Caption
 #. ChannelScalingFrame..ScalePanel..ScalePageControl..TabByTwoPoints..Caption
@@ -4314,7 +4310,7 @@ msgstr "Unità/1 V"
 #: Core/Daq/DaqCards/Visuals/ChannelSetupUnitEx.dfm:1891
 #: Visuals/Plugins/ChannelScalingUnit.dfm:386
 msgid "Set zero"
-msgstr "Set zero"
+msgstr ""
 
 #. ChannelSetupExForm..BlockDiagPanel..Panel8..Panel10..ScalingGroupBox..ScalePageControl..ScaleByFuncTabSheet..LinEquationPanel..Caption
 #. ChannelScalingFrame..ScalePanel..ScalePageControl..TabByFunction..LinEquationPanel..Caption
@@ -4325,10 +4321,8 @@ msgstr "Uscita = k * valore letto + n"
 
 #. ChannelSetupExForm..BlockDiagPanel..Panel8..Panel10..ScalingGroupBox..ScalePageControl..ScaleByFuncTabSheet..SensitivityRadio..Caption
 #: Core/Daq/DaqCards/Visuals/ChannelSetupUnitEx.dfm:1941
-#, fuzzy
-#| msgid "Sensitivity"
 msgid "Sensitivity (1/k)"
-msgstr "Sensibilità"
+msgstr "Sensibilità (1/k)"
 
 #. ChannelSetupExForm..BlockDiagPanel..Panel8..Panel10..ScalingGroupBox..ScalePageControl..ScaleMicTabSheet..Caption
 #: Core/Daq/DaqCards/Visuals/ChannelSetupUnitEx.dfm:1953
@@ -4437,7 +4431,7 @@ msgstr ""
 #. ChannelSetupExForm..BlockDiagPanel..Panel8..Panel10..ScalingGroupBox..ScalePageControl..ScaleStrainTabSheet..Caption
 #: Core/Daq/DaqCards/Visuals/ChannelSetupUnitEx.dfm:2477
 msgid "Strain scaling"
-msgstr "Direct bridge scaling"
+msgstr ""
 
 #. ChannelSetupExForm..BlockDiagPanel..Panel8..Panel10..ScalingGroupBox..ScalePageControl..ScaleStrainTabSheet..BridgeSettingsPanel..GageTypePanel..Label6..Caption
 #: Core/Daq/DaqCards/Visuals/ChannelSetupUnitEx.dfm:2500
@@ -4451,7 +4445,7 @@ msgstr ""
 #: Core/Daq/Amplifiers/AmplConstUnit.pas:588
 #: Core/Daq/Amplifiers/TedsTemplateUnit.pas:2557
 msgid "Bridge factor"
-msgstr "Bridge factor"
+msgstr ""
 
 #. ChannelSetupExForm..BlockDiagPanel..Panel8..Panel10..ScalingGroupBox..ScalePageControl..ScaleStrainTabSheet..BridgeSettingsPanel..StrainOffsetPanel..SetFromDCButton2..Caption
 #. ChannelSetupExForm..BlockDiagPanel..Panel8..Panel10..ScalingGroupBox..ScalePageControl..NonLinearTabSheet..NonLinSetOffsetButton..Caption
@@ -4469,7 +4463,7 @@ msgstr "Bridge factor"
 #: Core/TcpIpObjects/Visuals/RemoteSetupGrid.pas:799
 #: Visuals/Frames/SetupGrid.pas:111 Visuals/Frames/SetupGridEx.pas:107
 msgid "Zero"
-msgstr "ZERO"
+msgstr ""
 
 #. ChannelSetupExForm..BlockDiagPanel..Panel8..Panel10..ScalingGroupBox..ScalePageControl..ScaleStrainTabSheet..BridgeSettingsPanel..Panel3..Label7..Caption
 #: Core/Daq/DaqCards/Visuals/ChannelSetupUnitEx.dfm:2661
@@ -4550,7 +4544,7 @@ msgstr "Oscillo"
 #: Core/MathObjects/MathFFTUnit.pas:1204 Core/MathObjects/MathFFTUnit.pas:1205
 #: Core/MathObjects/MathFFTUnit.pas:1259
 msgid "FFT"
-msgstr "FFT"
+msgstr ""
 
 #. ChannelSetupExForm..BlockDiagPanel..Panel8..Panel14..SetupGraphPanel..SetupGraphPageCtrl..BarGraphTab..Caption
 #. BarVCFrame..PageControl..CommonTS..MeterTypePanel..cbMeterType....Items.Strings
@@ -4592,7 +4586,7 @@ msgstr "Logaritmico"
 #: Core/Daq/DaqCards/Visuals/ChannelSetupUnitEx.dfm:3335
 #: Core/MathObjects/Visuals/MathArrayReferenceSetupUnit.dfm:258
 msgid "Noise dB"
-msgstr "Noise dB"
+msgstr ""
 
 #. ChannelSetupExForm..BlockDiagPanel..Panel8..Panel14..SetupGraphPanel..BarGraphPanel..GraphPropsPanel..Panel2..Label8..Caption
 #: Core/Daq/DaqCards/Visuals/ChannelSetupUnitEx.dfm:3377
@@ -4641,7 +4635,7 @@ msgstr ""
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:218
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:766
 msgid "s"
-msgstr "s"
+msgstr ""
 
 #. ChannelSetupExForm..BlockDiagPanel..Panel8..Panel14..SetupGraphPanel..BarGraphPanel..GraphPropsPanel..Panel2..AveCBox..Caption
 #. BarVCFrame..PageControl..CommonTS..OvDisplayTypePanel..DMMTypeComboBox....Items.Strings
@@ -4695,7 +4689,7 @@ msgstr "Media"
 #: Core/MathObjects/Visuals/MathLatchSetupUnit.dfm:44
 #: Visuals/Plugins/ChannelScalingUnit.dfm:550 Core/GObjects/DigitalVC.pas:1956
 msgid "AC RMS"
-msgstr "AC RMS"
+msgstr ""
 
 #. ChannelSetupExForm..BlockDiagPanel..Panel8..Panel14..SetupGraphPanel..BarGraphPanel..GraphPropsPanel..Panel2..MinMaxCBox..Caption
 #. OverloadVCFrame..PageControl..CommonTS..Panel2..ValuesDisplayComboBox....Items.Strings
@@ -4753,12 +4747,12 @@ msgstr ""
 #: Visuals/Forms/VersionInfoUnit.pas:138
 #: Visuals/Frames/GlobalSettingsFrameUnit.pas:1045
 msgid "Math"
-msgstr "Math"
+msgstr ""
 
 #. CNTChannelSetupForm..Caption
 #: Core/Daq/DaqCards/Visuals/CNTChannelSetup.dfm:5
 msgid "Counter channel setup"
-msgstr "Counter Canale setup"
+msgstr "Setup ch counter"
 
 #. CNTChannelSetupForm..HWSetupPanel..Caption
 #: Core/Daq/DaqCards/Visuals/CNTChannelSetup.dfm:35
@@ -4817,7 +4811,7 @@ msgstr "Filtro ingresso"
 #: Core/Daq/Amplifiers/AmplifiersUnit.pas:5413
 #: Core/Daq/DewesoftDaq/Devices/Visuals/DSDeviceSettingsFrameUnit.pas:584
 msgid "Off"
-msgstr "Offset"
+msgstr ""
 
 #. CNTChannelSetupForm..HWSetupPanel..HWPanel..CNTHWTypeNotebook....SimpleInputFilterPanel..NTIOInputFilterComboBox....Items.Strings
 #: Core/Daq/DaqCards/Visuals/CNTChannelSetup.dfm:165
@@ -4827,56 +4821,56 @@ msgstr ""
 #. CNTChannelSetupForm..HWSetupPanel..HWPanel..CNTHWTypeNotebook....SimpleInputFilterPanel..NTIOInputFilterComboBox....Items.Strings
 #: Core/Daq/DaqCards/Visuals/CNTChannelSetup.dfm:166
 msgid "5 MHz"
-msgstr "5 MHz"
+msgstr ""
 
 #. CNTChannelSetupForm..HWSetupPanel..HWPanel..CNTHWTypeNotebook....SimpleInputFilterPanel..NTIOInputFilterComboBox....Items.Strings
 #: Core/Daq/DaqCards/Visuals/CNTChannelSetup.dfm:167
 msgid "1 MHz"
-msgstr "1 MHz"
+msgstr ""
 
 #. CNTChannelSetupForm..HWSetupPanel..HWPanel..CNTHWTypeNotebook....SimpleInputFilterPanel..NTIOInputFilterComboBox....Items.Strings
 #: Core/Daq/DaqCards/Visuals/CNTChannelSetup.dfm:168
 msgid "500 kHz"
-msgstr "500 kHz"
+msgstr ""
 
 #. CNTChannelSetupForm..HWSetupPanel..HWPanel..CNTHWTypeNotebook....SimpleInputFilterPanel..NTIOInputFilterComboBox....Items.Strings
 #: Core/Daq/DaqCards/Visuals/CNTChannelSetup.dfm:169
 msgid "100 kHz"
-msgstr "100 kHz"
+msgstr ""
 
 #. CNTChannelSetupForm..HWSetupPanel..HWPanel..CNTHWTypeNotebook....ORIONOptionNotebook....OrionNewValueUpdateModeLabel..Caption
 #: Core/Daq/DaqCards/Visuals/CNTChannelSetup.dfm:194
 msgid "no new value available"
-msgstr "no nuovo valore available"
+msgstr "nessun valore nuovo"
 
 #. CNTChannelSetupForm..HWSetupPanel..HWPanel..CNTHWTypeNotebook....ORIONOptionNotebook....OrionNewValueUpdateModeComboBox....Items.Strings
 #. CNTChannelSetupForm..HWSetupPanel..HWPanel..CNTHWTypeNotebook....DWUSBCNTHWPanel..NewValueUpdateModeComboBox....Items.Strings
 #: Core/Daq/DaqCards/Visuals/CNTChannelSetup.dfm:222
 #: Core/Daq/DaqCards/Visuals/CNTChannelSetup.dfm:499
 msgid "repeat last value"
-msgstr "repeat last valore"
+msgstr "ripeti ultimo val"
 
 #. CNTChannelSetupForm..HWSetupPanel..HWPanel..CNTHWTypeNotebook....ORIONOptionNotebook....OrionNewValueUpdateModeComboBox....Items.Strings
 #. CNTChannelSetupForm..HWSetupPanel..HWPanel..CNTHWTypeNotebook....DWUSBCNTHWPanel..NewValueUpdateModeComboBox....Items.Strings
 #: Core/Daq/DaqCards/Visuals/CNTChannelSetup.dfm:223
 #: Core/Daq/DaqCards/Visuals/CNTChannelSetup.dfm:500
 msgid "make zero value"
-msgstr "crea zero valore"
+msgstr "crea valori zero"
 
 #. CNTChannelSetupForm..HWSetupPanel..HWPanel..CNTHWTypeNotebook....ORIONOptionNotebook....ORIONCountDirectionLabel..Caption
 #: Core/Daq/DaqCards/Visuals/CNTChannelSetup.dfm:235
 msgid "Count direction"
-msgstr "Count direction"
+msgstr ""
 
 #. CNTChannelSetupForm..HWSetupPanel..HWPanel..CNTHWTypeNotebook....ORIONOptionNotebook....ORIONCountDirectionComboBox....Items.Strings
 #: Core/Daq/DaqCards/Visuals/CNTChannelSetup.dfm:262
 msgid "count up"
-msgstr "count up"
+msgstr ""
 
 #. CNTChannelSetupForm..HWSetupPanel..HWPanel..CNTHWTypeNotebook....ORIONOptionNotebook....ORIONCountDirectionComboBox....Items.Strings
 #: Core/Daq/DaqCards/Visuals/CNTChannelSetup.dfm:263
 msgid "count down"
-msgstr "count down"
+msgstr ""
 
 #. CNTChannelSetupForm..HWSetupPanel..HWPanel..CNTHWTypeNotebook....ORIONOptionNotebook....OrionEncoderBCheckBox..Caption
 #: Core/Daq/DaqCards/Visuals/CNTChannelSetup.dfm:270
@@ -4906,7 +4900,7 @@ msgstr ""
 #: DEWEsoft/MainUnit.pas:13697 DEWEsoft/MainUnit.pas:13707
 #: DEWEsoft/MainUnit.pas:19768
 msgid "off"
-msgstr "off"
+msgstr ""
 
 #. CNTChannelSetupForm..HWSetupPanel..HWPanel..CNTHWTypeNotebook....OrionTopPanel..OrionResetCntOnStartCheckBox..Caption
 #. CNTChannelSetupForm..HWSetupPanel..HWPanel..CNTHWTypeNotebook....DWUSBCNTHWPanel..DWUSBResetCntOnStartCheckBox..Caption
@@ -4915,7 +4909,7 @@ msgstr "off"
 #: Core/Daq/DaqCards/Visuals/CNTChannelSetup.dfm:440
 #: Core/Daq/DaqCards/Visuals/DOChannelSetupUnit.dfm:2426
 msgid "Reset on start measure"
-msgstr "Reset su avviare measure"
+msgstr "Reset su inizio misura"
 
 #. CNTChannelSetupForm..HWSetupPanel..HWPanel..CNTHWTypeNotebook....DWUSBCNTHWPanel..NewValueUpdateModeLabel..Caption
 #: Core/Daq/DaqCards/Visuals/CNTChannelSetup.dfm:415
@@ -4978,7 +4972,7 @@ msgstr ""
 #. CNTChannelSetupForm..BasicPanel..AppPageControl..TimingTabSheet..Caption
 #: Core/Daq/DaqCards/Visuals/CNTChannelSetup.dfm:640
 msgid "Timing"
-msgstr "Timing"
+msgstr ""
 
 #. CNTChannelSetupForm..BasicPanel..AppPageControl..TimingTabSheet..TimingModeLabel..Caption
 #: Core/Daq/DaqCards/Visuals/CNTChannelSetup.dfm:647
@@ -5072,7 +5066,7 @@ msgstr ""
 #: Core/Daq/DaqCards/CNTChannels.pas:1685
 #: Core/Daq/DaqCards/CNTSensorsUnit.pas:132
 msgid "Encoder"
-msgstr "Encoder"
+msgstr ""
 
 #. CNTChannelSetupForm..SensorPanel..SensorSetupPageControl..SensEncoderTabSheet..OrionEncoderPulsesLabel..Caption
 #: Core/Daq/DaqCards/Visuals/CNTChannelSetup.dfm:827
@@ -5082,7 +5076,7 @@ msgstr ""
 #. CNTChannelSetupForm..SensorPanel..SensorSetupPageControl..SensEncoderTabSheet..NTIOEncoderModeLabel..Caption
 #: Core/Daq/DaqCards/Visuals/CNTChannelSetup.dfm:834
 msgid "Encoder mode"
-msgstr "Encoder mode"
+msgstr ""
 
 #. CNTChannelSetupForm..SensorPanel..SensorSetupPageControl..SensEncoderTabSheet..Label1..Caption
 #: Core/Daq/DaqCards/Visuals/CNTChannelSetup.dfm:843
@@ -5155,7 +5149,7 @@ msgstr "Canali calcolati"
 #: Core/Daq/DaqCards/Visuals/CNTChannelSetup.pas:974
 #: Core/Daq/DaqCards/Visuals/CNTChannelSetup.pas:1164
 msgid "Signal gate"
-msgstr "Gate segnale"
+msgstr ""
 
 #. CNTChannelSetupForm..ConnPanel..ConnPanel2..HWConnPageControl..ConnOrionTabSheet..OrionGatePanel..OrionCNTGateComboBox....Items.Strings
 #. CNTChannelSetupForm..ConnPanel..ConnPanel2..HWConnPageControl..ConnOrionTabSheet..OrionAUXPanel..OrionCNTAuxComboBox....Items.Strings
@@ -5173,7 +5167,7 @@ msgstr "Gate segnale"
 #: Core/Daq/DaqCards/Visuals/CNTChannelSetup.dfm:1802
 #: Core/Daq/DaqCards/TestDaq.pas:1157 Core/Daq/DaqCards/TestDaq.pas:1214
 msgid "Source pin"
-msgstr "Source Pin"
+msgstr ""
 
 #. CNTChannelSetupForm..ConnPanel..ConnPanel2..HWConnPageControl..ConnOrionTabSheet..OrionGatePanel..OrionCNTGateComboBox....Items.Strings
 #. CNTChannelSetupForm..ConnPanel..ConnPanel2..HWConnPageControl..ConnOrionTabSheet..OrionAUXPanel..OrionCNTAuxComboBox....Items.Strings
@@ -5190,7 +5184,7 @@ msgstr "Source Pin"
 #: Core/Daq/DaqCards/Visuals/CNTChannelSetup.dfm:1743
 #: Core/Daq/DaqCards/Visuals/CNTChannelSetup.dfm:1803
 msgid "Internal 100 kHz"
-msgstr "Internal 100 kHz"
+msgstr ""
 
 #. CNTChannelSetupForm..ConnPanel..ConnPanel2..HWConnPageControl..ConnOrionTabSheet..OrionGatePanel..OrionCNTGateComboBox....Items.Strings
 #. CNTChannelSetupForm..ConnPanel..ConnPanel2..HWConnPageControl..ConnOrionTabSheet..OrionAUXPanel..OrionCNTAuxComboBox....Items.Strings
@@ -5207,7 +5201,7 @@ msgstr "Internal 100 kHz"
 #: Core/Daq/DaqCards/Visuals/CNTChannelSetup.dfm:1744
 #: Core/Daq/DaqCards/Visuals/CNTChannelSetup.dfm:1804
 msgid "Internal 20 MHz"
-msgstr "Internal 20 MHz"
+msgstr ""
 
 #. CNTChannelSetupForm..ConnPanel..ConnPanel2..HWConnPageControl..ConnOrionTabSheet..OrionGatePanel..OrionCNTGateComboBox....Items.Strings
 #. CNTChannelSetupForm..ConnPanel..ConnPanel2..HWConnPageControl..ConnOrionTabSheet..OrionAUXPanel..OrionCNTAuxComboBox....Items.Strings
@@ -5224,7 +5218,7 @@ msgstr "Internal 20 MHz"
 #: Core/Daq/DaqCards/Visuals/CNTChannelSetup.dfm:1745
 #: Core/Daq/DaqCards/Visuals/CNTChannelSetup.dfm:1805
 msgid "Internal 80 MHz"
-msgstr "Internal 80 MHz"
+msgstr ""
 
 #. CNTChannelSetupForm..ConnPanel..ConnPanel2..HWConnPageControl..ConnOrionTabSheet..OrionGatePanel..OrionGateInvCheckBox..Caption
 #. CNTChannelSetupForm..ConnPanel..ConnPanel2..HWConnPageControl..ConnOrionTabSheet..OrionAUXPanel..OrionAuxInvCheckBox..Caption
@@ -5239,7 +5233,7 @@ msgstr "Internal 80 MHz"
 #: Core/Daq/DaqCards/Visuals/CNTChannelSetup.dfm:1752
 #: Core/Daq/DaqCards/Visuals/CNTChannelSetup.dfm:1812
 msgid "inv"
-msgstr "inv"
+msgstr ""
 
 #. CNTChannelSetupForm..ConnPanel..ConnPanel2..HWConnPageControl..ConnOrionTabSheet..OrionGatePanel..OrionGateTrigPanel..OrionGateTrigTypeComboBox....Items.Strings
 #. CNTChannelSetupForm..ConnPanel..ConnPanel2..HWConnPageControl..ConnOrionTabSheet..OrionAUXPanel..OrionAuxTrigPanel..OrionAuxTrigTypeComboBox....Items.Strings
@@ -5310,7 +5304,7 @@ msgstr ""
 #: Core/Daq/DaqCards/Visuals/CNTChannelSetup.dfm:1582
 #: Core/Daq/DaqCards/Visuals/CNTChannelSetup.dfm:1651
 msgid "Signal source"
-msgstr "Sorgente segnale"
+msgstr ""
 
 #. CNTChannelSetupForm..ConnPanel..ConnPanel2..HWConnPageControl..ConnOrionTabSheet..OrionTrigLevelOverviewPanel..OrionTrigTypeLabel..Caption
 #. DIChannelSetupForm..SettingsPanel..SettingsGroupBox..SettingsNotebook....OrionTrigLevelPanel..OrionTrigTypeLabel..Caption
@@ -5368,7 +5362,7 @@ msgstr ""
 #: SharedLib/DS.UI.DSChannelsGridUnit.pas:482
 #: SharedLib/DS.UI.DSChannelsGridUnit.pas:487
 msgid "Default"
-msgstr "Default"
+msgstr ""
 
 #. CNTChannelSetupForm..ConnPanel..ConnPanel2..HWConnPageControl..ConnDWUSBTabSheet..Caption
 #: Core/Daq/DaqCards/Visuals/CNTChannelSetup.dfm:1622
@@ -5427,7 +5421,7 @@ msgstr ""
 #: Core/Daq/DaqCards/Visuals/CntSensorsFormUnit.dfm:173
 #: Visuals/Forms/TimeSelectUnit.dfm:73 Visuals/Forms/TriggerSetupUnit.dfm:11360
 msgid "m"
-msgstr "m"
+msgstr ""
 
 #. CNTSensorForm..Panel4..Panel6..LinSensorPanel..LinOutUnitComboBox....Items.Strings
 #: Core/Daq/DaqCards/Visuals/CntSensorsFormUnit.dfm:174
@@ -5561,7 +5555,7 @@ msgstr ""
 #. DIChannelSetupForm..Caption
 #: Core/Daq/DaqCards/Visuals/DIChannelSetupUnit.dfm:6
 msgid "DI channel setup"
-msgstr "DI Canale setup"
+msgstr "Setup canale DI"
 
 #. DIChannelSetupForm..SettingsPanel..SettingsGroupBox..Caption
 #: Core/Daq/DaqCards/Visuals/DIChannelSetupUnit.dfm:97
@@ -5624,7 +5618,7 @@ msgstr ""
 #. DOChannelSetupForm..SettingsPanel..SettingsLeftPanel..SettingsGroupBox..WirePanel..SaveAsDefaultButton..Caption
 #: Core/Daq/DaqCards/Visuals/DOChannelSetupUnit.dfm:2338
 msgid "Set as default"
-msgstr "Set as default"
+msgstr ""
 
 #. DOChannelSetupForm..SettingsPanel..SchedulePanel..Panel1..ValueTypeComboBox....Items.Strings
 #. DigitalVCFrame..PageControl..CommonTS..ResolutionPanel..ResolutionManualPanel..Panel1..ManualResExpRadioB..Caption
@@ -5926,7 +5920,7 @@ msgstr ""
 #: Visuals/Forms/VideoPostSyncUnit.dfm:187
 #: Visuals/Frames/AlarmsFrameUnit.dfm:37
 msgid "sec"
-msgstr "sec"
+msgstr ""
 
 #. DSDaqDeviceSettingsFrame..ScrollBox1..LayoutPanel..SettingsGroup..ComboFanSpeed..Text
 #: Core/Daq/DewesoftDaq/Devices/Visuals/DSDeviceSettingsFrameUnit.dfm:127
@@ -6266,7 +6260,7 @@ msgstr ""
 #: Core/MathObjects/Visuals/PowerSetupUnit.dfm:1325
 #: Core/Daq/Amplifiers/AmplConstUnit.pas:502
 msgid "External"
-msgstr "Clock esterno"
+msgstr "Esterno"
 
 #. DSGPSSettingsFrame..DSLayoutPanel1..GPSReceiverGroup..AntennaComboBox....ComboBox.Items.Strings
 #: Core/Daq/DewesoftDaq/Devices/Visuals/DSGPSSettingsFrameUnit.dfm:252
@@ -6369,7 +6363,7 @@ msgstr ""
 #: Core/Daq/GPS/Visuals/VBOXGPSFrame.dfm:15
 #: Core/Sequencer/Visuals/SeqDeviceFrameUnit.dfm:75
 msgid "Com port"
-msgstr "Com Porta"
+msgstr ""
 
 #. FrameAshtechGPS..RecCapLabel..Caption
 #: Core/Daq/GPS/Visuals/AshTechGPSFrame.dfm:88
@@ -6443,19 +6437,19 @@ msgstr ""
 #. FrameAshtechGPS..ControlsPanel..outputLabel..Caption
 #: Core/Daq/GPS/Visuals/AshTechGPSFrame.dfm:387
 msgid "Receiver dynamic settings"
-msgstr "Impostaz ricevitore"
+msgstr ""
 
 #. FrameAshtechGPS..ControlsPanel..PosLabel..Caption
 #. FrameJavadGPS..TopconPanel..UpdateRateLabel..Caption
 #: Core/Daq/GPS/Visuals/AshTechGPSFrame.dfm:400
 #: Core/Daq/GPS/Visuals/JavadGPSFrame.dfm:88
 msgid "Update rate (Hz)"
-msgstr "Position update rate (Hz)"
+msgstr ""
 
 #. FrameAshtechGPS..ControlsPanel..PDOPLabel..Caption
 #: Core/Daq/GPS/Visuals/AshTechGPSFrame.dfm:413
 msgid "Data available when signal is"
-msgstr "Data available when signal č"
+msgstr ""
 
 #. FrameAshtechGPS..ControlsPanel..DiferentialModeCheckBox..Caption
 #. GPSSetupFrame..InfoPanel..DifferentialPanel..Caption
@@ -6551,7 +6545,7 @@ msgstr ""
 #: Core/Objects/SetupModulesUnit.pas:1063
 #: Visuals/Frames/Settings/LicensingFrameUnit.pas:501
 msgid "GPS"
-msgstr "GPS"
+msgstr ""
 
 #. FrameJavadGPS..ModelLabel..Caption
 #: Core/Daq/GPS/Visuals/JavadGPSFrame.dfm:16
@@ -6608,22 +6602,22 @@ msgstr "Abilita display esterno"
 #. FrameJavadGPS..TopconPanel..DisplayPortComboBox....Items.Strings
 #: Core/Daq/GPS/Visuals/JavadGPSFrame.dfm:242
 msgid "a"
-msgstr "a"
+msgstr ""
 
 #. FrameJavadGPS..TopconPanel..DisplayPortComboBox....Items.Strings
 #: Core/Daq/GPS/Visuals/JavadGPSFrame.dfm:243
 msgid "b"
-msgstr "b"
+msgstr ""
 
 #. FrameJavadGPS..TopconPanel..DisplayPortComboBox....Items.Strings
 #: Core/Daq/GPS/Visuals/JavadGPSFrame.dfm:244
 msgid "c"
-msgstr "c"
+msgstr ""
 
 #. FrameJavadGPS..TopconPanel..DisplayPortComboBox....Items.Strings
 #: Core/Daq/GPS/Visuals/JavadGPSFrame.dfm:245
 msgid "d"
-msgstr "d"
+msgstr ""
 
 #. FrameJavadGPS..TopconPanel..BaseStationSettingsPanel..LatitudeLabel..Caption
 #: Core/Daq/GPS/Visuals/JavadGPSFrame.dfm:261
@@ -6712,7 +6706,7 @@ msgstr ""
 #: Core/Daq/GPS/Visuals/NMEAGPSFrame.pas:264
 #: Core/Daq/GPS/Visuals/NMEAGPSFrame.pas:374
 msgid "Auto search"
-msgstr "Auto ricerca"
+msgstr "Ricerca auto"
 
 #. FrameNMEAGPS..InitCheckBox..Caption
 #: Core/Daq/GPS/Visuals/NMEAGPSFrame.dfm:221
@@ -6722,17 +6716,17 @@ msgstr ""
 #. FrameNovatelGPS..PosLabel..Caption
 #: Core/Daq/GPS/Visuals/NovatelGPSFrame.dfm:75
 msgid "Position update rate"
-msgstr "Position update rate"
+msgstr ""
 
 #. FrameNovatelGPS..SpeedRateLabel..Caption
 #: Core/Daq/GPS/Visuals/NovatelGPSFrame.dfm:88
 msgid "Speed update rate"
-msgstr "Velocità update rate"
+msgstr ""
 
 #. FrameNovatelGPS..ReceiverSetupLabel..Caption
 #: Core/Daq/GPS/Visuals/NovatelGPSFrame.dfm:114
 msgid "Receiver setup"
-msgstr "Receiver setup"
+msgstr ""
 
 #. FrameNovatelGPS..UpdateButton..Caption
 #. UpdateFrame..DSNavigationBar8..FirstItemName
@@ -6746,17 +6740,17 @@ msgstr "Receiver setup"
 #: Core/MathObjects/Visuals/IIRMathSetupGridUnit.pas:245
 #: Visuals/Frames/EventFrameUnit.pas:409
 msgid "Update"
-msgstr "Aggiornamento"
+msgstr ""
 
 #. FrameNovatelGPS..ResetButton..Caption
 #: Core/Daq/GPS/Visuals/NovatelGPSFrame.dfm:270
 msgid "Reset default"
-msgstr "Reset default"
+msgstr ""
 
 #. FrameNovatelGPS..SaveConfigButton..Caption
 #: Core/Daq/GPS/Visuals/NovatelGPSFrame.dfm:324
 msgid "Save config"
-msgstr "Salva config"
+msgstr ""
 
 #. FrameNovatelGPS..PositionRateComboBox....Items.Strings
 #. FrameNovatelGPS..SpeedRateComboBox....Items.Strings
@@ -6794,7 +6788,7 @@ msgstr ""
 #: Visuals/Frames/FileListFrameUnit.pas:3203 Visuals/Frames/PreviewUnit.pas:274
 #: Visuals/Frames/PreviewUnit.pas:698
 msgid "File name"
-msgstr "Nome file esportazione"
+msgstr "Nome file"
 
 #. FrameTestGPS..WrapReplayCheckBox..Caption
 #: Core/Daq/GPS/Visuals/TestGPSFrame.dfm:27
@@ -6887,17 +6881,17 @@ msgstr "Modo"
 #. DatumSetupFrame..Label1..Caption
 #: Core/Daq/Timing/Visuals/DatumSetupFrameUnit.dfm:88
 msgid "PPS channel"
-msgstr "PPS Canale"
+msgstr ""
 
 #. DatumSetupFrame..Label2..Caption
 #: Core/Daq/Timing/Visuals/DatumSetupFrameUnit.dfm:101
 msgid "PPS trig level"
-msgstr "PPS trig livello"
+msgstr ""
 
 #. DatumSetupFrame..Label3..Caption
 #: Core/Daq/Timing/Visuals/DatumSetupFrameUnit.dfm:114
 msgid "PPS arm level"
-msgstr "PPS Armaa livello"
+msgstr ""
 
 #. DatumSetupFrame..ModeComboBox....Items.Strings
 #. DatumSetupFrame..PPSChannelCombo....Items.Strings
@@ -6918,14 +6912,14 @@ msgstr ""
 #: Core/Daq/Timing/Visuals/DatumSetupFrameUnit.dfm:140
 #: Core/Daq/Timing/Visuals/DatumSetupFrameUnit.dfm:177
 msgid "External 1PPS"
-msgstr "External 1PPS"
+msgstr ""
 
 #. DatumSetupFrame..ModeComboBox....Items.Strings
 #. DatumSetupFrame..PPSChannelCombo....Items.Strings
 #: Core/Daq/Timing/Visuals/DatumSetupFrameUnit.dfm:141
 #: Core/Daq/Timing/Visuals/DatumSetupFrameUnit.dfm:178
 msgid "RTC"
-msgstr "RTC"
+msgstr ""
 
 #. DatumSetupFrame..SoftSyncCheckBox..Caption
 #: Core/Daq/Timing/Visuals/DatumSetupFrameUnit.dfm:149
@@ -7085,7 +7079,7 @@ msgstr ""
 #: Core/MathObjects/Visuals/ScopeMathSetupUnit.dfm:149
 #: Visuals/Frames/TriggerSetupFrameUnit.dfm:211
 msgid "Pre time"
-msgstr "Pre"
+msgstr ""
 
 #. CamSettingsForm..Panel1..TriggerPanel..PostTimeLabel..Caption
 #. ScopeMathFrame..ScopePanel..ScopePageCtrl..TrigPage..Panel3..PostTimeLabel..Caption
@@ -7094,7 +7088,7 @@ msgstr "Pre"
 #: Core/MathObjects/Visuals/ScopeMathSetupUnit.dfm:162
 #: Visuals/Frames/TriggerSetupFrameUnit.dfm:220
 msgid "Post time"
-msgstr "Post"
+msgstr ""
 
 #. CamSettingsForm..Panel1..TriggerPanel..TriggerSetupPanel..Caption
 #. MainForm..MainPageControl..ChSetupMeasTabSheet..SetupPanel..RemoteSetupPageControl..LocalTabSheet..MainOptionsPanel..SetupPageControl..GeneralSetupTabSheet..GeneralPanel..TriggerCaptionPanel..Caption
@@ -7278,12 +7272,12 @@ msgstr "Opzioni di registrazione"
 #: Visuals/Forms/VideoPostSyncUnit.dfm:60
 #: Core/Daq/Video/CamSetupFrameUnit.pas:458
 msgid "Frame rate"
-msgstr "Frame rate"
+msgstr ""
 
 #. CamSetupFrame..CameraTopPanel..ReducedRateLabel..Caption
 #: Core/Daq/Video/CamSetupFrameUnit.dfm:128
 msgid "Reduced frame rate"
-msgstr "Reduced frame rate"
+msgstr ""
 
 #. CamSetupFrame..CameraTopPanel..VideoStoreOptionsComboBox....Items.Strings
 #. MainForm..MainPageControl..ChSetupMeasTabSheet..SetupPanel..RemoteSetupPageControl..LocalTabSheet..MainOptionsPanel..SetupPageControl..GeneralSetupTabSheet..GeneralPanel..SetupSRPanel..Panel3..StoreOptionComboBox....Items.Strings
@@ -7352,7 +7346,7 @@ msgstr ""
 #. ControllerFrame..TopPanel..MsgLabel..Caption
 #: Core/Daq/Video/ControllerFrameUnit.dfm:25
 msgid "Message line"
-msgstr "Message linea"
+msgstr ""
 
 #. DWVideoSetupCompressForm..Caption
 #: Core/Daq/Video/DWVideoSetupCompressFormUnit.dfm:6
@@ -7384,10 +7378,8 @@ msgstr ""
 #. DWVideoSetupCompressForm..PageControl..ImagesTabSheet..Caption
 #: Core/Daq/Video/DWVideoSetupCompressFormUnit.dfm:52
 #: Core/Daq/Video/DWVideoSetupCompressFormUnit.dfm:491
-#, fuzzy
-#| msgid "Image"
 msgid "Images"
-msgstr "Immagine"
+msgstr "Immagini"
 
 #. DWVideoSetupCompressForm..PageControl..H264TabSheet..H264PresetMaxLabel..Caption
 #: Core/Daq/Video/DWVideoSetupCompressFormUnit.dfm:107
@@ -7502,15 +7494,13 @@ msgstr ""
 
 #. DWVideoSetupCompressForm..PageControl..ImagesTabSheet..StaticText1..Caption
 #: Core/Daq/Video/DWVideoSetupCompressFormUnit.dfm:513
-#, fuzzy
-#| msgid "Time format"
 msgid "Image format"
-msgstr "Formato tempo"
+msgstr "Formato immagine"
 
 #. CustomCamFrame..Panel1..Label1..Caption
 #: Core/Daq/Video/Cameras/CustomCamera/CustomCamFrameUnit.dfm:17
 msgid "Video mode"
-msgstr "Video mode"
+msgstr ""
 
 #. CustomCamFrame..Panel1..Label3..Caption
 #: Core/Daq/Video/Cameras/CustomCamera/CustomCamFrameUnit.dfm:31
@@ -7535,7 +7525,7 @@ msgstr ""
 #: DEWEsoft/MainUnit.pas:18205 Visuals/Forms/MessagesFormUnit.pas:87
 #: Visuals/Forms/MessagesFormUnit.pas:208
 msgid "Warning"
-msgstr "Warning"
+msgstr ""
 
 #. CustomControllerFrame..Panel1..TrigPanel..TriggerCheckBox..Caption
 #: Core/Daq/Video/Cameras/CustomCamera/CustomControllerFrameUnit.dfm:34
@@ -7555,7 +7545,7 @@ msgstr "Impostaz. personalizzate"
 #. DirXCameraFrame..PageControl..DirectTab..Caption
 #: Core/Daq/Video/Cameras/DirX/DirXCameraFrameUnit.dfm:67
 msgid "Direct setup"
-msgstr "Direct setup"
+msgstr ""
 
 #. DirXCameraFrame..PageControl..DirectTab..BackPanel..ResolutionLabel..Caption
 #. DirXCameraFrame..PageControl..DialogTab..OutputPanel..ResLabel..Caption
@@ -7601,7 +7591,7 @@ msgstr ""
 #. DirXCameraFrame..PageControl..DialogTab..Caption
 #: Core/Daq/Video/Cameras/DirX/DirXCameraFrameUnit.dfm:121
 msgid "Dialog setup"
-msgstr "Dialog setup"
+msgstr ""
 
 #. DirXCameraFrame..PageControl..DialogTab..SourceButton..Caption
 #. FileManagerItemFrame..MainSeqItemPanel..CopyPanel..Source3Label..Caption
@@ -7616,7 +7606,7 @@ msgstr "Dialog setup"
 #: Core/Daq/DaqCards/CustomDaq.pas:3803 Core/Daq/DaqCards/CustomDaq.pas:3916
 #: Core/Daq/DaqCards/TestDaq.pas:1125 Core/Daq/DaqCards/TestDaq.pas:1130
 msgid "Source"
-msgstr "SourcePair_CNT"
+msgstr ""
 
 #. BatchCalcForm..Caption
 #: Core/Data/BatchCalc/BatchFileFormUnit.dfm:6
@@ -7741,7 +7731,7 @@ msgstr "Auto"
 #: Core/MathObjects/Visuals/MathArrayReferenceAxisForm.pas:64
 #: Visuals/Forms/AOFormUnit.pas:95 Visuals/Frames/PreviewUnit.pas:167
 msgid "Channel name"
-msgstr "Nome Canale"
+msgstr "Nome canale"
 
 #. ChannelNameFrame..AbsMinLabel..Caption
 #. ChannelSettingsForm..SettingsPageControl..TabSheet1..Panel1..MinValueLabel..Caption
@@ -7819,7 +7809,7 @@ msgstr ""
 #: Core/Data/Visuals/PasteSelectionUnit.dfm:81
 #: Core/GObjects/SetupFrameUnit.dfm:48
 msgid "Slot"
-msgstr "SLOT"
+msgstr ""
 
 #. PasteSelectionForm..FromToPanel..PasteSelToLabel..Caption
 #: Core/Data/Visuals/PasteSelectionUnit.dfm:66
@@ -8642,7 +8632,7 @@ msgstr "Valore min visualizzato"
 #: Core/Data/Visuals/AnalogChannelPreviewFrameUnit.pas:204
 #: Core/GObjects/DigitalVC.pas:1955 Core/GObjects/RecorderDataGraph.pas:1931
 msgid "RMS"
-msgstr "RMS"
+msgstr ""
 
 #. BarVCFrame..PageControl..CommonTS..OvDisplayTypePanel..DMMTypeComboBox....Items.Strings
 #: Core/GObjects/Visuals/BarVCFrameUnit.dfm:13
@@ -8690,7 +8680,7 @@ msgstr ""
 #: Visuals/Frames/ControlChannelsFrameUnit.pas:338
 #: Visuals/Frames/PreviewUnit.pas:171 Visuals/Frames/SetupGridEx.pas:105
 msgid "Max"
-msgstr "Max"
+msgstr ""
 
 #. BarVCFrame..PageControl..CommonTS..OvDisplayTypePanel..DMMTypeComboBox....Items.Strings
 #. DigitalVCFrame..PageControl..CommonTS..OvDisplayTypePanel..DMMTypeComboBox....Items.Strings
@@ -8769,17 +8759,17 @@ msgstr "Tipo indicatore"
 #. BarVCFrame..PageControl..CommonTS..MeterTypePanel..cbMeterType....Items.Strings
 #: Core/GObjects/Visuals/BarVCFrameUnit.dfm:506 Core/GObjects/BarMeter.pas:948
 msgid "3D bar"
-msgstr "3D bar"
+msgstr ""
 
 #. BarVCFrame..PageControl..CommonTS..MeterTypePanel..cbMeterType....Items.Strings
 #: Core/GObjects/Visuals/BarVCFrameUnit.dfm:507 Core/GObjects/BarMeter.pas:949
 msgid "Needle"
-msgstr "Needle"
+msgstr "Lancetta"
 
 #. BarVCFrame..PageControl..CommonTS..MeterTypePanel..cbMeterType....Items.Strings
 #: Core/GObjects/Visuals/BarVCFrameUnit.dfm:508 Core/GObjects/BarMeter.pas:950
 msgid "LED"
-msgstr "LED"
+msgstr ""
 
 #. ButtonVCFrame..PageControl..CommonTS..AlarmSourcePanel..AlarmPanel..Caption
 #. ButtonVCFrame..PageControl..CommonTS..DisplayValuePanel..DisplayValueComboBox....Items.Strings
@@ -9126,7 +9116,7 @@ msgstr "Linee"
 #: Core/GObjects/Visuals/Graph2DFrameUnit.dfm:501
 #: Core/MathObjects/Visuals/MathArrayReferenceSetupUnit.dfm:257
 msgid "0 dB"
-msgstr "0 dB"
+msgstr ""
 
 #. CPBVCFrame..PageControl..CommonTS..CPBOptionsPanel..CPBScaleTypeComboBox....Items.Strings
 #. FFTVCFrame..PageControl..CommonTS..MainPageControl..SetupTabSheet..LinesPanel..AdvCaptionPanel1..FFTScaleTypeComboBox....Items.Strings
@@ -9144,7 +9134,7 @@ msgstr ""
 #: Core/GObjects/Visuals/FFTVCFrameUnit.dfm:250
 #: Core/GObjects/Visuals/Graph2DFrameUnit.dfm:503
 msgid "Ref. dB"
-msgstr "Ref. dB"
+msgstr ""
 
 #. CPBVCFrame..PageControl..CommonTS..CPBOptionsPanel..CPBWeightingComboBox....Items.Strings
 #. FFTVCFrame..PageControl..CommonTS..MainPageControl..SetupTabSheet..LinesPanel..AdvCaptionPanel1..FFTWeightingComboBox....Items.Strings
@@ -9163,7 +9153,7 @@ msgstr "Ref. dB"
 #: Core/MathObjects/Visuals/MathSoundSetupUnit.dfm:177
 #: Core/MathObjects/Visuals/MathWeightingSetupUnit.dfm:52
 msgid "A"
-msgstr "A"
+msgstr ""
 
 #. CPBVCFrame..PageControl..CommonTS..CPBOptionsPanel..CPBWeightingComboBox....Items.Strings
 #. FFTVCFrame..PageControl..CommonTS..MainPageControl..SetupTabSheet..LinesPanel..AdvCaptionPanel1..FFTWeightingComboBox....Items.Strings
@@ -9180,7 +9170,7 @@ msgstr "A"
 #: Core/MathObjects/Visuals/MathSoundSetupUnit.dfm:110
 #: Core/MathObjects/Visuals/MathWeightingSetupUnit.dfm:53
 msgid "B"
-msgstr "B"
+msgstr ""
 
 #. CPBVCFrame..PageControl..CommonTS..CPBOptionsPanel..CPBWeightingComboBox....Items.Strings
 #. FFTVCFrame..PageControl..CommonTS..MainPageControl..SetupTabSheet..LinesPanel..AdvCaptionPanel1..FFTWeightingComboBox....Items.Strings
@@ -9202,7 +9192,7 @@ msgstr "B"
 #: Core/Variables/Visuals/CustomDesignVarGrid.pas:213
 #: Visuals/Frames/SetupGrid.pas:108 Visuals/Frames/SetupGridEx.pas:96
 msgid "C"
-msgstr "C"
+msgstr ""
 
 #. CPBVCFrame..PageControl..CommonTS..CPBOptionsPanel..CPBWeightingComboBox....Items.Strings
 #. FFTVCFrame..PageControl..CommonTS..MainPageControl..SetupTabSheet..LinesPanel..AdvCaptionPanel1..FFTWeightingComboBox....Items.Strings
@@ -9217,7 +9207,7 @@ msgstr "C"
 #: Core/MathObjects/Visuals/MathSoundSetupUnit.dfm:130
 #: Core/MathObjects/Visuals/MathWeightingSetupUnit.dfm:55
 msgid "D"
-msgstr "D"
+msgstr ""
 
 #. CPBVCFrame..PageControl..CommonTS..FFTAvePanel..Caption
 #. AngleSensorSetupFrame..Panel3..AveragingPanel..Caption
@@ -9390,7 +9380,7 @@ msgstr ""
 #: Core/GObjects/Visuals/OverloadFrameUnit.dfm:337
 #: Core/GObjects/DigitalVC.pas:805
 msgid "Actual hex"
-msgstr "Corrente HEX"
+msgstr "Reale HEX"
 
 #. DigitalVCFrame..PageControl..CommonTS..OvDisplayTypePanel..DMMTypeComboBox....Items.Strings
 #. OverloadVCFrame..PageControl..CommonTS..Panel2..ValuesDisplayComboBox....Items.Strings
@@ -9398,13 +9388,13 @@ msgstr "Corrente HEX"
 #: Core/GObjects/Visuals/OverloadFrameUnit.dfm:340
 #: Core/GObjects/DigitalVC.pas:806
 msgid "Actual hex - raw"
-msgstr "Corrente HEX - raw"
+msgstr "Reale HEX - raw"
 
 #. DigitalVCFrame..PageControl..CommonTS..OvDisplayTypePanel..DMMTypeComboBox....Items.Strings
 #: Core/GObjects/Visuals/DigitalVCFrameUnit.dfm:37
 #: Core/GObjects/DigitalVC.pas:807
 msgid "Actual bin - raw"
-msgstr "Corrente bin - raw"
+msgstr "Reale bin - raw"
 
 #. DigitalVCFrame..PageControl..CommonTS..DrawOptionsPanel..UseStandardFontsCheckBox..Caption
 #: Core/GObjects/Visuals/DigitalVCFrameUnit.dfm:157
@@ -9453,7 +9443,7 @@ msgstr "Data"
 #: Core/GObjects/Visuals/DigitalVCFrameUnit.dfm:1241
 #: Core/GObjects/DigitalVC.pas:1762
 msgid "Day + time"
-msgstr "Day + ora"
+msgstr "Giorno + ora"
 
 #. DigitalVCFrame..PageControl..CommonTS..OvDisplayStatePanel..DMMValueComboBox....Items.Strings
 #: Core/GObjects/Visuals/DigitalVCFrameUnit.dfm:1242
@@ -9654,7 +9644,7 @@ msgstr ""
 #. FFTRefDBForm..Caption
 #: Core/GObjects/Visuals/FFTRefDBFormUnit.dfm:7
 msgid "dB scaling reference point"
-msgstr "dB scaling reference point"
+msgstr ""
 
 #. FFTVCFrame..PageControl..CommonTS..MainPageControl..SetupTabSheet..Caption
 #. XYRecVCFrame..PageControl..CommonTS..SelectorPanel..SetupPageButton..Caption
@@ -9714,7 +9704,7 @@ msgstr "dB scaling reference point"
 #: Visuals/Frames/SetupGridEx.pas:108 Visuals/Frames/SetupGridEx.pas:338
 #: Visuals/Frames/TriggerFrameUnit.pas:110
 msgid "Setup"
-msgstr "Setup"
+msgstr ""
 
 #. FFTVCFrame..PageControl..CommonTS..MainPageControl..SetupTabSheet..LinesPanel..AdvCaptionPanel1..Caption
 #. MathFFTReferenceFrame..EditPanel..FFTOptionsPanel..Caption
@@ -10654,7 +10644,7 @@ msgstr ""
 #: Core/GObjects/Visuals/Graph3DFrameUnit.dfm:1382
 #: Core/Objects/TriggerUnit.pas:1173 Visuals/Frames/TriggerFrameUnit.pas:287
 msgid "Slope"
-msgstr "Negative slope"
+msgstr ""
 
 #. Graph3DVCFrame..PageControl..CommonTS..MissDistancePanel..Label5..Caption
 #: Core/GObjects/Visuals/Graph3DFrameUnit.dfm:1390
@@ -11257,7 +11247,7 @@ msgstr "Freeze resetta lo stato"
 #. OverloadVCFrame..PageControl..CommonTS..Panel2..FreezeStatusCheckBox..Caption
 #: Core/GObjects/Visuals/OverloadFrameUnit.dfm:356
 msgid "Freeze crit / warn status"
-msgstr ""
+msgstr "Mantieni stato allarme"
 
 #. RecGroupFrame..GroupPanel..SingleTimeAxisCombo..Caption
 #: Core/GObjects/Visuals/RecGroupFrameUnit.dfm:14
@@ -11308,12 +11298,12 @@ msgstr "Modalità trigger"
 #: Core/Utilities/SysMonitorFrame.pas:120
 #: Core/Utilities/SysMonitorFrame.pas:131
 msgid "Free"
-msgstr "FreeRun"
+msgstr ""
 
 #. ScopeVCFrame..PageControl..CommonTS..MainPageControl..TriggerTabSheet..AdvCaptionPanel5..NormButton..Caption
 #: Core/GObjects/Visuals/ScopeVCFrameUnit.dfm:11359
 msgid "Norm"
-msgstr "Norm"
+msgstr ""
 
 #. ScopeVCFrame..PageControl..CommonTS..MainPageControl..TriggerTabSheet..AdvCaptionPanel6..Caption
 #: Core/GObjects/Visuals/ScopeVCFrameUnit.dfm:11397
@@ -11632,12 +11622,12 @@ msgstr "Tick count"
 #. VectorScopeVCFrame..PageControl..CommonTS..Panel3..XMaxLabel..Caption
 #: Core/GObjects/Visuals/VectorScopeFrameUnit.dfm:322
 msgid "U max"
-msgstr "U max"
+msgstr ""
 
 #. VectorScopeVCFrame..PageControl..CommonTS..Panel3..YMaxLabel..Caption
 #: Core/GObjects/Visuals/VectorScopeFrameUnit.dfm:329
 msgid "I max"
-msgstr "I max"
+msgstr ""
 
 #. VideoVCFrame..PageControl..MeasureTS..ImageMPanel..Caption
 #. VideoVCFrame..PageControl..AnalisysTS..ImageAPanel..Caption
@@ -11692,7 +11682,7 @@ msgstr "Stato"
 #: Core/GObjects/Visuals/VideoVCFrameUnit.dfm:184
 #: Core/GObjects/Visuals/VideoVCFrameUnit.dfm:403
 msgid "1 to 1"
-msgstr "1 su 1"
+msgstr "1 a 1"
 
 #. VideoVCFrame..PageControl..MeasureTS..NamePanel..ScaleComboBox....Items.Strings
 #. VideoVCFrame..PageControl..AnalisysTS..SettingsPanel..ScaleComboBox1....Items.Strings
@@ -11734,7 +11724,7 @@ msgstr ""
 #: Core/GObjects/Visuals/VideoVCFrameUnit.dfm:260
 #: Core/GObjects/Visuals/VideoVCFrameUnit.dfm:552
 msgid "Fahrenheit (F)"
-msgstr "Fahrenheit (F)"
+msgstr ""
 
 #. VideoVCFrame..PageControl..AnalisysTS..SettingsPanel..FrameNumLabel2..Caption
 #: Core/GObjects/Visuals/VideoVCFrameUnit.dfm:377
@@ -11940,10 +11930,8 @@ msgstr "Limite pretime"
 
 #. XYRecVCFrame..PageControl..CommonTS..SetupPagePanel..DrawinfOptionsPanel..SingleValueAxisCheckBox..Caption
 #: Core/GObjects/Visuals/XYRecVCFrameUnit.dfm:1077
-#, fuzzy
-#| msgid "Single values axis"
 msgid "Single values Y axis"
-msgstr "Asse singolo"
+msgstr "Singola scala asse Y"
 
 #. XYRecVCFrame..PageControl..CommonTS..SetupPagePanel..pOT..cbOTMode....Items.Strings
 #. ScopeMathFrame..ScopeModePanel..RunTypeCBox....Items.Strings
@@ -11973,7 +11961,7 @@ msgstr "'Sel due punti...'"
 #. XYRecVCFrame..PageControl..CommonTS..SetupPagePanel..CursorTypePanel..CursorTypeComboBox....Items.Strings
 #: Core/GObjects/Visuals/XYRecVCFrameUnit.dfm:1362
 msgid "No cursor"
-msgstr "Nessun cursone"
+msgstr "Nessun cursore"
 
 #. XYRecVCFrame..PageControl..CommonTS..SetupPagePanel..AngleBasedTypePanel..Caption
 #: Core/GObjects/Visuals/XYRecVCFrameUnit.dfm:1386
@@ -12135,10 +12123,8 @@ msgstr ""
 #. MathPowerSetupFrame..PowerPanel..SettingsPanel..OptionsPageControl..PowerQualityTabSheet..PowerQualityScrollBox..AdvCaptionPanel4..Label8..Caption
 #: Core/MathObjects/MathPowerBackHarmonicSetupUnit.dfm:4
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.dfm:1212
-#, fuzzy
-#| msgid "Background color"
 msgid "Background harmonics editor"
-msgstr "Colore di sfondo"
+msgstr "Editor armoniche di background"
 
 #. BackHarmForm..MainBackHarmPanel..AdvCaptionPanel1..UseBackUCheckBox..Caption
 #. PowerSetupFrame..PowerPanel..OptionsPageControl..BackHarmTabSheet..MainBackHarmPanel..UseBackUCheckBox..Caption
@@ -12156,10 +12142,8 @@ msgstr ""
 
 #. BackHarmForm..Panel1..UseCurrentBtn..Caption
 #: Core/MathObjects/MathPowerBackHarmonicSetupUnit.dfm:125
-#, fuzzy
-#| msgid "Define discrete values"
 msgid "Use direct values"
-msgstr "Definisci valori discreti"
+msgstr "Usa valori"
 
 #. BackHarmForm..AdvCaptionPanel2..Caption
 #: Core/MathObjects/MathPowerBackHarmonicSetupUnit.dfm:140
@@ -12298,7 +12282,7 @@ msgstr ""
 #: Core/MathObjects/PIDTuningUnit.dfm:4015
 #: Core/MathObjects/PIDTuningUnit.pas:240
 msgid "Loop speed"
-msgstr "Velocità riproduzione"
+msgstr "Velocità loop"
 
 #. PIDTuningForm..AdvCaptionPanel5..RuleDsgnPageCtrl..LambdaTabSheet..Panel1..StabilityMarginCBox....Items.Strings
 #: Core/MathObjects/PIDTuningUnit.dfm:4071
@@ -12807,7 +12791,7 @@ msgstr ""
 #: Core/MathObjects/CAMath/Visuals/CAMathSetupUnit.dfm:4975
 #: Core/MathObjects/Visuals/FIRMathSetup.dfm:92
 msgid "Additional"
-msgstr "Altro"
+msgstr "Ulteriore"
 
 #. CAMathSetupFrame..CaMathPageCtrl..CalcTabSheet..CalculationsPanel..AdvCaptionPanel10..Caption
 #: Core/MathObjects/CAMath/Visuals/CAMathSetupUnit.dfm:4945
@@ -14085,7 +14069,7 @@ msgstr ""
 #. MathModuleSetupFrame1..AdvCaptionPanel1..Panel3..FilterPropPanel..FilterProtComboBox....Items.Strings
 #: Core/MathObjects/Visuals/IIRMathSetup.dfm:85
 msgid "Chebyshev I"
-msgstr "Chebyshev |"
+msgstr ""
 
 #. MathModuleSetupFrame1..AdvCaptionPanel1..Panel3..Panel6..ToolBar1..FilterToolButton..Hint
 #: Core/MathObjects/Visuals/IIRMathSetup.dfm:163
@@ -14357,7 +14341,7 @@ msgstr ""
 #. MathArrayReferenceFrame..Panel1..AxesSettingsPanel..AxisTypeComboBox....Items.Strings
 #: Core/MathObjects/Visuals/MathArrayReferenceSetupUnit.dfm:259
 msgid "ref. dB"
-msgstr "ref. dB"
+msgstr ""
 
 #. MathArrayReferenceFrame..XAxisPopup..Demo1..Caption
 #. MathArrayReferenceFrame..Y1AxisPopup..MenuItem1..Caption
@@ -14465,7 +14449,7 @@ msgstr ""
 #: Core/MathObjects/Visuals/MathCaHWSetupUnit.dfm:8
 #: Core/MathObjects/Visuals/ScopeMathSetupUnit.dfm:16
 msgid "Scope mode"
-msgstr "Modalità oscilloscopio"
+msgstr "Mod. oscilloscopio"
 
 #. MathCaHWSetupFrame..Label1..Caption
 #: Core/MathObjects/Visuals/MathCaHWSetupUnit.dfm:15
@@ -16282,10 +16266,8 @@ msgstr ""
 
 #. MathPowerSetupFrame..PowerPanel..SettingsPanel..OptionsPageControl..StoredChannelsTabSheet..ScrollBox1..AdvCaptionPanel2..Caption
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.dfm:388
-#, fuzzy
-#| msgid "Calculation"
 msgid "Basic calculations"
-msgstr "Calcolo"
+msgstr "Calcoli base"
 
 #. MathPowerSetupFrame..PowerPanel..SettingsPanel..OptionsPageControl..StoredChannelsTabSheet..ScrollBox1..AdvCaptionPanel2..CheckBox1..Caption
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.dfm:401
@@ -16304,29 +16286,25 @@ msgstr ""
 
 #. MathPowerSetupFrame..PowerPanel..SettingsPanel..OptionsPageControl..StoredChannelsTabSheet..ScrollBox1..AdvCaptionPanel3..Caption
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.dfm:441
-#, fuzzy
-#| msgid "Calculation"
 msgid "Star-Delta calculation"
-msgstr "Calcolo"
+msgstr "Calcolo Star-Delta"
 
 #. MathPowerSetupFrame..PowerPanel..SettingsPanel..OptionsPageControl..StoredChannelsTabSheet..ScrollBox1..AdvCaptionPanel3..WaveformsCheckBox..Caption
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.dfm:454
-#, fuzzy
-#| msgid "Calculate points"
 msgid "Calculate waveforms"
-msgstr "Calcola punti"
+msgstr "Calcola forme d'onda"
 
 #. MathPowerSetupFrame..PowerPanel..SettingsPanel..OptionsPageControl..StoredChannelsTabSheet..ScrollBox1..AdvCaptionPanel3..CalcDeltaCheckBox..Caption
 #. PowerSetupFrame..PowerPanel..MainSetupPanel..CalcDeltaCheckBox..Caption
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.dfm:469
 #: Core/MathObjects/Visuals/PowerSetupUnit.dfm:1351
 msgid "Calculate line voltages"
-msgstr ""
+msgstr "Calcola tensioni di linea"
 
 #. MathPowerSetupFrame..PowerPanel..SettingsPanel..OptionsPageControl..StoredChannelsTabSheet..ScrollBox1..AdvCaptionPanel3..CalcPhaseCheckBox..Caption
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.dfm:486
 msgid "Calculate phase voltages"
-msgstr ""
+msgstr "Calcola fasi"
 
 #. MathPowerSetupFrame..PowerPanel..SettingsPanel..OptionsPageControl..StoredChannelsTabSheet..ScrollBox1..AdvCaptionPanel11..Caption
 #. PowerSetupFrame..PowerPanel..OptionsPageControl..StoredChannelsTabSheet..DisturbanceCheckBox..Caption
@@ -16351,17 +16329,13 @@ msgstr "Periodi"
 
 #. MathPowerSetupFrame..PowerPanel..SettingsPanel..OptionsPageControl..EnergyTabSheet..AdvCaptionPanel1..Caption
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.dfm:605
-#, fuzzy
-#| msgid "Calculation"
 msgid "Energy calculation"
-msgstr "Calcolo"
+msgstr "Calcolo Energia"
 
 #. MathPowerSetupFrame..PowerPanel..SettingsPanel..OptionsPageControl..EnergyTabSheet..AdvCaptionPanel1..EnergyCBox..Caption
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.dfm:618
-#, fuzzy
-#| msgid "Calculate points"
 msgid "Calculate energy"
-msgstr "Calcola punti"
+msgstr "Calcola energia"
 
 #. MathPowerSetupFrame..PowerPanel..SettingsPanel..OptionsPageControl..EnergyTabSheet..AdvCaptionPanel1..TriggeredEnergyChkBox..Caption
 #. TransferFunctionSetupFrame..SettingsPanel..FRFPageControl..TrigFRFPage..Caption
@@ -16392,10 +16366,9 @@ msgstr ""
 #. MathPowerSetupFrame..PowerPanel..SettingsPanel..TopSettingsPanel..ObjectTabControl......Caption
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.dfm:689
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.dfm:1540
-#, fuzzy
 #| msgid "Lower limit"
 msgid "Power quality"
-msgstr "Limite inferiore"
+msgstr ""
 
 #. MathPowerSetupFrame..PowerPanel..SettingsPanel..OptionsPageControl..PowerQualityTabSheet..PowerQualityScrollBox..Panel1..AdvCaptionPanel5..Caption
 #. MathPowerSetupFrame..PowerPanel..SettingsPanel..OptionsPageControl..PowerQualityTabSheet..PowerQualityScrollBox..Panel1..AdvCaptionPanel5..FullFFTCbox..Caption
@@ -16414,10 +16387,9 @@ msgstr ""
 
 #. MathPowerSetupFrame..PowerPanel..SettingsPanel..OptionsPageControl..PowerQualityTabSheet..PowerQualityScrollBox..Panel1..AdvCaptionPanel5..GroupFFTLinesCBox..Caption
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.dfm:763
-#, fuzzy
 #| msgid "Group name"
 msgid "Group FFT lines"
-msgstr "Nome gruppo"
+msgstr ""
 
 #. MathPowerSetupFrame..PowerPanel..SettingsPanel..OptionsPageControl..PowerQualityTabSheet..PowerQualityScrollBox..Panel1..AdvCaptionPanel6..Caption
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.dfm:786
@@ -16433,33 +16405,29 @@ msgstr ""
 
 #. MathPowerSetupFrame..PowerPanel..SettingsPanel..OptionsPageControl..PowerQualityTabSheet..PowerQualityScrollBox..Panel1..AdvCaptionPanel7..Caption
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.dfm:829
-#, fuzzy
 #| msgid "Symmetrical components"
 msgid "Symetrical components"
-msgstr "Componenti simmetriche"
+msgstr ""
 
 #. MathPowerSetupFrame..PowerPanel..SettingsPanel..OptionsPageControl..PowerQualityTabSheet..PowerQualityScrollBox..Panel1..AdvCaptionPanel7..UnbalanceCheckBox..Caption
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.dfm:842
-#, fuzzy
 #| msgid "Symmetrical components"
 msgid "Cycles symmetrical components"
-msgstr "Componenti simmetriche"
+msgstr ""
 
 #. MathPowerSetupFrame..PowerPanel..SettingsPanel..OptionsPageControl..PowerQualityTabSheet..PowerQualityScrollBox..Panel1..AdvCaptionPanel7..PeriodUnbalanceCheckBox..Caption
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.dfm:857
-#, fuzzy
 #| msgid "Symmetrical components"
 msgid "Period symmetrical components"
-msgstr "Componenti simmetriche"
+msgstr ""
 
 #. MathPowerSetupFrame..PowerPanel..SettingsPanel..OptionsPageControl..PowerQualityTabSheet..PowerQualityScrollBox..Panel2..AdvCaptionPanel9..Caption
 #. MathPowerSetupFrame..PowerPanel..SettingsPanel..OptionsPageControl..PowerQualityTabSheet..PowerQualityScrollBox..Panel2..AdvCaptionPanel9..FlickerCheckBox..Caption
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.dfm:883
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.dfm:896
-#, fuzzy
 #| msgid "Voltage"
 msgid "Voltage flicker"
-msgstr "Tensione"
+msgstr ""
 
 #. MathPowerSetupFrame..PowerPanel..SettingsPanel..OptionsPageControl..PowerQualityTabSheet..PowerQualityScrollBox..Panel2..AdvCaptionPanel9..FlickerCalcPanel..FlickerPstLabel..Caption
 #. PowerSetupFrame..PowerPanel..OptionsPageControl..StoredChannelsTabSheet..FlickerCalcPanel..FlickerPstLabel..Caption
@@ -16486,7 +16454,7 @@ msgstr ""
 #: DEWEsoft/MainUnit.dfm:17476 DEWEsoft/MainUnit.dfm:17761
 #: DEWEsoft/MainUnit.dfm:21419
 msgid "min"
-msgstr "min"
+msgstr ""
 
 #. MathPowerSetupFrame..PowerPanel..SettingsPanel..OptionsPageControl..PowerQualityTabSheet..PowerQualityScrollBox..Panel2..AdvCaptionPanel9..FlickerCalcPanel..FlickerCalcForLabel..Caption
 #. PowerSetupFrame..PowerPanel..OptionsPageControl..StoredChannelsTabSheet..FlickerCalcPanel..FlickerCalcForLabel..Caption
@@ -16523,10 +16491,9 @@ msgstr ""
 #. MathPowerSetupFrame..PowerPanel..SettingsPanel..OptionsPageControl..PowerQualityTabSheet..PowerQualityScrollBox..Panel2..AdvCaptionPanel10..CurrentFlickerPanel..CurrentFlickerChkBox..Caption
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.dfm:1088
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.dfm:1124
-#, fuzzy
 #| msgid "Permission"
 msgid "Flicker emission"
-msgstr "Permesso"
+msgstr ""
 
 #. MathPowerSetupFrame..PowerPanel..SettingsPanel..OptionsPageControl..PowerQualityTabSheet..PowerQualityScrollBox..Panel2..AdvCaptionPanel10..CurrentFlickerPanel..ImpedanceLabel..Caption
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.dfm:1110
@@ -16540,10 +16507,9 @@ msgstr ""
 
 #. MathPowerSetupFrame..PowerPanel..SettingsPanel..OptionsPageControl..PowerQualityTabSheet..PowerQualityScrollBox..AdvCaptionPanel4..Caption
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.dfm:1184
-#, fuzzy
 #| msgid "Harmonics will be calculated up to"
 msgid "Harmonics calculation"
-msgstr "Harmonics sarà calculated up to"
+msgstr ""
 
 #. MathPowerSetupFrame..PowerPanel..SettingsPanel..OptionsPageControl..PowerQualityTabSheet..PowerQualityScrollBox..AdvCaptionPanel4..HarErrorLabel..Caption
 #. PowerSetupFrame..PowerPanel..OptionsPageControl..StoredChannelsTabSheet..HarErrorLabel..Caption
@@ -16910,7 +16876,7 @@ msgstr ""
 #: Core/MathObjects/Visuals/MathSoundSetupUnit.dfm:185
 #: Visuals/Forms/GPSPosEditDialog.dfm:243
 msgid "S"
-msgstr "S"
+msgstr ""
 
 #. MathSoundSetupFrame..CalibrationPanel..Caption
 #: Core/MathObjects/Visuals/MathSoundSetupUnit.dfm:211
@@ -18212,7 +18178,7 @@ msgstr ""
 #: Core/Sequencer/Items/Visuals/ExportItemFrameUnit.dfm:197
 #: Visuals/Forms/MultiExportUnit.dfm:335 Visuals/Frames/RecallFrameUnit.dfm:525
 msgid "Export file type"
-msgstr "Esportazione file"
+msgstr ""
 
 #. FileManagerItemFrame..MainSeqItemPanel..CopyPanel..Caption
 #: Core/Sequencer/Items/Visuals/FileManagerItemFrameUnit.dfm:27
@@ -18619,7 +18585,7 @@ msgstr ""
 #: Core/Daq/GPS/Visuals/NMEAGPSFrame.pas:361
 #: Core/Daq/GPS/Visuals/NMEAGPSFrame.pas:438
 msgid "bps"
-msgstr "bps"
+msgstr ""
 
 #. SeqDeviceFrame..DeviceListPanel..RightPanel..PageControl1..RS232TabSheet..ParityDLabel..Caption
 #: Core/Sequencer/Visuals/SeqDeviceFrameUnit.dfm:131
@@ -19411,10 +19377,8 @@ msgstr ""
 
 #. DHDesignFrame..PropertiesAdvPanel..PropertiesLayoutPanel..PropertiesGroup..ResetValueOnStartAcqProp..Text
 #: Core/Variables/Visuals/DHDesignUnit.dfm:204
-#, fuzzy
-#| msgid "Reset view on trigger"
 msgid "Reset value on start"
-msgstr "Reimposta vista su trg"
+msgstr "Reset valore all'avvio"
 
 #. DHDesignFrame..DHBodyPanel..Caption
 #: Core/Variables/Visuals/DHDesignUnit.dfm:232
@@ -19493,12 +19457,12 @@ msgstr "Porta giù"
 #. VariablesFrame..AddVariable..Hint
 #: Core/Variables/Visuals/VariablesFrameUnit.dfm:18
 msgid "Add variable"
-msgstr ""
+msgstr "Aggiungi variabile"
 
 #. VariablesFrame..RemoveVariable..Hint
 #: Core/Variables/Visuals/VariablesFrameUnit.dfm:30
 msgid "Remove variable"
-msgstr ""
+msgstr "Rimuovi variabile"
 
 #. MainForm..MainAdvToolBar..SetupFilesPage..Caption
 #. MainForm..MainAdvToolBar..SetupFilesPage..AdvToolBar26..CompactCaption
@@ -19694,7 +19658,7 @@ msgstr ""
 #. MainForm..MainAdvToolBar..ReviewPage..ReplayAdvToolBar..ReplayDirectionButton..Caption
 #: DEWEsoft/MainUnit.dfm:6907 DEWEsoft/MainUnit.pas:13038
 msgid "FWD"
-msgstr "FWD"
+msgstr ""
 
 #. MainForm..MainAdvToolBar..ReviewPage..ReplayAdvToolBar..SoundChannel..Caption
 #. VideoExportForm..ScrollBox..LayoutPanel..SoundPropertyGroup..Caption
@@ -20030,7 +19994,7 @@ msgstr ""
 #: Core/Data/Visuals/AnalogChannelPreviewFrameUnit.pas:254
 #: Core/GObjects/OverloadControl.pas:767 DEWEsoft/MainUnit.pas:21351
 msgid "OVL"
-msgstr "OVL"
+msgstr ""
 
 #. MainForm..MainAdvToolBar..AnalyseToolButton..Caption
 #: DEWEsoft/MainUnit.dfm:17206 DEWEsoft/MainUnit.pas:19245
@@ -20068,7 +20032,7 @@ msgstr ""
 #: DEWEsoft/MainUnit.dfm:17475 Visuals/Forms/TimeSelectUnit.dfm:74
 #: Visuals/Forms/TriggerSetupUnit.dfm:11361
 msgid "h"
-msgstr "h"
+msgstr ""
 
 #. MainForm..MainPageControl..ChSetupMeasTabSheet..SetupPanel..RemoteSetupPageControl..LocalTabSheet..MainOptionsPanel..SetupPageControl..GeneralSetupTabSheet..GeneralPanel..DataFileOptionsPanel..MultiFileOptionsPanel..AutoFlipUnitComboBox....Items.Strings
 #: DEWEsoft/MainUnit.dfm:17478
@@ -20161,7 +20125,7 @@ msgstr "Freq campionamento"
 #. MainForm..MainPageControl..ChSetupMeasTabSheet..SetupPanel..RemoteSetupPageControl..LocalTabSheet..MainOptionsPanel..SetupStore2Panel..StorePanelHolder..FreqSpanLabel..Caption
 #: DEWEsoft/MainUnit.dfm:17996
 msgid "Freq span"
-msgstr ""
+msgstr "Banda"
 
 #. MainForm..MainPageControl..ChSetupMeasTabSheet..SetupPanel..RemoteSetupPageControl..LocalTabSheet..MainOptionsPanel..SetupStore2Panel..StorePanelHolder..RateUnitLabel..Caption
 #: DEWEsoft/MainUnit.dfm:18026
@@ -20318,10 +20282,9 @@ msgstr "Progetto"
 
 #. MainForm..SystemPopupMenu..EditorsMenuItem..Caption
 #: DEWEsoft/MainUnit.dfm:21035
-#, fuzzy
 #| msgid "Edit"
 msgid "Editors"
-msgstr "Modifica"
+msgstr ""
 
 #. MainForm..SystemPopupMenu..EditorsMenuItem..SensorEditorMenuItem..Caption
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabFolders..ScrollBoxFolders..FoldersLayoutPanel..DatabaseFoldersGroup..FolderSensorDBProp..Text
@@ -20348,32 +20311,25 @@ msgstr ""
 
 #. MainForm..SystemPopupMenu..ToolsMenuItem..RecordStepsMenuItem..Caption
 #: DEWEsoft/MainUnit.dfm:21070
-#, fuzzy
 #| msgid "Recorder"
 msgid "Record steps"
-msgstr "Registratore"
+msgstr ""
 
 #. MainForm..SystemPopupMenu..ManualsMenuItem..Caption
 #: DEWEsoft/MainUnit.dfm:21078
-#, fuzzy
-#| msgid "Manual"
 msgid "Manuals"
-msgstr "Manuale"
+msgstr "Manuali"
 
 #. MainForm..SystemPopupMenu..ProTrainingMenuItem..Caption
 #: DEWEsoft/MainUnit.dfm:21083
-#, fuzzy
-#| msgid "Visit our pro training"
 msgid "Pro training"
-msgstr "Visita il nostro PRO training"
+msgstr "PRO training"
 
 #. MainForm..SystemPopupMenu..InstalledExtensionsMenuItem..Caption
 #. VersionInfForm..Caption
 #: DEWEsoft/MainUnit.dfm:21090 Visuals/Forms/VersionInfoUnit.dfm:5
-#, fuzzy
-#| msgid "Post time extension"
 msgid "Installed extensions"
-msgstr "Post Estensione"
+msgstr "Estensioni installate"
 
 #. MainForm..SystemPopupMenu..AboutDewesoftMenuItem..Caption
 #. AboutForm..Caption
@@ -20534,7 +20490,7 @@ msgstr "Risveglia le unità di misura"
 #. VideoPostSyncForm..SyncParamsPanel..Label6..Caption
 #: DEWEsoft/MainUnit.dfm:21524 Visuals/Forms/VideoPostSyncUnit.dfm:88
 msgid "Trigger time"
-msgstr "Ora trigger"
+msgstr "Tempo trigger"
 
 #. MainForm..ExportTypePopupMenu..CombustionDataItem..Caption
 #: DEWEsoft/MainUnit.dfm:21827
@@ -20574,42 +20530,40 @@ msgstr ""
 
 #. MainForm..MainMenu..RecentMenuItem..Caption
 #: DEWEsoft/MainUnit.dfm:22367
-#, fuzzy
 #| msgid "Receiver setup"
 msgid "Recent setups"
-msgstr "Receiver setup"
+msgstr "Setup recenti"
 
 #. MainForm..MainMenu..RecentMenuItem..LoadLastSetupMenuItem..Caption
 #: DEWEsoft/MainUnit.dfm:22370
-#, fuzzy
 #| msgid "Load setup"
 msgid "Last setup"
-msgstr "Carica setup"
+msgstr "Ultimo setup"
 
 #. MainForm..MainMenu..SaveSetupAsMenuItem..Caption
 #: DEWEsoft/MainUnit.dfm:22386 DEWEsoft/MainUnit.pas:2093
 msgid "Save setup as..."
-msgstr ""
+msgstr "Salva setup come..."
 
 #. MainForm..MainMenu..SaveFileAsMenuItem..Caption
 #: DEWEsoft/MainUnit.dfm:22390
 msgid "Save data file as..."
-msgstr ""
+msgstr "Salva file dati come..."
 
 #. MainForm..MainMenu..LoadDisplaySetupMenuItem..Caption
 #: DEWEsoft/MainUnit.dfm:22397
 msgid "Load display and math setup..."
-msgstr ""
+msgstr "Carica setup display e math..."
 
 #. MainForm..MainMenu..UseSetupForMeasureMenuItem..Caption
 #: DEWEsoft/MainUnit.dfm:22401
 msgid "Use setup for measure"
-msgstr ""
+msgstr "Utilizza setup per misurare"
 
 #. MainForm..MainMenu..EnableSetupMenuItem..Caption
 #: DEWEsoft/MainUnit.dfm:22405
 msgid "Enable setup"
-msgstr ""
+msgstr "Abilita setup"
 
 #. DSDrawGridEditor..Caption
 #: SharedLib/DS.UI.DSDrawGridColumnsEditor.dfm:6
@@ -20629,7 +20583,7 @@ msgstr ""
 #. DSDrawGridEditor..LabelNumOfDigits..Caption
 #: SharedLib/DS.UI.DSDrawGridColumnsEditor.dfm:48
 msgid "Number of digits"
-msgstr ""
+msgstr "Numero cifre"
 
 #. DSDrawGridEditor..ButtonShow..Caption
 #: SharedLib/DS.UI.DSDrawGridColumnsEditor.dfm:76
@@ -20666,7 +20620,7 @@ msgstr ""
 #. AboutForm..LicMemo....Lines.Strings
 #: Visuals/Forms/AboutUnit.dfm:1138
 msgid "Version SP2 RC"
-msgstr "Versione SP2 RC"
+msgstr ""
 
 #. AboutForm..LicMemo....Lines.Strings
 #: Visuals/Forms/AboutUnit.dfm:1141
@@ -20691,7 +20645,7 @@ msgstr ""
 #. EnterEventForm..Caption
 #: Visuals/Forms/AddAnalyseEvent.dfm:4
 msgid "Enter event"
-msgstr "Inserire evento"
+msgstr "Inserisci evento"
 
 #. EnterEventForm..EventNoticePanel..EventTextLabel..Caption
 #: Visuals/Forms/AddAnalyseEvent.dfm:47
@@ -20722,7 +20676,7 @@ msgstr ""
 #. EnterEventForm..Panel1..Panel2..MSecLabel..Caption
 #: Visuals/Forms/AddAnalyseEvent.dfm:235
 msgid "Msec"
-msgstr "Msec"
+msgstr ""
 
 #. AddNewTemplateForm..Caption
 #: Visuals/Forms/AddNewTemplateUnit.dfm:4
@@ -20732,7 +20686,7 @@ msgstr "Aggiungi nuovo template"
 #. AddNewTemplateForm..OKPanel..ProcessButton..Caption
 #: Visuals/Forms/AddNewTemplateUnit.dfm:70
 msgid "Process"
-msgstr "&Process"
+msgstr ""
 
 #. AddNewTemplateForm..WarningEmptyPanel..WarningPanel..Caption
 #: Visuals/Forms/AddNewTemplateUnit.dfm:144
@@ -20744,7 +20698,7 @@ msgstr ""
 #: Visuals/Forms/AddNewTemplateUnit.dfm:183
 #: Visuals/Frames/RecallFrameUnit.dfm:987
 msgid "Setup name"
-msgstr "Setup nome"
+msgstr ""
 
 #. AddNewTemplateForm..DescriptionPanel..DecriptionLabel..Caption
 #: Visuals/Forms/AddNewTemplateUnit.dfm:196
@@ -20773,10 +20727,9 @@ msgstr ""
 
 #. AdvSaveSensorForm..CommonPanel..WriteAmplRangeToSensorCheckBox..Caption
 #: Visuals/Forms/AdvSaveSensorUnit.dfm:140
-#, fuzzy
 #| msgid "Balance amplifiers"
 msgid "Actual amplifier range"
-msgstr "Bilancia amplificatori"
+msgstr ""
 
 #. AdvSaveSensorForm..CommonPanel..WriteAmplLPFiltToSensorCheckBox..Caption
 #: Visuals/Forms/AdvSaveSensorUnit.dfm:154
@@ -20806,17 +20759,15 @@ msgstr ""
 
 #. AdvSaveSensorForm..ChannelPropsPanel..WriteChNameToSensorCheckBox..Caption
 #: Visuals/Forms/AdvSaveSensorUnit.dfm:397
-#, fuzzy
 #| msgid "Channel name"
 msgid "Actual channel name"
-msgstr "Nome Canale"
+msgstr ""
 
 #. AdvSaveSensorForm..ChannelPropsPanel..WriteChDescrToSensorCheckBox..Caption
 #: Visuals/Forms/AdvSaveSensorUnit.dfm:412
-#, fuzzy
 #| msgid "Channel description"
 msgid "Actual channel description"
-msgstr "Descrizione canale"
+msgstr ""
 
 #. AdvSaveSensorForm..ChannelPropsPanel..WriteChNameToSensorLockedCheckBox..Caption
 #. AdvSaveSensorForm..ChannelPropsPanel..WriteChDescrToSensorLockedCheckBox..Caption
@@ -20849,129 +20800,110 @@ msgstr ""
 
 #. AdvSaveSensorForm..ChannelPropsPanel..WriteChSR_HzToSensorCheckBox..Caption
 #: Visuals/Forms/AdvSaveSensorUnit.dfm:445
-#, fuzzy
 #| msgid "Channel setup sample rate"
 msgid "Channel sample rate in Hz"
-msgstr "Freq di acquisizione in setup canali"
+msgstr ""
 
 #. AdvSaveSensorForm..ChannelPropsPanel..WriteChSR_DivToSensorCheckBox..Caption
 #: Visuals/Forms/AdvSaveSensorUnit.dfm:469
-#, fuzzy
 #| msgid "Channel setup sample rate"
 msgid "Channel sample rate as divider"
-msgstr "Freq di acquisizione in setup canali"
+msgstr ""
 
 #. AdvSaveSensorForm..ChannelPropsPanel..WriteChUsedToSensorCheckBox..Caption
 #: Visuals/Forms/AdvSaveSensorUnit.dfm:484
-#, fuzzy
-#| msgid "Channel not used."
 msgid "Channel used"
-msgstr "Canale non usato."
+msgstr "Canale usato"
 
 #. AdvSaveSensorForm..ChannelPropsPanel..WriteChStoredToSensorCheckBox..Caption
 #: Visuals/Forms/AdvSaveSensorUnit.dfm:508
-#, fuzzy
 #| msgid "Channel to set"
 msgid "Channel stored"
-msgstr "Canale su"
+msgstr ""
 
 #. AdvSaveSensorForm..ChannelPropsPanel..WriteChGroupToSensorCheckBox..Caption
 #: Visuals/Forms/AdvSaveSensorUnit.dfm:532
-#, fuzzy
 #| msgid "Channel setup"
 msgid "Channel group"
-msgstr "GPS Canale setup"
+msgstr ""
 
 #. AdvSaveSensorForm..ChannelPropsPanel..WriteChDecimalsToSensorCheckBox..Caption
 #: Visuals/Forms/AdvSaveSensorUnit.dfm:547
-#, fuzzy
 #| msgid "Channel values"
 msgid "Channel decimal places"
-msgstr "Valori canale"
+msgstr ""
 
 #. AdvSaveSensorForm..ChannelPropsPanel..WriteChColorToSensorCheckBox..Caption
 #: Visuals/Forms/AdvSaveSensorUnit.dfm:562
-#, fuzzy
 #| msgid "All channels"
 msgid "Actual channel color"
-msgstr "Tutti canali"
+msgstr ""
 
 #. AdvSaveSensorForm..ChannelPropsPanel..WriteChGroupToSensorComboBox....Items.Strings
 #: Visuals/Forms/AdvSaveSensorUnit.dfm:623
-#, fuzzy
 #| msgid "Group"
 msgid "MainGroup"
-msgstr "Gruppo"
+msgstr ""
 
 #. AdvSaveSensorForm..ChannelPropsPanel..WriteChGroupToSensorComboBox....Items.Strings
 #: Visuals/Forms/AdvSaveSensorUnit.dfm:624
-#, fuzzy
 #| msgid "Group"
 msgid "Group1"
-msgstr "Gruppo"
+msgstr ""
 
 #. AdvSaveSensorForm..ChannelPropsPanel..WriteChGroupToSensorComboBox....Items.Strings
 #: Visuals/Forms/AdvSaveSensorUnit.dfm:625
-#, fuzzy
 #| msgid "Group"
 msgid "Group2"
-msgstr "Gruppo"
+msgstr ""
 
 #. AdvSaveSensorForm..ChannelPropsPanel..WriteChGroupToSensorComboBox....Items.Strings
 #: Visuals/Forms/AdvSaveSensorUnit.dfm:626
-#, fuzzy
 #| msgid "Group"
 msgid "Group3"
-msgstr "Gruppo"
+msgstr ""
 
 #. AdvSaveSensorForm..ChannelPropsPanel..WriteChGroupToSensorComboBox....Items.Strings
 #: Visuals/Forms/AdvSaveSensorUnit.dfm:627
-#, fuzzy
 #| msgid "Group"
 msgid "Group4"
-msgstr "Gruppo"
+msgstr ""
 
 #. AdvSaveSensorForm..ChannelPropsPanel..WriteChGroupToSensorComboBox....Items.Strings
 #: Visuals/Forms/AdvSaveSensorUnit.dfm:628
-#, fuzzy
 #| msgid "Group"
 msgid "Group5"
-msgstr "Gruppo"
+msgstr ""
 
 #. AdvSaveSensorForm..ChannelPropsPanel..WriteChWarnLowToSensorCheckBox..Caption
 #: Visuals/Forms/AdvSaveSensorUnit.dfm:661
-#, fuzzy
 #| msgid "Channel actions"
 msgid "Channel warning low"
-msgstr "Azioni su canali"
+msgstr ""
 
 #. AdvSaveSensorForm..ChannelPropsPanel..WriteChWarnHighToSensorCheckBox..Caption
 #: Visuals/Forms/AdvSaveSensorUnit.dfm:676
-#, fuzzy
 #| msgid "Channel actions"
 msgid "Channel warning high"
-msgstr "Azioni su canali"
+msgstr ""
 
 #. AdvSaveSensorForm..ChannelPropsPanel..WriteChCriticalLowToSensorCheckBox..Caption
 #: Visuals/Forms/AdvSaveSensorUnit.dfm:763
-#, fuzzy
 #| msgid "Channel description"
 msgid "Channel critical low"
-msgstr "Descrizione canale"
+msgstr ""
 
 #. AdvSaveSensorForm..ChannelPropsPanel..WriteChCriticalHighToSensorCheckBox..Caption
 #: Visuals/Forms/AdvSaveSensorUnit.dfm:778
-#, fuzzy
 #| msgid "Channel description"
 msgid "Channel critical high"
-msgstr "Descrizione canale"
+msgstr ""
 
 #. AdvSaveSensorForm..ChannelPropsPanel..WriteChHysteresisToSensorCheckBox..Caption
 #: Visuals/Forms/AdvSaveSensorUnit.dfm:793
-#, fuzzy
 #| msgid "Channel actions"
 msgid "Channel hysteresis"
-msgstr "Azioni su canali"
+msgstr ""
 
 #. BridgeOffsetForm..Panel1..ButtonResetOffsets..Caption
 #: Visuals/Forms/AmplBridgeOffsetsFormUnit.dfm:34
@@ -21163,7 +21095,7 @@ msgstr ""
 #. SimpleFileExistsForm..MainBackPanel..AlwaysOverwriteCheckBox..Caption
 #: Visuals/Forms/EnterCodeUnit.dfm:90 Visuals/Forms/SimpleFileExistsUnit.dfm:48
 msgid "Never ask again"
-msgstr "Non chiedere piů"
+msgstr "Non chiedere più"
 
 #. EnterCodeForm..LayoutPanel..InfoGroup..NeverAskAgainCheckBox..Description
 #: Visuals/Forms/EnterCodeUnit.dfm:91
@@ -21202,17 +21134,15 @@ msgstr "Position edit"
 
 #. GPSPosEditForm..CBLatLonFormat....Items.Strings
 #: Visuals/Forms/GPSPosEditDialog.dfm:64
-#, fuzzy
 #| msgid "RMS"
 msgid "DMS"
-msgstr "RMS"
+msgstr ""
 
 #. GPSPosEditForm..CBLatLonFormat....Items.Strings
 #: Visuals/Forms/GPSPosEditDialog.dfm:65
-#, fuzzy
 #| msgid "Degrees"
 msgid "Decimal degrees"
-msgstr "Gradi"
+msgstr ""
 
 #. GPSPosEditForm..PageControl..TabSheet3..LatitudeLabel..Caption
 #. GPSPosEditForm..PageControl..TabSheet4..Label2..Caption
@@ -21244,7 +21174,7 @@ msgstr "Minuti"
 #. GPSPosEditForm..PageControl..TabSheet3..SecondsLabel..Caption
 #: Visuals/Forms/GPSPosEditDialog.dfm:136
 msgid "Seconds"
-msgstr ""
+msgstr "Secondi"
 
 #. MessagesForm..ResolveSetupPanel..Caption
 #: Visuals/Forms/MessagesFormUnit.dfm:100
@@ -21254,7 +21184,7 @@ msgstr ""
 #. MessagesForm..ResolveSetupPanel..BottomPanel..ClearMissingPluginsButton..Caption
 #: Visuals/Forms/MessagesFormUnit.dfm:135
 msgid "Clear missing plugins messages"
-msgstr ""
+msgstr "Elimina messaggi di estensioni mancanti"
 
 #. MultiExportForm..Caption
 #: Visuals/Forms/MultiExportUnit.dfm:6
@@ -21455,10 +21385,9 @@ msgstr ""
 
 #. SensorEditorFormX..Caption
 #: Visuals/Forms/SensorEditorUnitX.dfm:4
-#, fuzzy
 #| msgid "Counter sensor editor"
 msgid "Analog sensor editor"
-msgstr "Editor sensori counter"
+msgstr ""
 
 #. SensorEditorFormX..MenuPanel..Panel1..AdvPage1..AdvToolBar1..Caption
 #. SensorEditorFormX..MenuPanel..Panel1..AdvPage1..AdvToolBar1..SearchEdit..Hint
@@ -21689,10 +21618,9 @@ msgstr ""
 
 #. VersionInfForm..RegAddonsButton..Caption
 #: Visuals/Forms/VersionInfoUnit.dfm:88
-#, fuzzy
 #| msgid "Post time extension"
 msgid "Register extensions"
-msgstr "Post Estensione"
+msgstr ""
 
 #. VideoCompressForm..CompressingLabel..Caption
 #: Visuals/Forms/VideoCompressUnit.dfm:35
@@ -21701,38 +21629,32 @@ msgstr ""
 
 #. VideoExportForm..Caption
 #: Visuals/Forms/VideoExportUnit.dfm:6
-#, fuzzy
-#| msgid "Export screen to AVI file"
 msgid "Export screen to video file"
-msgstr "Esportazione schermo su filmato AVI"
+msgstr "Esportazione schermo con video"
 
 #. VideoExportForm..ScrollBox..LayoutPanel..DSPropertyGroup1..Caption
 #: Visuals/Forms/VideoExportUnit.dfm:45
-#, fuzzy
 #| msgid "Output values"
 msgid "Output file(s)"
-msgstr "Valori calcolati"
+msgstr ""
 
 #. VideoExportForm..ScrollBox..LayoutPanel..DSPropertyGroup1..FilePathItem..Text
 #: Visuals/Forms/VideoExportUnit.dfm:53
-#, fuzzy
 #| msgid "File name"
 msgid "File path"
-msgstr "Nome file esportazione"
+msgstr ""
 
 #. VideoExportForm..ScrollBox..LayoutPanel..DSPropertyGroup1..FileNameTemplateItem..Text
 #: Visuals/Forms/VideoExportUnit.dfm:79
-#, fuzzy
 #| msgid "Add new template"
 msgid "File name template"
-msgstr "Aggiungi nuovo template"
+msgstr ""
 
 #. VideoExportForm..ScrollBox..LayoutPanel..DSPropertyGroup2..Caption
 #: Visuals/Forms/VideoExportUnit.dfm:127
-#, fuzzy
 #| msgid "Unified properties"
 msgid "Video / image properties"
-msgstr "Proprietà unificate"
+msgstr ""
 
 #. VideoExportForm..ScrollBox..LayoutPanel..DSPropertyGroup2..PlaySpeedItem..Text
 #: Visuals/Forms/VideoExportUnit.dfm:193
@@ -21741,10 +21663,9 @@ msgstr "Velocità riproduzione"
 
 #. VideoExportForm..ScrollBox..LayoutPanel..DSPropertyGroup2..VideoChannelItem..Text
 #: Visuals/Forms/VideoExportUnit.dfm:229
-#, fuzzy
 #| msgid "Per channel"
 msgid "Video channel"
-msgstr "Per canale"
+msgstr ""
 
 #. VideoExportForm..ScrollBox..LayoutPanel..DSPropertyGroup2..FrameOutputControlItem..Text
 #: Visuals/Forms/VideoExportUnit.dfm:249
@@ -21763,15 +21684,14 @@ msgstr ""
 
 #. VideoExportForm..ScrollBox..LayoutPanel..CompressionPropertyGroup..CompressionItem..Description
 #: Visuals/Forms/VideoExportUnit.dfm:282
-#, fuzzy
 #| msgid "New sequence"
 msgid "Image sequence"
-msgstr "Nuova sequenza"
+msgstr ""
 
 #. VideoExportForm..ScrollBox..LayoutPanel..SoundPropertyGroup..SoundChannelItem..Text
 #: Visuals/Forms/VideoExportUnit.dfm:312
 msgid "Sound channel"
-msgstr "Sound Canale"
+msgstr ""
 
 #. VideoPostSyncForm..Caption
 #: Visuals/Forms/VideoPostSyncUnit.dfm:6
@@ -21980,10 +21900,9 @@ msgstr ""
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet1..ScrollBox5..HardwareLayoutPanel..USBDevicesGroup..KeepChSRDividersProp..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:380
-#, fuzzy
 #| msgid "Channel setup sample rate"
 msgid "Keep channel sample rate dividers"
-msgstr "Freq di acquisizione in setup canali"
+msgstr ""
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet1..ScrollBox5..HardwareLayoutPanel..USBDevicesGroup..KeepChSRDividersProp....Description
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:383
@@ -22639,10 +22558,9 @@ msgstr ""
 
 #. ChannelMessagesResolveFrame..ClearMessagesButton..Caption
 #: Visuals/Frames/ChannelMessagesResolveFrameUnit.dfm:10
-#, fuzzy
 #| msgid "Store all messages"
 msgid "Clear messages"
-msgstr "Registra tutti i messaggi"
+msgstr ""
 
 #. ChannelMessagesResolveFrame..ClearMessagesPopup..ClearTedsStatusMI..Caption
 #: Visuals/Frames/ChannelMessagesResolveFrameUnit.dfm:18
@@ -23413,17 +23331,13 @@ msgstr "Colore di sfondo"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabInterface..ScrollBoxInterface..InterfaceLayoutPanel..DisplaysGroup..BackgroundColorProp....ComboBox.Items.Strings
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:984
-#, fuzzy
-#| msgid "Dark blue"
 msgid "Dark"
-msgstr "Blu scuro"
+msgstr "Scuro"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabInterface..ScrollBoxInterface..InterfaceLayoutPanel..DisplaysGroup..BackgroundColorProp....ComboBox.Items.Strings
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:985
-#, fuzzy
-#| msgid "Right"
 msgid "Light"
-msgstr "Destra"
+msgstr "Chiaro"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabInterface..ScrollBoxInterface..InterfaceLayoutPanel..DisplaysGroup..TimeFormatProp....ComboBox.Items.Strings
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:1006
@@ -24225,7 +24139,7 @@ msgstr "Scala su deg. F"
 #. ChannelScalingFrame..ScalePanel..BarGraphPanel..BottomValuePanel..DisplayTypePanel..MinMaxSpeedButton..Caption
 #: Visuals/Plugins/ChannelScalingUnit.dfm:566
 msgid "Min / Max"
-msgstr "Min / Max"
+msgstr ""
 
 #. ChannelScalingFrame..ScalePanel..BarGraphPanel..CalcTimePanel..rbSlowUpdate..Caption
 #: Visuals/Plugins/ChannelScalingUnit.dfm:605
@@ -24330,7 +24244,7 @@ msgstr "Differenziale"
 #: Core/Daq/DaqCards/DaqChannels.pas:3099
 #: Core/Daq/DaqCards/DaqChannels.pas:3101
 msgid "Single ended"
-msgstr "Single Ended"
+msgstr ""
 
 #: Core/Daq/Amplifiers/AmplConstUnit.pas:538
 #: Core/Daq/Amplifiers/AmplConstUnit.pas:572
@@ -24432,7 +24346,7 @@ msgstr ""
 #: DEWEsoft/MainUnit.pas:19766 Visuals/Frames/TriggerFrameUnit.pas:204
 #: Visuals/Frames/TriggerFrameUnit.pas:205
 msgid "on"
-msgstr "strong"
+msgstr ""
 
 #. ToDo
 #. ToDo: AF_PL
@@ -24546,7 +24460,7 @@ msgstr ""
 #. last range
 #: Core/Daq/Amplifiers/DeweUSBAmplUnit.pas:2766
 msgid "Measurement value is out of range."
-msgstr "Misura fuori dal range."
+msgstr "Valore misurato fuori dal range."
 
 #: Core/Daq/Amplifiers/DeweUSBAmplUnit.pas:2768
 #: Core/Daq/Amplifiers/DeweUSBAmplUnit.pas:2770
@@ -24668,7 +24582,7 @@ msgstr "Bilanciamento"
 #: Core/Daq/Amplifiers/Visuals/AmplifierFrameUnit.pas:1796
 #: Core/Daq/Amplifiers/Visuals/AmplifierFrameUnit.pas:2701
 msgid "Shunt off"
-msgstr "Shunt dif"
+msgstr ""
 
 #: Core/Daq/Amplifiers/Visuals/DaqCardAmplFrameUnit.pas:89
 #: Core/Daq/Amplifiers/Visuals/DaqCardAmplFrameUnit.pas:95
@@ -24722,7 +24636,7 @@ msgstr ""
 #: Core/Daq/CAN/CanControllerUnit.pas:801
 #: Core/Daq/DewesoftDaq/Devices/Visuals/DSDeviceSettingsFrameUnit.pas:576
 msgid "Op. mode"
-msgstr "Operation mode"
+msgstr ""
 
 #: Core/Daq/CAN/CanControllerUnit.pas:802
 #: Core/Daq/DewesoftDaq/Devices/Visuals/DSDeviceSettingsFrameUnit.pas:588
@@ -24787,7 +24701,7 @@ msgstr "canali"
 #. CANGrid.DefaultRowHeight := 60;
 #: Core/Daq/CAN/Visuals/CanSetupFrameUnit.pas:741
 msgid "ARB."
-msgstr "ARB."
+msgstr ""
 
 #: Core/Daq/CAN/Visuals/CanSetupFrameUnit.pas:743
 msgid "Bits"
@@ -24812,11 +24726,11 @@ msgstr ""
 
 #: Core/Daq/CAN/Visuals/CanSetupFrameUnit.pas:773
 msgid "DBC files"
-msgstr "DBC file"
+msgstr ""
 
 #: Core/Daq/CAN/Visuals/CanSetupFrameUnit.pas:778
 msgid "XML files"
-msgstr "XML file"
+msgstr ""
 
 #: Core/Daq/CAN/Visuals/CanSetupFrameUnit.pas:1930
 #: Core/Daq/CAN/Visuals/CanSetupFrameUnit.pas:2187
@@ -24847,7 +24761,7 @@ msgstr "XML file"
 #: Core/MathObjects/Visuals/TransferFunctionSetup.pas:1631
 #: Visuals/Forms/VideoExportUnit.pas:263
 msgid "Unassigned"
-msgstr "Non selezionato"
+msgstr "Non assegnato"
 
 #: Core/Daq/CAN/Visuals/CanSetupFrameUnit.pas:2016
 #: Core/Daq/DaqCards/CNTSensorsUnit.pas:159
@@ -24925,11 +24839,11 @@ msgstr ""
 
 #: Core/Daq/DaqCards/CNTChannels.pas:1683
 msgid "Gated event"
-msgstr "Gated Event"
+msgstr ""
 
 #: Core/Daq/DaqCards/CNTChannels.pas:1684
 msgid "Up/down"
-msgstr "Su/giů"
+msgstr "Su/giù"
 
 #. sensor with missing or double teeth
 #. tacho
@@ -25000,7 +24914,7 @@ msgstr ""
 
 #: Core/Daq/DaqCards/CommonDaq.pas:1028
 msgid "N/A"
-msgstr "N/A"
+msgstr ""
 
 #: Core/Daq/DaqCards/CommonDaq.pas:3619
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.pas:1661
@@ -25013,13 +24927,13 @@ msgstr ""
 #: Core/Daq/DaqCards/CustomDaq.pas:3917 Core/Daq/DaqCards/TestDaq.pas:1126
 #: Core/Daq/DaqCards/TestDaq.pas:1131
 msgid "Gate"
-msgstr "GatePair_CNT"
+msgstr ""
 
 #: Core/Daq/DaqCards/CustomDaq.pas:3530 Core/Daq/DaqCards/CustomDaq.pas:3805
 #: Core/Daq/DaqCards/CustomDaq.pas:3918 Core/Daq/DaqCards/TestDaq.pas:1127
 #: Core/Daq/DaqCards/TestDaq.pas:1132
 msgid "Aux"
-msgstr "AuxPair_CNT"
+msgstr ""
 
 #: Core/Daq/DaqCards/DaqChannels.pas:891 Core/Daq/DaqCards/DaqChannels.pas:3097
 msgid "Input mode"
@@ -25027,7 +24941,7 @@ msgstr ""
 
 #: Core/Daq/DaqCards/DaqChannels.pas:915 Core/Daq/DaqCards/DaqChannels.pas:3115
 msgid "50 ohm"
-msgstr "50 Ohm"
+msgstr ""
 
 #: Core/Daq/DaqCards/DaqChannels.pas:1484
 msgid "loaded measured quantity (empty) not supported, set to custom."
@@ -25184,10 +25098,8 @@ msgid "Warn high"
 msgstr ""
 
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.pas:533
-#, fuzzy
-#| msgid "no amplifier"
 msgid "Offset in amplifier unit"
-msgstr "nessun amplificatore"
+msgstr "Offset in amplificatore"
 
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.pas:534
 msgid "Sensor model"
@@ -25215,16 +25127,13 @@ msgstr ""
 
 #. L
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.pas:565
-#, fuzzy
 #| msgid "Used"
 msgid "Used all"
-msgstr "Usato"
+msgstr "Tutto usati"
 
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.pas:566
-#, fuzzy
-#| msgid "Unused"
 msgid "Unused all"
-msgstr "Non usato"
+msgstr "Tutti non usati"
 
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.pas:567
 msgid "Set highest range"
@@ -25375,10 +25284,9 @@ msgid "Phase change (deg/s)"
 msgstr ""
 
 #: Core/Daq/DaqCards/Visuals/AOSetupFrameUnit.pas:287
-#, fuzzy
 #| msgid "Input type"
 msgid "Output type"
-msgstr "Tipo input"
+msgstr ""
 
 #: Core/Daq/DaqCards/Visuals/AOSetupFrameUnit.pas:555
 msgid "Start output/sweep"
@@ -25585,10 +25493,9 @@ msgid "Do you want to save changes?"
 msgstr ""
 
 #: Core/Daq/DaqCards/Visuals/CNTSetupUnit.pas:115
-#, fuzzy
 #| msgid "Controller type"
 msgid "Counter type"
-msgstr "Tipo controller"
+msgstr ""
 
 #: Core/Daq/DaqCards/Visuals/CNTSetupUnit.pas:355
 msgid "This channel is used as counter output"
@@ -25848,7 +25755,7 @@ msgstr ""
 #: Core/Daq/Video/CamSetupFrameUnit.pas:458
 #: Core/Daq/Video/Cameras/DirX/DirectXCamUnit.pas:1663
 msgid "fps"
-msgstr "fps"
+msgstr ""
 
 #: Core/Daq/Video/CamSettingsFormUnit.pas:291
 msgid "Preview, not started!"
@@ -25882,12 +25789,12 @@ msgstr "Nessuna camera trovata"
 
 #: Core/Daq/Video/ControllerFrameUnit.pas:120
 msgid "camera(s)"
-msgstr "camera"
+msgstr ""
 
 #. Was const but change it to function because of language
 #: Core/Daq/Video/Cameras/CustomCamera/CustomCamFrameUnit.pas:98
 msgid "Shutter"
-msgstr "Shutter"
+msgstr ""
 
 #: Core/Daq/Video/Cameras/CustomCamera/CustomCamFrameUnit.pas:99
 #: Core/Daq/Video/Cameras/DirX/DirXCameraFrameUnit.pas:409
@@ -26493,26 +26400,22 @@ msgid "Copying data..."
 msgstr ""
 
 #: Core/GObjects/AnalogMeter.pas:794
-#, fuzzy
 #| msgid "Classes"
 msgid "Classic"
-msgstr "Classi"
+msgstr ""
 
 #: Core/GObjects/AnalogMeter.pas:796
 msgid "Quarter"
 msgstr ""
 
 #: Core/GObjects/BarMeter.pas:947
-#, fuzzy
 #| msgid "3D bar"
 msgid "2D bar"
-msgstr "3D bar"
+msgstr ""
 
 #: Core/GObjects/ButtonControl.pas:264
-#, fuzzy
-#| msgid "Show frame"
 msgid "Show name"
-msgstr "Mostra bordo"
+msgstr "Mostra nome"
 
 #: Core/GObjects/ButtonControl.pas:271
 #: Visuals/Forms/DiscreteListFormUnit.pas:195
@@ -26520,10 +26423,8 @@ msgid "Picture"
 msgstr "Immagine"
 
 #: Core/GObjects/ButtonControl.pas:273
-#, fuzzy
-#| msgid "Picture event at"
 msgid "Picture and value"
-msgstr "Event immagine alle"
+msgstr "Immagine e valore"
 
 #: Core/GObjects/ButtonControl.pas:577
 msgid "No channel assigned"
@@ -26557,23 +26458,20 @@ msgid "Custom VC not created"
 msgstr ""
 
 #: Core/GObjects/DataGraph.pas:395 Core/GObjects/RecorderDataGraph.pas:1919
-#, fuzzy
 #| msgid "Axis 0"
 msgid "X Axis"
-msgstr "Assi 0"
+msgstr ""
 
 #: Core/GObjects/DataGraph.pas:398 Core/GObjects/RecorderDataGraph.pas:1927
 #: Core/GObjects/RecVControl.pas:2007
-#, fuzzy
 #| msgid "Axis 0"
 msgid "Y Axis"
-msgstr "Assi 0"
+msgstr ""
 
 #: Core/GObjects/DataGraphPanels.pas:847
-#, fuzzy
 #| msgid "Axis type"
 msgid "Ticks type"
-msgstr "Tipo assi"
+msgstr ""
 
 #: Core/GObjects/DataGraphPanels.pas:850
 msgid "Divisions"
@@ -26584,16 +26482,13 @@ msgid "Major ticks step"
 msgstr ""
 
 #: Core/GObjects/DataGraphPanels.pas:864
-#, fuzzy
 #| msgid "Number of ticks"
 msgid "Number of major ticks"
-msgstr "Numero di ticks"
+msgstr "Num ticks principali"
 
 #: Core/GObjects/DataGraphPanels.pas:869
-#, fuzzy
-#| msgid "Number of ticks"
 msgid "Number of minor ticks"
-msgstr "Numero di ticks"
+msgstr "Num di ticks secondari"
 
 #: Core/GObjects/DigitalVC.pas:877
 msgid "Current time"
@@ -26617,26 +26512,21 @@ msgid "AO frequency"
 msgstr ""
 
 #: Core/GObjects/DigitalVC.pas:1765
-#, fuzzy
 #| msgid "Frequency"
 msgid "AO Frequency"
-msgstr "Frequenza"
+msgstr ""
 
 #: Core/GObjects/DigitalVC.pas:1781
 msgid "Use digital fonts"
 msgstr ""
 
 #: Core/GObjects/DigitalVC.pas:1789 Core/GObjects/DigitalVC.pas:1801
-#, fuzzy
-#| msgid "Increase font"
 msgid "Increase"
-msgstr "Ingrandisci carattere"
+msgstr "Ingrandisci"
 
 #: Core/GObjects/DigitalVC.pas:1790 Core/GObjects/DigitalVC.pas:1802
-#, fuzzy
-#| msgid "Decrease font"
 msgid "Decrease"
-msgstr "Impiccolisci carattere"
+msgstr "Impiccolisci"
 
 #: Core/GObjects/DigitalVC.pas:1978
 #: Core/GObjects/Visuals/MeterVCFrameUnit.pas:96
@@ -26644,40 +26534,32 @@ msgid "mixed"
 msgstr ""
 
 #: Core/GObjects/DigitalVC.pas:2027
-#, fuzzy
 #| msgid "Manual"
 msgid "Manual min/max"
-msgstr "Manuale"
+msgstr ""
 
 #: Core/GObjects/DigitalVC.pas:2034
-#, fuzzy
 #| msgid "Cursor color"
 msgid "Normal color"
-msgstr "Colore cursore"
+msgstr ""
 
 #: Core/GObjects/DigitalVC.pas:2035
-#, fuzzy
 #| msgid "Trigger on"
 msgid "Trigger color"
-msgstr "Trigger attivo"
+msgstr ""
 
 #: Core/GObjects/DigitalVC.pas:2037
-#, fuzzy
-#| msgid "Upper limit"
 msgid "Use upper limit"
-msgstr "Limite superiore"
+msgstr "Usa limite sup"
 
 #: Core/GObjects/DigitalVC.pas:2038 Core/GObjects/DigitalVC.pas:2042
-#, fuzzy
 #| msgid "Limit table"
 msgid "Limit"
-msgstr "Tabella limiti"
+msgstr ""
 
 #: Core/GObjects/DigitalVC.pas:2041
-#, fuzzy
-#| msgid "Lower limit"
 msgid "Use lower limit"
-msgstr "Limite inferiore"
+msgstr "Usa limite inf"
 
 #: Core/GObjects/DrawObjectUnit.pas:691
 msgid "Bring to front"
@@ -26786,7 +26668,7 @@ msgstr ""
 
 #: Core/GObjects/OrbitVControl.pas:141
 msgid "Orbit graph"
-msgstr "Grafico orbit"
+msgstr "Orbitale"
 
 #: Core/GObjects/OverloadControl.pas:794 DEWEsoft/MainUnit.pas:21355
 #: DEWEsoft/MainUnit.pas:21367
@@ -26797,7 +26679,7 @@ msgstr ""
 #: Visuals/Frames/ChannelsDSGridView.pas:134
 #: Visuals/Frames/ExportSelectFrameUnit.pas:384
 msgid "single"
-msgstr "asse tempi singolo"
+msgstr ""
 
 #: Core/GObjects/OverloadControl.pas:826 Core/GObjects/OverloadControl.pas:828
 #: Visuals/Frames/ChannelsDSGridView.pas:153
@@ -26807,47 +26689,38 @@ msgstr ""
 
 #: Core/GObjects/OverviewControl.pas:129
 msgid "Overview"
-msgstr "Vista"
+msgstr "Anteprima"
 
 #: Core/GObjects/OverviewControl.pas:1492
-#, fuzzy
 #| msgid "Time selector"
 msgid "Show time selector"
-msgstr "Selettore tempo"
+msgstr ""
 
 #: Core/GObjects/OverviewControl.pas:1494
-#, fuzzy
-#| msgid "from trigger"
 msgid "Zoom to trigger"
-msgstr "da trigger"
+msgstr "Zoom da trigger"
 
 #: Core/GObjects/OverviewControl.pas:1496
-#, fuzzy
-#| msgid "from trigger"
 msgid "Previous trigger"
-msgstr "da trigger"
+msgstr "Trigger precedente"
 
 #: Core/GObjects/OverviewControl.pas:1498
-#, fuzzy
 #| msgid "Use trigger"
 msgid "Next trigger"
-msgstr "Usa trigger"
+msgstr ""
 
 #: Core/GObjects/RecorderDataGraph.pas:1920
-#, fuzzy
 #| msgid "Remove display"
 msgid "Time display"
-msgstr "Elimina display"
+msgstr ""
 
 #: Core/GObjects/RecorderDataGraph.pas:1924
 msgid "Absolute (day+time)"
 msgstr "Assoluto (day+time)"
 
 #: Core/GObjects/RecorderDataGraph.pas:1929
-#, fuzzy
-#| msgid "Overall value"
 msgid "Real value"
-msgstr "Valore overall"
+msgstr "Valore reale"
 
 #: Core/GObjects/RecorderDataGraph.pas:1934
 msgid "Show frame"
@@ -26858,28 +26731,20 @@ msgid "Show events"
 msgstr "Mostra eventi"
 
 #: Core/GObjects/RecorderDataGraph.pas:1936
-#, fuzzy
-#| msgid "Draw sample points"
 msgid "Show sample points"
-msgstr "Disegna campioni singoli"
+msgstr "Disegna campioni"
 
 #: Core/GObjects/RecorderDataGraph.pas:1937
-#, fuzzy
-#| msgid "Number of asynchronous analog out channels"
 msgid "Interpolate asynchronous channels"
-msgstr "Num canali analogici asincroni uscita"
+msgstr "Interpola canali asincroni"
 
 #: Core/GObjects/RecVControl.pas:2018
-#, fuzzy
-#| msgid "Show cursor values"
 msgid "Show cursor during acquisition"
-msgstr "Mostra valori cursore"
+msgstr "Mostra cursore durante acquizione"
 
 #: Core/GObjects/RecVControl.pas:2019
-#, fuzzy
-#| msgid "Show cursor values"
 msgid "Show cursor table"
-msgstr "Mostra valori cursore"
+msgstr "Mostra tabella cursori"
 
 #: Core/GObjects/RecVControl.pas:2635
 msgid "Different channel types (sync/async/single value) not supported"
@@ -26976,7 +26841,7 @@ msgstr "La calibrazione richiede almeno due punti"
 
 #: Core/GObjects/VertRecVControl.pas:170
 msgid "Rec"
-msgstr "Rec"
+msgstr ""
 
 #: Core/GObjects/VertRecVControl.pas:1866
 msgid "Alarm levels"
@@ -27056,10 +26921,9 @@ msgid "Damping factor marker"
 msgstr ""
 
 #: Core/GObjects/Visuals/GroupFrameUnit.pas:116
-#, fuzzy
 #| msgid "FFT"
 msgid "OFF"
-msgstr "FFT"
+msgstr ""
 
 #: Core/GObjects/Visuals/OrbitVCFrameUnit.pas:124
 msgid "Raw data"
@@ -27175,13 +27039,13 @@ msgstr "Impulso negativo"
 #: Core/GObjects/Visuals/TriggerCondFrameUnit.pas:253
 #: Core/Objects/TriggerUnit.pas:1866 Core/Objects/TriggerUnit.pas:1868
 msgid "longer than"
-msgstr "piů breve di"
+msgstr "più breve di"
 
 #: Core/GObjects/Visuals/TriggerCondFrameUnit.pas:243
 #: Core/GObjects/Visuals/TriggerCondFrameUnit.pas:254
 #: Core/Objects/TriggerUnit.pas:1866 Core/Objects/TriggerUnit.pas:1868
 msgid "shorter than"
-msgstr "piů lungo di"
+msgstr "più lungo di"
 
 #: Core/GObjects/Visuals/VideoVCFrameUnit.pas:307
 msgid "NO CAMERA"
@@ -27844,10 +27708,9 @@ msgid ""
 msgstr ""
 
 #: Core/MathObjects/MathPowerUnit.pas:6482
-#, fuzzy
 #| msgid "Frequency of rotation"
 msgid "Frequency source not available"
-msgstr "Frequenza di rotazione"
+msgstr ""
 
 #: Core/MathObjects/MathPowerUnit.pas:7095 Core/Objects/ExtensionsUnit.pas:771
 msgid "Electrical measurements"
@@ -28177,7 +28040,7 @@ msgstr ""
 #: Core/MathObjects/CAMath/Visuals/CAFormulaEditorUnit.pas:476
 #: Core/MathObjects/CAMath/Visuals/CAFormulaEditorUnit.pas:572
 msgid "Id"
-msgstr "ID"
+msgstr ""
 
 #: Core/MathObjects/CAMath/Visuals/CAFormulaEditorUnit.pas:383
 #: Core/MathObjects/CAMath/Visuals/CAFormulaEditorUnit.pas:478
@@ -28552,7 +28415,7 @@ msgstr ""
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.pas:1239
 #: Core/MathObjects/Visuals/PowerSetupUnit.pas:787
 msgid "Harmonics will be calculated up to"
-msgstr "Harmonics sarà calculated up to"
+msgstr ""
 
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.pas:1239
 #: Core/MathObjects/Visuals/PowerSetupUnit.pas:787
@@ -28672,7 +28535,7 @@ msgstr ""
 #: Core/Objects/CommObject.pas:1432 Core/Objects/CommObject.pas:2067
 #: Core/Objects/CommObject.pas:3338
 msgid "Error while exporting"
-msgstr "Errore esportazione"
+msgstr "Errore durante esportazione"
 
 #: Core/Objects/CommObject.pas:1469
 msgid "Reduced data export not supported in this format"
@@ -29057,10 +28920,9 @@ msgid "Function generator"
 msgstr "Generatore Funzioni"
 
 #: Core/Objects/SetupModulesUnit.pas:1007
-#, fuzzy
 #| msgid "Function generator"
 msgid "No license for function generator"
-msgstr "Generatore Funzioni"
+msgstr ""
 
 #: Core/Objects/SetupModulesUnit.pas:1038
 msgid "GPS device settings."
@@ -29241,10 +29103,9 @@ msgid "Show profiler"
 msgstr ""
 
 #: Core/Objects/ShortcutMappingUnit.pas:311
-#, fuzzy
 #| msgid "Set storing"
 msgid "Pause storing"
-msgstr "Edit"
+msgstr ""
 
 #: Core/Objects/StoreUnit.pas:1927
 msgid "Slow storing started"
@@ -30739,10 +30600,8 @@ msgid "Dewesoft manual is not installed!"
 msgstr ""
 
 #: DEWEsoft/MainUnit.pas:11358
-#, fuzzy
-#| msgid "DirectX 8.0 or later not installed"
 msgid "Dewesoft tutorials are not installed!"
-msgstr "DirectX 8.0 non installate"
+msgstr "I tutorial Dewesoft non sono installati!"
 
 #: DEWEsoft/MainUnit.pas:11385
 msgid "Could not open document"
@@ -30907,16 +30766,13 @@ msgid "Developer"
 msgstr ""
 
 #: DEWEsoft/MainUnit.pas:18317
-#, fuzzy
-#| msgid "Unable to create the file!"
 msgid "Unable to start steps recorder"
-msgstr "Impossibile creazione  file!"
+msgstr ""
 
 #: DEWEsoft/MainUnit.pas:18328
-#, fuzzy
 #| msgid "Unable to open"
 msgid "Unable to stop steps recorder"
-msgstr "Impossibile aprire"
+msgstr ""
 
 #: DEWEsoft/MainUnit.pas:18344
 msgid "Fan on"
@@ -31032,10 +30888,9 @@ msgid "Export rate"
 msgstr ""
 
 #: SharedLib/DS.UI.DSChannelsGridUnit.pas:944
-#, fuzzy
 #| msgid "Buffer used"
 msgid "Buffer size"
-msgstr "Buffer usato"
+msgstr ""
 
 #: SharedLib/DS.UI.DSComponentsUnit.pas:4183
 #: SharedLib/DS.UI.DSComponentsUnit.pas:4212
@@ -31823,7 +31678,7 @@ msgstr ""
 
 #: Visuals/Frames/Settings/LicensingFrameUnit.pas:615
 msgid "stored on"
-msgstr ""
+msgstr "memorizzato su"
 
 #: Visuals/Frames/Settings/LicensingFrameUnit.pas:627
 msgid "Expired"
@@ -31831,11 +31686,11 @@ msgstr "Scaduto"
 
 #: Visuals/Frames/Settings/LicensingFrameUnit.pas:629
 msgid "Unregistered"
-msgstr ""
+msgstr "Non registrato"
 
 #: Visuals/Frames/Settings/LicensingFrameUnit.pas:692
 msgid "Key"
-msgstr "Key"
+msgstr ""
 
 #: Visuals/Frames/Settings/LicensingFrameUnit.pas:702
 msgid "plugin"
