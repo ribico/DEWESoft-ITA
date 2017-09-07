@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2017-08-31 16:50\n"
-"PO-Revision-Date: 2017-09-07 17:41+0200\n"
+"PO-Revision-Date: 2017-09-07 18:32+0200\n"
 "Last-Translator: Somebody <your.email@address.com>\n"
 "Language-Team: \n"
 "Language: it\n"
@@ -2765,27 +2765,27 @@ msgstr "Esegui bilanciamento sensori su tutti i canali bridge"
 #. ADCardSetupFrame..ChZeroPopupMenu..ResetSensorBalanceAllMenuItem2..Caption
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.dfm:380
 msgid "Bridge reset sensor balance on all channels"
-msgstr "Esegui reset sensore su tutti i canali bridge"
+msgstr "Annulla bilanciamento su tutti i canali bridge"
 
 #. ADCardSetupFrame..ChZeroPopupMenu..DAQPBridgeABAutoAmplZero..Caption
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.dfm:384
 msgid "Bridge amplifier balance on all channels"
-msgstr "Esegui bilanciamento amplificatore su tutti i canali bridge"
+msgstr "Bilancia tutti amplificatori bridge"
 
 #. ADCardSetupFrame..ChZeroPopupMenu..ShuntCalCheckallAutoMenuItem..Caption
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.dfm:388
 msgid "Bridge shunt cal check on all channels"
-msgstr "Esegui verifca shunt cal su tutti i canali bridge"
+msgstr "Verifca shunt cal su tutti i canali bridge"
 
 #. ADCardSetupFrame..ChZeroPopupMenu..LeadwireCompAllAutoMenuItem..Caption
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.dfm:392
 msgid "Lead wire compensation on all channels"
-msgstr "Esegui compensazione lead wire su tutti i canali"
+msgstr "Compensazione lead wire su tutti i canali"
 
 #. ADCardSetupFrame..ChZeroPopupMenu..SelftestAllAutoMenuItem..Caption
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.dfm:397
 msgid "Selftest on all channels"
-msgstr "Esegui autodiagnosi su tutti i canali"
+msgstr "Autodiagnosi su tutti i canali"
 
 #. ADCardSetupFrame..ChZeroPopupMenu..ChargeResetAllAutoMenuItem..Caption
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.dfm:405
@@ -2815,7 +2815,7 @@ msgstr ""
 #. ADCardSetupFrame..AmplifierPopUpMenu..SetAllAmplHighestRangeMenuItem..Caption
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.dfm:436
 msgid "Set highest range all"
-msgstr ""
+msgstr "Imposta range massimo su tutti"
 
 #. ADCardSetupFrame..AmplifierPopUpMenu..SetAllAmplBestRangeMenuItem..Caption
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.dfm:440
@@ -2830,76 +2830,76 @@ msgstr "Imposta filtro a freq max su tutti"
 #. ADCardSetupFrame..AmplifierPopUpMenu..SetAllAmplSRFilterMenuItem..Caption
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.dfm:452
 msgid "Set filters to 40% of sample rate all"
-msgstr ""
+msgstr "Imposta filtri al 40% del campionamento su tutti"
 
 #. ADCardSetupFrame..AmplifierPopUpMenu..SetAllAmplCustomFilterMenuItem..Caption
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.dfm:456
 msgid "Set filters to custom value all..."
-msgstr ""
+msgstr "Imposta filtri personalizzati su tutti..."
 
 #. ADCardSetupFrame..AmplifierPopUpMenu..DAQPBridgeAB1..Caption
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.dfm:465
 msgid "Bridge amplifiers"
-msgstr ""
+msgstr "Amplificatori bridge"
 
 #. ADCardSetupFrame..AmplifierPopUpMenu..DAQPBridgeAB1..BridgeABsensorzero1..Caption
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.dfm:467
 msgid "Sensor balance all"
-msgstr ""
+msgstr "Bilancia sensore su tutti"
 
 #. ADCardSetupFrame..AmplifierPopUpMenu..DAQPBridgeAB1..ResetSensorBalanceAllMenuItem..Caption
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.dfm:471
 msgid "Reset sensor balance all"
-msgstr ""
+msgstr "Annulla bilanciamento sensori su tutti"
 
 #. ADCardSetupFrame..AmplifierPopUpMenu..DAQPBridgeAB1..BridgeAmplifierZero..Caption
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.dfm:475
 msgid "Amplifier balance all"
-msgstr ""
+msgstr "Bilancia tutti amplificatori"
 
 #. ADCardSetupFrame..AmplifierPopUpMenu..DAQPBridgeAB1..BridgeShortOnMenuItem..Caption
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.dfm:480
 msgid "Short on all"
-msgstr ""
+msgstr "Metti tutti in corto"
 
 #. ADCardSetupFrame..AmplifierPopUpMenu..DAQPBridgeAB1..BridgeShortOffMenuItem..Caption
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.dfm:483
 msgid "Short off all"
-msgstr ""
+msgstr "Annulla corto su tutti"
 
 #. ADCardSetupFrame..AmplifierPopUpMenu..DAQPBridgeAB1..BridgeABshunton..Caption
 #. MainForm..BridgeABPopupMenu..ShuntonallMenuItem..Caption
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.dfm:487
 #: DEWEsoft/MainUnit.dfm:21254
 msgid "Shunt on all"
-msgstr ""
+msgstr "Attiva shunt su tutti"
 
 #. ADCardSetupFrame..AmplifierPopUpMenu..DAQPBridgeAB1..ShuntCalCheckMenuItem..Caption
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.dfm:491
 msgid "Shunt cal check all"
-msgstr ""
+msgstr "Verifica shunt cal su tutti"
 
 #. ADCardSetupFrame..AmplifierPopUpMenu..DAQPBridgeAB1..SelftestCheckMenuItem..Caption
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.dfm:495
 msgid "Selftest all"
-msgstr ""
+msgstr "Autodiagnosi su tutti"
 
 #. ADCardSetupFrame..AmplifierPopUpMenu..ChargeAmplMenuItem..Caption
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.dfm:501
 msgid "Charge amplifiers"
-msgstr ""
+msgstr "Amplificatori di carica"
 
 #. ADCardSetupFrame..AmplifierPopUpMenu..ChargeAmplMenuItem..ChargeResetAllMenuItem..Caption
 #. MainForm..BridgeABPopupMenu..ChaResetAllMenuItem..Caption
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.dfm:509
 #: DEWEsoft/MainUnit.dfm:21291
 msgid "Charge reset all"
-msgstr ""
+msgstr "Annulla carica su tutti"
 
 #. ADCardSetupFrame..AmplifierPopUpMenu..ChargeAmplMenuItem..CapCheckAllMenuItem..Caption
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.dfm:513
 msgid "Capacity check all"
-msgstr ""
+msgstr "Verifica capacità su tutti"
 
 #. ADCardSetupFrame..AmplifierPopUpMenu..DAQPXXsetPowerOnDefault1..Caption
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.dfm:518
@@ -2911,27 +2911,27 @@ msgstr "Imposta power on default"
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.dfm:522
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.pas:584
 msgid "Reset power on default"
-msgstr ""
+msgstr "Annulla impostazioni power on default"
 
 #. ADCardSetupFrame..AmplifierPopUpMenu..RescanModulesMenuItem..Caption
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.dfm:527
 msgid "Rescan DSI/TEDS"
-msgstr ""
+msgstr "Aggiorna DSI/TEDS"
 
 #. ADCardSetupFrame..ModulesPopupMenu..AmplRescanMenuItem..Caption
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.dfm:568
 msgid "Rescan amplifier"
-msgstr ""
+msgstr "Aggiorna amplificatori"
 
 #. ADCardSetupFrame..ModulesPopupMenu..OfflinesetupMenuItem..Caption
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.dfm:577
 msgid "Offline setup..."
-msgstr ""
+msgstr "Setup offline..."
 
 #. ADCardSetupFrame..ModulesPopupMenu..AmplClearMenuItem..Caption
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.dfm:582
 msgid "Clear amplifier"
-msgstr ""
+msgstr "Elimina amplificatore"
 
 #. ADCardSetupFrame..MinTypicalPopupMenu..SetAutoMinMenuItem..Caption
 #. ADCardSetupFrame..MaxTypicalPopupMenu..SetAutoMaxMenuItem..Caption
@@ -2970,7 +2970,7 @@ msgstr ""
 #: Core/Daq/DaqCards/Visuals/AOChannelSetupUnit.dfm:47
 #: Core/Sequencer/Visuals/SeqSettingsFrameUnit.dfm:17
 msgid "General settings"
-msgstr ""
+msgstr "Impostazioni generali"
 
 #. AOChannelSetup..Panel2..Panel1..PreviewGroupBox..Caption
 #: Core/Daq/DaqCards/Visuals/AOChannelSetupUnit.dfm:144
@@ -2980,7 +2980,7 @@ msgstr ""
 #. AOChannelSetup..Panel2..SignalSettingsGroupBox..Caption
 #: Core/Daq/DaqCards/Visuals/AOChannelSetupUnit.dfm:164
 msgid "Signal settings"
-msgstr ""
+msgstr "Impostazioni segnale"
 
 #. AOChannelSetup..Panel2..SignalSettingsGroupBox..ChannelUsageLabel..Caption
 #: Core/Daq/DaqCards/Visuals/AOChannelSetupUnit.dfm:171
@@ -3397,7 +3397,7 @@ msgstr ""
 #: Core/MathObjects/Visuals/AmplExtractMathSetupUnit.pas:647
 #: Visuals/Forms/AOFormUnit.pas:199 Visuals/Forms/AOFormUnit.pas:251
 msgid "Custom"
-msgstr ""
+msgstr "Personalizzato"
 
 #. AOChannelSetup..Panel2..SignalSettingsGroupBox..PageControl..ChannelTabSheet..Label1..Caption
 #: Core/Daq/DaqCards/Visuals/AOChannelSetupUnit.dfm:682
@@ -4533,7 +4533,7 @@ msgstr ""
 #: Core/GObjects/ScopeVControl.pas:900 Core/GObjects/ScopeVControl.pas:2254
 #: Core/MathObjects/ScopeMathUnit.pas:882 Core/Objects/DisplayFrames.pas:1339
 msgid "Scope"
-msgstr "Oscillo"
+msgstr "Oscilloscopio"
 
 #. ChannelSetupExForm..BlockDiagPanel..Panel8..Panel14..SetupGraphPanel..SetupGraphPageCtrl..FFTGraphTab..Caption
 #. MainForm..MainAdvToolBar..DesignPage..AdvToolBar2..VCFFTToolButton..Hint
@@ -6474,7 +6474,7 @@ msgstr ""
 #: Core/GObjects/DigitalVC.pas:2005
 #: Core/GObjects/Visuals/MeterVCFrameUnit.pas:124
 msgid "Medium"
-msgstr ""
+msgstr "Medio"
 
 #. FrameAshtechGPS..ControlsPanel..DMGreenRadioButton..Caption
 #: Core/Daq/GPS/Visuals/AshTechGPSFrame.dfm:490
@@ -7700,7 +7700,7 @@ msgstr ""
 #. AxisFrame..DefineTableButton..Caption
 #: Core/Data/Visuals/AxisFrameUnit.dfm:122
 msgid "Define table"
-msgstr ""
+msgstr "Definisci tabella"
 
 #. AxisFrame..AutoCheckBox..Caption
 #. VectorScopeVCFrame..PageControl..CommonTS..Panel3..AutoCheckBox..Caption
@@ -8581,7 +8581,7 @@ msgstr "Indicatore analogico"
 #: Core/GObjects/Visuals/AnalogVCFrameUnit.dfm:391
 #: Core/GObjects/AnalogMeter.pas:798
 msgid "Compass"
-msgstr ""
+msgstr "Bussola"
 
 #. AnalogVCFrame..PageControl..CommonTS..MaxShownValPanel..Caption
 #. BarVCFrame..PageControl..CommonTS..MaxShownValPanel..Caption
@@ -8742,7 +8742,7 @@ msgstr "Mostra abs/min/max"
 #: Core/GObjects/Visuals/InputFrameUnit.dfm:254 Core/GObjects/BarMeter.pas:952
 #: Core/GObjects/DigitalVC.pas:1782
 msgid "Show caption"
-msgstr "Mostra nome"
+msgstr "Mostra intestazione"
 
 #. BarVCFrame..PageControl..CommonTS..DrawingOptionsPanel..SingleAxisCheckBox..Caption
 #: Core/GObjects/Visuals/BarVCFrameUnit.dfm:393 Core/GObjects/BarMeter.pas:954
@@ -8804,7 +8804,7 @@ msgstr ""
 #: Core/GObjects/Visuals/ButtonControlFrame.dfm:395
 #: Core/GObjects/ButtonControl.pas:265
 msgid "Show channel name"
-msgstr ""
+msgstr "Mostra nome canale"
 
 #. ButtonVCFrame..PageControl..CommonTS..OptionsPanel..ShowDescriptionCombo..Caption
 #: Core/GObjects/Visuals/ButtonControlFrame.dfm:408
@@ -8943,7 +8943,7 @@ msgstr "Bordo"
 #. CampbellVCFrame..PageControl..CommonTS..OptionsPanel..CircStyleComboBox....Items.Strings
 #: Core/GObjects/Visuals/CampbellVCFrameUnit.dfm:219
 msgid "Fill"
-msgstr "Pieno"
+msgstr "Riempi"
 
 #. CampbellVCFrame..PageControl..CommonTS..AdvCursorTypePanel..Caption
 #. CampbellVCFrame..PageControl..CommonTS..AdvCursorTypePanel..InteractionLabel..Caption
@@ -8975,7 +8975,7 @@ msgstr "Mostra valori markers"
 #: Core/GObjects/Visuals/CampbellVCFrameUnit.dfm:419
 #: Core/GObjects/Visuals/Graph3DFrameUnit.dfm:159
 msgid "Projection"
-msgstr ""
+msgstr "Projezione"
 
 #. CApvVCFrame..PageControl..CommonTS..ScaleTypePanel..Caption
 #. VideoVCFrame..PageControl..MeasureTS..IRPanelM..ScaleTypeLabel..Caption
@@ -9267,7 +9267,7 @@ msgstr ""
 #: Visuals/Forms/TriggerSetupUnit.dfm:11518
 #: Core/MathObjects/Visuals/MathStatSetupUnit.pas:695
 msgid "Overlap"
-msgstr ""
+msgstr "Sovrapposizione"
 
 #. CPBVCFrame..PageControl..CommonTS..FFTAvePanel..FFTAveTypeLabel..Caption
 #. FFTVCFrame..PageControl..CommonTS..MainPageControl..HistoryTabSheet..AveragePanel..BaseHistoryOptionsPanel..FFTAveTypeLabel..Caption
@@ -10434,7 +10434,7 @@ msgstr "Asse singolo"
 #: Core/Daq/Amplifiers/AmplConstUnit.pas:492 Core/GObjects/AnalogMeter.pas:797
 #: Core/GObjects/GroupControl.pas:989
 msgid "Full"
-msgstr "Pieno"
+msgstr "Intero"
 
 #. Graph2DVCFrame..PageControl..CommonTS..DisplayOptionsPanel..DisplayOptionsAdvPanel..Persistance..Caption
 #. XYRecVCFrame..PageControl..CommonTS..SetupPagePanel..pOT..cbOTMode....Items.Strings
@@ -10547,7 +10547,7 @@ msgstr ""
 #. Graph3DVCFrame..PageControl..CommonTS..DisplayOptionsPanel..CBKeepAspectRatio..Caption
 #: Core/GObjects/Visuals/Graph3DFrameUnit.dfm:919
 msgid "Keep aspect ratio"
-msgstr ""
+msgstr "Mantieni proporzioni"
 
 #. Graph3DVCFrame..PageControl..CommonTS..DisplayOptionsPanel..ComboDisplayType....Items.Strings
 #. LineDOFrame..OvDisplayTypePanel..StyleComboBox....Items.Strings
@@ -10590,14 +10590,14 @@ msgstr ""
 #. Graph3DVCFrame..PageControl..CommonTS..CursorPanel..CursorTypeCombo....Items.Strings
 #: Core/GObjects/Visuals/Graph3DFrameUnit.dfm:1232
 msgid "Single point cursor"
-msgstr ""
+msgstr "Cursore singolo"
 
 #. Graph3DVCFrame..PageControl..CommonTS..CursorPanel..CursorTypeCombo....Items.Strings
 #. XYRecVCFrame..PageControl..CommonTS..SetupPagePanel..CursorTypePanel..CursorTypeComboBox....Items.Strings
 #: Core/GObjects/Visuals/Graph3DFrameUnit.dfm:1233
 #: Core/GObjects/Visuals/XYRecVCFrameUnit.dfm:1363
 msgid "Delta cursor"
-msgstr ""
+msgstr "Cursore delta"
 
 #. Graph3DVCFrame..PageControl..CommonTS..CursorPanel..CursorTypeCombo....Items.Strings
 #. Graph3DVCFrame..PageControl..CommonTS..MissDistancePanel..Caption
@@ -10609,7 +10609,7 @@ msgstr ""
 #. Graph3DVCFrame..PageControl..CommonTS..CursorPanel..CursorTypeCombo....Items.Strings
 #: Core/GObjects/Visuals/Graph3DFrameUnit.dfm:1235
 msgid "Info channels cursor"
-msgstr ""
+msgstr "Cursore info canale"
 
 #. Graph3DVCFrame..PageControl..CommonTS..CursorPanel..CBShowTable..Caption
 #: Core/GObjects/Visuals/Graph3DFrameUnit.dfm:1242
@@ -10763,7 +10763,7 @@ msgstr "Proporzionale"
 #. ImageVCFrame..PageControl..CommonTS..DisplayPanel..HighQualityCB..Caption
 #: Core/GObjects/Visuals/ImageFrameUnit.dfm:122
 msgid "Hiqh quality stretching"
-msgstr ""
+msgstr "Ridimensiona alta qualità"
 
 #. ImageVCFrame..PageControl..CommonTS..ImagePanel..Caption
 #: Core/GObjects/Visuals/ImageFrameUnit.dfm:137
@@ -10908,7 +10908,7 @@ msgstr "Pausa"
 #. MainForm..MainAdvToolBar..MeasurePage..DataControlToolBar..FreezeButton..Caption
 #: Core/GObjects/Visuals/InputFrameUnit.dfm:688 DEWEsoft/MainUnit.dfm:5122
 msgid "Freeze"
-msgstr "Congela"
+msgstr ""
 
 #. InputVCFrame..PageControl..CommonTS..DewesoftActionPanel..cbDewesoftAction....Items.Strings
 #. MainForm..MainAdvToolBar..ChSetupPage..SetupSaveToolbar..SetupRecordToolButton..Caption
@@ -11067,7 +11067,7 @@ msgstr "Forma"
 #. LineDOFrame..ShapePanel..Label1..Caption
 #: Core/GObjects/Visuals/LineDOFrameUnit.dfm:418
 msgid "Hold \"shift\" to draw more lines..."
-msgstr ""
+msgstr "Premi \"SHIFT\" per più linee..."
 
 #. LineDOFrame..ShapePanel..ClosedCheckBox..Caption
 #: Core/GObjects/Visuals/LineDOFrameUnit.dfm:426
@@ -11097,7 +11097,7 @@ msgstr ""
 #: Core/MathObjects/PIDTuningUnit.dfm:4058 Core/GObjects/DigitalVC.pas:2004
 #: Core/GObjects/Visuals/MeterVCFrameUnit.pas:123
 msgid "Fast"
-msgstr ""
+msgstr "Veloce"
 
 #. MeterVCFrame..PageControl..CommonTS..OvDisplayTypePanel..UpdateRateComboBox....Items.Strings
 #. PIDTuningForm..AdvCaptionPanel5..RuleDsgnPageCtrl..LambdaTabSheet..Panel1..LoopSpeedCbox....Items.Strings
@@ -11105,7 +11105,7 @@ msgstr ""
 #: Core/MathObjects/PIDTuningUnit.dfm:4060 Core/GObjects/DigitalVC.pas:2006
 #: Core/GObjects/Visuals/MeterVCFrameUnit.pas:125
 msgid "Slow"
-msgstr ""
+msgstr "Lento"
 
 #. MeterVCFrame..PageControl..CommonTS..OvDisplayTypePanel..UpdateRateComboBox....Items.Strings
 #: Core/GObjects/Visuals/MeterVCFrameUnit.dfm:140
@@ -15798,7 +15798,7 @@ msgstr ""
 #: Core/Objects/SetupModulesUnit.pas:1200
 #: Visuals/Forms/ChannelRemappingFormUnit.pas:185
 msgid "Counters"
-msgstr ""
+msgstr "Contatori"
 
 #. MathOrderTrackingSetupFrame..MainFreqSourcePanel..FreqSourceCBox....Items.Strings
 #: Core/MathObjects/Visuals/MathOrderTrackingSetupUnit.dfm:140
@@ -17932,18 +17932,18 @@ msgstr ""
 #: DEWEsoft/MainUnit.dfm:19436 DEWEsoft/MainUnit.dfm:19581
 #: Visuals/Frames/PropertiesViewPanelFrameUnit.dfm:166
 msgid "Tree view"
-msgstr ""
+msgstr "Vista albero"
 
 #. DSUnitTestMainForm..TreeViewPanel..FilesViewPanel..FilesPageControl..ListViewTabSheet..Caption
 #: Core/Sequencer/DSUnit/Visuals/DSUnitTestMainFormUnit.dfm:81
 msgid "Flat view (random list)"
-msgstr ""
+msgstr "Vista piatta (lista casuale)"
 
 #. DSUnitTestMainForm..TreeViewPanel..FilesViewPanel..FilesPageControl..ListViewTabSheet..DoRandomButton..Caption
 #: Core/Sequencer/DSUnit/Visuals/DSUnitTestMainFormUnit.dfm:100
 #: Core/MathObjects/Visuals/ShakerControlSetupUnit.pas:452
 msgid "Random"
-msgstr ""
+msgstr "Casuale"
 
 #. DSUnitTestMainForm..TreeViewPanel..FilesViewPanel..FilesPageControl..ListViewTabSheet..DoSortButton..Caption
 #: Core/Sequencer/DSUnit/Visuals/DSUnitTestMainFormUnit.dfm:109
@@ -19502,7 +19502,7 @@ msgstr ""
 #. ChannelSelectFrame..PopupMenu..ChannelSetupItem..Caption
 #: DEWEsoft/MainUnit.dfm:2268 Visuals/Frames/ChannelSelectFrameUnit.dfm:54
 msgid "Ch. setup"
-msgstr ""
+msgstr "Setup ch."
 
 #. MainForm..MainAdvToolBar..ChSetupPage..SetupRemoteToolBar..RemoteTransferButton..Caption
 #. MainForm..MainAdvToolBar..MeasurePage..DataControlToolBar..TransferToolButton..Caption
@@ -19834,12 +19834,12 @@ msgstr ""
 #. MainForm..MainPageControl..DisplaysTabSheet..SettingsMenu..SettingsButtonPanel..DesignGlowButton..Hint
 #: DEWEsoft/MainUnit.dfm:12174 DEWEsoft/MainUnit.dfm:18800
 msgid "Design"
-msgstr ""
+msgstr "Modifica"
 
 #. MainForm..MainAdvToolBar..DesignPage..DesignInstrumentsToolBar..CompactCaption
 #: DEWEsoft/MainUnit.dfm:12191
 msgid "Instruments"
-msgstr ""
+msgstr "Strumenti"
 
 #. MainForm..MainAdvToolBar..DesignPage..DesignInstrumentsToolBar..VCRecToolButton..Hint
 #. overview
@@ -19851,7 +19851,7 @@ msgstr "Registratore"
 #. MainForm..MainAdvToolBar..DesignPage..DesignInstrumentsToolBar..VCVRecToolButton..Hint
 #: DEWEsoft/MainUnit.dfm:12360
 msgid "Vertical recorder"
-msgstr ""
+msgstr "Registratore verticale"
 
 #. MainForm..MainAdvToolBar..DesignPage..DesignInstrumentsToolBar..VCXYToolButton..Hint
 #: DEWEsoft/MainUnit.dfm:12463 Core/GObjects/XYVControl.pas:431
@@ -19872,32 +19872,32 @@ msgstr ""
 #. MainForm..MainAdvToolBar..DesignPage..AdvToolBar22..VCDMMToolButton..Hint
 #: DEWEsoft/MainUnit.dfm:13248
 msgid "Digital meter"
-msgstr ""
+msgstr "Display digitale"
 
 #. MainForm..MainAdvToolBar..DesignPage..AdvToolBar22..VCAnalogToolButton..Hint
 #: DEWEsoft/MainUnit.dfm:13419
 msgid "Analog meter"
-msgstr ""
+msgstr "Display analogico"
 
 #. MainForm..MainAdvToolBar..DesignPage..AdvToolBar22..VCHBarToolButton..Hint
 #: DEWEsoft/MainUnit.dfm:13557
 msgid "Horizontal bar"
-msgstr ""
+msgstr "Barra orizzontale"
 
 #. MainForm..MainAdvToolBar..DesignPage..AdvToolBar22..VCVBarToolButton..Hint
 #: DEWEsoft/MainUnit.dfm:13659
 msgid "Vertical bar"
-msgstr ""
+msgstr "Barra verticale"
 
 #. MainForm..MainAdvToolBar..DesignPage..AdvToolBar22..OverloadVCToolButton..Hint
 #: DEWEsoft/MainUnit.dfm:13920
 msgid "Overload indicator"
-msgstr ""
+msgstr "Indicatore di overload"
 
 #. MainForm..MainAdvToolBar..DesignPage..DesignOthersToolBar..CompactCaption
 #: DEWEsoft/MainUnit.dfm:14210
 msgid "Other"
-msgstr ""
+msgstr "Altro"
 
 #. MainForm..MainAdvToolBar..DesignPage..DesignOthersToolBar..VCVideoToolButton..Hint
 #. MainForm..MainPageControl..ChSetupMeasTabSheet..SetupPanel..RemoteSetupPageControl..LocalTabSheet..MainOptionsPanel..SetupPageControl..VideoSetupSheet..Caption
@@ -19909,22 +19909,22 @@ msgstr ""
 #. MainForm..MainAdvToolBar..DesignPage..DesignOthersToolBar..VCBackgroundToolButton..Hint
 #: DEWEsoft/MainUnit.dfm:14558
 msgid "Static image"
-msgstr ""
+msgstr "Immagine statica"
 
 #. MainForm..MainAdvToolBar..DesignPage..DesignOthersToolBar..CustomVCToolButton..Hint
 #: DEWEsoft/MainUnit.dfm:14852
 msgid "Custom tool button"
-msgstr ""
+msgstr "Bottone strumento personallizzato"
 
 #. MainForm..MainAdvToolBar..DesignPage..DesignOthersToolBar..InputVCToolButton..Hint
 #: DEWEsoft/MainUnit.dfm:14977
 msgid "Input control display"
-msgstr ""
+msgstr "Display input"
 
 #. MainForm..MainAdvToolBar..DesignPage..DesignOthersToolBar..TabularValuesVCButton..Hint
 #: DEWEsoft/MainUnit.dfm:15178
 msgid "Tabular values display"
-msgstr ""
+msgstr "Display valori tabella"
 
 #. MainForm..MainAdvToolBar..DesignPage..DesignGraphsToolBar..Graph3DToolButton..Hint
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet2..ScrollBox1..VisualsLayoutPanel..DSPropertyGroup2..Caption
@@ -19950,12 +19950,12 @@ msgstr ""
 #. MainForm..MainAdvToolBar..DesignPage..AdvToolBar2..VCCPBToolButton..Hint
 #: DEWEsoft/MainUnit.dfm:15882
 msgid "Octave"
-msgstr ""
+msgstr "Ottave"
 
 #. MainForm..MainAdvToolBar..DesignPage..AdvToolBar2..OrbitToolButton..Hint
 #: DEWEsoft/MainUnit.dfm:16012 Core/Data/ChannelPropsUnit.pas:79
 msgid "Orbit"
-msgstr ""
+msgstr "Orbitale"
 
 #. MainForm..MainAdvToolBar..DesignPage..DesignPowerToolBar..HarmonicFFTToolButton..Hint
 #: DEWEsoft/MainUnit.dfm:16383
@@ -20110,7 +20110,7 @@ msgstr "Allarmi"
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1034
 #: Core/Objects/SetupModulesUnit.pas:2067
 msgid "System monitor"
-msgstr ""
+msgstr "Monitor sistema"
 
 #. MainForm..MainPageControl..ChSetupMeasTabSheet..SetupPanel..RemoteSetupPageControl..LocalTabSheet..MainOptionsPanel..SetupPageControl..CtrlChnTabSheet..Caption
 #: DEWEsoft/MainUnit.dfm:17944
@@ -20426,7 +20426,7 @@ msgstr ""
 #. MainForm..BridgeABPopupMenu..BridgeABsensorzero2..Caption
 #: DEWEsoft/MainUnit.dfm:21273
 msgid "Balance sensor"
-msgstr ""
+msgstr "Bilancia sensore"
 
 #. MainForm..BridgeABPopupMenu..ChGenOnFor1seclMenuItem..Caption
 #: DEWEsoft/MainUnit.dfm:21282
@@ -21034,7 +21034,7 @@ msgstr ""
 #. DaqActionsForm..Caption
 #: Visuals/Forms/DaqActionsFormUnit.dfm:4
 msgid "DAQ actions"
-msgstr ""
+msgstr "Azioni su DAQ"
 
 #. DiscreteListForm..Caption
 #: Visuals/Forms/DiscreteListFormUnit.dfm:5
@@ -21578,7 +21578,7 @@ msgstr "Setup condizioni"
 #: Visuals/Forms/TriggerSetupUnit.dfm:11278
 #: Core/GObjects/RecorderDataGraph.pas:1923
 msgid "Absolute (time only)"
-msgstr "Assoluto (time only)"
+msgstr "Assoluto (solo tempo)"
 
 #. TriggerSetupForm..Panel2..PageControl1..TimeTabSheet..Panel11..Panel10..TimeCondCombo....Items.Strings
 #: Visuals/Forms/TriggerSetupUnit.dfm:11322
@@ -22587,7 +22587,7 @@ msgstr ""
 #: Core/Objects/SetupModulesUnit.pas:2116
 #: Core/Objects/SetupModulesUnit.pas:2131
 msgid "User inputs"
-msgstr ""
+msgstr "Campi utente"
 
 #. ControlChannelsFrame..MainPanel..ButtonsPanel..ResetAllBtn..Caption
 #: Visuals/Frames/ControlChannelsFrameUnit.dfm:44
@@ -24601,7 +24601,7 @@ msgstr ""
 #: Core/Daq/Amplifiers/Visuals/DeweUSBAmplFrameUnit.pas:106
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.pas:580
 msgid "Selftest"
-msgstr ""
+msgstr "Autodiagnosi"
 
 #: Core/Daq/CAN/CanChannelPanel.pas:135
 msgid "No module"
@@ -25153,11 +25153,11 @@ msgstr "Imposta filtro a freq 40% campionamento"
 
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.pas:571
 msgid "Balance sensors"
-msgstr ""
+msgstr "Bilancia sensori"
 
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.pas:572
 msgid "Reset sensors balance"
-msgstr ""
+msgstr "Annulla bilanciamento"
 
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.pas:573
 msgid "Balance amplifiers"
@@ -26402,11 +26402,11 @@ msgstr ""
 #: Core/GObjects/AnalogMeter.pas:794
 #| msgid "Classes"
 msgid "Classic"
-msgstr ""
+msgstr "Classico"
 
 #: Core/GObjects/AnalogMeter.pas:796
 msgid "Quarter"
-msgstr ""
+msgstr "Quarto"
 
 #: Core/GObjects/BarMeter.pas:947
 #| msgid "3D bar"
@@ -26450,7 +26450,7 @@ msgstr ""
 
 #: Core/GObjects/CPBVControl.pas:868
 msgid "RMS values"
-msgstr ""
+msgstr "Valori RMS"
 
 #. noL
 #: Core/GObjects/CustomVCControl.pas:394
@@ -26460,26 +26460,26 @@ msgstr ""
 #: Core/GObjects/DataGraph.pas:395 Core/GObjects/RecorderDataGraph.pas:1919
 #| msgid "Axis 0"
 msgid "X Axis"
-msgstr ""
+msgstr "Asse X"
 
 #: Core/GObjects/DataGraph.pas:398 Core/GObjects/RecorderDataGraph.pas:1927
 #: Core/GObjects/RecVControl.pas:2007
 #| msgid "Axis 0"
 msgid "Y Axis"
-msgstr ""
+msgstr "Asse Y"
 
 #: Core/GObjects/DataGraphPanels.pas:847
 #| msgid "Axis type"
 msgid "Ticks type"
-msgstr ""
+msgstr "Tipo ticks"
 
 #: Core/GObjects/DataGraphPanels.pas:850
 msgid "Divisions"
-msgstr ""
+msgstr "Divisioni"
 
 #: Core/GObjects/DataGraphPanels.pas:859
 msgid "Major ticks step"
-msgstr ""
+msgstr "Intervallo ticks principali"
 
 #: Core/GObjects/DataGraphPanels.pas:864
 #| msgid "Number of ticks"
@@ -26509,16 +26509,16 @@ msgstr "Trascorso"
 #: Core/GObjects/DigitalVC.pas:881
 #: Core/GObjects/Visuals/DigitalVCFrameUnit.pas:99
 msgid "AO frequency"
-msgstr ""
+msgstr "Frequenza AO"
 
 #: Core/GObjects/DigitalVC.pas:1765
 #| msgid "Frequency"
 msgid "AO Frequency"
-msgstr ""
+msgstr "Frequenza AO"
 
 #: Core/GObjects/DigitalVC.pas:1781
 msgid "Use digital fonts"
-msgstr ""
+msgstr "Usa font digitale"
 
 #: Core/GObjects/DigitalVC.pas:1789 Core/GObjects/DigitalVC.pas:1801
 msgid "Increase"
@@ -26541,12 +26541,12 @@ msgstr ""
 #: Core/GObjects/DigitalVC.pas:2034
 #| msgid "Cursor color"
 msgid "Normal color"
-msgstr ""
+msgstr "Colore normale"
 
 #: Core/GObjects/DigitalVC.pas:2035
 #| msgid "Trigger on"
 msgid "Trigger color"
-msgstr ""
+msgstr "Colore trigger"
 
 #: Core/GObjects/DigitalVC.pas:2037
 msgid "Use upper limit"
@@ -26555,7 +26555,7 @@ msgstr "Usa limite sup"
 #: Core/GObjects/DigitalVC.pas:2038 Core/GObjects/DigitalVC.pas:2042
 #| msgid "Limit table"
 msgid "Limit"
-msgstr ""
+msgstr "Limite"
 
 #: Core/GObjects/DigitalVC.pas:2041
 msgid "Use lower limit"
@@ -26575,11 +26575,11 @@ msgstr "Copia gruppo su clipboard"
 
 #: Core/GObjects/FFTVControl.pas:1143 Core/GObjects/FFTVControl.pas:1395
 msgid "Maximum peaks"
-msgstr "Massimo picchi"
+msgstr "Picchi di massimo"
 
 #: Core/GObjects/FFTVControl.pas:1166 Core/GObjects/FFTVControl.pas:1533
 msgid "Marked peaks"
-msgstr ""
+msgstr "Picchi selezionati"
 
 #: Core/GObjects/FFTVControl.pas:1466
 msgid "values (zoomed)"
@@ -26712,11 +26712,11 @@ msgstr ""
 #: Core/GObjects/RecorderDataGraph.pas:1920
 #| msgid "Remove display"
 msgid "Time display"
-msgstr ""
+msgstr "Display tempo"
 
 #: Core/GObjects/RecorderDataGraph.pas:1924
 msgid "Absolute (day+time)"
-msgstr "Assoluto (day+time)"
+msgstr "Assoluto (giorno+ora)"
 
 #: Core/GObjects/RecorderDataGraph.pas:1929
 msgid "Real value"
@@ -26927,7 +26927,7 @@ msgstr ""
 
 #: Core/GObjects/Visuals/OrbitVCFrameUnit.pas:124
 msgid "Raw data"
-msgstr ""
+msgstr "Dati grezzi"
 
 #: Core/GObjects/Visuals/ScopeVCFrameUnit.pas:344
 #: Core/Objects/TriggerUnit.pas:1862 Visuals/Frames/TriggerFrameUnit.pas:278
@@ -27540,7 +27540,7 @@ msgstr "Rilevazione inviluppo"
 
 #: Core/MathObjects/MathFatigueUnit.pas:968
 msgid "Fatigue analysis"
-msgstr ""
+msgstr "Analisi a fatica"
 
 #: Core/MathObjects/MathFatigueUnit.pas:969
 msgid "Fatigue"
@@ -27779,7 +27779,7 @@ msgstr ""
 
 #: Core/MathObjects/MathSoundUnit.pas:569
 msgid "Sound level meter"
-msgstr ""
+msgstr "Misura livello acustico"
 
 #: Core/MathObjects/MathSoundUnit.pas:570
 #: Core/MathObjects/MathWeightingUnit.pas:514
@@ -27788,7 +27788,7 @@ msgstr "Acustica"
 
 #: Core/MathObjects/MathSoundUnit.pas:571
 msgid "Sound level"
-msgstr ""
+msgstr "Livello acustico"
 
 #: Core/MathObjects/MathStatUnit.pas:1326
 msgid "Basic statistics"
@@ -30890,7 +30890,7 @@ msgstr ""
 #: SharedLib/DS.UI.DSChannelsGridUnit.pas:944
 #| msgid "Buffer used"
 msgid "Buffer size"
-msgstr ""
+msgstr "Dimensione buffer"
 
 #: SharedLib/DS.UI.DSComponentsUnit.pas:4183
 #: SharedLib/DS.UI.DSComponentsUnit.pas:4212
@@ -30904,60 +30904,60 @@ msgstr ""
 
 #: SharedLib/DS.UI.DSComponentsUnit.pas:4198
 msgid "Only integer numbers are allowed"
-msgstr ""
+msgstr "Sono ammessi solo numeri interi"
 
 #: SharedLib/DS.UI.DSComponentsUnit.pas:4227
 msgid "Only numbers are allowed"
-msgstr ""
+msgstr "Sono ammessi solo numeri"
 
 #: SharedLib/DS.UI.DSComponentsUnit.pas:4236
 msgid "Not a valid IP address"
-msgstr ""
+msgstr "Indirizzo IP non valido"
 
 #: SharedLib/DS.UI.DSDrawGrid.pas:5365
 msgid "Edit columns"
-msgstr ""
+msgstr "Modifica colonne"
 
 #: SharedLib/DS.UI.DSDrawGrid.pas:5366
 msgid "Sort by this column"
-msgstr ""
+msgstr "Ordina con questa colonna"
 
 #: SharedLib/DS.UI.DSDrawGrid.pas:5367
 msgid "Unsort"
-msgstr ""
+msgstr "Rimuovi ordinamento"
 
 #: SharedLib/DS.UI.DSDrawGrid.pas:5368
 msgid "Copy visible rows"
-msgstr ""
+msgstr "Copia righe visibili"
 
 #: SharedLib/DS.UI.DSDrawGrid.pas:5369
 msgid "Copy all rows"
-msgstr ""
+msgstr "Copia tutte le righe"
 
 #: SharedLib/DS.UI.DSDrawGrid.pas:5371
 msgid "All columns"
-msgstr ""
+msgstr "Tutte le colonne"
 
 #. LL
 #: SharedLib/DS.UI.DSDrawGridColumnsEditor.pas:238
 msgid "At least one column must be visible"
-msgstr ""
+msgstr "Almeno una colonna deve essere visibile"
 
 #. Date/Time Related Messages
 #. Programmer's name for it: rsInvalidDate
 #: SharedLib/DS.Utils.ESBDates.pas:235
 msgid "Invalid date"
-msgstr ""
+msgstr "Data non valida"
 
 #. Programmer's name for it: rsInvalidTime
 #: SharedLib/DS.Utils.ESBDates.pas:236
 msgid "Invalid time"
-msgstr ""
+msgstr "Ora non valida"
 
 #. Programmer's name for it: rsInvalidDateTime
 #: SharedLib/DS.Utils.ESBDates.pas:237
 msgid "Invalid date/time"
-msgstr ""
+msgstr "Data/ora non valida"
 
 #: SharedLib/DS.Utils.Graphics.pas:460
 msgid "PolyLine resulted false"
@@ -30965,7 +30965,7 @@ msgstr "Errore PoliLinea"
 
 #: SharedLib/DS.Utils.pas:2298 SharedLib/DS.Utils.pas:2316
 msgid "Unable to move video file"
-msgstr ""
+msgstr "Impossibile spostare il file video"
 
 #: SharedLib/DS.Utils.PhysicalQuantitiesUnit.pas:345
 msgid "Stress"
