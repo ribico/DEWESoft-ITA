@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2017-08-31 16:50\n"
-"PO-Revision-Date: 2017-09-08 18:03+0200\n"
+"PO-Revision-Date: 2017-09-15 18:16+0200\n"
 "Last-Translator: Somebody <your.email@address.com>\n"
 "Language-Team: \n"
 "Language: it\n"
@@ -1794,7 +1794,7 @@ msgstr ""
 #: Core/Daq/CAN/Visuals/CanSetupFrameUnit.dfm:60
 #: Core/Daq/CAN/CanChannels.pas:2213 Visuals/Forms/MessagesFormUnit.pas:145
 msgid "Message"
-msgstr ""
+msgstr "Messaggio"
 
 #. CanSetupForm..MsgDefinitionGroupBox..RXTXPageControl..TXTabSheet..TransmitPageControl..ReferenceTabSheet..ReferenceMessageComboBox....Items.Strings
 #. CanSetupForm..MsgDefinitionGroupBox..RXTXPageControl..TXTabSheet..TransmitPageControl..ButtonTabSheet..ButtonChComboBox....Items.Strings
@@ -5029,7 +5029,7 @@ msgstr "Tipo sensore"
 #: Core/ImportObjects/Visuals/DwFileImportFrameUnit.pas:258
 #: Visuals/Forms/NETFileTransferFormUnit.pas:92
 msgid "Done"
-msgstr ""
+msgstr "Fatto"
 
 #. CNTChannelSetupForm..BasicPanel..AppPageControl..SensorTabSheet..TapeSensorPanel..Label4..Caption
 #: Core/Daq/DaqCards/Visuals/CNTChannelSetup.dfm:729
@@ -5980,7 +5980,7 @@ msgstr ""
 #: Core/Daq/DewesoftDaq/Devices/Visuals/DSDaqSettingsFrameUnit.pas:162
 #: Core/Updates/Firmware/FirmwareUpgradeFrameUnit.pas:86
 msgid "Device name"
-msgstr ""
+msgstr "Nome dispositivo"
 
 #. DSDaqDeviceSettingsFrame..ScrollBox1..LayoutPanel..InfoGroup..HWOptionsProp..Text
 #. PhysicalQuantitiesEditor..MenuPanel..SIUnitXAdvToolBarPager..AdvPage1..MiscToolBar..TextOptionMenu
@@ -6852,7 +6852,7 @@ msgstr "Tipo simulazione canali"
 #. TestMDFrame..ScrollBox..LayoutPanel..CustomDAQGroup..Caption
 #: Core/Daq/MultiDevice/Visuals/TestMDFrameUnit.dfm:190
 msgid "DAQ settings"
-msgstr ""
+msgstr "Impostazioni DAQ"
 
 #. DatumSetupFrame..CardTypeLabel2..Caption
 #. GPSTimingSetupFrame..CardTypeInfoLabel..Caption
@@ -7525,7 +7525,7 @@ msgstr ""
 #: DEWEsoft/MainUnit.pas:18205 Visuals/Forms/MessagesFormUnit.pas:87
 #: Visuals/Forms/MessagesFormUnit.pas:208
 msgid "Warning"
-msgstr ""
+msgstr "Avviso"
 
 #. CustomControllerFrame..Panel1..TrigPanel..TriggerCheckBox..Caption
 #: Core/Daq/Video/Cameras/CustomCamera/CustomControllerFrameUnit.dfm:34
@@ -9499,7 +9499,7 @@ msgstr ""
 #: Core/GObjects/RecVControl.pas:2014
 #: Core/ImportObjects/Visuals/DwFileImportFrameUnit.pas:588
 msgid "Real"
-msgstr ""
+msgstr "Reale"
 
 #. DigitalVCFrame..PageControl..CommonTS..CxPresentPanel..CxPresentCBox....Items.Strings
 #. Graph2DVCFrame..PageControl..CommonTS..ComplexPresentPanel..ComplexPresentationAdvPanel..ComplexNumComboBox....Items.Strings
@@ -9507,7 +9507,7 @@ msgstr ""
 #: Core/GObjects/Visuals/Graph2DFrameUnit.dfm:132
 #: Core/GObjects/DigitalVC.pas:1776 Core/GObjects/RecVControl.pas:2015
 msgid "Imaginary"
-msgstr ""
+msgstr "Immaginario"
 
 #. DigitalVCFrame..PageControl..CommonTS..CxPresentPanel..CxPresentCBox....Items.Strings
 #. VectorMatrixSetupFrame..UsedFiltersPanel..Caption
@@ -9515,7 +9515,7 @@ msgstr ""
 #: Core/MathObjects/Visuals/VectorMatrixSetupUnit.dfm:18
 #: Core/GObjects/DigitalVC.pas:1777
 msgid "Complex number"
-msgstr ""
+msgstr "Numero complesso"
 
 #. DigitalVCFrame..PageControl..CommonTS..TimeFormatPanel..Caption
 #. TriggerSetupForm..Panel2..PageControl1..TimeTabSheet..Panel14..Caption
@@ -9612,7 +9612,7 @@ msgstr "Elimina display"
 #: Core/MathObjects/Visuals/FIRMathSetup.dfm:353
 #: Core/Objects/DisplayFrames.pas:1346
 msgid "Custom..."
-msgstr ""
+msgstr "Personalizza..."
 
 #. DisplayPropsFrame..PageControl..DisplayTabSheet..MultiMonitorCaptionPanel..Caption
 #: Core/GObjects/Visuals/DispFrameUnit.dfm:651
@@ -11089,7 +11089,7 @@ msgstr ""
 #: Core/GObjects/Visuals/MarkerGridVCFrameUnit.dfm:48
 #: Core/Objects/ExtensionsUnit.pas:650 Visuals/Forms/VersionInfoUnit.pas:141
 msgid "Visual control"
-msgstr ""
+msgstr "Estensioni grafiche"
 
 #. MeterVCFrame..PageControl..CommonTS..OvDisplayTypePanel..UpdateRateComboBox....Items.Strings
 #. PIDTuningForm..AdvCaptionPanel5..RuleDsgnPageCtrl..LambdaTabSheet..Panel1..LoopSpeedCbox....Items.Strings
@@ -12014,22 +12014,22 @@ msgstr ""
 #. DwFileImportFrame..TopPanel..FileSelectionPanel..Caption
 #: Core/ImportObjects/Visuals/DwFileImportFrameUnit.dfm:63
 msgid "File selection"
-msgstr ""
+msgstr "Selezione files"
 
 #. DwFileImportFrame..TopPanel..FileSelectionPanel..ImportLabel..Caption
 #: Core/ImportObjects/Visuals/DwFileImportFrameUnit.dfm:78
 msgid "Import info"
-msgstr ""
+msgstr "Info importazione"
 
 #. DwFileImportFrame..TopPanel..FileSelectionPanel..ImportFiles..Caption
 #: Core/ImportObjects/Visuals/DwFileImportFrameUnit.dfm:85
 msgid "Add file(s)"
-msgstr ""
+msgstr "Aggiungi file(s)"
 
 #. DwFileImportFrame..TopPanel..FileSelectionPanel..ImportChannelsBtn..Caption
 #: Core/ImportObjects/Visuals/DwFileImportFrameUnit.dfm:94
 msgid "Import channels"
-msgstr ""
+msgstr "Importa canali"
 
 #. DwFileImportFrame..TopPanel..ReferencePanel..Caption
 #: Core/ImportObjects/Visuals/DwFileImportFrameUnit.dfm:109
@@ -12037,12 +12037,12 @@ msgstr ""
 #: Core/MathObjects/MathReferenceUnit.pas:507
 #: Core/MathObjects/MathReferenceUnit.pas:512
 msgid "Reference"
-msgstr ""
+msgstr "Riferimento"
 
 #. DwFileImportFrame..TopPanel..ReferencePanel..ReferenceLabel..Caption
 #: Core/ImportObjects/Visuals/DwFileImportFrameUnit.dfm:124
 msgid "Import reference"
-msgstr ""
+msgstr "Riferimento importazione"
 
 #. DwFileImportFrame..TopPanel..ReferencePanel..ImportOffsetLabel..Caption
 #: Core/ImportObjects/Visuals/DwFileImportFrameUnit.dfm:131
@@ -12052,12 +12052,12 @@ msgstr ""
 #. DwFileImportFrame..TopPanel..ReferencePanel..SourceFileLabel..Caption
 #: Core/ImportObjects/Visuals/DwFileImportFrameUnit.dfm:138
 msgid "Select channel from source file(s)"
-msgstr ""
+msgstr "Selezione canale dai filse sorgenti"
 
 #. DwFileImportFrame..TopPanel..ReferencePanel..DestFileLabel..Caption
 #: Core/ImportObjects/Visuals/DwFileImportFrameUnit.dfm:145
 msgid "Select channel from destination / current file"
-msgstr ""
+msgstr "Selezione canale dal file di destinazione / corrente"
 
 #. DwFileImportFrame..TopPanel..ReferencePanel..ReferenceComboBox....Items.Strings
 #. MainForm..MainAdvToolBar..ExportPage..ExportOptionsToolBar..ExportTimeButton..Caption
@@ -12068,22 +12068,22 @@ msgstr ""
 #: Visuals/Forms/ChannelSettingsFormUnit.dfm:184
 #: Core/Data/ChannelDataUnit.pas:6701
 msgid "Relative time"
-msgstr ""
+msgstr "Tempo relativo"
 
 #. DwFileImportFrame..TopPanel..ReferencePanel..ReferenceComboBox....Items.Strings
 #: Core/ImportObjects/Visuals/DwFileImportFrameUnit.dfm:179
 msgid "First trigger event"
-msgstr ""
+msgstr "Primo evento di trigger"
 
 #. DwFileImportFrame..TopPanel..ReferencePanel..ReferenceComboBox....Items.Strings
 #: Core/ImportObjects/Visuals/DwFileImportFrameUnit.dfm:180
 msgid "Channel value"
-msgstr ""
+msgstr "Valore canale"
 
 #. ImportFrame..HeaderPanel..Caption
 #: Core/ImportObjects/Visuals/ImportFrameUnit.dfm:20
 msgid "DEWESoft data file name"
-msgstr ""
+msgstr "Nome file dati DEWESoft"
 
 #. ImportFrame..HeaderPanel..Label1..Caption
 #. ImportFrame..HeaderPanel..FolderLabel..Caption
@@ -12105,14 +12105,14 @@ msgstr "Cartella"
 #. ImportFrame..SettingsPanel..Caption
 #: Core/ImportObjects/Visuals/ImportFrameUnit.dfm:65
 msgid "Importing options"
-msgstr ""
+msgstr "Opzione importazione"
 
 #. ImportFrame..Panel1..ImportButton..Caption
 #. LoadSetupFrame..MainSeqItemPanel..AdvLoadFile..bExtract..Caption
 #: Core/ImportObjects/Visuals/ImportFrameUnit.dfm:119
 #: Core/Sequencer/Items/Visuals/LoadSetupFrameUnit.dfm:61
 msgid "Import..."
-msgstr ""
+msgstr "Importa..."
 
 #. MathOtHwSetupFrame..DSLayoutPanel1..DSPropertyGroup1..MaxOrderProp..Text
 #: Core/MathObjects/MathOTHWSetupUnit.dfm:27
@@ -13727,7 +13727,7 @@ msgstr "Sempre"
 #: Core/MathObjects/Visuals/MathCaHWSetupUnit.dfm:69
 #: Visuals/Frames/AlarmsFrameUnit.dfm:74
 msgid "Never"
-msgstr ""
+msgstr "Mai"
 
 #. ComplexFFTSetupFrame..AdvCaptionPanel1..Caption
 #. MathFFTSetupFrame..CalcParametersPanel..Caption
@@ -19318,12 +19318,12 @@ msgstr "Intestazione"
 #: Core/Variables/Visuals/DataHeaderDlgUnit.dfm:31 DEWEsoft/MainUnit.dfm:17811
 #: Visuals/Frames/FileInfoFrameUnit.dfm:315
 msgid "Global header entries"
-msgstr ""
+msgstr "Campi intestazioni"
 
 #. DataHeaderForm..Panel1..DiscardButton..Caption
 #: Core/Variables/Visuals/DataHeaderDlgUnit.dfm:90
 msgid "Discard data file"
-msgstr ""
+msgstr "Scarta file dati"
 
 #. DHDesignFrame..PropertiesAdvPanel..PropertiesLayoutPanel..PropertiesGroup..DataTypeProp....ComboBox.Items.Strings
 #: Core/Variables/Visuals/DHDesignUnit.dfm:68 Core/GObjects/TextDOUnit.pas:198
@@ -19343,24 +19343,24 @@ msgstr "Testo"
 #: Core/Variables/Visuals/VariablesFrameUnit.pas:140
 #: Core/Variables/Visuals/VariablesFrameUnit.pas:305
 msgid "Integer"
-msgstr ""
+msgstr "Intero"
 
 #. DHDesignFrame..PropertiesAdvPanel..PropertiesLayoutPanel..PropertiesGroup..UniqueIDProp..Text
 #: Core/Variables/Visuals/DHDesignUnit.dfm:99
 #: Core/Variables/Visuals/CustomDesignVarGrid.pas:211
 #: Core/Variables/Visuals/VariablesFrameUnit.pas:84
 msgid "Unique ID"
-msgstr ""
+msgstr "ID univoco"
 
 #. DHDesignFrame..PropertiesAdvPanel..PropertiesLayoutPanel..PropertiesGroup..SaveLastValueProp..Text
 #: Core/Variables/Visuals/DHDesignUnit.dfm:121
 msgid "Save last value"
-msgstr ""
+msgstr "Salva ultimo valore"
 
 #. DHDesignFrame..PropertiesAdvPanel..PropertiesLayoutPanel..PropertiesGroup..InputRequiredProp..Text
 #: Core/Variables/Visuals/DHDesignUnit.dfm:162
 msgid "Input required"
-msgstr ""
+msgstr "Campo obbligatorio"
 
 #. DHDesignFrame..PropertiesAdvPanel..PropertiesLayoutPanel..PropertiesGroup..ExportedProp..Text
 #. L
@@ -19373,7 +19373,7 @@ msgstr ""
 #: Visuals/Frames/ExportSelectFrameUnit.pas:244
 #: Visuals/Frames/SetupGrid.pas:104 Visuals/Frames/SetupGridEx.pas:93
 msgid "Exported"
-msgstr ""
+msgstr "Esportato"
 
 #. DHDesignFrame..PropertiesAdvPanel..PropertiesLayoutPanel..PropertiesGroup..ResetValueOnStartAcqProp..Text
 #: Core/Variables/Visuals/DHDesignUnit.dfm:204
@@ -19653,7 +19653,7 @@ msgstr ""
 #. MainForm..MainAdvToolBar..ReviewPage..ReplayAdvToolBar..ReplaySpeedLabel..Caption
 #: DEWEsoft/MainUnit.dfm:6892
 msgid "Replay speed"
-msgstr ""
+msgstr "Velocità replay"
 
 #. MainForm..MainAdvToolBar..ReviewPage..ReplayAdvToolBar..ReplayDirectionButton..Caption
 #: DEWEsoft/MainUnit.dfm:6907 DEWEsoft/MainUnit.pas:13038
@@ -19665,7 +19665,7 @@ msgstr ""
 #: DEWEsoft/MainUnit.dfm:7531 Visuals/Forms/VideoExportUnit.dfm:304
 #: Core/Objects/ExtensionsUnit.pas:768
 msgid "Sound"
-msgstr ""
+msgstr "Audio"
 
 #. MainForm..MainAdvToolBar..ReviewPage..ReplayAdvToolBar..AOButton..Caption
 #. ChannelRemappingForm..Panel1..ComboFilter....Items.Strings
@@ -20925,7 +20925,7 @@ msgstr ""
 #. AssignShortcutForm..Label1..Caption
 #: Visuals/Forms/AssignShortcutFormUnit.dfm:31
 msgid "Press buttons to assign new shortcut."
-msgstr ""
+msgstr "Premi pulsanti per assegnare la nuova scorciatoia"
 
 #. ChInfoForm..Caption
 #: Visuals/Forms/ChannelInfoForm.dfm:4
@@ -20951,7 +20951,7 @@ msgstr ""
 #: Visuals/Frames/FileListFrameUnit.dfm:625
 #: Visuals/Frames/SetupResolveFrameUnit.dfm:10
 msgid "Remap channels"
-msgstr ""
+msgstr "Rimappa canali"
 
 #. ChannelRemappingForm..Label1..Caption
 #: Visuals/Forms/ChannelRemappingFormUnit.dfm:42
@@ -21115,7 +21115,7 @@ msgstr "Usa un altro nome"
 #. FileExistsForm..MainBackPanel..AlwaysOverwriteCheckBox..Caption
 #: Visuals/Forms/FileExistsUnit.dfm:129
 msgid "Never ask again (this session only)"
-msgstr ""
+msgstr "Non chiedere più (solo questa sessione)"
 
 #. FileExistsForm..MainBackPanel..FileExistsPanel..Caption
 #: Visuals/Forms/FileExistsUnit.dfm:139
@@ -21840,7 +21840,7 @@ msgstr ""
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:242
 #: Core/Daq/CAN/Visuals/CanSetupFrameUnit.pas:512
 msgid "messages"
-msgstr ""
+msgstr "messaggi"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet1..ScrollBox5..HardwareLayoutPanel..USBDevicesGroup..CANBufSizeProp..Description
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:243
@@ -23181,47 +23181,47 @@ msgstr "Inizia a schermo intero"
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabPerformance..ScrollBoxPerformance..PerformanceLayoutPanel..PerformanceGeneralGroup..SoftwarePriorityProp..Text
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:554
 msgid "Application process priority"
-msgstr ""
+msgstr "Priorità esecuzione applicazione"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabPerformance..ScrollBoxPerformance..PerformanceLayoutPanel..PerformanceGeneralGroup..AcquisitionUpdateRateProp..Text
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:577
 msgid "Acquisition update rate"
-msgstr ""
+msgstr "Velocità aggiornamento acquisizione"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabPerformance..ScrollBoxPerformance..PerformanceLayoutPanel..PerformanceGeneralGroup..AcquisitionUpdateRateProp..Description
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:579
 msgid "Prefered rate of acqusition loop"
-msgstr ""
+msgstr "Vel predefinita del loop di acquisizione"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabPerformance..ScrollBoxPerformance..PerformanceLayoutPanel..PerformanceGeneralGroup..DisplayUpdateRateProp..Text
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:602
 msgid "Display update rate"
-msgstr ""
+msgstr "Vel aggiornamento display"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabPerformance..ScrollBoxPerformance..PerformanceLayoutPanel..PerformanceGeneralGroup..DisplayUpdateRateProp..Description
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:604
 msgid "Prefered refresh rate of displays"
-msgstr ""
+msgstr "Vel predefinita di aggiornamento dei display"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabPerformance..ScrollBoxPerformance..PerformanceLayoutPanel..PerformanceGeneralGroup..UseMultipleCoresProp..Text
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:626
 msgid "Use multiple CPU cores if available"
-msgstr ""
+msgstr "Utilizza cores multipli della CPU se disponibili"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabPerformance..ScrollBoxPerformance..PerformanceLayoutPanel..PerformanceGeneralGroup..DecoupleAcqUIProp..Text
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:647
 msgid "Decoupled acquisition and UI"
-msgstr ""
+msgstr "Disaccoppia acquisizione e UI"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabPerformance..ScrollBoxPerformance..PerformanceLayoutPanel..PerformanceGeneralGroup..DecoupleAcqUIProp..Description
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:648
 msgid "Use dedicated thread for acquisition"
-msgstr ""
+msgstr "Usa thread dedicato per acquisizione"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabPerformance..ScrollBoxPerformance..PerformanceLayoutPanel..PerformanceMemoryGroup..SyncDBBufSizeProp..Text
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:677
 msgid "Sync DB buffer length"
-msgstr ""
+msgstr "Dimensione buffer DB sincrono"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabPerformance..ScrollBoxPerformance..PerformanceLayoutPanel..PerformanceMemoryGroup..SyncDBBufSizeProp..RightText
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabPerformance..ScrollBoxPerformance..PerformanceLayoutPanel..PerformanceMemoryGroup..AsyncDBBufSizeProp..RightText
@@ -23230,47 +23230,47 @@ msgstr ""
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:703
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:851
 msgid "seconds"
-msgstr ""
+msgstr "secondi"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabPerformance..ScrollBoxPerformance..PerformanceLayoutPanel..PerformanceMemoryGroup..SyncDBBufSizeProp..Description
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:679
 msgid "Direct buffer for synchronous channels"
-msgstr ""
+msgstr "Buffer dati per canali sincroni"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabPerformance..ScrollBoxPerformance..PerformanceLayoutPanel..PerformanceMemoryGroup..AsyncDBBufSizeProp..Text
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:702
 msgid "Async DB buffer length"
-msgstr ""
+msgstr "Dimensione buffer DB asincrono"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabPerformance..ScrollBoxPerformance..PerformanceLayoutPanel..PerformanceMemoryGroup..AsyncDBBufSizeProp..Description
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:704
 msgid "Direct buffer for asynchronous channels"
-msgstr ""
+msgstr "Buffer dati per canali asincroni"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabPerformance..ScrollBoxPerformance..PerformanceLayoutPanel..PerformanceMemoryGroup..VideoMemorySizeProp..Text
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:726
 msgid "Video memory"
-msgstr ""
+msgstr "Memoria video"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabPerformance..ScrollBoxPerformance..PerformanceLayoutPanel..PerformanceMemoryGroup..AutoIncreaseAsyncDBBufProp..Text
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:749
 msgid "Dynamically increase async DB buffer"
-msgstr ""
+msgstr "Incrementa dinamicamente buffer DB asincrono"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabPerformance..ScrollBoxPerformance..PerformanceLayoutPanel..PerformanceMemoryGroup..MaxAsyncDBBufSizeProp..Text
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:770
 msgid "Maximum async DB buffer size"
-msgstr ""
+msgstr "Dim max buffer DB asincrono"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabPerformance..ScrollBoxPerformance..PerformanceLayoutPanel..PerformanceMemoryGroup..EnableFreezeBufferProp..Text
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:794
 msgid "Freeze buffer mode"
-msgstr ""
+msgstr "Modalità freeze buffer"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabPerformance..ScrollBoxPerformance..PerformanceLayoutPanel..PerformanceMemoryGroup..EnableFreezeBufferProp..Description
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:795
 msgid "Freeze buffers require additional memory"
-msgstr ""
+msgstr "Il buffer freeze richiede memoria aggiuntiva"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabPerformance..ScrollBoxPerformance..PerformanceLayoutPanel..PerformanceMemoryGroup..EnableFreezeBufferProp....ComboBox.Items.Strings
 #. SecurityFrame..AdvCaptionPanel1..ButtonLockSetupFile..Caption
@@ -23288,22 +23288,22 @@ msgstr "Abilitato"
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabPerformance..ScrollBoxPerformance..PerformanceLayoutPanel..PerformanceAOGroup..AOFillBufferProp..Text
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:828
 msgid "Fill samples when buffer is more than"
-msgstr ""
+msgstr "Riempi campioni quando il buffer è più del"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabPerformance..ScrollBoxPerformance..PerformanceLayoutPanel..PerformanceAOGroup..AOFillBufferProp..RightText
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:829
 msgid "% full."
-msgstr ""
+msgstr "% pieno."
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabPerformance..ScrollBoxPerformance..PerformanceLayoutPanel..PerformanceAOGroup..AOBufSizeProp..Text
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:850
 msgid "AO buffer length"
-msgstr ""
+msgstr "Dimensione buffer AO"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabPerformance..ScrollBoxPerformance..PerformanceLayoutPanel..PerformanceAOGroup..AOBufSizeProp..Description
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:852
 msgid "Buffer for \"analog out\" channels"
-msgstr ""
+msgstr "Buffer per canali analogici di uscita"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabInterface..Caption
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabInterface..DSNavigationBar5..FirstItemName
@@ -23317,12 +23317,12 @@ msgstr "Interfaccia"
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:911
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:919
 msgid "Language"
-msgstr ""
+msgstr "Lingua"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabInterface..ScrollBoxInterface..InterfaceLayoutPanel..DisplaysGroup..FontSizeProp..Text
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:948
 msgid "Font size"
-msgstr ""
+msgstr "Dim carattere"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabInterface..ScrollBoxInterface..InterfaceLayoutPanel..DisplaysGroup..BackgroundColorProp..Text
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:971
@@ -23357,43 +23357,45 @@ msgstr "Telemetry (UTC)"
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabInterface..ScrollBoxInterface..InterfaceLayoutPanel..DisplaysGroup..ShowChDescriptionProp..Text
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:1016
 msgid "Show channel description"
-msgstr ""
+msgstr "Mostra descrizione canale"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabInterface..ScrollBoxInterface..InterfaceLayoutPanel..DisplaysGroup..ShowChDescriptionProp....Description
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:1019
 msgid ""
 "When checked, visual controls will show description next to channel name"
 msgstr ""
+"Quando selezionato, i controlli visuali mostrano la descrizione a fianco del "
+"nome canale"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabInterface..ScrollBoxInterface..InterfaceLayoutPanel..DisplaysGroup..ShowDisplaysInFullScreenProp..Text
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:1039
 msgid "Show displays toolbar in full screen mode"
-msgstr ""
+msgstr "Mostra la barra degli strumenti in modalità fullscreen"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabInterface..ScrollBoxInterface..InterfaceLayoutPanel..SoundsGroup..Caption
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:1060
 msgid "Sounds"
-msgstr ""
+msgstr "Audio"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabInterface..ScrollBoxInterface..InterfaceLayoutPanel..SoundsGroup..SoundCardDriverProp..Text
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:1068
 msgid "Sound card driver"
-msgstr ""
+msgstr "Driver scheda audio"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabInterface..ScrollBoxInterface..InterfaceLayoutPanel..SoundsGroup..SoundFormatProp..Text
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:1087
 msgid "Sound format"
-msgstr ""
+msgstr "Formato audio"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabInterface..ScrollBoxInterface..InterfaceLayoutPanel..SoundsGroup..SoundFormatProp..Description
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:1088
 msgid "Select samplerate and bit depth"
-msgstr ""
+msgstr "Seleziona campionamento e risoluzione"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabInterface..ScrollBoxInterface..InterfaceLayoutPanel..SoundsGroup..EnableVoiceEventsProp..Text
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:1107
 msgid "Enable recording of voice events"
-msgstr ""
+msgstr "Abilità registrazione di eventi voce"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabInterface..ScrollBoxInterface..InterfaceLayoutPanel..SoundsGroup..BeepStartTriggerProp..Text
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:1128
@@ -23409,12 +23411,12 @@ msgstr "Beep al trigger di stop"
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:1169
 #: Visuals/Frames/GlobalSettingsFrameUnit.pas:1070
 msgid "Shortcuts"
-msgstr ""
+msgstr "Scorciatoie"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabInterface..ScrollBoxInterface..InterfaceLayoutPanel..DSPropertyGroup2..ShortcutMappingCombo..Text
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:1177
 msgid "Shortcut mapping"
-msgstr ""
+msgstr "Mappa scorciatoie"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabInterface..ScrollBoxInterface..InterfaceLayoutPanel..DSPropertyGroup2..ShortcutMappingCombo....ComboBox.Items.Strings
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:1192
@@ -23430,17 +23432,17 @@ msgstr "Cartelle"
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabFolders..ScrollBoxFolders..FoldersLayoutPanel..SystemFolderGroup..Caption
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:1226
 msgid "System folder"
-msgstr ""
+msgstr "Cartella system"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabFolders..ScrollBoxFolders..FoldersLayoutPanel..SystemFolderGroup..OpenSystemFolderButton..Text
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:1234
 msgid "Open system folder in explorer"
-msgstr ""
+msgstr "Apri cartella system in explorer"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabFolders..ScrollBoxFolders..FoldersLayoutPanel..DefaultFoldersGroup..Caption
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:1256
 msgid "Default folders"
-msgstr ""
+msgstr "Cartelle default"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabFolders..ScrollBoxFolders..FoldersLayoutPanel..DefaultFoldersGroup..DefaultExportsFolder..Text
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:1264
@@ -23806,7 +23808,7 @@ msgstr "Commenti"
 #. SysMonitorTabFrame..Panel1..ShutdownCheckBox..Caption
 #: Visuals/Frames/SysMonitorTabFrameUnit.dfm:36
 msgid "Shutdown on critical limit"
-msgstr ""
+msgstr "Arresta su limite critico"
 
 #. TransferCurveFrame..EditPanel..PointsPanel..WarningLabel....Caption
 #: Visuals/Frames/TransferCurveFrameUnit.dfm:48
@@ -24087,42 +24089,47 @@ msgstr "Numero di serie del sistema"
 #. WarningsSettingsFrame..ScrollBox..DSLayoutPanel..DSPropertyGroup1..Caption
 #: Visuals/Frames/Settings/WarningsSettingsFrameUnit.dfm:34
 msgid "Project warnings"
-msgstr ""
+msgstr "Avvisi di progetto"
 
 #. WarningsSettingsFrame..ScrollBox..DSLayoutPanel..DSPropertyGroup1..ProjectDeviceNotFoundProp..Text
 #: Visuals/Frames/Settings/WarningsSettingsFrameUnit.dfm:42
 msgid "Show warning if stored device is not found"
-msgstr ""
+msgstr "Mostra avviso se il dispositivo memorizzato non viene trovato"
 
 #. WarningsSettingsFrame..ScrollBox..DSLayoutPanel..DSPropertyGroup1..ProjectDeviceSNProp....Text
 #: Visuals/Frames/Settings/WarningsSettingsFrameUnit.dfm:64
 msgid "Show warning if stored serial number does not match with real device"
 msgstr ""
+"Mostra avviso se il il seriale memorizzato non coincide con il dispositivo "
+"in uso"
 
 #. WarningsSettingsFrame..ScrollBox..DSLayoutPanel..DSPropertyGroup2..Caption
 #: Visuals/Frames/Settings/WarningsSettingsFrameUnit.dfm:85
 msgid "Setup warnings"
-msgstr ""
+msgstr "Avvisi di setup"
 
 #. WarningsSettingsFrame..ScrollBox..DSLayoutPanel..DSPropertyGroup2..SetupWarningsProp..Text
 #: Visuals/Frames/Settings/WarningsSettingsFrameUnit.dfm:93
 msgid "Show setup messages on any error/warning"
-msgstr ""
+msgstr "Mostra messaggi di setup per ogni errore/avviso"
 
 #. WarningsSettingsFrame..ScrollBox..DSLayoutPanel..DSPropertyGroup2..SetupWarningsProp..Description
 #: Visuals/Frames/Settings/WarningsSettingsFrameUnit.dfm:94
 msgid "Setup messages will be shown when loading setup"
 msgstr ""
+"I messaggi di setup saranno visualizzati quando il setup viene caricato"
 
 #. WarningsSettingsFrame..ScrollBox..DSLayoutPanel..DSPropertyGroup2..TedsDisconnectedProp..Text
 #: Visuals/Frames/Settings/WarningsSettingsFrameUnit.dfm:114
 msgid "Show warning if Teds is disconnected"
-msgstr ""
+msgstr "Mostra avviso se Teds viene disconnesso"
 
 #. WarningsSettingsFrame..ScrollBox..DSLayoutPanel..DSPropertyGroup2..TedsDisconnectedProp....Description
 #: Visuals/Frames/Settings/WarningsSettingsFrameUnit.dfm:117
 msgid "Teds missing notification will be visible in analog channels grid"
 msgstr ""
+"Le notifiche per Teds disconnessi sono visibili nella griglia dei canali "
+"analogici"
 
 #. ChannelScalingFrame..ScalePanel..ScalePageControl..TabByTwoPoints..FirstPointGroupBox..RMSCalibrate1Button..Caption
 #. ChannelScalingFrame..ScalePanel..ScalePageControl..TabByTwoPoints..SecondPointGroupBox..RMSCalibrate2Button..Caption
@@ -25286,7 +25293,7 @@ msgstr ""
 #: Core/Daq/DaqCards/Visuals/AOSetupFrameUnit.pas:287
 #| msgid "Input type"
 msgid "Output type"
-msgstr ""
+msgstr "Tipo uscita"
 
 #: Core/Daq/DaqCards/Visuals/AOSetupFrameUnit.pas:555
 msgid "Start output/sweep"
@@ -27096,7 +27103,7 @@ msgstr ""
 
 #: Core/ImportObjects/Visuals/DwFileImportFrameUnit.pas:137
 msgid "Domain"
-msgstr ""
+msgstr "Dominio"
 
 #: Core/ImportObjects/Visuals/DwFileImportFrameUnit.pas:138
 #: Visuals/Frames/ExportSelectFrameUnit.pas:248
@@ -28720,7 +28727,7 @@ msgstr ""
 
 #: Core/Objects/ExtensionsUnit.pas:464 Core/Objects/ExtensionsUnit.pas:533
 msgid "Math application"
-msgstr ""
+msgstr "Estensioni matematiche"
 
 #: Core/Objects/ExtensionsUnit.pas:769
 msgid "Strain & stress"
@@ -29066,60 +29073,60 @@ msgstr ""
 
 #: Core/Objects/ShortcutMappingUnit.pas:294
 msgid "Full screen"
-msgstr ""
+msgstr "Schermo intero"
 
 #: Core/Objects/ShortcutMappingUnit.pas:297
 msgid "Start storing"
-msgstr ""
+msgstr "Inizia acquisizione"
 
 #: Core/Objects/ShortcutMappingUnit.pas:299
 msgid "Stop acquisition"
-msgstr ""
+msgstr "Stop acquisizione"
 
 #: Core/Objects/ShortcutMappingUnit.pas:301
 msgid "Notice event"
-msgstr ""
+msgstr "Evento nota"
 
 #: Core/Objects/ShortcutMappingUnit.pas:303
 msgid "Cursor event"
-msgstr ""
+msgstr "Evento cursore"
 
 #: Core/Objects/ShortcutMappingUnit.pas:305
 msgid "Switch freeze mode"
-msgstr ""
+msgstr "Switch modalità freeze"
 
 #: Core/Objects/ShortcutMappingUnit.pas:306
 msgid "Show calculation delay"
-msgstr ""
+msgstr "Mostra ritardo calcolo"
 
 #: Core/Objects/ShortcutMappingUnit.pas:307
 msgid "Show channel info"
-msgstr ""
+msgstr "Mostra info canali"
 
 #: Core/Objects/ShortcutMappingUnit.pas:308
 msgid "Show debug info"
-msgstr ""
+msgstr "Mostra info debug"
 
 #: Core/Objects/ShortcutMappingUnit.pas:310
 msgid "Show profiler"
-msgstr ""
+msgstr "Mostra profiler"
 
 #: Core/Objects/ShortcutMappingUnit.pas:311
 #| msgid "Set storing"
 msgid "Pause storing"
-msgstr ""
+msgstr "Pausa acquisizione"
 
 #: Core/Objects/StoreUnit.pas:1927
 msgid "Slow storing started"
-msgstr ""
+msgstr "Acquisizione lenta iniziata"
 
 #: Core/Objects/StoreUnit.pas:1960
 msgid "Slow storing stopped"
-msgstr ""
+msgstr "Acquisizione lenta fermata"
 
 #: Core/Objects/StoreUnit.pas:2686
 msgid "No trigger shots available for storing"
-msgstr ""
+msgstr "Non ci sono eventi di trigger per iniziare acquisizione"
 
 #: Core/Objects/StoreUnit.pas:2836 DEWEsoft/MainUnit.pas:7810
 #: DEWEsoft/MainUnit.pas:7829
@@ -30185,27 +30192,27 @@ msgstr ""
 
 #: Core/Variables/VariableChannels.pas:826
 msgid "Internal variable"
-msgstr ""
+msgstr "Variabile interna"
 
 #: Core/Variables/VariableChannels.pas:1627
 msgid "Internal variables"
-msgstr ""
+msgstr "Variabili interne"
 
 #. ChannelName
 #: Core/Variables/Visuals/CustomDesignVarGrid.pas:212
 #: Visuals/Forms/SensorEditorUnitX.pas:256
 msgid "Ch. name"
-msgstr ""
+msgstr "Nome ch"
 
 #: Core/Variables/Visuals/CustomDesignVarGrid.pas:215
 #: Core/Variables/Visuals/VariablesFrameUnit.pas:89
 msgid "Ch. type"
-msgstr ""
+msgstr "Tipo ch"
 
 #: Core/Variables/Visuals/CustomDesignVarGrid.pas:218
 #: Core/Variables/Visuals/VariablesFrameUnit.pas:90
 msgid "Start value"
-msgstr ""
+msgstr "Val iniziale"
 
 #: Core/Variables/Visuals/CustomDesignVarGrid.pas:252
 #: Core/Variables/Visuals/CustomDesignVarGrid.pas:299
@@ -30215,12 +30222,13 @@ msgstr ""
 #: Core/Variables/Visuals/VariablesFrameUnit.pas:233
 #: Core/Variables/Visuals/VariablesFrameUnit.pas:317
 msgid "Last value"
-msgstr ""
+msgstr "Ultimo valore"
 
 #: Core/Variables/Visuals/DHDesignUnit.pas:696
 msgid ""
 "An Unique ID with that name already exists. Please choose a different name."
 msgstr ""
+"Esiste già un ID univoco con lo stesso nome. Prego scegliere un nome diverso."
 
 #: Core/Variables/Visuals/VariableOpenDialogUnit.pas:94
 msgid "Merge mode"
@@ -31078,19 +31086,19 @@ msgstr ""
 
 #: Visuals/Forms/DownloadFormUnit.pas:130
 msgid "Download complete"
-msgstr ""
+msgstr "Download completato"
 
 #: Visuals/Forms/MessagesFormUnit.pas:86 Visuals/Forms/MessagesFormUnit.pas:206
 msgid "Hint"
-msgstr ""
+msgstr "Nota"
 
 #: Visuals/Forms/MessagesFormUnit.pas:259
 msgid "Errors"
-msgstr ""
+msgstr "Errori"
 
 #: Visuals/Forms/MessagesFormUnit.pas:259
 msgid "Hints"
-msgstr ""
+msgstr "Note"
 
 #: Visuals/Forms/ScopeAVIExpUnit.pas:204
 msgid "Unable to create the file!"
