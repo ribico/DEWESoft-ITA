@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2017-08-31 16:50\n"
-"PO-Revision-Date: 2017-09-18 17:49+0200\n"
+"PO-Revision-Date: 2017-09-18 18:03+0200\n"
 "Last-Translator: Somebody <your.email@address.com>\n"
 "Language-Team: \n"
 "Language: it\n"
@@ -19930,7 +19930,7 @@ msgstr "Display valori tabella"
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet2..ScrollBox1..VisualsLayoutPanel..DSPropertyGroup2..Caption
 #: DEWEsoft/MainUnit.dfm:15385 Visuals/Frames/AdvancedSettingsFrameUnit.dfm:591
 msgid "3D graph"
-msgstr ""
+msgstr "Grafico 3D"
 
 #. MainForm..MainAdvToolBar..DesignPage..DesignGraphsToolBar..Graph2DToolButton..Hint
 #: DEWEsoft/MainUnit.dfm:15523
@@ -22018,7 +22018,7 @@ msgstr ""
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet2..ScrollBox1..VisualsLayoutPanel..DSPropertyGroup2..MissDistanceProp..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:599
 msgid "Show miss distance calculation"
-msgstr ""
+msgstr "Mostra calcolo distanza mancante"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet2..ScrollBox1..VisualsLayoutPanel..DSPropertyGroup2..MaxVertexCountProp..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:619
@@ -22033,12 +22033,12 @@ msgstr ""
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet2..ScrollBox1..VisualsLayoutPanel..DSPropertyGroup8..AsyncGDIBufferProp..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:650
 msgid "Use asynchronous buffer for GDI calls"
-msgstr ""
+msgstr "Usa buffer asincrono per chiamate GDI"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet2..ScrollBox1..VisualsLayoutPanel..DSPropertyGroup8..AsyncGDIBufSizeProp..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:670
 msgid "Asynchronous buffer size"
-msgstr ""
+msgstr "Dimensione buffer asincrono"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet2..ScrollBox1..VisualsLayoutPanel..DSPropertyGroup8..AsyncGDIBufSizeProp..RightText
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:671
@@ -22048,67 +22048,67 @@ msgstr ""
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet2..ScrollBox1..VisualsLayoutPanel..DSPropertyGroup4..Caption
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:694
 msgid "XY graph"
-msgstr ""
+msgstr "Grafico XY"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet2..ScrollBox1..VisualsLayoutPanel..DSPropertyGroup4..XYAngleOffsetProp..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:702
 msgid "Delta cursor angle offset"
-msgstr ""
+msgstr "Offset angolo cursori delta"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet2..ScrollBox1..VisualsLayoutPanel..DSPropertyGroup4..XYNumberOfDecProperty..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:724
 msgid "Delta cursor decimal places"
-msgstr ""
+msgstr "Posizioni decimali cursori delta"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet2..ScrollBox1..VisualsLayoutPanel..DSPropertyGroup4..XYShowAutoScaleProperty..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:744
 msgid "Show auto scale"
-msgstr ""
+msgstr "Mostra auto scala"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet2..ScrollBox1..VisualsLayoutPanel..DSPropertyGroup4..XYShowAutoScaleProperty..Description
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:745
 msgid "Show auto scale option in measure mode"
-msgstr ""
+msgstr "Mostra opzione auto scala in misura"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet2..ScrollBox1..VisualsLayoutPanel..DSPropertyGroup4..XYAutoScalePeriodeProperty..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:765
 msgid "Auto scale period"
-msgstr ""
+msgstr "Periodo auto scala"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet2..ScrollBox1..VisualsLayoutPanel..DSPropertyGroup4..XYAutoScalePeriodeProperty..Description
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:767
 msgid "Auto scale on X and Y axis will be performed every x seconds."
-msgstr ""
+msgstr "Autoscala su X e Y saranno eseguiti ogni x secondi."
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet2..ScrollBox1..VisualsLayoutPanel..GPSMapGroup..Caption
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:788
 msgid "GPS map"
-msgstr ""
+msgstr "Mappa GPS"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet2..ScrollBox1..VisualsLayoutPanel..GPSMapGroup..GPSMapMaxSamples..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:796
 msgid "Max samples shown"
-msgstr ""
+msgstr "Max campioni disegnati"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet2..ScrollBox1..VisualsLayoutPanel..GPSMapGroup..GPSMapMaxSamples..Description
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:797
 msgid "Maximum number of GPS samples shown on GPS map."
-msgstr ""
+msgstr "Massimo numero di campioni GPS visualizzati su mappa GPS."
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet2..ScrollBox1..VisualsLayoutPanel..ScopeGroup..ScopeMemorySizeProp..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:828
 msgid "Memory size"
-msgstr ""
+msgstr "Dimensione memoria"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet2..ScrollBox1..VisualsLayoutPanel..ScopeGroup..ScopeMemorySizeProp..Description
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:830
 msgid "Scope trigger memory size per channel"
-msgstr ""
+msgstr "Memoria trigger oscilloscopio per canale"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet2..ScrollBox1..VisualsLayoutPanel..ScopeGroup..ScopeMaxPicSizeProp..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:851
 msgid "Maximum picture size"
-msgstr "Max dimensione img"
+msgstr ""
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet2..ScrollBox1..VisualsLayoutPanel..ScopeGroup..ScopeMaxPicSizeProp..Description
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:853
@@ -22134,7 +22134,7 @@ msgstr "Analisi rete elettrica"
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet3..ScrollBox2..MathLayoutPanel..DSPropertyGroup5..PowerFreqThresholdProp..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:928
 msgid "Frequency threshold (%)"
-msgstr ""
+msgstr "Soglia frequenza (%)"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet3..ScrollBox2..MathLayoutPanel..DSPropertyGroup5..PowerFreqThresholdProp....Description
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:931
@@ -22142,11 +22142,13 @@ msgid ""
 "Maximum allowed deviation from frequency in power module at which the data "
 "will still be calculated"
 msgstr ""
+"Massima deviazione di frequenza nel modulo power entro cui i dati sono "
+"ancora calcolati"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet3..ScrollBox2..MathLayoutPanel..DSPropertyGroup5..UserPowerResamplerProp..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:952
 msgid "Power resampler"
-msgstr ""
+msgstr "Ricampionatore power"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet3..ScrollBox2..MathLayoutPanel..DSPropertyGroup5..UserPowerResamplerProp....Description
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:955
@@ -22154,11 +22156,13 @@ msgid ""
 "Resample data to angular domain for more exact calculation of power "
 "parameters"
 msgstr ""
+"Ricampiona dati nel dominio del'angolo per migliore precisione di calcolo "
+"dei parametri power."
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet3..ScrollBox2..MathLayoutPanel..DSPropertyGroup11..UseOldResamplerProp..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:984
 msgid "Sharper anti-aliasing filter"
-msgstr ""
+msgstr "Filtri anti-aliasing più ripidi"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet3..ScrollBox2..MathLayoutPanel..DSPropertyGroup11..UseOldResamplerProp....Description
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:990
@@ -22168,6 +22172,10 @@ msgid ""
 "input data to order tracking with low-pass filter (FIR) when a lot of higher "
 "frequency components are present in the signal."
 msgstr ""
+"Migliore filtraggio di armoniche superiori a costo di un peggiore calcolo "
+"della fase. Deselezionando questa opzione, l'utente dovrebbe filtrare i dati "
+"per order tracking con filtro passa basso (FIR) quando sono presenti tante "
+"armoniche ad alta frequenza nel segnale."
 
 #. AdvancedSettingsFrame2..DSPageControl1..Performance..Caption
 #. AdvancedSettingsFrame2..Menu..MenuDiagnostics..Caption
@@ -29241,19 +29249,19 @@ msgstr "veloce su trigger, altrimenti lento"
 
 #: Core/OleServer/CustomMathsUnit.pas:131
 msgid "Locating math: "
-msgstr ""
+msgstr "Ricerca matematica: "
 
 #: Core/OleServer/PluginUnit.pas:2232 Core/OleServer/PluginUnit.pas:2291
 msgid "Locating plugin: "
-msgstr ""
+msgstr "Ricerca plugin: "
 
 #: Core/OleServer/PluginUnit.pas:2963
 msgid "requires newer version of Dewesoft"
-msgstr ""
+msgstr "necessita di nuova versione di Dewesoft"
 
 #: Core/OleServer/PluginUnit.pas:3006
 msgid "Error initializing"
-msgstr ""
+msgstr "Errore inizializzazione"
 
 #: Core/OleServer/PluginUnit.pas:3017
 msgid "Loading plugin: "
@@ -29267,12 +29275,12 @@ msgstr ""
 #. export screen to avi
 #: Core/Sequencer/DCOMUnit.pas:164
 msgid "Export current display to avi file"
-msgstr ""
+msgstr "Esporta display corrente su file avi"
 
 #. Close App
 #: Core/Sequencer/DCOMUnit.pas:172
 msgid "Close application"
-msgstr ""
+msgstr "Chiudi applicazione"
 
 #. Minimize/Maximize App
 #: Core/Sequencer/DCOMUnit.pas:185
@@ -29282,17 +29290,17 @@ msgstr ""
 #. SendPluginCommand
 #: Core/Sequencer/DCOMUnit.pas:198
 msgid "Send command to specific plug-in"
-msgstr ""
+msgstr "Invia comando a plug-in specifico"
 
 #. offline class
 #: Core/Sequencer/DCOMUnit.pas:226
 msgid "Offline recalculate"
-msgstr ""
+msgstr "Ricalcola offline"
 
 #. offline recalculate
 #: Core/Sequencer/DCOMUnit.pas:233
 msgid "Store calculated channels in analyse mode"
-msgstr ""
+msgstr "Salva canali calcolati in modalità analisi"
 
 #. Data Curr recalculate
 #: Core/Sequencer/DCOMUnit.pas:247
