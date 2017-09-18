@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2017-08-31 16:50\n"
-"PO-Revision-Date: 2017-09-18 17:39+0200\n"
+"PO-Revision-Date: 2017-09-18 17:49+0200\n"
 "Last-Translator: Somebody <your.email@address.com>\n"
 "Language-Team: \n"
 "Language: it\n"
@@ -29326,55 +29326,55 @@ msgstr ""
 #. SetPowerOnDefault
 #: Core/Sequencer/DCOMUnit.pas:317
 msgid "Set power on default for all AI channels"
-msgstr ""
+msgstr "Imposta parametri predefiniti power on su tutti i canali AI"
 
 #. ResetPowerOnDefault
 #: Core/Sequencer/DCOMUnit.pas:324
 msgid "Reset power on default for all AI channels"
-msgstr ""
+msgstr "Resetta parametri predefiniti power on per tutti i canali AI"
 
 #. sequencer ExportSeqVariables
 #: Core/Sequencer/DCOMUnit.pas:338
 msgid "Export sequencer variables to XML file"
-msgstr ""
+msgstr "Esporta variabili sequencer su file XML"
 
 #. sequencer ImportSeqVariables
 #: Core/Sequencer/DCOMUnit.pas:349
 msgid "Import sequencer variables from XML file"
-msgstr ""
+msgstr "Importa variabili sequencer da file XML"
 
 #. Create all groups
 #: Core/Sequencer/SequencerUnit.pas:1146
 msgid "Action blocks"
-msgstr ""
+msgstr "Blocco azione"
 
 #: Core/Sequencer/SequencerUnit.pas:1153
 msgid "Decision blocks"
-msgstr ""
+msgstr "Blocco decisione"
 
 #: Core/Sequencer/SequencerUnit.pas:1159
 msgid "Wait blocks"
-msgstr ""
+msgstr "Blocco attesa"
 
 #: Core/Sequencer/SequencerUnit.pas:1165
 msgid "Others"
-msgstr ""
+msgstr "Altri"
 
 #. Header
 #: Core/Sequencer/DSUnit/DSMainUnitTest.pas:354
 msgid "Root folder name"
-msgstr ""
+msgstr "Nome cartella radice"
 
 #: Core/Sequencer/DSUnit/DSMainUnitTest.pas:357
 msgid "Number of tests"
-msgstr ""
+msgstr "Numero di test"
 
 #: Core/Sequencer/DSUnit/Visuals/DSUnitFrameUnit.pas:135
 #: Core/Sequencer/DSUnit/Visuals/DSUnitFrameUnit.pas:227
 #: Core/Sequencer/DSUnit/Visuals/DSUnitFrameUnit.pas:330
 #: Core/Sequencer/Visuals/SeqMainFrameUnit.pas:1185
 msgid "Enter new test case name"
-msgstr ""
+msgstr "Inserire nome nuovo test case"
 
 #: Core/Sequencer/DSUnit/Visuals/DSUnitFrameUnit.pas:231
 #: Core/Sequencer/DSUnit/Visuals/DSUnitFrameUnit.pas:334
@@ -29384,44 +29384,44 @@ msgstr ""
 #: Core/Sequencer/Visuals/SeqMainFrameUnit.pas:1189
 #: Core/Sequencer/Visuals/SeqMainFrameUnit.pas:1210
 msgid "Group name already exists"
-msgstr ""
+msgstr "Nome gruppo esistente"
 
 #: Core/Sequencer/DSUnit/Visuals/DSUnitTestMainFormUnit.pas:239
 #: Core/Sequencer/DSUnit/Visuals/DSUnitTestMainFormUnit.pas:263
 msgid "Cannot export data to XML format!"
-msgstr ""
+msgstr "Impossibile esportare dati in formato XML!"
 
 #: Core/Sequencer/DSUnit/Visuals/DSUnitTestMainFormUnit.pas:253
 msgid "Cannot export data to Excel!"
-msgstr ""
+msgstr "Impossibile esportare dati su Excel!"
 
 #: Core/Sequencer/DSUnit/Visuals/DSUnitTestMainFormUnit.pas:302
 msgid "Cannot import data from XML format!"
-msgstr ""
+msgstr "Impossibile importare dati in formato XML!"
 
 #: Core/Sequencer/DSUnit/Visuals/SeqTestUnitRuntimeFrameUnit.pas:118
 msgid "Tests failed"
-msgstr ""
+msgstr "Test fallito"
 
 #: Core/Sequencer/DSUnit/Visuals/SeqTestUnitRuntimeFrameUnit.pas:120
 msgid "ignored"
-msgstr ""
+msgstr "ignorato"
 
 #: Core/Sequencer/DSUnit/Visuals/SeqTestUnitRuntimeFrameUnit.pas:121
 msgid "not started"
-msgstr ""
+msgstr "non iniziato"
 
 #: Core/Sequencer/Items/ActionItem.pas:182
 msgid "Action"
-msgstr ""
+msgstr "Azione"
 
 #: Core/Sequencer/Items/ActionItem.pas:293
 msgid "No action"
-msgstr ""
+msgstr "Nessuna azione"
 
 #: Core/Sequencer/Items/ActionItem.pas:906
 msgid "Export data"
-msgstr ""
+msgstr "Esporta dati"
 
 #. template file
 #: Core/Sequencer/Items/ActionItem.pas:1010
@@ -29434,7 +29434,7 @@ msgstr "Script Excel non definito."
 #: Core/Sequencer/Items/FormulaItem.pas:528
 #: Core/Sequencer/Items/WaitForItem.pas:290
 msgid "No samples acquired"
-msgstr ""
+msgstr "Nessun campione acquisito"
 
 #: Core/Sequencer/Items/AssertItem.pas:113
 msgid "Assert"
@@ -29443,7 +29443,7 @@ msgstr ""
 #. not in acq
 #: Core/Sequencer/Items/AssertItem.pas:264
 msgid "Acquisition not running"
-msgstr ""
+msgstr "Acquisizione in corso"
 
 #: Core/Sequencer/Items/ControlItem.pas:242
 #: Core/Sequencer/Items/ControlItem.pas:255
@@ -29451,11 +29451,11 @@ msgstr ""
 #: Core/Sequencer/Items/ControlItem.pas:302
 #: Core/Sequencer/Items/ControlItem.pas:336
 msgid "Device is not connected"
-msgstr ""
+msgstr "Il dispositivo non è connesso"
 
 #: Core/Sequencer/Items/ControlItem.pas:265
 msgid "Cannot clear data"
-msgstr ""
+msgstr "Impossibile cancellare dati"
 
 #: Core/Sequencer/Items/CustomBlockItem.pas:334
 msgid "Select custom block"
@@ -29463,15 +29463,15 @@ msgstr "Seleziona blocco custom"
 
 #: Core/Sequencer/Items/DecisionItem.pas:120
 msgid "If"
-msgstr ""
+msgstr "Se"
 
 #: Core/Sequencer/Items/DecisionItem.pas:424
 msgid "Repetition"
-msgstr ""
+msgstr "Ripetizione"
 
 #: Core/Sequencer/Items/DecisionItem.pas:446
 msgid "Repeat"
-msgstr ""
+msgstr "Ripeti"
 
 #. noL
 #: Core/Sequencer/Items/FileManagerItem.pas:145
@@ -29480,68 +29480,68 @@ msgstr ""
 
 #: Core/Sequencer/Items/FileManagerItem.pas:350
 msgid "Could not execute application"
-msgstr ""
+msgstr "Impossibile eseguire applicazione"
 
 #: Core/Sequencer/Items/FileManagerItem.pas:391
 #: Visuals/Frames/RecallFrameUnit.pas:429
 msgid "Could not delete the file"
-msgstr ""
+msgstr "Impossibile cancellare il file"
 
 #: Core/Sequencer/Items/FileManagerItem.pas:418
 msgid "Could not copy the file"
-msgstr ""
+msgstr "Impossibile copiare il file"
 
 #: Core/Sequencer/Items/FileManagerItem.pas:433
 msgid "Please enter new file name"
-msgstr ""
+msgstr "Prego inserire il nuovo nome"
 
 #: Core/Sequencer/Items/FileManagerItem.pas:445
 msgid "File already exists"
-msgstr ""
+msgstr "Il file esiste già"
 
 #: Core/Sequencer/Items/FileManagerItem.pas:447
 #: Visuals/Frames/RecallFrameUnit.pas:450
 msgid "Could not rename the file"
-msgstr ""
+msgstr "Impossibile rinominare file"
 
 #. acq not running
 #: Core/Sequencer/Items/FormulaItem.pas:497
 msgid "Global variable not found"
-msgstr ""
+msgstr "Variabile globale non trovata"
 
 #: Core/Sequencer/Items/SeqConditionUnit.pas:508
 msgid "Incompatible types"
-msgstr ""
+msgstr "Tipi incompatibili"
 
 #: Core/Sequencer/Items/WaitForItem.pas:194
 msgid "Wait for user"
-msgstr ""
+msgstr "Attendi utente"
 
 #: Core/Sequencer/Items/WaitForItem.pas:195
 msgid "Wait for value"
-msgstr ""
+msgstr "Attendi valore"
 
 #: Core/Sequencer/Items/WaitForItem.pas:196
 msgid "Wait for trigger"
-msgstr ""
+msgstr "Attendi trigger"
 
 #: Core/Sequencer/Items/WaitForItem.pas:197
 msgid "Wait for load setup"
-msgstr ""
+msgstr "Attendi caricamento setup"
 
 #: Core/Sequencer/Items/WaitForItem.pas:198
 msgid "Wait for stop storing"
-msgstr ""
+msgstr "Attendi stop registrazione"
 
 #. noL
 #: Core/Sequencer/Items/Visuals/AvdioVideoItemFrameUnit.pas:61
 msgid "Video files"
-msgstr ""
+msgstr "Files video"
 
 #. noL
 #: Core/Sequencer/Items/Visuals/AvdioVideoItemFrameUnit.pas:62
 msgid "Audio files"
-msgstr ""
+msgstr "Files audio"
 
 #: Core/Sequencer/Items/Visuals/AvdioVideoItemFrameUnit.pas:80
 #: Core/Sequencer/Visuals/SeqMainFrameUnit.pas:305
@@ -29549,7 +29549,7 @@ msgstr ""
 #: Core/Sequencer/Visuals/SeqMainFrameUnit.pas:1317 DEWEsoft/MainUnit.pas:7373
 #: DEWEsoft/MainUnit.pas:16303
 msgid "Can not open file"
-msgstr ""
+msgstr "Impossibile aprire file"
 
 #: Core/Sequencer/Items/Visuals/FileManagerItemFrameUnit.pas:140
 #: Core/Sequencer/Items/Visuals/FileManagerItemFrameUnit.pas:164
@@ -29562,11 +29562,11 @@ msgstr "Seleziona cartella"
 
 #: Core/Sequencer/Visuals/RelAbsPathOpenDialog.pas:106
 msgid "Relative path"
-msgstr ""
+msgstr "Path relativo"
 
 #: Core/Sequencer/Visuals/RelAbsPathOpenDialog.pas:107
 msgid "Absolute path"
-msgstr ""
+msgstr "Path assoluto"
 
 #: Core/Sequencer/Visuals/RelAbsPathOpenDialog.pas:108
 msgid "Path"
@@ -29574,63 +29574,63 @@ msgstr ""
 
 #: Core/Sequencer/Visuals/RelAbsPathOpenDialog.pas:112
 msgid "If you want to use a relative"
-msgstr ""
+msgstr "Se vuoi usare un percorso"
 
 #: Core/Sequencer/Visuals/RelAbsPathOpenDialog.pas:113
 msgid "path, it is necessary to save"
-msgstr ""
+msgstr "relativo, è necessario salvare"
 
 #: Core/Sequencer/Visuals/RelAbsPathOpenDialog.pas:114
 msgid "the sequence before."
-msgstr ""
+msgstr "prima la sequenza."
 
 #: Core/Sequencer/Visuals/SeqMainFrameUnit.pas:177 DEWEsoft/MainUnit.pas:9750
 msgid "Please enter new name"
-msgstr ""
+msgstr "Prego inserire il nuovo nome"
 
 #: Core/Sequencer/Visuals/SeqMainFrameUnit.pas:202
 #: Core/Sequencer/Visuals/SeqMainFrameUnit.pas:755
 #: Core/Sequencer/Visuals/SeqMainFrameUnit.pas:1206
 msgid "New custom block"
-msgstr ""
+msgstr "Nuovo blocco personalizzato"
 
 #: Core/Sequencer/Visuals/SeqMainFrameUnit.pas:202
 #: Core/Sequencer/Visuals/SeqMainFrameUnit.pas:755
 #: Core/Sequencer/Visuals/SeqMainFrameUnit.pas:1206
 msgid "Please enter new custom block"
-msgstr ""
+msgstr "Prego inserire nuovo blocco personalizzato"
 
 #: Core/Sequencer/Visuals/SeqMainFrameUnit.pas:229
 msgid "Done: build all"
-msgstr ""
+msgstr "Fatto: compilato tutto"
 
 #: Core/Sequencer/Visuals/SeqMainFrameUnit.pas:231
 msgid "Done: there are errors"
-msgstr ""
+msgstr "Fatto: ci sono errori"
 
 #: Core/Sequencer/Visuals/SeqMainFrameUnit.pas:267 DEWEsoft/MainUnit.pas:16323
 msgid "Can not save file"
-msgstr ""
+msgstr "Impossibile salvare file"
 
 #: Core/Sequencer/Visuals/SeqMainFrameUnit.pas:928
 msgid "Event block"
-msgstr ""
+msgstr "Blocco evento"
 
 #: Core/Sequencer/Visuals/SeqMainFrameUnit.pas:1185
 msgid "New test case"
-msgstr ""
+msgstr "Nuovo test case"
 
 #: Core/Sequencer/Visuals/SeqMainFrameUnit.pas:1259
 msgid "Can not save to file"
-msgstr ""
+msgstr "Impossibile salvare su file"
 
 #: Core/Sequencer/Visuals/SeqResourceFrameUnit.pas:227
 msgid "Please enter new folder name"
-msgstr ""
+msgstr "Prego inserire il nuovo nome cartella"
 
 #: Core/Sequencer/Visuals/SeqResourceFrameUnit.pas:294
 msgid "The file you have selected exceed the file size limit"
-msgstr ""
+msgstr "I files selezionati superano il limite di dimensione max"
 
 #: Core/Sequencer/Visuals/SeqSettingsFrameUnit.pas:133
 msgid "Error on exporting variables"
