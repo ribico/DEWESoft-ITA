@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2017-08-31 16:50\n"
-"PO-Revision-Date: 2017-09-18 18:03+0200\n"
+"PO-Revision-Date: 2017-09-18 18:07+0200\n"
 "Last-Translator: Somebody <your.email@address.com>\n"
 "Language-Team: \n"
 "Language: it\n"
@@ -19383,12 +19383,12 @@ msgstr "Reset valore all'avvio"
 #. DHDesignFrame..DHBodyPanel..Caption
 #: Core/Variables/Visuals/DHDesignUnit.dfm:232
 msgid "Data header entries"
-msgstr "Campi data header"
+msgstr "Campi intestazione"
 
 #. DHDesignFrame..SettingsAdvPanel..Caption
 #: Core/Variables/Visuals/DHDesignUnit.dfm:263
 msgid "Data header settings"
-msgstr "Impostazioni data header"
+msgstr "Impostazioni intestazioni"
 
 #. DHDesignFrame..SettingsAdvPanel..ShowOnStartCheckBox..Caption
 #: Core/Variables/Visuals/DHDesignUnit.dfm:279
@@ -20077,7 +20077,7 @@ msgstr ""
 #. MainForm..MainPageControl..ChSetupMeasTabSheet..SetupPanel..RemoteSetupPageControl..LocalTabSheet..MainOptionsPanel..SetupPageControl..DHSetupSheet..HeaderEntriesPanel..DataHeaderInfoPanel..DataHeaderInfoLabel..Caption
 #: DEWEsoft/MainUnit.dfm:17851
 msgid "data header info?"
-msgstr ""
+msgstr "Info intestazioni ?"
 
 #. MainForm..MainPageControl..ChSetupMeasTabSheet..SetupPanel..RemoteSetupPageControl..LocalTabSheet..MainOptionsPanel..SetupPageControl..DHSetupSheet..HeaderEntriesPanel..RightHeaderPanel..ResetHeaderButton..Caption
 #: DEWEsoft/MainUnit.dfm:17874
@@ -26198,7 +26198,7 @@ msgstr ""
 
 #: Core/Data/BatchCalc/BatchFileUnit.pas:843
 msgid "Data header values"
-msgstr ""
+msgstr "Valori intestazione"
 
 #: Core/Data/BatchCalc/BatchFileUnit.pas:888
 msgid ""
