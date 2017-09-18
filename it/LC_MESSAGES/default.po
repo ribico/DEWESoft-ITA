@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2017-08-31 16:50\n"
-"PO-Revision-Date: 2017-09-18 17:13+0200\n"
+"PO-Revision-Date: 2017-09-18 17:39+0200\n"
 "Last-Translator: Somebody <your.email@address.com>\n"
 "Language-Team: \n"
 "Language: it\n"
@@ -7647,7 +7647,7 @@ msgstr ""
 #. ReferenceFileForm..OpenDialogDisp..Title
 #: Core/Data/BatchCalc/ReferenceFileUnit.dfm:151
 msgid "Select reference file"
-msgstr ""
+msgstr "Seleziona file riferimento"
 
 #. AddPhysicalQuantityForm..Caption
 #. PhysicalQuantitiesEditor..PhysicalQuantitiesPanel..DescriptorLabel..Caption
@@ -9634,12 +9634,12 @@ msgstr ""
 #: Core/GObjects/Visuals/DispFrameUnit.dfm:788
 #: Core/Sequencer/Items/Visuals/AvdioVideoItemFrameUnit.dfm:291
 msgid "Select background image"
-msgstr ""
+msgstr "Seleziona immagine sfondo"
 
 #. DisplayPropsFrame..IconDialog..Title
 #: Core/GObjects/Visuals/DispFrameUnit.dfm:794
 msgid "Select display icon"
-msgstr ""
+msgstr "Seleziona icona display"
 
 #. FFTRefDBForm..Caption
 #: Core/GObjects/Visuals/FFTRefDBFormUnit.dfm:7
@@ -10255,7 +10255,7 @@ msgstr "Salva file calibrazione"
 #. GPSVCFrame..OpenDialog1..Title
 #: Core/GObjects/Visuals/GPSVCFrameUnit.dfm:1208
 msgid "Select map image"
-msgstr ""
+msgstr "Seleziona img mappa"
 
 #. Edit2DMarkerForm..Caption
 #. EditRecMarkerForm..Caption
@@ -10786,7 +10786,7 @@ msgstr "Carica"
 #: Core/GObjects/Visuals/ImageFrameUnit.dfm:235
 #: Core/GObjects/Visuals/InputFrameUnit.dfm:944
 msgid "Select picture"
-msgstr ""
+msgstr "Seleziona img"
 
 #. InputVCFrame..PageControl..CommonTS..DisplayTypePanel..Caption
 #. MeterVCFrame..PageControl..CommonTS..OvDisplayTypePanel..Caption
@@ -11155,7 +11155,7 @@ msgstr "Primo ch"
 #. OrbitVCFrame..PageControl..CommonTS..GraphTypePanel..PhaseMissingLabel..Caption
 #: Core/GObjects/Visuals/OrbitVCFrameUnit.dfm:449
 msgid "Select phase in order tracking"
-msgstr ""
+msgstr "Selezionare fase in order tracking"
 
 #. OrbitVCFrame..PageControl..CommonTS..DisplayTimePanel..Caption
 #. TabVCFrame..PageControl..CommonTS..DisplayOptionsPanel..DisplayTimeCB..Caption
@@ -14916,17 +14916,17 @@ msgstr ""
 #. MathExSetupFrame..PopupMenu..CopyMenuItem..Caption
 #: Core/MathObjects/Visuals/MathExSetupUnit.dfm:391
 msgid "Copy &selected object"
-msgstr ""
+msgstr "Copia oggetto selezionato"
 
 #. MathExSetupFrame..PopupMenu..CopyAllOfflineMenuItem..Caption
 #: Core/MathObjects/Visuals/MathExSetupUnit.dfm:395
 msgid "Copy all &offline objects"
-msgstr ""
+msgstr "Copia tutti gli oggetti offline"
 
 #. MathExSetupFrame..PopupMenu..CopyAllMenuItem..Caption
 #: Core/MathObjects/Visuals/MathExSetupUnit.dfm:399
 msgid "Copy &all objects"
-msgstr ""
+msgstr "Copia tutti gli oggetti"
 
 #. MathFatigueHWSetupFrame..ScrollBox1..DSLayoutPanel1..DSPropertyGroup1..TicksPropertyItem..Text
 #: Core/MathObjects/Visuals/MathFatigueHWSetupUnit.dfm:43
@@ -17118,7 +17118,7 @@ msgstr ""
 #. MathWaveletSetupFrame..AdvCaptionPanel2..ScaleTypeCbox....Items.Strings
 #: Core/MathObjects/Visuals/MathWaveletSetupUnit.dfm:193
 msgid "Selectable level"
-msgstr ""
+msgstr "Livello selezionabile"
 
 #. MathWaveletSetupFrame..AdvCaptionPanel2..ScaleLevelPanel..Label4..Caption
 #: Core/MathObjects/Visuals/MathWaveletSetupUnit.dfm:207
@@ -19139,7 +19139,7 @@ msgstr "Aggiorna"
 #. FirmwareUpgradeFrame..LayoutPanel..FirmwareUpdateGroup..SelectFileButton..Text
 #: Core/Updates/Firmware/FirmwareUpgradeFrameUnit.dfm:91
 msgid "Select firmware package file..."
-msgstr "Seleziona file firmware pack"
+msgstr "Seleziona file firmware pack..."
 
 #. FirmwareUpgradeFrame..OpenFWDialog..Title
 #: Core/Updates/Firmware/FirmwareUpgradeFrameUnit.dfm:119
@@ -22788,7 +22788,7 @@ msgstr ""
 #: Visuals/Frames/ExportSelectFrameUnit.dfm:429
 #: Visuals/Frames/ExportSelectFrameUnit.dfm:467
 msgid "&Select all"
-msgstr ""
+msgstr "&Seleziona tutto"
 
 #. ExportSelectFrame..PopupMenu..DeselectAllItem..Caption
 #. ExportSelectFrame..DimensionPopupMenu..DimDeselectAllMenuItem..Caption
@@ -22799,7 +22799,7 @@ msgstr ""
 #: Visuals/Frames/ExportSelectFrameUnit.dfm:446
 #: Visuals/Frames/ExportSelectFrameUnit.dfm:484
 msgid "&Deselect all"
-msgstr ""
+msgstr "&Deseleziona tutto"
 
 #. ExportSelectFrame..DimensionPopupMenu..DimSelectAllMenuItem..ScalarMenuItem..Caption
 #. ExportSelectFrame..DimensionPopupMenu..DimDeselectAllMenuItem..DScalarChannelsMenuItem..Caption
@@ -25614,11 +25614,11 @@ msgstr ""
 #: Core/Daq/DewesoftDaq/Devices/Visuals/DSDaqSettingsFrameUnit.pas:164
 #: Core/Updates/Firmware/FirmwareUpgradeFrameUnit.pas:89
 msgid "FW version"
-msgstr ""
+msgstr "Versione FW"
 
 #: Core/Daq/DewesoftDaq/Devices/Visuals/DSDaqSettingsFrameUnit.pas:165
 msgid "HW version"
-msgstr ""
+msgstr "Versione HW"
 
 #: Core/Daq/DewesoftDaq/Devices/Visuals/DSDeviceSettingsFrameUnit.pas:227
 msgid "Motherboard serial number"
@@ -26916,7 +26916,7 @@ msgstr ""
 
 #: Core/GObjects/Visuals/DispFrameUnit.pas:762
 msgid "Select monitor"
-msgstr ""
+msgstr "Seleziona monitor"
 
 #: Core/GObjects/Visuals/DispFrameUnit.pas:768
 msgid "Cannot attach display do dewesoft primary monitor"
@@ -29459,7 +29459,7 @@ msgstr ""
 
 #: Core/Sequencer/Items/CustomBlockItem.pas:334
 msgid "Select custom block"
-msgstr ""
+msgstr "Seleziona blocco custom"
 
 #: Core/Sequencer/Items/DecisionItem.pas:120
 msgid "If"
@@ -29558,7 +29558,7 @@ msgstr ""
 #: Visuals/Frames/AdvancedSettingsFrameUnit.pas:439
 #: Visuals/Frames/GlobalSettingsFrameUnit.pas:536
 msgid "Select folder"
-msgstr ""
+msgstr "Seleziona cartella"
 
 #: Core/Sequencer/Visuals/RelAbsPathOpenDialog.pas:106
 msgid "Relative path"
@@ -29634,25 +29634,25 @@ msgstr ""
 
 #: Core/Sequencer/Visuals/SeqSettingsFrameUnit.pas:133
 msgid "Error on exporting variables"
-msgstr ""
+msgstr "Errore esportazione variabili"
 
 #: Core/Sequencer/Visuals/SeqSettingsFrameUnit.pas:148
 msgid "Error on importing variables"
-msgstr ""
+msgstr "Errore importazione variabili"
 
 #: Core/TcpIpObjects/DwServerProto.pas:2460
 msgid "Out of disk space"
-msgstr ""
+msgstr "Spazio disco terminato"
 
 #. Daq.Preinitiate;
 #: Core/TcpIpObjects/DwServerProto.pas:2666
 msgid "Synchronize"
-msgstr ""
+msgstr "Sincronizza"
 
 #: Core/TcpIpObjects/NETUnit.pas:102
 #: Core/TcpIpObjects/Visuals/ServerListUnit.pas:162
 msgid "Measurement unit already exists"
-msgstr ""
+msgstr "L'unità di misura esiste già"
 
 #: Core/TcpIpObjects/TcpIpClient.pas:2803
 #: Core/TcpIpObjects/TcpIpClient.pas:5132
@@ -29676,11 +29676,11 @@ msgstr ""
 #: Core/TcpIpObjects/TcpIpClient.pas:7664
 #: Core/TcpIpObjects/TcpIpClient.pas:7925
 msgid "NET error on receiving"
-msgstr ""
+msgstr "Errore NET su ricezione"
 
 #: Core/TcpIpObjects/TcpIpClient.pas:3840
 msgid "Searching for server"
-msgstr ""
+msgstr "In ricerca del server"
 
 #: Core/TcpIpObjects/TcpIpClient.pas:5117
 #: Core/TcpIpObjects/TcpIpClient.pas:5290
@@ -29706,29 +29706,31 @@ msgstr ""
 #: Core/TcpIpObjects/TcpIpClient.pas:7656
 #: Core/TcpIpObjects/TcpIpClient.pas:7917
 msgid "NET error on sending"
-msgstr ""
+msgstr "Errore NET su invio"
 
 #: Core/TcpIpObjects/TcpIpClient.pas:5166
 msgid ""
 "No MUs are defined yet. Please set MUs first in \"Setup measurement units\"."
 msgstr ""
+"Non ci sono MUs definite. Prego selezionare MUs in \"Impostazioni unità di "
+"misura\"."
 
 #: Core/TcpIpObjects/TcpIpClient.pas:5171
 msgid "No hardware selected. Master MU mode not available."
-msgstr ""
+msgstr "Nessun hardware selezionato. Modo master MU non disponibile."
 
 #: Core/TcpIpObjects/TcpIpClient.pas:5176
 msgid "Cannot select client mode."
-msgstr ""
+msgstr "Impossibile selezionare modo client."
 
 #: Core/TcpIpObjects/TcpIpClient.pas:5176
 msgid " Please set: No A/D hardware."
-msgstr ""
+msgstr " Prego selezionare: Nessun hardware A/D."
 
 #: Core/TcpIpObjects/TcpIpClient.pas:6119
 #: Core/TcpIpObjects/TcpIpClient.pas:6131
 msgid "Could not set the same samplerate on all MUs"
-msgstr ""
+msgstr "Impossibile impostare il campionamento su tutti i MUs"
 
 #: Core/TcpIpObjects/TcpIpClient.pas:6748
 #: Core/TcpIpObjects/TcpIpClient.pas:7112
@@ -29736,7 +29738,7 @@ msgstr ""
 #: Core/TcpIpObjects/TcpIpConnect.pas:564
 #: Core/TcpIpObjects/TcpIpConnect.pas:747
 msgid "No response from measurement unit"
-msgstr ""
+msgstr "Nessuna risposta dall'unità di misura"
 
 #: Core/TcpIpObjects/TcpIpClient.pas:6939
 #: Core/TcpIpObjects/TcpIpClient.pas:6980
@@ -29749,39 +29751,39 @@ msgstr ""
 #: Core/TcpIpObjects/TcpIpConnect.pas:569
 #: Core/TcpIpObjects/TcpIpConnect.pas:752
 msgid "Wrong response from measurement unit"
-msgstr ""
+msgstr "Risposta errata dall'unità di misura"
 
 #: Core/TcpIpObjects/TcpIpClient.pas:7117
 msgid "Version of RunExe on measurement unit too old"
-msgstr ""
+msgstr "RunExe troppo vecchio sull'unità di misura"
 
 #: Core/TcpIpObjects/TcpIpClient.pas:7136
 msgid "Setup of IP address not correct"
-msgstr ""
+msgstr "Impostazioni IP non corrette"
 
 #: Core/TcpIpObjects/TcpIpClient.pas:7140
 msgid "Measurement unit not detected"
-msgstr ""
+msgstr "Unità di misura non rilevata"
 
 #: Core/TcpIpObjects/TcpIpClient.pas:7151
 msgid "Fixing network problems"
-msgstr ""
+msgstr "In risoluzione problemi di rete"
 
 #: Core/TcpIpObjects/TcpIpClient.pas:7162
 msgid "Dewesoft not running"
-msgstr ""
+msgstr "Dewesoft non in esecuzione"
 
 #: Core/TcpIpObjects/TcpIpClient.pas:7164
 msgid "ready to start"
-msgstr ""
+msgstr "pronto"
 
 #: Core/TcpIpObjects/TcpIpClient.pas:7166
 msgid "not found in default folder"
-msgstr ""
+msgstr "non trovato nella cartella predefinita"
 
 #: Core/TcpIpObjects/TcpIpClient.pas:7171
 msgid "Dewesoft running"
-msgstr ""
+msgstr "Dewesoft in esecuzione"
 
 #: Core/TcpIpObjects/TcpIpClient.pas:7175
 msgid "in hardware setup"
@@ -29789,35 +29791,35 @@ msgstr ""
 
 #: Core/TcpIpObjects/TcpIpClient.pas:7181
 msgid "unknown mode"
-msgstr ""
+msgstr "modo sconosciuto"
 
 #: Core/TcpIpObjects/TcpIpClient.pas:7182
 msgid "auto detect client mode"
-msgstr ""
+msgstr "determina automaticamente modo"
 
 #: Core/TcpIpObjects/TcpIpClient.pas:7183
 msgid "master client mode"
-msgstr ""
+msgstr "modo client master"
 
 #: Core/TcpIpObjects/TcpIpClient.pas:7184
 msgid "view client mode"
-msgstr ""
+msgstr "modo unità client di visualizzazione"
 
 #: Core/TcpIpObjects/TcpIpClient.pas:7185
 msgid "master measurement unit mode"
-msgstr ""
+msgstr "modo unità master di misura"
 
 #: Core/TcpIpObjects/TcpIpClient.pas:7186
 msgid "slave measurement unit mode"
-msgstr ""
+msgstr "modo unità slave di misura"
 
 #: Core/TcpIpObjects/TcpIpClient.pas:7187
 msgid "slave client unit mode"
-msgstr ""
+msgstr "modo unità slave client"
 
 #: Core/TcpIpObjects/TcpIpClient.pas:7188
 msgid "standalone mode"
-msgstr ""
+msgstr "modo standalone"
 
 #: Core/TcpIpObjects/TcpIpClient.pas:7196
 msgid "firewalled"
@@ -29825,36 +29827,36 @@ msgstr ""
 
 #: Core/TcpIpObjects/TcpIpClient.pas:7198
 msgid "firewall status unknown"
-msgstr ""
+msgstr "stato firewall sconosciuto"
 
 #: Core/TcpIpObjects/TcpIpClient.pas:7206
 msgid "Connection not available"
-msgstr ""
+msgstr "Connessione non disponibile"
 
 #: Core/TcpIpObjects/TcpIpClient.pas:7399
 #: Core/TcpIpObjects/TcpIpClient.pas:7442
 msgid "Measurement unit not responding"
-msgstr ""
+msgstr "L'unità di misura non risponde"
 
 #: Core/TcpIpObjects/TcpIpClient.pas:7631
 msgid "Transfering data"
-msgstr ""
+msgstr "In trasferimento dati"
 
 #: Core/TcpIpObjects/TcpIpConnect.pas:126
 msgid "Success"
-msgstr ""
+msgstr "Successo"
 
 #: Core/TcpIpObjects/TcpIpConnect.pas:127
 msgid "In progress"
-msgstr ""
+msgstr "In progresso"
 
 #: Core/TcpIpObjects/TcpIpConnect.pas:128
 msgid "Unknown error"
-msgstr ""
+msgstr "Errore sconosciuto"
 
 #: Core/TcpIpObjects/TcpIpConnect.pas:129
 msgid "Please select at least one measurement unit."
-msgstr ""
+msgstr "Prego selezionare almeno una unità di misura."
 
 #: Core/TcpIpObjects/TcpIpConnect.pas:130
 #: Core/TcpIpObjects/TcpIpConnect.pas:564
@@ -29868,113 +29870,113 @@ msgstr ""
 #: Core/TcpIpObjects/TcpIpConnect.pas:755
 #: Core/TcpIpObjects/TcpIpConnect.pas:768
 msgid "Connect failed"
-msgstr ""
+msgstr "Connessione fallita"
 
 #: Core/TcpIpObjects/TcpIpConnect.pas:131
 #: Core/TcpIpObjects/TcpIpConnect.pas:606
 msgid "Dewesoft on this computer is too old"
-msgstr ""
+msgstr "Versione Dewesoft troppo vecchia su questo computer"
 
 #: Core/TcpIpObjects/TcpIpConnect.pas:132
 #: Core/TcpIpObjects/TcpIpConnect.pas:611
 msgid "Dewesoft on measurement unit is too old"
-msgstr ""
+msgstr "Versione Dewesoft troppo vecchia sulle unità di misura"
 
 #: Core/TcpIpObjects/TcpIpConnect.pas:133
 #: Core/TcpIpObjects/TcpIpConnect.pas:620
 msgid "Measurement unit in store mode"
-msgstr ""
+msgstr "Unità di misura in registrazione"
 
 #: Core/TcpIpObjects/TcpIpConnect.pas:134
 msgid "Can't select common mode"
-msgstr ""
+msgstr "Impossibile selezionare modo comune"
 
 #: Core/TcpIpObjects/TcpIpConnect.pas:137
 #: Core/TcpIpObjects/TcpIpConnect.pas:755
 msgid "communication error"
-msgstr ""
+msgstr "errore comunicazione"
 
 #: Core/TcpIpObjects/TcpIpConnect.pas:138
 msgid "View client cannot connect to slave client"
-msgstr ""
+msgstr "Il view client non riesce a connettersi con lo slave client"
 
 #: Core/TcpIpObjects/TcpIpConnect.pas:139
 msgid "Timing does not match to master unit"
-msgstr ""
+msgstr "La sincronia non coincide con l'unità master"
 
 #: Core/TcpIpObjects/TcpIpConnect.pas:140
 msgid "Timing does not match across clients"
-msgstr ""
+msgstr "La sincronia non coincide tra i clients"
 
 #: Core/TcpIpObjects/TcpIpConnect.pas:141
 msgid "Connect aborted"
-msgstr ""
+msgstr "Connessione annullata"
 
 #: Core/TcpIpObjects/TcpIpConnect.pas:208
 msgid "Can't gain control"
-msgstr ""
+msgstr "Impossibile ottenere controllo"
 
 #: Core/TcpIpObjects/TcpIpConnect.pas:578
 #: Core/TcpIpObjects/TcpIpConnect.pas:761
 #: Core/Updates/Firmware/FirmwareUpgradingFormUnit.pas:84
 msgid "Connecting"
-msgstr ""
+msgstr "In connessione"
 
 #: Core/TcpIpObjects/TcpIpConnect.pas:587
 #: Core/TcpIpObjects/TcpIpConnect.pas:624
 #: Core/TcpIpObjects/TcpIpConnect.pas:770
 msgid "Connected"
-msgstr ""
+msgstr "Connesso"
 
 #: Core/TcpIpObjects/TcpIpUnit.pas:477
 msgid "Failed to open file"
-msgstr ""
+msgstr "Errore di apertura file"
 
 #: Core/TcpIpObjects/Visuals/ConnectUnit.pas:168
 #: Core/TcpIpObjects/Visuals/ConnectUnit.pas:234
 msgid "Local mode"
-msgstr ""
+msgstr "Modo locale"
 
 #: Core/TcpIpObjects/Visuals/ConnectUnit.pas:195
 msgid "Waiting for single bandwidth measurement"
-msgstr ""
+msgstr "In attesa di misura banda singola"
 
 #: Core/TcpIpObjects/Visuals/ConnectUnit.pas:202
 #: Core/TcpIpObjects/Visuals/ConnectUnit.pas:687
 msgid "Measuring single bandwidth"
-msgstr ""
+msgstr "Misura banda singola"
 
 #: Core/TcpIpObjects/Visuals/ConnectUnit.pas:494
 msgid "Reconnect"
-msgstr ""
+msgstr "Riconnetti"
 
 #: Core/TcpIpObjects/Visuals/ConnectUnit.pas:581
 msgid "Connected and initialized"
-msgstr ""
+msgstr "Connesso e inizializzato"
 
 #: Core/TcpIpObjects/Visuals/ConnectUnit.pas:584
 msgid "Initialization failure"
-msgstr ""
+msgstr "Errore inizializzazione"
 
 #: Core/TcpIpObjects/Visuals/ConnectUnit.pas:588
 msgid "Connection failure"
-msgstr ""
+msgstr "Errore connessione"
 
 #: Core/TcpIpObjects/Visuals/ConnectUnit.pas:681
 msgid "Measuring group bandwidth"
-msgstr ""
+msgstr "In misura banda del gruppo"
 
 #: Core/TcpIpObjects/Visuals/ConnectUnit.pas:697
 msgid "Waiting for group bandwidth measurement"
-msgstr ""
+msgstr "In attesa di misura banda del gruppo"
 
 #: Core/TcpIpObjects/Visuals/ConnectUnit.pas:699
 msgid "Bandwidth measurement done"
-msgstr ""
+msgstr "Misura banda effettuata"
 
 #: Core/TcpIpObjects/Visuals/RemoteSetupGrid.pas:154
 msgid "Transfer rate"
-msgstr ""
+msgstr "Vel trasferimento"
 
 #: Core/TcpIpObjects/Visuals/RemoteSetupGrid.pas:593
 #: Core/TcpIpObjects/Visuals/RemoteSetupGrid.pas:752
@@ -29987,35 +29989,35 @@ msgstr "singolo valore"
 
 #: Core/TcpIpObjects/Visuals/RemoteSetupGrid.pas:776
 msgid "not available"
-msgstr ""
+msgstr "non disponibile"
 
 #: Core/TcpIpObjects/Visuals/ServerListUnit.pas:124
 msgid "Remote setup"
-msgstr ""
+msgstr "Setup remoto"
 
 #: Core/TcpIpObjects/Visuals/ServerListUnit.pas:323
 msgid "Configuration"
-msgstr ""
+msgstr "Configurazione"
 
 #: Core/TcpIpObjects/Visuals/ServerListUnit.pas:489
 msgid "remote desktop"
-msgstr ""
+msgstr "desktop remoto"
 
 #: Core/TcpIpObjects/Visuals/ServerListUnit.pas:569
 msgid "VNC already running"
-msgstr ""
+msgstr "VNC è già in esecuzione"
 
 #: Core/TcpIpObjects/Visuals/VNCFormUnit.pas:64
 msgid "Remote connection to"
-msgstr ""
+msgstr "Connessione remota a"
 
 #: Core/Updates/Firmware/FirmwareUpgradeFrameUnit.pas:90
 msgid "FW new version"
-msgstr ""
+msgstr "Nuova versione FW"
 
 #: Core/Updates/Firmware/FirmwareUpgradeFrameUnit.pas:170
 msgid "Reprogram"
-msgstr ""
+msgstr "Riprogramma"
 
 #: Core/Updates/Firmware/FirmwareUpgradeFrameUnit.pas:172
 msgid "Downgrade"
@@ -30036,27 +30038,27 @@ msgstr "Nuova versione disponibile"
 
 #: Core/Updates/Firmware/FirmwareUpgradeFrameUnit.pas:202
 msgid "Old version avaiable"
-msgstr ""
+msgstr "Disponibile versione precedente"
 
 #: Core/Updates/Firmware/FirmwareUpgradeFrameUnit.pas:207
 msgid "Up to date"
-msgstr ""
+msgstr "Aggiornato"
 
 #: Core/Updates/Firmware/FirmwareUpgradeFrameUnit.pas:313
 msgid "Invalid firmware package file."
-msgstr ""
+msgstr "File firmware pack non valido."
 
 #: Core/Updates/Firmware/FirmwareUpgradeFrameUnit.pas:346
 msgid "Device type will be changed. Would you like to continue?"
-msgstr ""
+msgstr "Il tipo di dispositivo sarà modificato. Vuoi continuare ?"
 
 #: Core/Updates/Firmware/FirmwareUpgradeFrameUnit.pas:351
 msgid "Device(s) will be downgraded. Would you like to continue?"
-msgstr ""
+msgstr "I dispositivi saranno downgradati. Vuoi continuare ?"
 
 #: Core/Updates/Firmware/FirmwareUpgradeFrameUnit.pas:356
 msgid "Device(s) will be upgraded. Would you like to continue?"
-msgstr ""
+msgstr "I dispositivi saranno aggiornati. Vuoi continuare ?"
 
 #: Core/Updates/Firmware/FirmwareUpgradeFrameUnit.pas:365
 msgid "Rescanning"
@@ -30076,12 +30078,12 @@ msgstr ""
 
 #: Core/Updates/Firmware/FirmwareUpgradingFormUnit.pas:123
 msgid "Upgrade failed; Error code: "
-msgstr ""
+msgstr "Aggiornamento fallito; codice errore: "
 
 #: Core/Updates/Firmware/FirmwareUpgradingFormUnit.pas:128
 #: Core/Updates/Firmware/FirmwareUpgradingFormUnit.pas:148
 msgid "Upgrade succeeded"
-msgstr ""
+msgstr "Aggiornato con successo"
 
 #: Core/Updates/Firmware/FirmwareUpgradingFormUnit.pas:139
 #: Visuals/Forms/NotificationWindowUnit.pas:284
@@ -30090,11 +30092,11 @@ msgstr "Attendere"
 
 #: Core/Updates/Firmware/FirmwareUpgradingFormUnit.pas:153
 msgid "Upgrade failed"
-msgstr ""
+msgstr "Aggiornamento fallito"
 
 #: Core/Utilities/DebugFormUnit.pas:709
 msgid "Event log"
-msgstr ""
+msgstr "Log eventi"
 
 #: Core/Utilities/DebugFormUnit.pas:710
 msgid "Submit form"
@@ -30102,27 +30104,27 @@ msgstr ""
 
 #: Core/Utilities/DebugFormUnit.pas:711
 msgid "Debug log"
-msgstr ""
+msgstr "Log debug"
 
 #: Core/Utilities/DebugFormUnit.pas:1029
 msgid "Close Dewesoft"
-msgstr ""
+msgstr "Chiudi Dewesoft"
 
 #: Core/Utilities/DebugFormUnit.pas:1149
 msgid "Tell us what's happening"
-msgstr ""
+msgstr "Dicci cosa sta succedendo"
 
 #: Core/Utilities/DialogsUnit.pas:53
 msgid "Enter password"
-msgstr ""
+msgstr "Inserisci password"
 
 #: Core/Utilities/DialogsUnit.pas:81
 msgid "Confirm password"
-msgstr ""
+msgstr "Conferma password"
 
 #: Core/Utilities/ExactFreqUnit.pas:276
 msgid "No signal"
-msgstr ""
+msgstr "Nessun segnale"
 
 #: Core/Utilities/ExactFreqUnit.pas:278
 msgid "Broadband"
