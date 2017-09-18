@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2017-08-31 16:50\n"
-"PO-Revision-Date: 2017-09-15 18:16+0200\n"
+"PO-Revision-Date: 2017-09-18 17:13+0200\n"
 "Last-Translator: Somebody <your.email@address.com>\n"
 "Language-Team: \n"
 "Language: it\n"
@@ -6740,7 +6740,7 @@ msgstr ""
 #: Core/MathObjects/Visuals/IIRMathSetupGridUnit.pas:245
 #: Visuals/Frames/EventFrameUnit.pas:409
 msgid "Update"
-msgstr ""
+msgstr "Aggiorna"
 
 #. FrameNovatelGPS..ResetButton..Caption
 #: Core/Daq/GPS/Visuals/NovatelGPSFrame.dfm:270
@@ -8154,7 +8154,7 @@ msgstr ""
 #: Core/ExportObjects/Visuals/FamosFrameUnit.dfm:20
 #: Core/Utilities/DebugFormUnit.dfm:364
 msgid "Show warnings"
-msgstr ""
+msgstr "Mostra avvisi"
 
 #. FamosFrame..ScriptPanel..ScriptCheckBox..Caption
 #: Core/ExportObjects/Visuals/FamosFrameUnit.dfm:36
@@ -19128,28 +19128,28 @@ msgstr ""
 #: Core/Updates/Firmware/FirmwareUpgradeFrameUnit.dfm:40
 #: Core/Updates/Firmware/FirmwareUpgradeFrameUnit.pas:326
 msgid "Selected devices for upgrade"
-msgstr ""
+msgstr "Seleziona dispositivi da aggiornare"
 
 #. FirmwareUpgradeFrame..BottomPanel..UpgradeButton..Caption
 #: Core/Updates/Firmware/FirmwareUpgradeFrameUnit.dfm:48
 #: Core/Updates/Firmware/FirmwareUpgradeFrameUnit.pas:174
 msgid "Upgrade"
-msgstr ""
+msgstr "Aggiorna"
 
 #. FirmwareUpgradeFrame..LayoutPanel..FirmwareUpdateGroup..SelectFileButton..Text
 #: Core/Updates/Firmware/FirmwareUpgradeFrameUnit.dfm:91
 msgid "Select firmware package file..."
-msgstr ""
+msgstr "Seleziona file firmware pack"
 
 #. FirmwareUpgradeFrame..OpenFWDialog..Title
 #: Core/Updates/Firmware/FirmwareUpgradeFrameUnit.dfm:119
 msgid "Firmware package filename"
-msgstr ""
+msgstr "Nome file firmware pack"
 
 #. FirmwareUpgradingForm..Caption
 #: Core/Updates/Firmware/FirmwareUpgradingFormUnit.dfm:5
 msgid "Firmware upgrade"
-msgstr ""
+msgstr "Aggiornamento firmware"
 
 #. FirmwareUpgradingForm..HeaderPanel..UpgradingStatusLabel..Caption
 #: Core/Updates/Firmware/FirmwareUpgradingFormUnit.dfm:41
@@ -19159,7 +19159,7 @@ msgstr "Attendere prego..."
 #. FirmwareUpgradingForm..HeaderPanel..RetryButton..Caption
 #: Core/Updates/Firmware/FirmwareUpgradingFormUnit.dfm:60
 msgid "Retry"
-msgstr ""
+msgstr "Riprova"
 
 #. EventViewerForm..Caption
 #. MainForm..SystemPopupMenu..ToolsMenuItem..Eventviewr1..Caption
@@ -19171,17 +19171,17 @@ msgstr "Mostra eventi"
 #. EventViewerForm..PGCtrl..EventViewTabSheet..Panel1..EventLogsPanel..Caption
 #: Core/Utilities/DebugFormUnit.dfm:62
 msgid "Event logs"
-msgstr ""
+msgstr "Log eventi"
 
 #. EventViewerForm..PGCtrl..EventViewTabSheet..Panel1..EventLogsPanel..Panel2..ClearButton..Caption
 #: Core/Utilities/DebugFormUnit.dfm:92
 msgid "Clear msg"
-msgstr ""
+msgstr "Cancella msg"
 
 #. EventViewerForm..PGCtrl..EventViewTabSheet..Panel1..EventLogsPanel..Panel2..OpenMsgBtn..Caption
 #: Core/Utilities/DebugFormUnit.dfm:101
 msgid "Open log file"
-msgstr ""
+msgstr "Apri file log"
 
 #. EventViewerForm..PGCtrl..EventViewTabSheet..Panel1..EventLogsPanel..EventDrawDescPanel..DetailsPageControl..TabSheet4..Caption
 #. MainForm..PerformanceMonitorPanel..ProfilerPageControl..ProfilerTasksTab..Caption
@@ -19189,7 +19189,7 @@ msgstr ""
 #: Core/Utilities/DebugFormUnit.dfm:144 DEWEsoft/MainUnit.dfm:20961
 #: DEWEsoft/MainUnit.dfm:20977
 msgid "Details"
-msgstr ""
+msgstr "Dettagli"
 
 #. EventViewerForm..PGCtrl..EventViewTabSheet..Panel1..EventLogsPanel..EventDrawDescPanel..DetailsPageControl..CallStackTabSheet..Caption
 #: Core/Utilities/DebugFormUnit.dfm:166
@@ -19199,77 +19199,77 @@ msgstr ""
 #. EventViewerForm..PGCtrl..EventViewTabSheet..Panel1..FooterPanel..CBAutoPopup..Caption
 #: Core/Utilities/DebugFormUnit.dfm:207
 msgid "Automatically show this window on warning/error"
-msgstr ""
+msgstr "Mostra questa finestra automaticamente su avvisi/errori"
 
 #. EventViewerForm..PGCtrl..EventViewTabSheet..Panel1..FooterPanel..SendErrorReportButton..Caption
 #: Core/Utilities/DebugFormUnit.dfm:228
 msgid "Submit bug report"
-msgstr ""
+msgstr "Riporta un bug"
 
 #. EventViewerForm..PGCtrl..EventViewTabSheet..Panel1..OptionsPanel..EnableDebuggingCheckBox..Caption
 #: Core/Utilities/DebugFormUnit.dfm:334
 msgid "Enable event logging"
-msgstr ""
+msgstr "Abilita log eventi"
 
 #. EventViewerForm..PGCtrl..EventViewTabSheet..Panel1..OptionsPanel..MessagesCheckListBox....Items.Strings
 #: Core/Utilities/DebugFormUnit.dfm:346
 msgid "Analog card"
-msgstr ""
+msgstr "Scheda analog"
 
 #. EventViewerForm..PGCtrl..EventViewTabSheet..Panel1..OptionsPanel..MessagesCheckListBox....Items.Strings
 #: Core/Utilities/DebugFormUnit.dfm:347
 msgid "CAN card"
-msgstr ""
+msgstr "Scheda CAN"
 
 #. EventViewerForm..PGCtrl..EventViewTabSheet..Panel1..OptionsPanel..MessagesCheckListBox....Items.Strings
 #: Core/Utilities/DebugFormUnit.dfm:348
 msgid "Timing card"
-msgstr ""
+msgstr "Scheda timing"
 
 #. EventViewerForm..PGCtrl..EventViewTabSheet..Panel1..OptionsPanel..ShowErrorsCheckBox..Caption
 #: Core/Utilities/DebugFormUnit.dfm:356
 msgid "Show errors"
-msgstr ""
+msgstr "Mostra errori"
 
 #. EventViewerForm..PGCtrl..EventViewTabSheet..Panel1..OptionsPanel..ShowInfCheckBox..Caption
 #: Core/Utilities/DebugFormUnit.dfm:373
 msgid "Show information"
-msgstr ""
+msgstr "Mostra informazioni"
 
 #. EventViewerForm..PGCtrl..EventViewTabSheet..Panel1..OptionsPanel..DeveloperCBox..Caption
 #: Core/Utilities/DebugFormUnit.dfm:382
 msgid "Developer messages"
-msgstr ""
+msgstr "Messaggi sviluppatore"
 
 #. EventViewerForm..PGCtrl..EventViewTabSheet..Panel1..OptionsPanel..ShowCriticalErrorsCheckBox..Caption
 #: Core/Utilities/DebugFormUnit.dfm:391
 msgid "Show critical errors"
-msgstr ""
+msgstr "Mostra errori critici"
 
 #. EventViewerForm..PGCtrl..ReportTabSheet..Panel3..Panel4..SendReportBtn..Caption
 #: Core/Utilities/DebugFormUnit.dfm:454
 msgid "Send report by e-mail"
-msgstr ""
+msgstr "Invia report per email"
 
 #. EventViewerForm..PGCtrl..ReportTabSheet..Panel3..Panel4..SaveErrorReportButton..Caption
 #: Core/Utilities/DebugFormUnit.dfm:464
 msgid "Save report to disk"
-msgstr ""
+msgstr "Salva report su disco"
 
 #. EventViewerForm..PGCtrl..ReportTabSheet..Panel3..AdvCaptionPanel1..Caption
 #: Core/Utilities/DebugFormUnit.dfm:479
 msgid "Enter steps to reproduce the bug"
-msgstr ""
+msgstr "Inserisci passi per riprodurre il bug"
 
 #. EventViewerForm..PGCtrl..ReportTabSheet..Panel3..AdvCaptionPanel2..Caption
 #: Core/Utilities/DebugFormUnit.dfm:596
 msgid "Personal information"
-msgstr ""
+msgstr "Informazioni personali"
 
 #. EventViewerForm..PGCtrl..ReportTabSheet..Panel3..AdvCaptionPanel2..Label1..Caption
 #: Core/Utilities/DebugFormUnit.dfm:686
 msgid "Name/organization"
-msgstr ""
+msgstr "Nome/organizzazione"
 
 #. EventViewerForm..PGCtrl..ReportTabSheet..Panel3..AdvCaptionPanel2..Label2..Caption
 #: Core/Utilities/DebugFormUnit.dfm:706
@@ -19279,17 +19279,17 @@ msgstr ""
 #. EventViewerForm..PGCtrl..ReportTabSheet..Panel3..AdvCaptionPanel2..IncludeSetupCbox..Caption
 #: Core/Utilities/DebugFormUnit.dfm:754
 msgid "Include setup file"
-msgstr ""
+msgstr "Includi file setup"
 
 #. EventViewerForm..PGCtrl..ReportTabSheet..Panel3..AdvCaptionPanel2..IncludeStepsCbox..Caption
 #: Core/Utilities/DebugFormUnit.dfm:764
 msgid "Include recorded steps"
-msgstr ""
+msgstr "Includi passi registrati"
 
 #. EventViewerForm..PGCtrl..ReportTabSheet..Panel3..Panel5..StatusLabel..Caption
 #: Core/Utilities/DebugFormUnit.dfm:787
 msgid "Send status"
-msgstr ""
+msgstr "Invia stati"
 
 #. DataHeaderForm..Caption
 #. MainForm..MainPageControl..ChSetupMeasTabSheet..SetupPanel..RemoteSetupPageControl..LocalTabSheet..MainOptionsPanel..SetupPageControl..DHSetupSheet..Caption
@@ -21762,12 +21762,12 @@ msgstr "Gestisci preferiti"
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet1..ScrollBox5..HardwareLayoutPanel..AmplifiersGroup..Caption
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:45
 msgid "Amplifiers"
-msgstr ""
+msgstr "Amplificatori"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet1..ScrollBox5..HardwareLayoutPanel..AmplifiersGroup..ScanOnlyOnceProp..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:53
 msgid "Scan TEDS only once"
-msgstr ""
+msgstr "Scansiona TEDS solo una volta"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet1..ScrollBox5..HardwareLayoutPanel..AmplifiersGroup..ScanOnlyOnceProp....Description
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:56
@@ -21775,46 +21775,48 @@ msgid ""
 "If checked, TEDS scan will be performed only once instead of continuos "
 "scanning"
 msgstr ""
+"Se selezionato, la scansione del TEDS sarà eseguita solo una volta invece "
+"che ciclicamente"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet1..ScrollBox5..HardwareLayoutPanel..AmplifiersGroup..ShuntCalErrorProp..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:76
 msgid "Shunt calibration error limit"
-msgstr ""
+msgstr "Limite di errore calibrazione shunt"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet1..ScrollBox5..HardwareLayoutPanel..AmplifiersGroup..CapacityCheckProp..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:98
 msgid "Capacity check error limit"
-msgstr ""
+msgstr "Limite di errore alla verifica capacità"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet1..ScrollBox5..HardwareLayoutPanel..AmplifiersGroup..HPFilterOffCheckProp....Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:122
 msgid "Disable additional software high pass filter if below calculation limit"
-msgstr ""
+msgstr "Disabilita filtri passa alto aggiuntivi se sotto al limite di calcolo"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet1..ScrollBox5..HardwareLayoutPanel..AmplifiersGroup..CalByShuntCheckProp..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:142
 msgid "Enable calibration by shunt"
-msgstr ""
+msgstr "Abilita calibrazione con shunt"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet1..ScrollBox5..HardwareLayoutPanel..AmplifiersGroup..DisableExternalTedsProp..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:162
 msgid "Disable reading of external TEDS on DSI adapters"
-msgstr ""
+msgstr "Disabilita lettura di TEDS esterni su adattatori DSI"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet1..ScrollBox5..HardwareLayoutPanel..AmplifiersGroup..DisableExternalTedsProp..Description
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:163
 msgid "Some DSI adapters (DSI-ACC) are able to read external TEDS"
-msgstr ""
+msgstr "Alcuni adattatori DSI (DSI-ACC) sono in grado di leggere TEDS esterni"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet1..ScrollBox5..HardwareLayoutPanel..USBDevicesGroup..Caption
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:184
 msgid "Dewesoft devices"
-msgstr ""
+msgstr "Dispositivi Dewesoft"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet1..ScrollBox5..HardwareLayoutPanel..USBDevicesGroup..USBSpeedLimitProp..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:192
 msgid "USB speed limit warning (per slice)"
-msgstr ""
+msgstr "Allarme limite velocità USB (per sistema)"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet1..ScrollBox5..HardwareLayoutPanel..USBDevicesGroup..USBSpeedLimitProp..RightText
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:193
@@ -21824,17 +21826,17 @@ msgstr ""
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet1..ScrollBox5..HardwareLayoutPanel..USBDevicesGroup..USBSpeedLimitProp..Description
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:194
 msgid "If speed is exceeded, warning will be shown in channel setup"
-msgstr ""
+msgstr "Se la velocità è superata, un allarme viene mostrato in setup canali"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet1..ScrollBox5..HardwareLayoutPanel..USBDevicesGroup..UsbBufferSizeProp..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:217
 msgid "USB buffer size"
-msgstr ""
+msgstr "Dim buffer USB"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet1..ScrollBox5..HardwareLayoutPanel..USBDevicesGroup..CANBufSizeProp..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:241
 msgid "CAN buffer size"
-msgstr ""
+msgstr "Dim buffer CAN"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet1..ScrollBox5..HardwareLayoutPanel..USBDevicesGroup..CANBufSizeProp..RightText
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:242
@@ -21845,17 +21847,17 @@ msgstr "messaggi"
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet1..ScrollBox5..HardwareLayoutPanel..USBDevicesGroup..CANBufSizeProp..Description
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:243
 msgid "CAN internal buffer size in number of messages per port"
-msgstr ""
+msgstr "Dimensione buffer interno CAN espresso in num msg per porta"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet1..ScrollBox5..HardwareLayoutPanel..USBDevicesGroup..SoftSyncMaxSRProp..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:266
 msgid "SoftSync sample rate limit"
-msgstr ""
+msgstr "Limite campionamento in SoftSync"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet1..ScrollBox5..HardwareLayoutPanel..USBDevicesGroup..AlwaysEnableUSBSysDriverProp..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:289
 msgid "Always enable USB system driver"
-msgstr ""
+msgstr "Abilita sempre driver di sistema USB"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet1..ScrollBox5..HardwareLayoutPanel..USBDevicesGroup..AlwaysEnableUSBSysDriverProp....Description
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:292
@@ -21863,23 +21865,25 @@ msgid ""
 "If DEWESoft USB system driver is disabled in Device Manager, it will be "
 "enabled automatically"
 msgstr ""
+"Se il driver di sistema DEWESoft USB è disabilitato in Gestione Dispositivi, "
+"sarà abilitato automaticamente"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet1..ScrollBox5..HardwareLayoutPanel..USBDevicesGroup..SetMaxSiriusSRTo204800HzProp..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:312
 msgid "Set Sirius sample rate limit to 204.8 kHz"
-msgstr ""
+msgstr "Imposta limite campionamento Sirius a 204.8kHz"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet1..ScrollBox5..HardwareLayoutPanel..USBDevicesGroup..SetMaxSiriusSRTo204800HzProp....Description
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:315
 msgid ""
 "Set maximum sample rate to 204.8 kHz for DW-43, Sirius, Sirius-CD and Sirius-"
 "CD"
-msgstr ""
+msgstr "Imposta massimo campionamento a 204.8 kHz per DW-43, Sirius, Sirius-CD"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet1..ScrollBox5..HardwareLayoutPanel..USBDevicesGroup..DisableEthercatItem..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:335
 msgid "Disable EtherCAT interface"
-msgstr ""
+msgstr "Disabilita interfaccia EtherCAT"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet1..ScrollBox5..HardwareLayoutPanel..USBDevicesGroup..DisableEthercatItem....Description
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:338
@@ -21887,22 +21891,24 @@ msgid ""
 "Check this option if you do not want Dewesoft to scan for or use EtherCAT "
 "devices"
 msgstr ""
+"Seleziona questa opzione se non vuoi che DEWESoft scansioni i dispositivi "
+"EtherCAT"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet1..ScrollBox5..HardwareLayoutPanel..USBDevicesGroup..DecodeSecPartOfIRIGFrameProp..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:359
 msgid "Decode 2nd part of IRIG time frame"
-msgstr ""
+msgstr "Decodifica seconda parte del time frame IRIG"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet1..ScrollBox5..HardwareLayoutPanel..USBDevicesGroup..DecodeSecPartOfIRIGFrameProp..Description
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:360
 msgid "Create system channel to decode 2nd part of IRIG frame"
-msgstr ""
+msgstr "Crea canale sistema per decodificare seconda parte del frame IRIG"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet1..ScrollBox5..HardwareLayoutPanel..USBDevicesGroup..KeepChSRDividersProp..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:380
 #| msgid "Channel setup sample rate"
 msgid "Keep channel sample rate dividers"
-msgstr ""
+msgstr "Ricorda divisori di freq campionamento"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet1..ScrollBox5..HardwareLayoutPanel..USBDevicesGroup..KeepChSRDividersProp....Description
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:383
@@ -21910,21 +21916,23 @@ msgid ""
 "When checked, channel sample rate dividers will be changed to default if "
 "global sample rate is changed"
 msgstr ""
+"Se selezionato, i divisori di campionamento saranno modificati al valore di "
+"default se la freq di campionamento viene modificata"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet1..ScrollBox5..HardwareLayoutPanel..USBDevicesGroup..UseWinPCAPForECAT..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:403
 msgid "Use WinPCAP driver for EtherCAT device"
-msgstr ""
+msgstr "Usa driver WinPCAP per dispositivi EtherCAT"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet1..ScrollBox5..HardwareLayoutPanel..USBDevicesGroup..UseWinPCAPForECAT..Description
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:404
 msgid "When checked, Dewesoft will use old driver"
-msgstr ""
+msgstr "Quanto selezionato, Dewesoft utilizzerà il vecchio driver"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet1..ScrollBox5..HardwareLayoutPanel..CANGroup..EnableCANExportProp..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:434
 msgid "Allow CAN export"
-msgstr ""
+msgstr "Abilita esportazione CAN"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet1..ScrollBox5..HardwareLayoutPanel..CANGroup..EnableCANExportProp....Description
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:437
@@ -21932,31 +21940,35 @@ msgid ""
 "DLL library for CAN export must be purchased at extra cost. Please contact "
 "your local sales representative"
 msgstr ""
+"La libreria per esportazione CAN è disponibile su acquisto. Prego contattare "
+"la rete Dewesoft locale."
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet1..ScrollBox5..HardwareLayoutPanel..CANGroup..CANAcknowledgeDefaultProp..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:457
 msgid "CAN default to acknowledge mode"
-msgstr ""
+msgstr "Imposta modalità CAN acknowledge come predefinita"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet1..ScrollBox5..HardwareLayoutPanel..CANGroup..CANAcknowledgeDefaultProp....Description
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:460
 msgid "When new device is found, acknowledge mode will be selected by default."
 msgstr ""
+"Quando un nuovo dispositivo viene rilevato, viene selezionata la modalità "
+"acknowledge."
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet1..ScrollBox5..HardwareLayoutPanel..DigitalFiltersGroup..Caption
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:481
 msgid "Digital filters"
-msgstr ""
+msgstr "Filtri digitali"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet1..ScrollBox5..HardwareLayoutPanel..DigitalFiltersGroup..FIRUserValueProp..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:489
 msgid "Transition width in percent of sample rate"
-msgstr ""
+msgstr "Ampiezza transizione in percentuale del campionamento"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet1..ScrollBox5..HardwareLayoutPanel..DigitalFiltersGroup..FIRDecimatorProp..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:513
 msgid "AAF (zero-phase distortion) transition width"
-msgstr ""
+msgstr "Ampiezza transizione AAF (zero-phase distortion)"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet1..ScrollBox5..HardwareLayoutPanel..DigitalFiltersGroup..FIRDecimatorProp....Description
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:517
@@ -21969,17 +21981,17 @@ msgstr ""
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet1..ScrollBox5..HardwareLayoutPanel..DigitalFiltersGroup..FIRDecimatorProp....ComboBox.Items.Strings
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:533
 msgid "Auto adjust"
-msgstr ""
+msgstr "Regola auto"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet1..ScrollBox5..HardwareLayoutPanel..DigitalFiltersGroup..FIRDecimatorProp....ComboBox.Items.Strings
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:534
 msgid "User defined"
-msgstr ""
+msgstr "Definisci"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet1..ScrollBox5..HardwareLayoutPanel..DigitalFiltersGroup..DefaultLPFilterProp..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:542
 msgid "Default LP filter"
-msgstr ""
+msgstr "Passa basso predefinito"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet1..ScrollBox5..HardwareLayoutPanel..DigitalFiltersGroup..DefaultLPFilterProp....Description
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:545
@@ -21987,6 +21999,8 @@ msgid ""
 "Default low pass filter setting. If wanted filter is not available on "
 "connected device, first filter will be selected"
 msgstr ""
+"Impostazioni predefinite del filtro passa basso. Se il filtro selezionato "
+"non è disponivile sul dispositivo connesso, il primo filtro sarà selezionato"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet1..ScrollBox5..HardwareLayoutPanel..DigitalFiltersGroup..DefaultLPFilterProp....ComboBox.Items.Strings
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:559
@@ -22494,7 +22508,7 @@ msgstr ""
 #: Visuals/Forms/MessagesFormUnit.pas:259
 #: Visuals/Frames/GlobalSettingsFrameUnit.pas:1052
 msgid "Warnings"
-msgstr ""
+msgstr "Avvisi"
 
 #. AlarmsSetupFrame..CondPanel..TopPanel..MsgLabel..Caption
 #: Visuals/Frames/AlarmsFrameUnit.dfm:44
@@ -22509,7 +22523,7 @@ msgstr "Usa allarmi quando"
 #. AlarmsSetupFrame..CondPanel..TopPanel..AlarmOutputLabel..Caption
 #: Visuals/Frames/AlarmsFrameUnit.dfm:58
 msgid "Alarm output selection"
-msgstr "Selezione uscita allarme"
+msgstr "Allarme selezione uscita"
 
 #. AlarmsSetupFrame..CondPanel..TopPanel..StopAfterRadioButton..Caption
 #: Visuals/Frames/AlarmsFrameUnit.dfm:86
@@ -23447,114 +23461,117 @@ msgstr "Cartelle default"
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabFolders..ScrollBoxFolders..FoldersLayoutPanel..DefaultFoldersGroup..DefaultExportsFolder..Text
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:1264
 msgid "Default folder for exports"
-msgstr ""
+msgstr "Cartella di default per esportazioni"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabFolders..ScrollBoxFolders..FoldersLayoutPanel..DefaultFoldersGroup..DefaultSetupFilesFolder..Text
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:1291
 msgid "Default folder for setup files"
-msgstr ""
+msgstr "Cartella di default per file di setup"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabFolders..ScrollBoxFolders..FoldersLayoutPanel..DefaultFoldersGroup..DefaultDataFilesFolder..Text
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:1318
 msgid "Default folder for data files"
-msgstr ""
+msgstr "Cartella di default per file dati"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabFolders..ScrollBoxFolders..FoldersLayoutPanel..DatabaseFoldersGroup..Caption
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:1346
 msgid "Database files"
-msgstr ""
+msgstr "Files database"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabFolders..ScrollBoxFolders..FoldersLayoutPanel..DatabaseFoldersGroup..FolderBearingDBProp..Text
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:1408
 msgid "Bearings"
-msgstr ""
+msgstr "Cuscinetti"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabFolders..ScrollBoxFolders..FoldersLayoutPanel..DatabaseFoldersGroup..MathTemplatesDBProp..Text
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:1435
 msgid "Math templates"
-msgstr ""
+msgstr "Modelli matematica"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabFolders..ScrollBoxFolders..FoldersLayoutPanel..DSPropertyGroup1..Caption
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:1463
 msgid "GPS maps"
-msgstr ""
+msgstr "Mappe GPS"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabFolders..ScrollBoxFolders..FoldersLayoutPanel..DSPropertyGroup1..GPSMapsFoldersList..Text
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:1471
 msgid "GPS maps folder(s)"
-msgstr ""
+msgstr "Cartelle mappe GPS"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabStoring..ScrollBoxStoring..StoringLayoutPanel..DataFilesStoringGroup..ZipDataFilesProp..Text
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:1541
 msgid "Create zipped data files (.dxz) at the end of measurement"
-msgstr ""
+msgstr "Crea file dati compresso (.dxz) alla fine della misura"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabStoring..ScrollBoxStoring..StoringLayoutPanel..DataFilesStoringGroup..MinimumDiskSpaceProp..Text
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:1561
 msgid "Minimum disk space"
-msgstr ""
+msgstr "Spazio disco minimo"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabStoring..ScrollBoxStoring..StoringLayoutPanel..DataFilesStoringGroup..MinimumDiskSpaceProp..Description
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:1563
 msgid "Storing will be stopped when minimum disk space is reached"
 msgstr ""
+"La registrazione sarà fermata al raggiungimento dello spazio disco minimo"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabStoring..ScrollBoxStoring..StoringLayoutPanel..VideoStoringGroup..Caption
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:1586
 msgid "Default video settings"
-msgstr ""
+msgstr "Impostazioni video predefinite"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabStoring..ScrollBoxStoring..StoringLayoutPanel..VideoStoringGroup..OnlineVideoFormatProp..Text
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:1594
 msgid "Online video file format"
-msgstr ""
+msgstr "Formato file video online"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabStoring..ScrollBoxStoring..StoringLayoutPanel..VideoStoringGroup..AutoCompressVideoProp..Text
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:1617
 msgid "Auto compress (offline) after measurement"
-msgstr ""
+msgstr "Comprimi automaticamente (offline) dopo la misura"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabStoring..ScrollBoxStoring..StoringLayoutPanel..VideoStoringGroup..AutoCompressVideoProp....Description
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:1620
 msgid "For lower CPU usage, enable this option and disable online compression"
 msgstr ""
+"Per minore utilizzo della CPU, abilita questa opzione e disabilita "
+"compressione online"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabStoring..ScrollBoxStoring..StoringLayoutPanel..VideoStoringGroup..OnlineVideoCompProp..Text
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:1640
 msgid "Online compression settings"
-msgstr ""
+msgstr "Impostazioni di compressione online"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabStoring..ScrollBoxStoring..StoringLayoutPanel..VideoStoringGroup..OfflineVideoCompProp..Text
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:1661
 msgid "Offline compression settings"
-msgstr ""
+msgstr "Impostazioni di compressione offline"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabReports..ScrollBox1..ReportsLayoutPanel..DSPropertyGroup3..Caption
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:1711
 msgid "Print margins"
-msgstr ""
+msgstr "Margini di stampa"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabReports..ScrollBox1..ReportsLayoutPanel..DSPropertyGroup3..DSLabelPropertyItem1..Text
 #. ReportSettingsFrame..PrintBordersLabel..Caption
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:2002
 #: Visuals/Frames/ReportSettingsFrameUnit.dfm:264
 msgid "Borders in mm"
-msgstr ""
+msgstr "Margine in mm"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabReports..ScrollBox1..ReportsLayoutPanel..ReportHeaderGroup..Caption
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:2016
 msgid "Report header"
-msgstr ""
+msgstr "Intestazione report"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabReports..ScrollBox1..ReportsLayoutPanel..ReportHeaderGroup..ReportHeaderTextProp..Text
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:2024
 msgid "Report header text"
-msgstr ""
+msgstr "Testo intestazione report"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabReports..ScrollBox1..ReportsLayoutPanel..ReportHeaderGroup..LogoFilenameProp..Text
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:2044
 msgid "Logo filename"
-msgstr ""
+msgstr "Nome file logo"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabReports..ScrollBox1..ReportsLayoutPanel..ReportHeaderGroup..LogoPanelProp..ImagePanel..Caption
 #. ReportSettingsFrame..ImagePanel..Caption
@@ -23563,122 +23580,122 @@ msgstr ""
 #: Visuals/Frames/GlobalSettingsFrameUnit.pas:1342
 #: Visuals/Frames/GlobalSettingsFrameUnit.pas:1346
 msgid "No image"
-msgstr ""
+msgstr "Nessuna immagine"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabSecurity..ScrollBox2..SecurityLayoutPanel..GroupFileLocking..ComboLockFiles..Text
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:2140
 msgid "Automatically lock data files after storing"
-msgstr ""
+msgstr "Blocca file dati automaticamente dopo acquisizione"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabSecurity..ScrollBox2..SecurityLayoutPanel..GroupFileLocking..ComboLockFiles..Description
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:2141
 msgid "Prevent modifiying of data files in analyse mode"
-msgstr ""
+msgstr "Non permettere modifica file dati in modalità analisi"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabSecurity..ScrollBox2..SecurityLayoutPanel..GroupFileLocking..ComboLockFiles....ComboBox.Items.Strings
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:2158
 msgid "With password"
-msgstr ""
+msgstr "Con password"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabSecurity..ScrollBox2..SecurityLayoutPanel..DSPropertyGroup4..Caption
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:2168
 msgid "Lock settings"
-msgstr ""
+msgstr "Blocca impostazioni"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabSecurity..ScrollBox2..SecurityLayoutPanel..DSPropertyGroup4..CBSettingsPassword..Text
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:2176
 msgid "Use admin password for entering settings"
-msgstr ""
+msgstr "Usa password amministratore per entrare nel setup"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabSecurity..ScrollBox2..SecurityLayoutPanel..DSPropertyGroup4..CBSettingsPassword..Description
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:2177
 msgid "This password is needed in order to enable user access locking"
-msgstr ""
+msgstr "Questa password è necessaria per abilitare la protezione utente"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabSecurity..ScrollBox2..SecurityLayoutPanel..DSPropertyGroup5..Caption
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:2199
 msgid "Lock user access"
-msgstr ""
+msgstr "Blocca accesso utente"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabSecurity..ScrollBox2..SecurityLayoutPanel..DSPropertyGroup5..CBChangeSetupPassword..Text
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:2207
 msgid "Use for changing the setup"
-msgstr ""
+msgstr "Usa per modificare il setup"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabSecurity..ScrollBox2..SecurityLayoutPanel..DSPropertyGroup5..CBStopMeasurePassword..Text
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:2227
 msgid "Use for stopping measurement"
-msgstr ""
+msgstr "Usa per fermare la misura"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabSecurity..ScrollBox2..SecurityLayoutPanel..DSPropertyGroup5..CBLeaveFullScreenPassword..Text
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:2247
 msgid "Use for leaving full screen"
-msgstr ""
+msgstr "Usa per uscire da schermo intero"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabSecurity..ScrollBox2..SecurityLayoutPanel..DSPropertyGroup5..CBChangeSequencePassword..Text
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:2267
 msgid "Use for changing the sequence"
-msgstr ""
+msgstr "Usa per cambiare la sequenza"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabSecurity..ScrollBox2..SecurityLayoutPanel..DSPropertyGroup5..CBEditSensorsPassword..Text
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:2287
 msgid "Use for editing sensors"
-msgstr ""
+msgstr "Usa per modificare i sensori"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabSecurity..ScrollBox2..SecurityLayoutPanel..DSPropertyGroup5..CBUserAccessPassword..Text
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:2307
 msgid "User access password"
-msgstr ""
+msgstr "Password utente"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabSecurity..ScrollBox2..SecurityLayoutPanel..DSPropertyGroup5..CBAllowChangeProject..Text
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:2328
 msgid "Allow user to select different project"
-msgstr ""
+msgstr "Permetti all'utente di selezionare un progetto diverso"
 
 #. GlobalSettingsFrame..Panel4..BottomPanel..CloseDewesoftBtn..Caption
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:2428
 msgid "Close dewesoft"
-msgstr ""
+msgstr "Chiudi dewesoft"
 
 #. GlobalSettingsFrame..OpenFileDialog..Title
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:2456
 msgid "Database file"
-msgstr ""
+msgstr "File database"
 
 #. NonLinearScalingFrame..EditPanel..ScaleOptionsPanel..AllowCustomOffsetCheckBox..Caption
 #: Visuals/Frames/NonLinScalingFrameUnit.dfm:112
 msgid "Offset will be defined in the channel setup"
-msgstr ""
+msgstr "L'offset sarà definito nel setup canale"
 
 #. NonLinearScalingFrame..EditPanel..ScaleOptionsPanel..AllowCustomScaleCheckBox..Caption
 #: Visuals/Frames/NonLinScalingFrameUnit.dfm:123
 msgid "Additional scale factor can be defined in channel setup"
-msgstr ""
+msgstr "Fattore di scala aggiuntivo può essere definito in setup canale"
 
 #. NTPSetupFrame..NTPServersLabel..Caption
 #: Visuals/Frames/NTPSetupUnit.dfm:15
 msgid "NTP servers"
-msgstr ""
+msgstr "Servers NTP"
 
 #. NTPSetupFrame..NumRetriesLabel..Caption
 #: Visuals/Frames/NTPSetupUnit.dfm:22
 msgid "Number of retries before switching to next NTP server"
-msgstr ""
+msgstr "Numero di tentativi prima di passare al prossimo server NTP"
 
 #. NTPSetupFrame..CheckNTPButton..Caption
 #: Visuals/Frames/NTPSetupUnit.dfm:37
 msgid "Check NTP servers"
-msgstr ""
+msgstr "Verifica servers NTP"
 
 #. ProjectResolveFrame..IgnoreBtn..Caption
 #: Visuals/Frames/ProjectResolveFrameUnit.dfm:10
 msgid "Ignore warnings (this will change your current project)"
-msgstr ""
+msgstr "Ignora avvisi (questo modificherà il progetto corrente)"
 
 #. ProjectResolveFrame..LoadProjectBtn..Caption
 #: Visuals/Frames/ProjectResolveFrameUnit.dfm:20
 msgid "Select another project"
-msgstr ""
+msgstr "Seleziona un altro progetto"
 
 #. RecallFrame..PropsPanel..DewesoftExportPanel..Panel2..Panel18..DWExistingPanel..Caption
 #. RecallFrame..PropsPanel..FileExportPanel..FileMainPanel..FileExpTypePanel..Panel8..FileExistingPanel..Caption
@@ -23722,40 +23739,40 @@ msgstr ""
 #. RecallFrame..PropsPanel..FileExportPanel..FileMainPanel..FileExpTypePanel..Panel3..Panel14..Panel19..AdvCaptionPanel1..Caption
 #: Visuals/Frames/RecallFrameUnit.dfm:573
 msgid "Common export settings"
-msgstr ""
+msgstr "Impostazioni di export comuni"
 
 #. RecallFrame..PropsPanel..FileExportPanel..FileMainPanel..FileExpTypePanel..Panel3..Panel14..Panel20..AdvCaptionPanel2..Caption
 #: Visuals/Frames/RecallFrameUnit.dfm:663
 msgid "Specific export settings"
-msgstr ""
+msgstr "Impostazioni di export specifiche"
 
 #. RecallFrame..SaveDialog..Title
 #: Visuals/Frames/RecallFrameUnit.dfm:1098
 msgid "Save file to Excel"
-msgstr ""
+msgstr "Salva file su Excel"
 
 #. RecallFrame..FolderPopupMenu..MIOpenFolder..Caption
 #. RecallFrame..FilesPopup..MIOpenFolder2..Caption
 #: Visuals/Frames/RecallFrameUnit.dfm:1106
 #: Visuals/Frames/RecallFrameUnit.dfm:1114
 msgid "Open folder..."
-msgstr ""
+msgstr "Apri cartella..."
 
 #. RecallFrame..FilesPopup..MIRenameFile..Caption
 #: Visuals/Frames/RecallFrameUnit.dfm:1122
 msgid "Rename file..."
-msgstr ""
+msgstr "Rinomina file..."
 
 #. RecallFrame..TreeViewPopupMenu..Createnewfolder1..Caption
 #: Visuals/Frames/RecallFrameUnit.dfm:1279
 #: Visuals/Frames/FolderFrameUnit.pas:121
 msgid "Create new folder"
-msgstr ""
+msgstr "Crea nuova cartella"
 
 #. ReportSettingsFrame..Label15..Caption
 #: Visuals/Frames/ReportSettingsFrameUnit.dfm:251
 msgid "Print page marings"
-msgstr ""
+msgstr "Stampa margini pagina"
 
 #. SecurityFrame..AdvCaptionPanel1..Caption
 #: Visuals/Frames/SecurityFrameUnit.dfm:22
@@ -23788,7 +23805,7 @@ msgstr ""
 #. StoreOptionsFrame..DataPanel..ProjNameLabel..Caption
 #: Visuals/Frames/StoreOptionFrameUnit.dfm:66
 msgid "Project name"
-msgstr ""
+msgstr "Nome progetto"
 
 #. StoreOptionsFrame..DataPanel..OperaterLabel..Caption
 #: Visuals/Frames/StoreOptionFrameUnit.dfm:73
@@ -23816,6 +23833,8 @@ msgid ""
 "Transfer curve will only be applied to frequency domain. Signal will not be "
 "changed in time domain."
 msgstr ""
+"La funzione di trasferimento è usata solo nel dominio della frequenza. "
+"Nessun cambiamento ai canali nel dominio del tempo."
 
 #. TransferCurveFrame..CopyPopup..CopyReImMenuItem..Caption
 #: Visuals/Frames/TransferCurveFrameUnit.dfm:127
@@ -23835,12 +23854,12 @@ msgstr ""
 #. TriggerSetupFrame..StartPanel..StartTriggerFrame..FullPanel..TopPanel..MsgLabel..Caption
 #: Visuals/Frames/TriggerSetupFrameUnit.dfm:48
 msgid "Start storing conditions"
-msgstr ""
+msgstr "Condizioni di Start"
 
 #. TriggerSetupFrame..StartPanel..StartRejectTriggerFrame..FullPanel..TopPanel..MsgLabel..Caption
 #: Visuals/Frames/TriggerSetupFrameUnit.dfm:87
 msgid "\"Don't store\" conditions"
-msgstr ""
+msgstr "Condizioni di \"Non salvataggio\""
 
 #. TriggerSetupFrame..StartPanel..StartTrigSetupPanel..Caption
 #: Visuals/Frames/TriggerSetupFrameUnit.dfm:113
@@ -23877,74 +23896,74 @@ msgstr "Trigger Stop"
 #. AddDevicesFrame..TabShown......Caption
 #: Visuals/Frames/Settings/AddDevicesFrameUnit.dfm:33
 msgid "Standard devices"
-msgstr ""
+msgstr "Dispositivi standard"
 
 #. AddDevicesFrame..TabShown......Caption
 #: Visuals/Frames/Settings/AddDevicesFrameUnit.dfm:37
 msgid "Legacy devices"
-msgstr ""
+msgstr "Dispositivi proprietari"
 
 #. AddExtensionsFrame..TabShown......Caption
 #: Visuals/Frames/Settings/AddExtensionsFrameUnit.dfm:83
 msgid "Show disabled"
-msgstr ""
+msgstr "Mostra disabilitato"
 
 #. AddExtensionsFrame..TabShown......Caption
 #: Visuals/Frames/Settings/AddExtensionsFrameUnit.dfm:87
 msgid "Show enabled"
-msgstr ""
+msgstr "Mostra abilitato"
 
 #. AddExtensionsFrame..TabShown......Caption
 #: Visuals/Frames/Settings/AddExtensionsFrameUnit.dfm:91
 msgid "Show all"
-msgstr ""
+msgstr "Mostra tutto"
 
 #. ExtensionSettingsFrame..TopPanel..LabelType..Caption
 #: Visuals/Frames/Settings/ExtensionSettingsFrameUnit.dfm:33
 msgid "Extension type"
-msgstr ""
+msgstr "Tipo estensione"
 
 #. ExtensionSettingsFrame..TopPanel..LabelName..Caption
 #: Visuals/Frames/Settings/ExtensionSettingsFrameUnit.dfm:47
 msgid "Extension"
-msgstr ""
+msgstr "Estensione"
 
 #. ExtensionSettingsFrame..TopPanel..ManagePanel..ManageDescLabel..Caption
 #: Visuals/Frames/Settings/ExtensionSettingsFrameUnit.dfm:79
 msgid "This extension can not be disabled."
-msgstr ""
+msgstr "Questa estensione non può essere disabilitata."
 
 #. GPSControllerFrame..ScrollBox..LayoutPanel..ManageGPSDevicesGroup..Caption
 #: Visuals/Frames/Settings/GPSControllerFrameUnit.dfm:32
 msgid "Manage GPS devices"
-msgstr ""
+msgstr "Gestisci dispositivi GPS"
 
 #. GPSControllerFrame..ScrollBox..LayoutPanel..ManageGPSDevicesGroup..DSButtonPropertyItem1..Text
 #: Visuals/Frames/Settings/GPSControllerFrameUnit.dfm:40
 msgid "Add GPS device"
-msgstr ""
+msgstr "Aggiungi dispositivi GPS"
 
 #. LicensingFrame..ScrollBox..LayoutPanel..ActiveLicensesGroup..Caption
 #: Visuals/Frames/Settings/LicensingFrameUnit.dfm:40
 #: Visuals/Frames/Settings/LicensingFrameUnit.pas:97
 msgid "Active licenses"
-msgstr ""
+msgstr "Licenze attive"
 
 #. LicensingFrame..ScrollBox..LayoutPanel..NonActiveLicensesGroup..Caption
 #: Visuals/Frames/Settings/LicensingFrameUnit.dfm:49
 #: Visuals/Frames/Settings/LicensingFrameUnit.pas:98
 msgid "Non-active licenses"
-msgstr ""
+msgstr "Nessuna licenza attiva"
 
 #. LicensingFrame..ScrollBox..LayoutPanel..CreateLicenseGroup..Caption
 #: Visuals/Frames/Settings/LicensingFrameUnit.dfm:58
 msgid "Create new license"
-msgstr ""
+msgstr "Crea nuova licenza"
 
 #. LicensingFrame..ScrollBox..LayoutPanel..CreateLicenseGroup..LicenseNumberEdit..Text
 #: Visuals/Frames/Settings/LicensingFrameUnit.dfm:66
 msgid "License number"
-msgstr ""
+msgstr "Numero licenza"
 
 #. LicensingFrame..ScrollBox..LayoutPanel..CreateLicenseGroup..DSLabelPropertyItem1....Text
 #: Visuals/Frames/Settings/LicensingFrameUnit.dfm:100
@@ -23953,48 +23972,52 @@ msgid ""
 "computer MAC) and options which are chosen at this moment. Please make sure "
 "that you choose all the devices, options and plugins which you will use."
 msgstr ""
+"Attenzione: la licenza sarà valida solo per l'hardware di misura (o MAC del "
+"computer) e le opzioni selezionate in questo momento. Prego assicurarsi di "
+"aver selezionato tutti i dispositivi, opzioni e plugins che saranno "
+"utilizzati."
 
 #. LicensingFrame..ScrollBox..LayoutPanel..CreateLicenseGroup..FoundHWProp..Text
 #: Visuals/Frames/Settings/LicensingFrameUnit.dfm:113
 msgid "Software will be registered to the following hardware"
-msgstr ""
+msgstr "Il software sarà registrato sul seguente hardware"
 
 #. LicensingFrame..ScrollBox..LayoutPanel..CreateLicenseGroup..NotFoundHWProp..Text
 #: Visuals/Frames/Settings/LicensingFrameUnit.dfm:127
 msgid "Devices not found or not connected"
-msgstr ""
+msgstr "Dispositivi non trovati o non connessi"
 
 #. LicensingFrame..ScrollBox..LayoutPanel..ImportLicenseGroup..Caption
 #. LicensingFrame..ImportLicenseDialog..Title
 #: Visuals/Frames/Settings/LicensingFrameUnit.dfm:142
 #: Visuals/Frames/Settings/LicensingFrameUnit.dfm:227
 msgid "Import license"
-msgstr ""
+msgstr "Importa licenza"
 
 #. LicensingFrame..ScrollBox..LayoutPanel..ImportLicenseGroup..ImportLicenseButton..Text
 #: Visuals/Frames/Settings/LicensingFrameUnit.dfm:150
 msgid "Import offline license..."
-msgstr ""
+msgstr "Importa licenza offline..."
 
 #. LicensingFrame..ScrollBox..Panel1..RegistrationStatusLabel..Caption
 #: Visuals/Frames/Settings/LicensingFrameUnit.dfm:180
 msgid "Registration status"
-msgstr "Registration status"
+msgstr "Stato registrazione"
 
 #. LicensingFrame..ScrollBox..Panel1..RegDescription..Caption
 #: Visuals/Frames/Settings/LicensingFrameUnit.dfm:202
 msgid "Substatus"
-msgstr ""
+msgstr "Sottostato"
 
 #. LicensingFrame..RegLicPopupMenu..WriteLicToDevice1..Caption
 #: Visuals/Frames/Settings/LicensingFrameUnit.dfm:216
 msgid "Write license to..."
-msgstr ""
+msgstr "Scrivi licenza su..."
 
 #. LicensingFrame..SaveLicenseDialog..Title
 #: Visuals/Frames/Settings/LicensingFrameUnit.dfm:221
 msgid "Save offline license"
-msgstr ""
+msgstr "Salva licenza offline"
 
 #. LocalDevicesFrame..ScrollBox..LayoutPanel..DSPropertyGroup2..SetupSamplerateProp..Text
 #: Visuals/Frames/Settings/LocalDevicesFrameUnit.dfm:51
