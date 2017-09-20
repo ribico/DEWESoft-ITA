@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2017-08-31 16:50\n"
-"PO-Revision-Date: 2017-09-20 08:28+0200\n"
+"PO-Revision-Date: 2017-09-20 08:49+0200\n"
 "Last-Translator: Somebody <your.email@address.com>\n"
 "Language-Team: \n"
 "Language: it\n"
@@ -3150,7 +3150,7 @@ msgstr ""
 #: Visuals/Forms/ChannelRemappingFormUnit.dfm:99
 #: Visuals/Frames/DevicesSettingsFrameUnit.dfm:98
 msgid "Filter"
-msgstr ""
+msgstr "Filtro"
 
 #. AOChannelSetup..Panel2..SignalSettingsGroupBox..PageControl..SignalSheet..SignalSettingsPanel..PhaseButton..Caption
 #: Core/Daq/DaqCards/Visuals/AOChannelSetupUnit.dfm:436
@@ -9267,7 +9267,7 @@ msgstr ""
 #: Visuals/Forms/TriggerSetupUnit.dfm:11518
 #: Core/MathObjects/Visuals/MathStatSetupUnit.pas:695
 msgid "Overlap"
-msgstr "Sovrapposizione"
+msgstr ""
 
 #. CPBVCFrame..PageControl..CommonTS..FFTAvePanel..FFTAveTypeLabel..Caption
 #. FFTVCFrame..PageControl..CommonTS..MainPageControl..HistoryTabSheet..AveragePanel..BaseHistoryOptionsPanel..FFTAveTypeLabel..Caption
@@ -14761,7 +14761,7 @@ msgstr ""
 #. MathDecimatorSetupFrame..IIRSettingsPanel..FilterOderLabel..Caption
 #: Core/MathObjects/Visuals/MathDecimatorSetupUnit.dfm:224
 msgid "Filter order"
-msgstr ""
+msgstr "Ordine filtro"
 
 #. MathDecimatorSetupFrame..FilterTypePanel..Caption
 #: Core/MathObjects/Visuals/MathDecimatorSetupUnit.dfm:277
@@ -15751,14 +15751,14 @@ msgstr ""
 #. MathOMASetupFrame..AdvCaptionPanel2..Caption
 #: Core/MathObjects/Visuals/MathOMASetupUnit.dfm:170
 msgid "Algorithm"
-msgstr ""
+msgstr "Algoritmo"
 
 #. MathOMASetupFrame..AdvCaptionPanel2..Label1..Caption
 #: Core/MathObjects/Visuals/MathOMASetupUnit.dfm:183
 #: Core/MathObjects/CAMath/Visuals/CAMathSetupUnit.pas:1243
 #: Core/MathObjects/CAMath/Visuals/CAMathSetupUnit.pas:1245
 msgid "Method"
-msgstr ""
+msgstr "Metodo"
 
 #. MathOMASetupFrame..AdvCaptionPanel2..ComboBox1....Items.Strings
 #: Core/MathObjects/Visuals/MathOMASetupUnit.dfm:198
@@ -15778,12 +15778,12 @@ msgstr ""
 #. MathOrderTrackingSetupFrame..MainFreqSourcePanel..Caption
 #: Core/MathObjects/Visuals/MathOrderTrackingSetupUnit.dfm:18
 msgid "Frequency channel setup"
-msgstr ""
+msgstr "Impostazioni canale frequenza"
 
 #. MathOrderTrackingSetupFrame..MainFreqSourcePanel..UnitLabel..Caption
 #: Core/MathObjects/Visuals/MathOrderTrackingSetupUnit.dfm:60
 msgid "Unit must be in Hz, RPM or UPM"
-msgstr ""
+msgstr "Unità deve essere HZ, RPM o UPM"
 
 #. MathOrderTrackingSetupFrame..MainFreqSourcePanel..PhaseErrorLabel..Caption
 #: Core/MathObjects/Visuals/MathOrderTrackingSetupUnit.dfm:67
@@ -15804,130 +15804,130 @@ msgstr ""
 #: Core/MathObjects/Visuals/MathOrderTrackingSetupUnit.dfm:140
 #: Core/MathObjects/Visuals/MathOrderTrackingSetupUnit.pas:180
 msgid "Analog pulses"
-msgstr ""
+msgstr "Impulsi analogici"
 
 #. MathOrderTrackingSetupFrame..MainFreqSourcePanel..FreqSourceCBox....Items.Strings
 #: Core/MathObjects/Visuals/MathOrderTrackingSetupUnit.dfm:141
 #: Core/MathObjects/Visuals/MathOrderTrackingSetupUnit.pas:182
 msgid "RPM channel"
-msgstr ""
+msgstr "Canale RPM"
 
 #. MathOrderTrackingSetupFrame..MainOrdTimeSettginsPanel..OrderFFTPanel..Caption
 #: Core/MathObjects/Visuals/MathOrderTrackingSetupUnit.dfm:184
 msgid "Order FFT setup"
-msgstr ""
+msgstr "Impostazioni ordini FFT"
 
 #. MathOrderTrackingSetupFrame..MainOrdTimeSettginsPanel..OrderFFTPanel..OrderResolutionLabel..Caption
 #: Core/MathObjects/Visuals/MathOrderTrackingSetupUnit.dfm:377
 msgid "Order resolution"
-msgstr ""
+msgstr "Risol. ordini"
 
 #. MathOrderTrackingSetupFrame..MainOrdTimeSettginsPanel..OrderFFTPanel..MaxOrderLabel..Caption
 #: Core/MathObjects/Visuals/MathOrderTrackingSetupUnit.dfm:384
 msgid "Maximum order"
-msgstr ""
+msgstr "Ordine max"
 
 #. MathOrderTrackingSetupFrame..MainOrdTimeSettginsPanel..OrderFFTPanel..OrderDomainDataChkBox..Caption
 #: Core/MathObjects/Visuals/MathOrderTrackingSetupUnit.dfm:456
 msgid "Order domain harmonics"
-msgstr ""
+msgstr "Armoniche dom. ordini"
 
 #. MathOrderTrackingSetupFrame..MainOrdTimeSettginsPanel..OrderFFTPanel..OrderFFTChkBox..Caption
 #: Core/MathObjects/Visuals/MathOrderTrackingSetupUnit.dfm:465
 msgid "Order waterfall vs. RPM"
-msgstr ""
+msgstr "Waterfall ordini vs RPM"
 
 #. MathOrderTrackingSetupFrame..MainOrdTimeSettginsPanel..OrderFFTPanel..AsyncOrderFFTChkBox..Caption
 #: Core/MathObjects/Visuals/MathOrderTrackingSetupUnit.dfm:474
 msgid "Order waterfall vs. time"
-msgstr ""
+msgstr "Waterfall ordini vs tempo"
 
 #. MathOrderTrackingSetupFrame..MainOrdTimeSettginsPanel..TimeFFTPanel..Caption
 #: Core/MathObjects/Visuals/MathOrderTrackingSetupUnit.dfm:507
 msgid "Time FFT setup"
-msgstr ""
+msgstr "Impostazioni time FFT"
 
 #. MathOrderTrackingSetupFrame..MainOrdTimeSettginsPanel..TimeFFTPanel..TimeFFTChkBox..Caption
 #: Core/MathObjects/Visuals/MathOrderTrackingSetupUnit.dfm:535
 msgid "FFT waterfall vs. RPM"
-msgstr ""
+msgstr "Waterfall FFT vs RPM"
 
 #. MathOrderTrackingSetupFrame..MainOrdTimeSettginsPanel..TimeFFTPanel..TimeDomainDataChkBox..Caption
 #: Core/MathObjects/Visuals/MathOrderTrackingSetupUnit.dfm:544
 msgid "Time domain harmonics"
-msgstr ""
+msgstr "Armoniche dominio tempo"
 
 #. MathOrderTrackingSetupFrame..MainOrdTimeSettginsPanel..TimeFFTPanel..TimeoutEdit..Hint
 #: Core/MathObjects/Visuals/MathOrderTrackingSetupUnit.dfm:553
 msgid "use when RPM is stable"
-msgstr ""
+msgstr "usa RPM quando stabile"
 
 #. MathOrderTrackingSetupFrame..MainOrdTimeSettginsPanel..TimeFFTPanel..UpdateOnRPMChkBox..Caption
 #: Core/MathObjects/Visuals/MathOrderTrackingSetupUnit.dfm:564
 msgid "update on RPM change (Delta RPM)"
-msgstr ""
+msgstr "aggiorna su nuovo RPM (Delta RPM)"
 
 #. MathOrderTrackingSetupFrame..MainOrdTimeSettginsPanel..TimeFFTPanel..UpdateOnTimeChkBox..Caption
 #: Core/MathObjects/Visuals/MathOrderTrackingSetupUnit.dfm:582
 msgid "update on"
-msgstr ""
+msgstr "agg. ogni"
 
 #. MathOrderTrackingSetupFrame..MainOrdTimeSettginsPanel..CalcParametersPanel..Caption
 #: Core/MathObjects/Visuals/MathOrderTrackingSetupUnit.dfm:620
 msgid "Common properties"
-msgstr ""
+msgstr "Proprietà comuni"
 
 #. MathOrderTrackingSetupFrame..MainOrdTimeSettginsPanel..CalcParametersPanel..HarmonicsLabel..Hint
 #. MathOrderTrackingSetupFrame..MainOrdTimeSettginsPanel..CalcParametersPanel..HarmListEditBox..Hint
 #: Core/MathObjects/Visuals/MathOrderTrackingSetupUnit.dfm:633
 #: Core/MathObjects/Visuals/MathOrderTrackingSetupUnit.dfm:1080
 msgid "Example: 1;1.5;2;3;5;8"
-msgstr ""
+msgstr "Esempio: 1;1.2;2;3;5;8"
 
 #. MathOrderTrackingSetupFrame..MainOrdTimeSettginsPanel..CalcParametersPanel..HarmonicsLabel..Caption
 #: Core/MathObjects/Visuals/MathOrderTrackingSetupUnit.dfm:634
 msgid "Harmonic list"
-msgstr ""
+msgstr "Elenco armoniche"
 
 #. MathOrderTrackingSetupFrame..MainOrdTimeSettginsPanel..CalcParametersPanel..WindowTypeLabel..Caption
 #: Core/MathObjects/Visuals/MathOrderTrackingSetupUnit.dfm:643
 msgid "FFT window"
-msgstr ""
+msgstr "Finestra FFT"
 
 #. MathOrderTrackingSetupFrame..MainOrdTimeSettginsPanel..CalcParametersPanel..UpdateCriteriaLabel..Caption
 #: Core/MathObjects/Visuals/MathOrderTrackingSetupUnit.dfm:650
 msgid "Update criteria"
-msgstr ""
+msgstr "Criterio aggiorna"
 
 #. MathOrderTrackingSetupFrame..MainOrdTimeSettginsPanel..CalcParametersPanel..Label3..Caption
 #: Core/MathObjects/Visuals/MathOrderTrackingSetupUnit.dfm:999
 msgid "Data averaging"
-msgstr ""
+msgstr "Media dati"
 
 #. MathOrderTrackingSetupFrame..MainOrdTimeSettginsPanel..CalcParametersPanel..NonIntHarmErrLabel..Caption
 #: Core/MathObjects/Visuals/MathOrderTrackingSetupUnit.dfm:1067
 msgid "Warning: Interharm. phase can not be calculated."
-msgstr ""
+msgstr "Attenzione: fase interarm. non può essere calcolata."
 
 #. MathOrderTrackingSetupFrame..MainOrdTimeSettginsPanel..CalcParametersPanel..ListRadioBtn..Caption
 #: Core/MathObjects/Visuals/MathOrderTrackingSetupUnit.dfm:1093
 msgid "From the list"
-msgstr ""
+msgstr "Dalla lista"
 
 #. MathOrderTrackingSetupFrame..MainOrdTimeSettginsPanel..CalcParametersPanel..UpdateCriteriaComboBox....Items.Strings
 #: Core/MathObjects/Visuals/MathOrderTrackingSetupUnit.dfm:1144
 msgid "Only first time"
-msgstr ""
+msgstr "Solo prima volta"
 
 #. MathOrderTrackingSetupFrame..MainOrdTimeSettginsPanel..CalcParametersPanel..DataAvgComboBox....Items.Strings
 #: Core/MathObjects/Visuals/MathOrderTrackingSetupUnit.dfm:1156
 msgid "None (center of the class is taken)"
-msgstr ""
+msgstr "Nessuna (è preso centro della classe)"
 
 #. MathOrderTrackingSetupFrame..MainOrdTimeSettginsPanel..CalcParametersPanel..DataAvgComboBox....Items.Strings
 #: Core/MathObjects/Visuals/MathOrderTrackingSetupUnit.dfm:1157
 msgid "Average between classes"
-msgstr ""
+msgstr "Media tra classi"
 
 #. MathOrderTrackingSetupFrame..MainOrdTimeSettginsPanel..CalcParametersPanel..OverallRMSChkBox..Caption
 #: Core/MathObjects/Visuals/MathOrderTrackingSetupUnit.dfm:1164
@@ -15940,16 +15940,18 @@ msgid ""
 "Skip rpm class if frequency changes before enough data is collected in this "
 "class (usually happens on fast runups)."
 msgstr ""
+"Salta classe rpm se la frequenza cambia troppo velocemente e non ci sono "
+"sufficienti dati (tipicamente in runups)"
 
 #. MathOrderTrackingSetupFrame..MainOrdTimeSettginsPanel..CalcParametersPanel..SkipMissingRPMsChkBox..Caption
 #: Core/MathObjects/Visuals/MathOrderTrackingSetupUnit.dfm:1176
 msgid "Skip missing RPM class"
-msgstr ""
+msgstr "Salta classi RPM mancanti"
 
 #. MathOrderTrackingSetupFrame..MainCalcCriteriaPanel..FrequencyLimitsPanel..Caption
 #: Core/MathObjects/Visuals/MathOrderTrackingSetupUnit.dfm:1204
 msgid "Calculation criteria - frequency limits"
-msgstr ""
+msgstr "Criterio di calcolo - limite frequenze"
 
 #. MathOrderTrackingSetupFrame..MainCalcCriteriaPanel..FrequencyLimitsPanel..DeltaRPMLabel..Caption
 #: Core/MathObjects/Visuals/MathOrderTrackingSetupUnit.dfm:1217
@@ -15959,7 +15961,7 @@ msgstr ""
 #. MathOrderTrackingSetupFrame..MainCalcCriteriaPanel..FrequencyLimitsPanel..LowerRPMLabel..Caption
 #: Core/MathObjects/Visuals/MathOrderTrackingSetupUnit.dfm:1230
 msgid "Lower RPM limit"
-msgstr ""
+msgstr "Limite basso RPM"
 
 #. MathOrderTrackingSetupFrame..MainCalcCriteriaPanel..FrequencyLimitsPanel..RPMModeLabel..Caption
 #: Core/MathObjects/Visuals/MathOrderTrackingSetupUnit.dfm:1533
@@ -15975,7 +15977,7 @@ msgstr "Direzione"
 #. MathOrderTrackingSetupFrame..MainCalcCriteriaPanel..FrequencyLimitsPanel..UpperRPMLabel..Caption
 #: Core/MathObjects/Visuals/MathOrderTrackingSetupUnit.dfm:1692
 msgid "Upper RPM limit"
-msgstr ""
+msgstr "Limite alto RPM"
 
 #. MathOrderTrackingSetupFrame..MainCalcCriteriaPanel..FrequencyLimitsPanel..RPMDirComboBox....Items.Strings
 #. MathPowerSetupFrame..PowerPanel..SettingsPanel..OptionsPageControl..PowerQualityTabSheet..PowerQualityScrollBox..Panel2..AdvCaptionPanel9..FlickerCalcPanel..FlickerCalcForComboBox....Items.Strings
@@ -16026,12 +16028,12 @@ msgstr ""
 #. MathPIDSetupFrame..LoopTypePanel..AdvCaptionPanel2..AveTypeCBox....Items.Strings
 #: Core/MathObjects/Visuals/MathPIDSetupUnit.dfm:99
 msgid "Exponential"
-msgstr ""
+msgstr "Esponenziale"
 
 #. MathPIDSetupFrame..LoopTypePanel..AdvCaptionPanel2..ExponentialPanel..Label7..Caption
 #: Core/MathObjects/Visuals/MathPIDSetupUnit.dfm:127
 msgid "Exponential factor"
-msgstr ""
+msgstr "Fattore esponenziale"
 
 #. MathPIDSetupFrame..LoopTypePanel..AdvCaptionPanel2..UpdateTimeCBox..Caption
 #: Core/MathObjects/Visuals/MathPIDSetupUnit.dfm:143
@@ -17375,7 +17377,7 @@ msgstr ""
 #. TorsionalVibSetupFrame..FilterSetupPanel..Caption
 #: Core/MathObjects/Visuals/TorsionalVibMathSetupUnit.dfm:1507
 msgid "Filter settings"
-msgstr ""
+msgstr "Impostazioni filtro"
 
 #. TorsionalVibSetupFrame..FilterSetupPanel..Label2..Caption
 #: Core/MathObjects/Visuals/TorsionalVibMathSetupUnit.dfm:1535
@@ -22976,7 +22978,7 @@ msgstr "Blocca (permanente)"
 #. FileListFrame..BasePanel..CommonPanel..ClientPanel..RightPanel..AdvCaptionPanel1..FilterComboBox..Hint
 #: Visuals/Frames/FileListFrameUnit.dfm:132
 msgid "Filter by file type"
-msgstr ""
+msgstr "Filtro per tipo"
 
 #. FileListFrame..BasePanel..CommonPanel..ClientPanel..RightPanel..AdvCaptionPanel1..FilterComboBox..Caption
 #. FileListFrame..FilterPopupMenu..FilterAllFilesMenuItem..Caption
@@ -27726,24 +27728,24 @@ msgstr ""
 #: Core/MathObjects/MathOrderTrackingUnit.pas:2303
 #: Core/MathObjects/TransferFunctionMath.pas:1567
 msgid "Frequency channel not selected"
-msgstr ""
+msgstr "Canale frequenza non selezionato"
 
 #: Core/MathObjects/MathOrderTrackingUnit.pas:2307
 msgid "Frequency channel units must be in Hz or rpm"
-msgstr ""
+msgstr "Unità di misura canale frequenza in Hz o RPM"
 
 #: Core/MathObjects/MathOrderTrackingUnit.pas:2309
 #: Core/MathObjects/MathPowerUnit.pas:6479
 msgid "Sample rate must be at least"
-msgstr ""
+msgstr "Freq c. deve essere almento"
 
 #: Core/MathObjects/MathOrderTrackingUnit.pas:2313
 msgid "Sample rate of input channel for that upper RPM should be at least"
-msgstr ""
+msgstr "Freq c del canale input per tale RPM superiore deve essere almento"
 
 #: Core/MathObjects/MathOrderTrackingUnit.pas:2401
 msgid "Orders"
-msgstr ""
+msgstr "Ordini"
 
 #: Core/MathObjects/MathPIDUnit.pas:549
 msgid "PID control"
