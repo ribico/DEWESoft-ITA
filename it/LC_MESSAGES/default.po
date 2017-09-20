@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2017-08-31 16:50\n"
-"PO-Revision-Date: 2017-09-20 07:32+0200\n"
+"PO-Revision-Date: 2017-09-20 07:45+0200\n"
 "Last-Translator: Somebody <your.email@address.com>\n"
 "Language-Team: \n"
 "Language: it\n"
@@ -4068,7 +4068,7 @@ msgstr ""
 #: Core/Daq/DaqCards/Visuals/ChannelSetupUnitEx.dfm:923
 #: Visuals/Forms/SensorEditorUnitX.pas:258
 msgid "Calibration date"
-msgstr ""
+msgstr "Data calibrazione"
 
 #. ChannelSetupExForm..BlockDiagPanel..SensorPanel..SensorPageControl..SensorTabSheet..SensorsPanel..ManufacturerLabel..Caption
 #. Manufacturer
@@ -4076,7 +4076,7 @@ msgstr ""
 #: Core/Daq/Amplifiers/TedsTemplateUnit.pas:2530
 #: Visuals/Forms/SensorEditorUnitX.pas:236
 msgid "Manufacturer"
-msgstr ""
+msgstr "Costrutture"
 
 #. ChannelSetupExForm..BlockDiagPanel..SensorPanel..SensorPageControl..SensorTabSheet..SensorsPanel..ModelLabel..Caption
 #. MathEnvelopeSetupFrame..BearingsDBPanel..Label2..Caption
@@ -4118,7 +4118,7 @@ msgstr "Numero di serie"
 #: Core/Daq/DaqCards/Visuals/ChannelSetupUnitEx.dfm:975
 #: Visuals/Forms/SensorEditorUnitX.pas:259
 msgid "Calibration period"
-msgstr ""
+msgstr "Periodo di calibrazione"
 
 #. ChannelSetupExForm..BlockDiagPanel..SensorPanel..SensorPageControl..SensorTabSheet..SensorsPanel..CalInitialLabel..Caption
 #: Core/Daq/DaqCards/Visuals/ChannelSetupUnitEx.dfm:988
@@ -4134,23 +4134,23 @@ msgstr ""
 #. ChannelSetupExForm..BlockDiagPanel..SensorPanel..SensorPageControl..SensorTabSheet..SensorsPanel..WriteToTEDSButton..Caption
 #: Core/Daq/DaqCards/Visuals/ChannelSetupUnitEx.dfm:1037
 msgid "Write to TEDS"
-msgstr ""
+msgstr "Salva su TEDS"
 
 #. ChannelSetupExForm..BlockDiagPanel..SensorPanel..SensorPageControl..SensorTabSheet..SensorsPanel..SaveSensorButton..Caption
 #: Core/Daq/DaqCards/Visuals/ChannelSetupUnitEx.dfm:1094
 #: Core/Daq/DaqCards/Visuals/ChannelSetupUnitEx.pas:1807
 msgid "Save sensor"
-msgstr ""
+msgstr "Salva sensore"
 
 #. ChannelSetupExForm..BlockDiagPanel..SensorPanel..SensorPageControl..SensorTabSheet..SensorsPanel..AdvSensorPropsCheckBox..Caption
 #: Core/Daq/DaqCards/Visuals/ChannelSetupUnitEx.dfm:1109
 msgid "Show advanced sensor settings"
-msgstr ""
+msgstr "Mostra impostazioni avanzate sensore"
 
 #. ChannelSetupExForm..BlockDiagPanel..SensorPanel..CalDateExpiredPanel..Caption
 #: Core/Daq/DaqCards/Visuals/ChannelSetupUnitEx.dfm:1223
 msgid "Caldate expired"
-msgstr ""
+msgstr "Calibrazione scaduta"
 
 #. ChannelSetupExForm..BlockDiagPanel..SensorPanel..ShuntCalWarnPanel..Caption
 #: Core/Daq/DaqCards/Visuals/ChannelSetupUnitEx.dfm:1241
@@ -4171,7 +4171,7 @@ msgstr "Misura in corso"
 #: Visuals/Frames/ChannelsDSGridView.pas:179
 #: Visuals/Frames/ChannelsDSGridView.pas:450
 msgid "Sensor"
-msgstr ""
+msgstr "Sensore"
 
 #. ChannelSetupExForm..BlockDiagPanel..Panel8..Panel10..ScalingGroupBox..ScalePageControl..ScaleByPointsTabSheet..Caption
 #. ChannelScalingFrame..ScalePanel..ScalePageControl..TabByTwoPoints..Caption
@@ -4310,7 +4310,7 @@ msgstr "Unità/1 V"
 #: Core/Daq/DaqCards/Visuals/ChannelSetupUnitEx.dfm:1891
 #: Visuals/Plugins/ChannelScalingUnit.dfm:386
 msgid "Set zero"
-msgstr ""
+msgstr "Azzera"
 
 #. ChannelSetupExForm..BlockDiagPanel..Panel8..Panel10..ScalingGroupBox..ScalePageControl..ScaleByFuncTabSheet..LinEquationPanel..Caption
 #. ChannelScalingFrame..ScalePanel..ScalePageControl..TabByFunction..LinEquationPanel..Caption
@@ -20708,43 +20708,43 @@ msgstr ""
 #. AdvSaveSensorForm..Caption
 #: Visuals/Forms/AdvSaveSensorUnit.dfm:5
 msgid "Advanced write options"
-msgstr ""
+msgstr "Opzioni avanzate"
 
 #. AdvSaveSensorForm..CommonPanel..FixedSensorOffsetCheckBox..Caption
 #: Visuals/Forms/AdvSaveSensorUnit.dfm:96
 msgid "Allow user to define offset"
-msgstr ""
+msgstr "Permetti all'utente di definire un offset"
 
 #. AdvSaveSensorForm..CommonPanel..SensorMaxLimitCheckBox..Caption
 #: Visuals/Forms/AdvSaveSensorUnit.dfm:110
 msgid "Sensor max. limit"
-msgstr ""
+msgstr "Limite max sensore"
 
 #. AdvSaveSensorForm..CommonPanel..SensorMinLimitCheckBox..Caption
 #: Visuals/Forms/AdvSaveSensorUnit.dfm:125
 msgid "Sensor min. limit"
-msgstr ""
+msgstr "Limite min sensore"
 
 #. AdvSaveSensorForm..CommonPanel..WriteAmplRangeToSensorCheckBox..Caption
 #: Visuals/Forms/AdvSaveSensorUnit.dfm:140
 #| msgid "Balance amplifiers"
 msgid "Actual amplifier range"
-msgstr ""
+msgstr "Range amplificatore corrente"
 
 #. AdvSaveSensorForm..CommonPanel..WriteAmplLPFiltToSensorCheckBox..Caption
 #: Visuals/Forms/AdvSaveSensorUnit.dfm:154
 msgid "Actual amplifier LP-filter"
-msgstr ""
+msgstr "Range filtro LP corrente"
 
 #. AdvSaveSensorForm..ExcPanel..ExcMaxCheckBox..Caption
 #: Visuals/Forms/AdvSaveSensorUnit.dfm:218
 msgid "Sensor excitation max"
-msgstr ""
+msgstr "Max eccitazione sensore"
 
 #. AdvSaveSensorForm..ExcPanel..ExcMinCheckBox..Caption
 #: Visuals/Forms/AdvSaveSensorUnit.dfm:233
 msgid "Sensor excitation min"
-msgstr ""
+msgstr "Min eccitazione sensore"
 
 #. AdvSaveSensorForm..TedsPasswordPanel..TedsReTypePasswordLabel..Caption
 #. EnterCodeForm..LayoutPanel..InfoGroup..RetypePasswordEdit..Text
@@ -20755,19 +20755,19 @@ msgstr "Ripeti password"
 #. AdvSaveSensorForm..TedsPasswordPanel..TedsPassCheckBox..Caption
 #: Visuals/Forms/AdvSaveSensorUnit.dfm:299
 msgid "Password for TEDS"
-msgstr ""
+msgstr "Password per TEDS"
 
 #. AdvSaveSensorForm..ChannelPropsPanel..WriteChNameToSensorCheckBox..Caption
 #: Visuals/Forms/AdvSaveSensorUnit.dfm:397
 #| msgid "Channel name"
 msgid "Actual channel name"
-msgstr ""
+msgstr "Nome canale corrente"
 
 #. AdvSaveSensorForm..ChannelPropsPanel..WriteChDescrToSensorCheckBox..Caption
 #: Visuals/Forms/AdvSaveSensorUnit.dfm:412
 #| msgid "Channel description"
 msgid "Actual channel description"
-msgstr ""
+msgstr "Descrizione canale corrente"
 
 #. AdvSaveSensorForm..ChannelPropsPanel..WriteChNameToSensorLockedCheckBox..Caption
 #. AdvSaveSensorForm..ChannelPropsPanel..WriteChDescrToSensorLockedCheckBox..Caption
@@ -20802,13 +20802,13 @@ msgstr ""
 #: Visuals/Forms/AdvSaveSensorUnit.dfm:445
 #| msgid "Channel setup sample rate"
 msgid "Channel sample rate in Hz"
-msgstr ""
+msgstr "Freq c. canale in Hz"
 
 #. AdvSaveSensorForm..ChannelPropsPanel..WriteChSR_DivToSensorCheckBox..Caption
 #: Visuals/Forms/AdvSaveSensorUnit.dfm:469
 #| msgid "Channel setup sample rate"
 msgid "Channel sample rate as divider"
-msgstr ""
+msgstr "Freq c. canale come divisore"
 
 #. AdvSaveSensorForm..ChannelPropsPanel..WriteChUsedToSensorCheckBox..Caption
 #: Visuals/Forms/AdvSaveSensorUnit.dfm:484
@@ -20819,25 +20819,25 @@ msgstr "Canale usato"
 #: Visuals/Forms/AdvSaveSensorUnit.dfm:508
 #| msgid "Channel to set"
 msgid "Channel stored"
-msgstr ""
+msgstr "Canale salvato"
 
 #. AdvSaveSensorForm..ChannelPropsPanel..WriteChGroupToSensorCheckBox..Caption
 #: Visuals/Forms/AdvSaveSensorUnit.dfm:532
 #| msgid "Channel setup"
 msgid "Channel group"
-msgstr ""
+msgstr "Gruppo canale"
 
 #. AdvSaveSensorForm..ChannelPropsPanel..WriteChDecimalsToSensorCheckBox..Caption
 #: Visuals/Forms/AdvSaveSensorUnit.dfm:547
 #| msgid "Channel values"
 msgid "Channel decimal places"
-msgstr ""
+msgstr "Cifre decimali canale"
 
 #. AdvSaveSensorForm..ChannelPropsPanel..WriteChColorToSensorCheckBox..Caption
 #: Visuals/Forms/AdvSaveSensorUnit.dfm:562
 #| msgid "All channels"
 msgid "Actual channel color"
-msgstr ""
+msgstr "Colore canale corrente"
 
 #. AdvSaveSensorForm..ChannelPropsPanel..WriteChGroupToSensorComboBox....Items.Strings
 #: Visuals/Forms/AdvSaveSensorUnit.dfm:623
@@ -20879,36 +20879,36 @@ msgstr ""
 #: Visuals/Forms/AdvSaveSensorUnit.dfm:661
 #| msgid "Channel actions"
 msgid "Channel warning low"
-msgstr ""
+msgstr "Avviso canale low"
 
 #. AdvSaveSensorForm..ChannelPropsPanel..WriteChWarnHighToSensorCheckBox..Caption
 #: Visuals/Forms/AdvSaveSensorUnit.dfm:676
 #| msgid "Channel actions"
 msgid "Channel warning high"
-msgstr ""
+msgstr "Avviso canale high"
 
 #. AdvSaveSensorForm..ChannelPropsPanel..WriteChCriticalLowToSensorCheckBox..Caption
 #: Visuals/Forms/AdvSaveSensorUnit.dfm:763
 #| msgid "Channel description"
 msgid "Channel critical low"
-msgstr ""
+msgstr "Avviso canale low critico"
 
 #. AdvSaveSensorForm..ChannelPropsPanel..WriteChCriticalHighToSensorCheckBox..Caption
 #: Visuals/Forms/AdvSaveSensorUnit.dfm:778
 #| msgid "Channel description"
 msgid "Channel critical high"
-msgstr ""
+msgstr "Avviso canale high critico"
 
 #. AdvSaveSensorForm..ChannelPropsPanel..WriteChHysteresisToSensorCheckBox..Caption
 #: Visuals/Forms/AdvSaveSensorUnit.dfm:793
 #| msgid "Channel actions"
 msgid "Channel hysteresis"
-msgstr ""
+msgstr "Isteresi canale"
 
 #. BridgeOffsetForm..Panel1..ButtonResetOffsets..Caption
 #: Visuals/Forms/AmplBridgeOffsetsFormUnit.dfm:34
 msgid "Reset offsets"
-msgstr ""
+msgstr "Annulla offsets"
 
 #. AOForm..Panel2..AOEnabledCB..Caption
 #: Visuals/Forms/AOFormUnit.dfm:113
@@ -20920,7 +20920,7 @@ msgstr "Abilita uscita analogica"
 #: Visuals/Forms/AssignShortcutFormUnit.dfm:5
 #: Visuals/Forms/AssignShortcutFormUnit.dfm:41
 msgid "Shortcut"
-msgstr ""
+msgstr "Scorciatoia"
 
 #. AssignShortcutForm..Label1..Caption
 #: Visuals/Forms/AssignShortcutFormUnit.dfm:31
@@ -20932,7 +20932,7 @@ msgstr "Premi pulsanti per assegnare la nuova scorciatoia."
 #: SharedLib/DS.UI.DSChannelsGridUnit.pas:928
 #: Visuals/Frames/ChannelsDSGridView.pas:448
 msgid "Channel info"
-msgstr ""
+msgstr "Info canale"
 
 #. ChInfoForm..PageControl..BuffersTabSheet..Caption
 #: Visuals/Forms/ChannelInfoForm.dfm:61
@@ -20942,7 +20942,7 @@ msgstr ""
 #. ChInfoForm..TopPanel..SelChannelLabel..Caption
 #: Visuals/Forms/ChannelInfoForm.dfm:120
 msgid "Selected channel"
-msgstr ""
+msgstr "Canale selezionato"
 
 #. ChannelRemappingForm..Caption
 #. FileListFrame..FileActionsPopUpMenu..RemapFileItemMenu..Caption
@@ -20956,7 +20956,7 @@ msgstr "Rimappa canali"
 #. ChannelRemappingForm..Label1..Caption
 #: Visuals/Forms/ChannelRemappingFormUnit.dfm:42
 msgid "Original setup"
-msgstr ""
+msgstr "Setup originale"
 
 #. ChannelRemappingForm..OKButton..Caption
 #: Visuals/Forms/ChannelRemappingFormUnit.dfm:59
