@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2017-08-31 16:50\n"
-"PO-Revision-Date: 2017-09-20 09:07+0200\n"
+"PO-Revision-Date: 2017-09-20 09:11+0200\n"
 "Last-Translator: Somebody <your.email@address.com>\n"
 "Language-Team: \n"
 "Language: it\n"
@@ -15283,11 +15283,13 @@ msgid ""
 "To use calibration, please select at least 500 Hz setup sample rate in "
 "Dewesoft settings."
 msgstr ""
+"Per la calibrazione, prego selezionare almeno 500Hz di campionamento nel "
+"setup dalle impostazioni Dewesoft."
 
 #. MathHumanBodySetupFrame..CalculationTypePanel..BasicFiltersLabel..Caption
 #: Core/MathObjects/Visuals/MathHumanBodySetupUnit.dfm:61
 msgid "Basic filters"
-msgstr ""
+msgstr "Filtri base"
 
 #. MathHumanBodySetupFrame..CalculationTypePanel..KFactorsLabel..Caption
 #: Core/MathObjects/Visuals/MathHumanBodySetupUnit.dfm:76
@@ -15308,24 +15310,24 @@ msgstr ""
 #: Core/MathObjects/Visuals/MathHumanBodySetupUnit.dfm:111
 #: Core/MathObjects/Visuals/MathSoundSetupUnit.dfm:464
 msgid "Interval logging"
-msgstr ""
+msgstr "Intervallo log"
 
 #. MathHumanBodySetupFrame..CalculationTypePanel..FiltersComboBox....Items.Strings
 #: Core/MathObjects/Visuals/MathHumanBodySetupUnit.dfm:125
 msgid "Whole body"
-msgstr ""
+msgstr "Corpo intero"
 
 #. MathHumanBodySetupFrame..CalculationTypePanel..FiltersComboBox....Items.Strings
 #: Core/MathObjects/Visuals/MathHumanBodySetupUnit.dfm:126
 msgid "Hand arm"
-msgstr ""
+msgstr "Mano braccia"
 
 #. MathHumanBodySetupFrame..CalculationTypePanel..OverallCalcCheckBox..Caption
 #. MathSoundSetupFrame..Panel17..OutputCalcPanel..OverallCalcCheckBox..Caption
 #: Core/MathObjects/Visuals/MathHumanBodySetupUnit.dfm:134
 #: Core/MathObjects/Visuals/MathSoundSetupUnit.dfm:607
 msgid "Overall values"
-msgstr ""
+msgstr "Valori overall"
 
 #. MathHumanBodySetupFrame..CalculationTypePanel..XFComboBox....Items.Strings
 #. MathHumanBodySetupFrame..CalculationTypePanel..YFComboBox....Items.Strings
@@ -15411,7 +15413,7 @@ msgstr ""
 #. MathHumanBodySetupFrame..OutputChannelsPanel..SumCalcLabel..Caption
 #: Core/MathObjects/Visuals/MathHumanBodySetupUnit.dfm:288
 msgid "Sum calculation"
-msgstr ""
+msgstr "Calcolo somma"
 
 #. MathHumanBodySetupFrame..OutputChannelsPanel..AlCheckBox..Caption
 #: Core/MathObjects/Visuals/MathHumanBodySetupUnit.dfm:309
@@ -15421,7 +15423,7 @@ msgstr ""
 #. MathHumanBodySetupFrame..OutputChannelsPanel..CrestCheckBox..Caption
 #: Core/MathObjects/Visuals/MathHumanBodySetupUnit.dfm:325
 msgid "Crest"
-msgstr ""
+msgstr "Cresta"
 
 #. MathHumanBodySetupFrame..OutputChannelsPanel..DCheckBox..Caption
 #: Core/MathObjects/Visuals/MathHumanBodySetupUnit.dfm:335
@@ -15461,12 +15463,12 @@ msgstr ""
 #. MathHumanBodySetupFrame..OutputChannelsPanel..SumCalcTypeComboBox....Items.Strings
 #: Core/MathObjects/Visuals/MathHumanBodySetupUnit.dfm:452
 msgid "Vector sum (Austria)"
-msgstr ""
+msgstr "Vettore somma (Austria)"
 
 #. MathHumanBodySetupFrame..OutputChannelsPanel..SumCalcTypeComboBox....Items.Strings
 #: Core/MathObjects/Visuals/MathHumanBodySetupUnit.dfm:453
 msgid "Max of three axes (RL2002/44/EG) "
-msgstr ""
+msgstr "Max dei tre assi (RL2002/44/EG)"
 
 #. MathHumanBodySetupFrame..CalibrationPanel..Label3..Caption
 #: Core/MathObjects/Visuals/MathHumanBodySetupUnit.dfm:480
@@ -15484,12 +15486,12 @@ msgstr "Valore letto"
 #. MathHumanBodySetupFrame..CalibrationPanel..RefValueLabel..Caption
 #: Core/MathObjects/Visuals/MathHumanBodySetupUnit.dfm:494
 msgid "Reference value"
-msgstr ""
+msgstr "Valore riferimento"
 
 #. MathInstrumentFrame..TopPanel..ObjectTabControl......Caption
 #: Core/MathObjects/Visuals/MathInstrumentFrameUnit.dfm:51
 msgid "Instrument"
-msgstr ""
+msgstr "Strumento"
 
 #. MathInstrumentFrame..TopPanel..UsedCombo....Items.Strings
 #: Core/MathObjects/Visuals/MathInstrumentFrameUnit.dfm:89
@@ -15548,7 +15550,7 @@ msgstr "Lista canali"
 #: Core/MathObjects/Visuals/MathInstrumentFrameUnit.dfm:146
 #: Core/MathObjects/Visuals/MathInstrumentFrameUnit.pas:207
 msgid "Sub list"
-msgstr ""
+msgstr "Sottolista"
 
 #. LatchFrame..OutputValuesPanel..Caption
 #: Core/MathObjects/Visuals/MathLatchSetupUnit.dfm:16
