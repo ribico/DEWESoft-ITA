@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2017-08-31 16:50\n"
-"PO-Revision-Date: 2017-09-20 07:10+0200\n"
+"PO-Revision-Date: 2017-09-20 07:32+0200\n"
 "Last-Translator: Somebody <your.email@address.com>\n"
 "Language-Team: \n"
 "Language: it\n"
@@ -55,7 +55,7 @@ msgstr "Generale"
 #: Core/MathObjects/FilterChannel.pas:378 Core/MathObjects/FIRMathUnit.pas:475
 #: Core/MathObjects/IIRMathUnit.pas:532 Core/MathObjects/IIRMathUnit.pas:853
 msgid "Low-pass filter"
-msgstr "Filtro passa-basso"
+msgstr "Filtro LP"
 
 #. AmplifierFrame..MainAmplPanel..AmplifierPageControl..GeneralTabSheet..FilterTypePanel..FilterTypeLabel..Caption
 #: Core/Daq/Amplifiers/Visuals/AmplifierFrameUnit.dfm:130
@@ -155,7 +155,7 @@ msgstr "ordine"
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.pas:515
 #: Visuals/Forms/SensorEditorUnitX.pas:247
 msgid "Excitation"
-msgstr ""
+msgstr "Eccitazione"
 
 #. AmplifierFrame..MainAmplPanel..AmplifierPageControl..GeneralTabSheet..ExcitationPanel..ExcitationUnitLabel..Caption
 #. AOChannelSetup..Panel2..SignalSettingsGroupBox..PageControl..ChannelTabSheet..MaxInputUnitLabel..Caption
@@ -252,7 +252,7 @@ msgstr "Offset uscita"
 #. AmplifierFrame..MainAmplPanel..AmplifierPageControl..GeneralTabSheet..HPFilterPanel..HPFilterLabel..Caption
 #: Core/Daq/Amplifiers/Visuals/AmplifierFrameUnit.dfm:365
 msgid "Hp-filter/coupling"
-msgstr ""
+msgstr "Filtro HP/accoppiamento"
 
 #. AmplifierFrame..MainAmplPanel..AmplifierPageControl..GeneralTabSheet..ExtShuntPanel..ExtShuntIMaxLabel..Caption
 #: Core/Daq/Amplifiers/Visuals/AmplifierFrameUnit.dfm:407
@@ -262,7 +262,7 @@ msgstr ""
 #. AmplifierFrame..MainAmplPanel..AmplifierPageControl..GeneralTabSheet..ExtShuntPanel..ExtShuntTypeLabel..Caption
 #: Core/Daq/Amplifiers/Visuals/AmplifierFrameUnit.dfm:420
 msgid "External shunt"
-msgstr ""
+msgstr "Shunt esterno"
 
 #. AmplifierFrame..MainAmplPanel..AmplifierPageControl..GeneralTabSheet..ExtShuntPanel..ExtShuntPLabel..Caption
 #: Core/Daq/Amplifiers/Visuals/AmplifierFrameUnit.dfm:435
@@ -272,7 +272,7 @@ msgstr ""
 #. AmplifierFrame..MainAmplPanel..AmplifierPageControl..GeneralTabSheet..ExtShuntPanel..ExtShuntRLabel..Caption
 #: Core/Daq/Amplifiers/Visuals/AmplifierFrameUnit.dfm:448
 msgid "Resistor [ohm]"
-msgstr ""
+msgstr "Resistenza [ohm]"
 
 #. AmplifierFrame..MainAmplPanel..AmplifierPageControl..GeneralTabSheet..InputTypePanel..InputTypeLabel..Caption
 #. voltage
@@ -339,7 +339,7 @@ msgstr "Sconosciuto"
 #. AmplifierFrame..MainAmplPanel..AmplifierPageControl..GeneralTabSheet..ExcitationInfoPanel..ExcitationInfoLabel..Caption
 #: Core/Daq/Amplifiers/Visuals/AmplifierFrameUnit.dfm:592
 msgid "Excitation voltage is valid for Chx to Chy"
-msgstr ""
+msgstr "La tensione di eccitazione è valida da Chx a Chy"
 
 #. AmplifierFrame..MainAmplPanel..AmplifierPageControl..GeneralTabSheet..MeasurementPanel..MeasurementLabel..Caption
 #. CAMathSetupFrame..CaMathPageCtrl..MeasureTabSheet..Caption
@@ -349,7 +349,7 @@ msgstr ""
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.pas:518
 #: Visuals/Frames/SetupGridEx.pas:98
 msgid "Measurement"
-msgstr ""
+msgstr "Misura"
 
 #. AmplifierFrame..MainAmplPanel..AmplifierPageControl..GeneralTabSheet..RangePanel..RangeLabel..Caption
 #. AOChannelSetup..Panel2..SignalSettingsGroupBox..RangeLabel..Caption
@@ -388,13 +388,13 @@ msgstr ""
 #. AmplifierFrame..MainAmplPanel..AmplifierPageControl..GeneralTabSheet..AmplifierPanel..AmplifierLabel..Caption
 #: Core/Daq/Amplifiers/Visuals/AmplifierFrameUnit.dfm:771
 msgid "Amplifier type"
-msgstr ""
+msgstr "Tipo amplificatore"
 
 #. AmplifierFrame..MainAmplPanel..AmplifierPageControl..GeneralTabSheet..ExcTypePanel..ExcTypeLabel..Caption
 #: Core/Daq/Amplifiers/Visuals/AmplifierFrameUnit.dfm:826
 #: Core/Daq/Amplifiers/AmplifiersUnit.pas:3258
 msgid "Excitation type"
-msgstr ""
+msgstr "Tipo eccitazione"
 
 #. AmplifierFrame..MainAmplPanel..AmplifierPageControl..GeneralTabSheet..AmplButtonPanel..AmplButtonsLabel..Caption
 #. ChannelSetupExForm..BlockDiagPanel..BottomUpperPanel..AmplifierTopPanel..Caption
@@ -471,7 +471,7 @@ msgstr ""
 #. AmplifierFrame..MainAmplPanel..AmplifierPageControl..GeneralTabSheet..SensorOffsetPanel..SensorBalanceSpeedButton..Caption
 #: Core/Daq/Amplifiers/Visuals/AmplifierFrameUnit.dfm:945
 msgid "Balance"
-msgstr ""
+msgstr "Bilancia"
 
 #. AmplifierFrame..MainAmplPanel..AmplifierPageControl..GeneralTabSheet..SensorOffsetPanel..SensorOffset2Label..Caption
 #: Core/Daq/Amplifiers/Visuals/AmplifierFrameUnit.dfm:978
@@ -479,7 +479,7 @@ msgstr ""
 #: SharedLib/DS.UI.DSChannelsGridUnit.pas:931
 #: Visuals/Frames/ChannelsDSGridView.pas:451
 msgid "Sensor unbalance"
-msgstr ""
+msgstr "Sbilanciamento sensore"
 
 #. AmplifierFrame..MainAmplPanel..AmplifierPageControl..GeneralTabSheet..BridgeConfigPanel..BridgeConfigLabel..Caption
 #: Core/Daq/Amplifiers/Visuals/AmplifierFrameUnit.dfm:1012
@@ -504,7 +504,7 @@ msgstr ""
 #: Core/Daq/Amplifiers/AmplConstUnit.pas:462
 #: SharedLib/DS.Utils.PhysicalQuantitiesUnit.pas:352
 msgid "Resistance"
-msgstr ""
+msgstr "Resistenza"
 
 #. AmplifierFrame..MainAmplPanel..AmplifierPageControl..GeneralTabSheet..BridgeShuntTypePanel..BridgeShuntTypeLabel..Caption
 #: Core/Daq/Amplifiers/Visuals/AmplifierFrameUnit.dfm:1104
@@ -570,12 +570,12 @@ msgstr ""
 #. AmplifierFrame..MainAmplPanel..AmplifierPageControl..OptionTabSheet..Caption
 #: Core/Daq/Amplifiers/Visuals/AmplifierFrameUnit.dfm:1290
 msgid "Option"
-msgstr ""
+msgstr "Opzione"
 
 #. AmplifierFrame..MainAmplPanel..AmplifierPageControl..ConnTabSheet..Caption
 #: Core/Daq/Amplifiers/Visuals/AmplifierFrameUnit.dfm:1294
 msgid "Connector"
-msgstr ""
+msgstr "Connettore"
 
 #. AmplifierFrame..MainAmplPanel..AmplifierPageControl..TedsTabSheet..Caption
 #. ChannelSetupExForm..BlockDiagPanel..SensorPanel..SensorPageControl..TedsTabSheet..Caption
@@ -589,27 +589,27 @@ msgstr ""
 #: Core/Daq/Amplifiers/Visuals/AmplifierFrameUnit.dfm:1354
 #: Core/Daq/DaqCards/Visuals/ChannelSetupUnitEx.dfm:1138
 msgid "Header"
-msgstr ""
+msgstr "Intestazione"
 
 #. AmplifierFrame..RangeScaleTypePopupMenu..ShowAmplRangeMenuItem..Caption
 #: Core/Daq/Amplifiers/Visuals/AmplifierFrameUnit.dfm:1382
 msgid "Show amplifier range"
-msgstr ""
+msgstr "Mostra range amplificatore"
 
 #. AmplifierFrame..RangeScaleTypePopupMenu..ShowScaledRangeMenuItem..Caption
 #: Core/Daq/Amplifiers/Visuals/AmplifierFrameUnit.dfm:1388
 msgid "Show scaled range"
-msgstr ""
+msgstr "Mostra range scalato"
 
 #. AmplifierFrame..RangeScaleTypePopupMenu..ShowAmplGainMenuItem..Caption
 #: Core/Daq/Amplifiers/Visuals/AmplifierFrameUnit.dfm:1393
 msgid "Show amplifier gain"
-msgstr ""
+msgstr "Mostra guadagno"
 
 #. CACPUSetupForm..Caption
 #: Core/Daq/Amplifiers/Visuals/CASetupUnit.dfm:4
 msgid "CA CPU settings"
-msgstr ""
+msgstr "Impostazioni CA CPU"
 
 #. CACPUSetupForm..SignalEdgeLabel..Caption
 #. CNTSensorForm..SignalLevelPanel..SignalDirectionLabel..Caption
@@ -630,7 +630,7 @@ msgstr ""
 #: Core/Daq/Amplifiers/Visuals/CASetupUnit.dfm:38
 #: Core/Daq/DaqCards/Visuals/CntSensorsFormUnit.dfm:444
 msgid "Signal filter"
-msgstr ""
+msgstr "Filtro segnale"
 
 #. CACPUSetupForm..EdgeCBox....Items.Strings
 #. CACPUSetupForm..ZeroPulseCBox....Items.Strings
@@ -848,12 +848,12 @@ msgstr ""
 #: Core/Daq/Amplifiers/Visuals/CASetupUnit.dfm:109
 #: Core/Daq/DaqCards/Visuals/CntSensorsFormUnit.dfm:458
 msgid "Default trigger level [V]"
-msgstr ""
+msgstr "Lilvello predefinito trigger [V]"
 
 #. CustomFilterForm..Caption
 #: Core/Daq/Amplifiers/Visuals/CustomFilterUnit.dfm:6
 msgid "Custom filter value"
-msgstr ""
+msgstr "Valore filtro personalizzato"
 
 #. CustomFilterForm..CustomFilterUnitLabel..Caption
 #. ChannelSetupExForm..BlockDiagPanel..Panel8..Panel14..SetupGraphPanel..BarGraphPanel..GraphPropsPanel..LogAxisPanel..Label1..Caption
@@ -1089,7 +1089,7 @@ msgstr "Annulla"
 #: Core/Daq/Amplifiers/Visuals/DaqCardAmplFrameUnit.pas:83
 #: Core/Daq/Amplifiers/Visuals/DeweUSBAmplFrameUnit.pas:195
 msgid "not measured"
-msgstr ""
+msgstr "Non misurato"
 
 #. DaqCardAmplFrame..MainAmplPanel..AmplifierPageControl..GeneralTabSheet..AmplSelfTestPanel..AmplSelfTestBtn..Caption
 #: Core/Daq/Amplifiers/Visuals/DaqCardAmplFrameUnit.dfm:38
@@ -1115,22 +1115,22 @@ msgstr ""
 #. DeweUSBAmplOfflineFrame..MainPanel..Button1..Caption
 #: Core/Daq/Amplifiers/Visuals/DeweUSBAmplOfflineFrameUnit.dfm:35
 msgid "Set to all"
-msgstr ""
+msgstr "Imposta tutti"
 
 #. DeweUSBAmplOfflineFrame..ShuntPanel..IntShunt1Label..Caption
 #: Core/Daq/Amplifiers/Visuals/DeweUSBAmplOfflineFrameUnit.dfm:54
 msgid "Internal shunt 1 [ohm]"
-msgstr ""
+msgstr "Shunt interno 1 [ohm]"
 
 #. DeweUSBAmplOfflineFrame..ShuntPanel..IntShunt2Label..Caption
 #: Core/Daq/Amplifiers/Visuals/DeweUSBAmplOfflineFrameUnit.dfm:61
 msgid "Internal shunt 2 [ohm]"
-msgstr ""
+msgstr "Shunt interno 2 [ohm]"
 
 #. DeweUSBAmplOfflineFrame..ShuntPanel..Button2..Caption
 #: Core/Daq/Amplifiers/Visuals/DeweUSBAmplOfflineFrameUnit.dfm:84
 msgid "Set shunts"
-msgstr ""
+msgstr "Imposta shunts"
 
 #. DWUSBOutputMathForm..Caption
 #. DWUSBOutputMathForm..AnalogOutComboBox....Items.Strings
@@ -4285,7 +4285,7 @@ msgstr "Secondo punto"
 #: Core/Daq/DaqCards/Visuals/ChannelSetupUnitEx.dfm:1758
 #: Visuals/Plugins/ChannelScalingUnit.dfm:315
 msgid "by function"
-msgstr "da functzione"
+msgstr "da funzione"
 
 #. ChannelSetupExForm..BlockDiagPanel..Panel8..Panel10..ScalingGroupBox..ScalePageControl..ScaleByFuncTabSheet..OffsetLabel..Caption
 #. ChannelScalingFrame..ScalePanel..ScalePageControl..TabByFunction..OffsetLabel..Caption
@@ -5318,7 +5318,7 @@ msgstr ""
 #: Core/Daq/Amplifiers/Visuals/AmplifierFrameUnit.pas:2377
 #: Core/Daq/DaqCards/DaqChannels.pas:876 Core/Daq/DaqCards/DaqChannels.pas:3086
 msgid "Coupling"
-msgstr ""
+msgstr "Accoppiamento"
 
 #. CNTChannelSetupForm..ConnPanel..ConnPanel2..HWConnPageControl..ConnOrionTabSheet..OrionTrigLevelOverviewPanel..OrionTrigLevelLabel..Caption
 #: Core/Daq/DaqCards/Visuals/CNTChannelSetup.dfm:1533
@@ -7218,7 +7218,7 @@ msgstr ""
 #. CamSettingsForm..Panel1..SettingsPageControl..RotationTabSheet..AngleLabel..Caption
 #: Core/Daq/Video/CamSettingsFormUnit.dfm:423
 msgid "Default angle"
-msgstr ""
+msgstr "Angolo default"
 
 #. CamSettingsForm..SetupPanel..CameSettingsPanel..Caption
 #: Core/Daq/Video/CamSettingsFormUnit.dfm:462
@@ -9948,7 +9948,7 @@ msgstr ""
 #: Visuals/Forms/TriggerSetupUnit.dfm:11605
 #: Core/MathObjects/MathFFTUnit.pas:1215
 msgid "Triangle"
-msgstr ""
+msgstr "Triangolo"
 
 #. FFTVCFrame..PageControl..CommonTS..MainPageControl..SetupTabSheet..LinesPanel..AdvCaptionPanel1..WindowComboBox....Items.Strings
 #. AmplExtractSetupFrame..FFTCalcPanel..WindowComboBox....Items.Strings
@@ -11140,7 +11140,7 @@ msgstr ""
 #: Core/MathObjects/Visuals/TorsionalVibMathSetupUnit.pas:148
 #: SharedLib/DS.Utils.PhysicalQuantitiesUnit.pas:355
 msgid "Angle"
-msgstr ""
+msgstr "Angolo"
 
 #. OrbitVCFrame..PageControl..CommonTS..AnglePanel..Panel11..SecondChPanel..Caption
 #: Core/GObjects/Visuals/OrbitVCFrameUnit.dfm:127
@@ -12611,7 +12611,7 @@ msgstr ""
 #. CAMathSetupFrame..CaMathPageCtrl..MeasureTabSheet..CAGraphPanel..MainGraphPanelM..LowPressureLabel..Caption
 #: Core/MathObjects/CAMath/Visuals/CAMathSetupUnit.dfm:4297
 msgid "Pressure is lower than zero bar."
-msgstr ""
+msgstr "La pressione è inferiore a zero bar."
 
 #. CAMathSetupFrame..CaMathPageCtrl..MeasureTabSheet..TDCPanel..AdvCaptionPanel3..Caption
 #: Core/MathObjects/CAMath/Visuals/CAMathSetupUnit.dfm:4337
@@ -12782,7 +12782,7 @@ msgstr ""
 #: Core/MathObjects/CAMath/Visuals/CAMathSetupUnit.pas:709
 #: SharedLib/DS.Utils.PhysicalQuantitiesUnit.pas:351
 msgid "Pressure"
-msgstr ""
+msgstr "Pressione"
 
 #. CAMathSetupFrame..CaMathPageCtrl..CalcTabSheet..CalculationsPanel..AdvCaptionPanel9..RunningAddCBox..Caption
 #. CAMathSetupFrame..CaMathPageCtrl..CalcTabSheet..CalculationsPanel..AdvCaptionPanel10..OverallAddCBox..Caption
@@ -13347,7 +13347,7 @@ msgstr ""
 #. AmplExtractSetupFrame..TrackingPanel..Panel2..StartFrequencyLabel..Caption
 #: Core/MathObjects/Visuals/AmplExtractMathSetupUnit.dfm:278
 msgid "Center frequency"
-msgstr ""
+msgstr "Freq centrale"
 
 #. AmplExtractSetupFrame..TrackingPanel..Panel2..EndFrequencyLabel..Caption
 #. SineProcessingSetupFrame..AdvCaptionPanel1..EndFrequencyLabel..Caption
@@ -13371,7 +13371,7 @@ msgstr "Delta frequenza"
 #: Core/MathObjects/Visuals/PowerSetupUnit.dfm:1176
 #: Core/MathObjects/Visuals/TransferFunctionSetup.dfm:433
 msgid "Frequency source"
-msgstr ""
+msgstr "Sorgente frequenza"
 
 #. AmplExtractSetupFrame..CustomFilterPanel..Caption
 #: Core/MathObjects/Visuals/AmplExtractMathSetupUnit.dfm:396
@@ -13404,7 +13404,7 @@ msgstr "Copia su appunti"
 #: Core/Daq/DaqCards/DaqChannels.pas:3555
 #: SharedLib/DS.Utils.PhysicalQuantitiesUnit.pas:349
 msgid "Acceleration"
-msgstr ""
+msgstr "Accelerazione"
 
 #. Frame2..EnergyFilterPanel..EnergyCBox..Caption
 #. MathPowerSetupFrame..PowerPanel..SettingsPanel..OptionsPageControl..EnergyTabSheet..Caption
@@ -13415,20 +13415,20 @@ msgstr ""
 #: Core/Daq/DaqCards/DaqChannels.pas:3557
 #: SharedLib/DS.Utils.PhysicalQuantitiesUnit.pas:363
 msgid "Energy"
-msgstr ""
+msgstr "Energia"
 
 #. Frame2..Panel3..VelFilterPanel..CheckBox1..Caption
 #: Core/MathObjects/Visuals/AnalogMathFrame.dfm:85
 #: Core/Daq/DaqCards/DaqChannels.pas:3553
 #: SharedLib/DS.Utils.PhysicalQuantitiesUnit.pas:348
 msgid "Velocity"
-msgstr ""
+msgstr "Velocità"
 
 #. Frame2..Panel3..DispFilterPanel..CheckBox2..Caption
 #: Core/MathObjects/Visuals/AnalogMathFrame.dfm:110
 #: Core/Daq/DaqCards/DaqChannels.pas:3551
 msgid "Displacement"
-msgstr ""
+msgstr "Spostamento"
 
 #. CalculusSetupFrame..AdvCaptionPanel1..Panel3..FilterDetailsPanel..GainLabel..Caption
 #. MathHumanBodySetupFrame..OutputChannelsPanel..OutputUnitLabel..Caption
@@ -17590,7 +17590,7 @@ msgstr ""
 #: Core/MathObjects/Visuals/ShakerControlSetupUnit.pas:118
 #: SharedLib/DS.Utils.PhysicalQuantitiesUnit.pas:346
 msgid "Force"
-msgstr ""
+msgstr "Forza"
 
 #. TransferFunctionSetupFrame..Panel1..ExcPanel..Panel2..ExcitationPageCtrl..AdjustForceTab..AdjustForcePanel..ForceLimitLabel..Caption
 #: Core/MathObjects/Visuals/TransferFunctionSetup.dfm:1163
@@ -20077,7 +20077,7 @@ msgstr ""
 #. MainForm..MainPageControl..ChSetupMeasTabSheet..SetupPanel..RemoteSetupPageControl..LocalTabSheet..MainOptionsPanel..SetupPageControl..DHSetupSheet..HeaderEntriesPanel..DataHeaderInfoPanel..DataHeaderInfoLabel..Caption
 #: DEWEsoft/MainUnit.dfm:17851
 msgid "data header info?"
-msgstr "Info intestazioni ?"
+msgstr "info intestazioni ?"
 
 #. MainForm..MainPageControl..ChSetupMeasTabSheet..SetupPanel..RemoteSetupPageControl..LocalTabSheet..MainOptionsPanel..SetupPageControl..DHSetupSheet..HeaderEntriesPanel..RightHeaderPanel..ResetHeaderButton..Caption
 #: DEWEsoft/MainUnit.dfm:17874
@@ -20925,7 +20925,7 @@ msgstr ""
 #. AssignShortcutForm..Label1..Caption
 #: Visuals/Forms/AssignShortcutFormUnit.dfm:31
 msgid "Press buttons to assign new shortcut."
-msgstr "Premi pulsanti per assegnare la nuova scorciatoia"
+msgstr "Premi pulsanti per assegnare la nuova scorciatoia."
 
 #. ChInfoForm..Caption
 #: Visuals/Forms/ChannelInfoForm.dfm:4
@@ -21467,7 +21467,7 @@ msgstr "Unità di misura disponibili"
 #. ServersForm..Label1..Caption
 #: Visuals/Forms/ServersFormUnit.dfm:26
 msgid "Measurement unit name"
-msgstr ""
+msgstr "Nome unità di misura"
 
 #. ServersForm..Label2..Caption
 #: Visuals/Forms/ServersFormUnit.dfm:39
@@ -21941,7 +21941,7 @@ msgid ""
 "your local sales representative"
 msgstr ""
 "La libreria per esportazione CAN è disponibile su acquisto. Prego contattare "
-"la rete Dewesoft locale."
+"la rete Dewesoft locale"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet1..ScrollBox5..HardwareLayoutPanel..CANGroup..CANAcknowledgeDefaultProp..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:457
@@ -22157,7 +22157,7 @@ msgid ""
 "parameters"
 msgstr ""
 "Ricampiona dati nel dominio del'angolo per migliore precisione di calcolo "
-"dei parametri power."
+"dei parametri power"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet3..ScrollBox2..MathLayoutPanel..DSPropertyGroup11..UseOldResamplerProp..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:984
@@ -22480,7 +22480,7 @@ msgid ""
 "Changing memory manager can improve/degrade performance and memory usage"
 msgstr ""
 "Una diversa gestione della memoria può migliorare/degradare le performances "
-"e l'uso della memoria."
+"e l'uso della memoria"
 
 #. AdvancedSettingsFrame2..DSPageControl1..PerformanceTabSheet..ScrollBox8..PerformanceLayoutPanel..MemoryGroup..MemoryManagerItem....ComboBox.Items.Strings
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1770
@@ -22516,7 +22516,7 @@ msgid ""
 msgstr ""
 "Se valorizzata, tutti i files esterni saranno caricati da questa directory "
 "base. Se non valorizzata, il sequencer considererà come directory base la "
-"stessa directory del file sequenza."
+"stessa directory del file sequenza. "
 
 #. AdvancedSettingsFrame2..DSPageControl1..SequencerTabSheet..ScrollBox9..SequencerLayoutPanel..SequencerDSPropGroup..SeqCopyFileIfFailsDirPropItem..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1875
@@ -22781,7 +22781,7 @@ msgstr ""
 #. ExportSelectFrame..CAScrollBox..OncePerCyclePanel..MaxPressureCB..Caption
 #: Visuals/Frames/ExportSelectFrameUnit.dfm:162
 msgid "Max pressure"
-msgstr ""
+msgstr "Pressione max"
 
 #. ExportSelectFrame..CAScrollBox..OncePerCyclePanel..ZeroCorrectionCB..Caption
 #: Visuals/Frames/ExportSelectFrameUnit.dfm:180
@@ -22799,7 +22799,7 @@ msgstr ""
 #: Core/MathObjects/CAMath/CAMathUnit.pas:1844
 #: SharedLib/DS.Utils.PhysicalQuantitiesUnit.pas:353
 msgid "Torque"
-msgstr ""
+msgstr "Coppia"
 
 #. ExportSelectFrame..CAScrollBox..CycleAveragePanel..Caption
 #: Visuals/Frames/ExportSelectFrameUnit.dfm:249
@@ -24349,7 +24349,7 @@ msgstr ""
 #: Core/Daq/Amplifiers/AmplConstUnit.pas:587
 #: Core/Daq/Amplifiers/TedsTemplateUnit.pas:2588
 msgid "Bridge resistance"
-msgstr ""
+msgstr "Resistenza ponte"
 
 #: Core/Daq/Amplifiers/AmplConstUnit.pas:589
 msgid "Bridge corr. factor"
@@ -24361,7 +24361,7 @@ msgstr ""
 
 #: Core/Daq/Amplifiers/AmplConstUnit.pas:591
 msgid "Shunt resistance"
-msgstr ""
+msgstr "Resistenza shunt"
 
 #. IEPE
 #: Core/Daq/Amplifiers/AmplConstUnit.pas:594
@@ -24593,7 +24593,7 @@ msgstr ""
 
 #: Core/Daq/Amplifiers/TedsTemplateUnit.pas:2600
 msgid "Ext. shunt resistance"
-msgstr ""
+msgstr "Resistenza shunt ext"
 
 #. Str := '' else
 #: Core/Daq/Amplifiers/Visuals/AmplifierFrameUnit.pas:624
@@ -27207,7 +27207,7 @@ msgstr ""
 
 #: Core/MathObjects/AngleSensorMathUnit.pas:509
 msgid "Angle sensor calculation"
-msgstr ""
+msgstr "Calcolo sensore angolo"
 
 #: Core/MathObjects/AngleSensorMathUnit.pas:527
 msgid "Angle sensor math"
@@ -28007,7 +28007,7 @@ msgstr ""
 
 #: Core/MathObjects/CAMath/CAMathUnit.pas:1838
 msgid "Max pressures"
-msgstr ""
+msgstr "Pressioni max"
 
 #: Core/MathObjects/CAMath/CAMathUnit.pas:1839
 msgid "Derivates"
@@ -28039,7 +28039,7 @@ msgstr ""
 #: Core/MathObjects/CAMath/CAMathUnit.pas:8375
 #: Core/MathObjects/CAMath/CAMathUnit.pas:8458
 msgid "No angle sensor signal."
-msgstr ""
+msgstr "Nessun segnale angolo."
 
 #: Core/MathObjects/CAMath/CAMathUnit.pas:8377
 msgid "Check sensor line direction (inv.)."
@@ -28132,7 +28132,7 @@ msgstr ""
 #: Core/MathObjects/CAMath/Visuals/CAMainGridUnit.pas:208
 #: Core/MathObjects/CAMath/Visuals/CAMainGridUnit.pas:582
 msgid "Pressure channel"
-msgstr ""
+msgstr "Canale pressione"
 
 #: Core/MathObjects/CAMath/Visuals/CAMainGridUnit.pas:209
 #: Core/MathObjects/CAMath/Visuals/CAMainGridUnit.pas:584
@@ -28552,7 +28552,7 @@ msgstr ""
 #: Core/MathObjects/Visuals/TorsionalVibMathSetupUnit.pas:147
 #: Core/MathObjects/Visuals/TorsionalVibMathSetupUnit.pas:150
 msgid "Torsion angle"
-msgstr ""
+msgstr "Angolo torsione"
 
 #: Core/MathObjects/Visuals/TransferFunctionSetup.pas:1777
 #: Core/MathObjects/Visuals/TransferFunctionSetup.pas:1792
@@ -28940,7 +28940,7 @@ msgstr "Tutti gruppi"
 
 #: Core/Objects/SensorsUnit.pas:2137
 msgid "Phase angle"
-msgstr ""
+msgstr "Angolo fase"
 
 #: Core/Objects/SensorsUnit.pas:2324
 msgid "Nonlinear sensor characteristic"
@@ -29049,7 +29049,7 @@ msgstr ""
 
 #: Core/Objects/SetupModulesUnit.pas:1679
 msgid "Analog and digital out settings."
-msgstr "Impostazioni uscite analogiche e digitali"
+msgstr "Impostazioni uscite analogiche e digitali."
 
 #: Core/Objects/SetupModulesUnit.pas:1709
 msgid "Analog/digital out"
@@ -29093,7 +29093,7 @@ msgstr ""
 
 #: Core/Objects/SetupModulesUnit.pas:2456
 msgid "File locking and encryption"
-msgstr "Impostazioni di protezione e criptaggio."
+msgstr "Impostazioni di protezione e criptaggio"
 
 #: Core/Objects/SetupObjectUnit.pas:840
 msgid ""
@@ -29284,7 +29284,7 @@ msgstr "Errore inizializzazione"
 
 #: Core/OleServer/PluginUnit.pas:3017
 msgid "Loading plugin: "
-msgstr "Caricamento plugin:"
+msgstr "Caricamento plugin: "
 
 #. restart/shut down
 #: Core/Sequencer/DCOMUnit.pas:151
@@ -29329,7 +29329,7 @@ msgstr ""
 #. SetAllShunt
 #: Core/Sequencer/DCOMUnit.pas:265
 msgid "Set shunt for all channels"
-msgstr ""
+msgstr "Imposta shunts per tutti canali"
 
 #. SetAllShort
 #: Core/Sequencer/DCOMUnit.pas:276
@@ -31037,35 +31037,35 @@ msgstr ""
 
 #: SharedLib/DS.Utils.PhysicalQuantitiesUnit.pas:347
 msgid "Displacement/distance"
-msgstr ""
+msgstr "Spostamento/distanza"
 
 #: SharedLib/DS.Utils.PhysicalQuantitiesUnit.pas:350
 msgid "Sound pressure"
-msgstr ""
+msgstr "Pressione acustica"
 
 #: SharedLib/DS.Utils.PhysicalQuantitiesUnit.pas:354
 msgid "Mass"
-msgstr ""
+msgstr "Massa"
 
 #: SharedLib/DS.Utils.PhysicalQuantitiesUnit.pas:357
 msgid "Angular acc."
-msgstr ""
+msgstr "Acc angolare"
 
 #: SharedLib/DS.Utils.PhysicalQuantitiesUnit.pas:358
 msgid "Angular vel."
-msgstr ""
+msgstr "Vel angolare"
 
 #: SharedLib/DS.Utils.PhysicalQuantitiesUnit.pas:359
 msgid "Mass flow"
-msgstr ""
+msgstr "Portata massa"
 
 #: SharedLib/DS.Utils.PhysicalQuantitiesUnit.pas:360
 msgid "Volumetric flow"
-msgstr ""
+msgstr "Portata volume"
 
 #: SharedLib/DS.Utils.PhysicalQuantitiesUnit.pas:361
 msgid "Humidity"
-msgstr ""
+msgstr "Umidità"
 
 #: Visuals/DelphiComponents/FileListView.pas:1405
 #: Visuals/Frames/FileListFrameUnit.pas:3206
@@ -31638,7 +31638,7 @@ msgstr "Dato grezzo"
 
 #: Visuals/Frames/SysMonitorTabFrameUnit.pas:104
 msgid "Check limits"
-msgstr "verifica limiti"
+msgstr "Verifica limiti"
 
 #: Visuals/Frames/SysMonitorTabFrameUnit.pas:105
 msgid "Warning limit"
