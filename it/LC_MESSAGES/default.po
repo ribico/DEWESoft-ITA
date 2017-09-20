@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2017-08-31 16:50\n"
-"PO-Revision-Date: 2017-09-20 09:11+0200\n"
+"PO-Revision-Date: 2017-09-20 09:39+0200\n"
 "Last-Translator: Somebody <your.email@address.com>\n"
 "Language-Team: \n"
 "Language: it\n"
@@ -1095,7 +1095,7 @@ msgstr "Non misurato"
 #: Core/Daq/Amplifiers/Visuals/DaqCardAmplFrameUnit.dfm:38
 #: Core/Daq/Amplifiers/Visuals/DaqCardAmplFrameUnit.pas:48
 msgid "Self test"
-msgstr ""
+msgstr "Auto test"
 
 #. DeweMSIOfflineFrame..MainPanel..MSILabel..Caption
 #: Core/Daq/Amplifiers/Visuals/DeweMSIOfflineFrameUnit.dfm:16
@@ -1396,7 +1396,7 @@ msgstr "Setup canale CAN"
 #. CanSetupForm..MsgDefinitionGroupBox..Caption
 #: Core/Daq/CAN/Visuals/CANChannelSetupUnit.dfm:61
 msgid "Message setup"
-msgstr ""
+msgstr "Setup messaggio"
 
 #. CanSetupForm..MsgDefinitionGroupBox..MSGArbIDLbl..Caption
 #. ControlItemFrame..MainSeqItemPanel..CANCommandsPanel..LabelCmd..Caption
@@ -6461,7 +6461,7 @@ msgstr "Modo differenziale"
 #. FrameAshtechGPS..ControlsPanel..DMRedRadioButton..Caption
 #: Core/Daq/GPS/Visuals/AshTechGPSFrame.dfm:462
 msgid "weak"
-msgstr ""
+msgstr "debole"
 
 #. FrameAshtechGPS..ControlsPanel..DMYellowRadioButton..Caption
 #. MeterVCFrame..PageControl..CommonTS..OvDisplayTypePanel..UpdateRateComboBox....Items.Strings
@@ -6479,43 +6479,43 @@ msgstr "Medio"
 #. FrameAshtechGPS..ControlsPanel..DMGreenRadioButton..Caption
 #: Core/Daq/GPS/Visuals/AshTechGPSFrame.dfm:490
 msgid "strong"
-msgstr ""
+msgstr "forte"
 
 #. FrameAshtechGPS..ControlsPanel..B1DynPanel..PredictionCheckBox..Caption
 #: Core/Daq/GPS/Visuals/AshTechGPSFrame.dfm:522
 msgid "Prediction"
-msgstr ""
+msgstr "Previsione"
 
 #. FrameAshtechGPS..ControlsPanel..DynamicComboBox....Items.Strings
 #. FrameJavadGPS..TopconPanel..SmoothingComboBox....Items.Strings
 #: Core/Daq/GPS/Visuals/AshTechGPSFrame.dfm:553
 #: Core/Daq/GPS/Visuals/JavadGPSFrame.dfm:136
 msgid "Highest (brake test)"
-msgstr ""
+msgstr "Massimo (test frenata)"
 
 #. FrameAshtechGPS..ControlsPanel..DynamicComboBox....Items.Strings
 #. FrameJavadGPS..TopconPanel..SmoothingComboBox....Items.Strings
 #: Core/Daq/GPS/Visuals/AshTechGPSFrame.dfm:554
 #: Core/Daq/GPS/Visuals/JavadGPSFrame.dfm:135
 msgid "High (handling test)"
-msgstr ""
+msgstr "Alto (test Handling)"
 
 #. FrameAshtechGPS..ControlsPanel..DynamicComboBox....Items.Strings
 #: Core/Daq/GPS/Visuals/AshTechGPSFrame.dfm:555
 msgid "Normal (data logging)"
-msgstr ""
+msgstr "Normale (data logging)"
 
 #. FrameAshtechGPS..ResetButton..Caption
 #. FrameJavadGPS..ResetReceiverButton..Caption
 #: Core/Daq/GPS/Visuals/AshTechGPSFrame.dfm:563
 #: Core/Daq/GPS/Visuals/JavadGPSFrame.dfm:501
 msgid "Reset receiver"
-msgstr ""
+msgstr "Reset ricevitore"
 
 #. GPSChannelSetupForm..Caption
 #: Core/Daq/GPS/Visuals/GPSChannelSetupUnit.dfm:4
 msgid "GPS channel setup"
-msgstr ""
+msgstr "Setup canale GPS"
 
 #. GPSSetupFrame..InfoPanel..PPSSyncPanel..Caption
 #: Core/Daq/GPS/Visuals/GPSSetupUnit.dfm:31
@@ -6525,7 +6525,7 @@ msgstr ""
 #. GPSSetupFrame..ShowNMEALogCbox..Caption
 #: Core/Daq/GPS/Visuals/GPSSetupUnit.dfm:153
 msgid "Show NMEA log"
-msgstr ""
+msgstr "Mostra log NMEA"
 
 #. GPSSetupFrame..AdvCaptionPanel1..Caption
 #. DatumSetupFrame..ModeComboBox....Items.Strings
@@ -6550,17 +6550,17 @@ msgstr ""
 #. FrameJavadGPS..ModelLabel..Caption
 #: Core/Daq/GPS/Visuals/JavadGPSFrame.dfm:16
 msgid "Model: -"
-msgstr ""
+msgstr "Modello: -"
 
 #. FrameJavadGPS..TopconPanel..SerialLabel..Caption
 #: Core/Daq/GPS/Visuals/JavadGPSFrame.dfm:74
 msgid "Serial: -"
-msgstr ""
+msgstr "Seriale: -"
 
 #. FrameJavadGPS..TopconPanel..ReceiverDynamicLabel..Caption
 #: Core/Daq/GPS/Visuals/JavadGPSFrame.dfm:81
 msgid "Receiver dynamic"
-msgstr ""
+msgstr "Dinamica ricevitore"
 
 #. FrameJavadGPS..TopconPanel..BaudRateLabel..Caption
 #. FrameNMEAGPS..BaudRateLabel..Caption
@@ -6576,7 +6576,7 @@ msgstr ""
 #: Core/Daq/GPS/Visuals/JavadGPSFrame.dfm:124
 #: Core/MathObjects/CAMath/Visuals/CAMathSetupUnit.dfm:6605
 msgid "Correction"
-msgstr ""
+msgstr "Correzione"
 
 #. FrameJavadGPS..TopconPanel..SetModeButton..Caption
 #. CustomCamFrame..Panel1..SetButton..Caption
@@ -6622,22 +6622,22 @@ msgstr ""
 #. FrameJavadGPS..TopconPanel..BaseStationSettingsPanel..LatitudeLabel..Caption
 #: Core/Daq/GPS/Visuals/JavadGPSFrame.dfm:261
 msgid "Latitude"
-msgstr ""
+msgstr "Latitudine"
 
 #. FrameJavadGPS..TopconPanel..BaseStationSettingsPanel..longitudeLabel..Caption
 #: Core/Daq/GPS/Visuals/JavadGPSFrame.dfm:268
 msgid "Longitude"
-msgstr ""
+msgstr "Longitudine"
 
 #. FrameJavadGPS..TopconPanel..BaseStationSettingsPanel..AltitudeLabel..Caption
 #: Core/Daq/GPS/Visuals/JavadGPSFrame.dfm:275
 msgid "Altitude"
-msgstr ""
+msgstr "Altitudine"
 
 #. FrameJavadGPS..TopconPanel..BaseStationSettingsPanel..BaseStationPositionLabel..Caption
 #: Core/Daq/GPS/Visuals/JavadGPSFrame.dfm:282
 msgid "Base station position"
-msgstr ""
+msgstr "Posizione base station"
 
 #. FrameJavadGPS..TopconPanel..BaseStationSettingsPanel..SatelliteUsedLabel..Caption
 #: Core/Daq/GPS/Visuals/JavadGPSFrame.dfm:295
@@ -6647,12 +6647,12 @@ msgstr ""
 #. FrameJavadGPS..TopconPanel..BaseStationSettingsPanel..ReadGPSPositionButton..Caption
 #: Core/Daq/GPS/Visuals/JavadGPSFrame.dfm:308
 msgid "Read current GPS position"
-msgstr ""
+msgstr "Leggi posizione GPS corrente"
 
 #. FrameJavadGPS..TopconPanel..BaseStationSettingsPanel..SetBasePositionButton..Caption
 #: Core/Daq/GPS/Visuals/JavadGPSFrame.dfm:362
 msgid "Set base position"
-msgstr ""
+msgstr "Imposta posizione base"
 
 #. FrameJavadGPS..TopconPanel..AntennaPortComboBox....Items.Strings
 #: Core/Daq/GPS/Visuals/JavadGPSFrame.dfm:450
@@ -6673,7 +6673,7 @@ msgstr ""
 #: Core/Daq/GPS/Visuals/MicrosatGPSFrame.dfm:16
 #: Core/Daq/GPS/Visuals/MicrosatGPSFrame.pas:107
 msgid "Status: not found"
-msgstr ""
+msgstr "Stato: non trovato"
 
 #. FrameNMEAGPS..FlowControlLabel..Caption
 #. SeqDeviceFrame..DeviceListPanel..RightPanel..PageControl1..RS232TabSheet..FlowControlLabel..Caption
@@ -6716,17 +6716,17 @@ msgstr ""
 #. FrameNovatelGPS..PosLabel..Caption
 #: Core/Daq/GPS/Visuals/NovatelGPSFrame.dfm:75
 msgid "Position update rate"
-msgstr ""
+msgstr "Rate aggiorn posizione"
 
 #. FrameNovatelGPS..SpeedRateLabel..Caption
 #: Core/Daq/GPS/Visuals/NovatelGPSFrame.dfm:88
 msgid "Speed update rate"
-msgstr ""
+msgstr "Rate aggiorn velocità"
 
 #. FrameNovatelGPS..ReceiverSetupLabel..Caption
 #: Core/Daq/GPS/Visuals/NovatelGPSFrame.dfm:114
 msgid "Receiver setup"
-msgstr ""
+msgstr "Imp ricevitore"
 
 #. FrameNovatelGPS..UpdateButton..Caption
 #. UpdateFrame..DSNavigationBar8..FirstItemName
@@ -6745,12 +6745,12 @@ msgstr "Aggiorna"
 #. FrameNovatelGPS..ResetButton..Caption
 #: Core/Daq/GPS/Visuals/NovatelGPSFrame.dfm:270
 msgid "Reset default"
-msgstr ""
+msgstr "Resetta default"
 
 #. FrameNovatelGPS..SaveConfigButton..Caption
 #: Core/Daq/GPS/Visuals/NovatelGPSFrame.dfm:324
 msgid "Save config"
-msgstr ""
+msgstr "Salva config"
 
 #. FrameNovatelGPS..PositionRateComboBox....Items.Strings
 #. FrameNovatelGPS..SpeedRateComboBox....Items.Strings
@@ -20618,7 +20618,7 @@ msgstr "Visita il nostro PRO training"
 #. AboutForm..Label3..Caption
 #: Visuals/Forms/AboutUnit.dfm:1120
 msgid "Visit us at"
-msgstr ""
+msgstr "Visitaci al link"
 
 #. AboutForm..LicMemo....Lines.Strings
 #: Visuals/Forms/AboutUnit.dfm:1137
@@ -25531,7 +25531,7 @@ msgstr ""
 #: Core/GObjects/ButtonControl.pas:640 Core/Utilities/ExactFreqUnit.pas:273
 #: Visuals/Frames/SysMonitorTabFrameUnit.pas:192
 msgid "No data"
-msgstr ""
+msgstr "Nessun dato"
 
 #: Core/Daq/DaqCards/Visuals/CntSensorsFormUnit.pas:183
 msgid "Double teeth"
@@ -26716,7 +26716,7 @@ msgstr ""
 #. OutputDebugString('not predrawn');
 #: Core/GObjects/Graph3D.pas:3348
 msgid "No data in source channel"
-msgstr ""
+msgstr "Nessun dato nel canale sorgente"
 
 #. DrawMsgStr('Waiting for data...')
 #: Core/GObjects/Graph3D.pas:3358
@@ -30698,7 +30698,7 @@ msgstr ""
 
 #: DEWEsoft/MainUnit.pas:12474
 msgid "No data in file"
-msgstr ""
+msgstr "Non ci sono dati nel file"
 
 #: DEWEsoft/MainUnit.pas:12481
 msgid "Error while loading data"
@@ -31463,18 +31463,18 @@ msgstr "Modificato"
 
 #: Visuals/Frames/FileListFrameUnit.pas:2628
 msgid "Encrypted setup file"
-msgstr ""
+msgstr "File setup criptato"
 
 #: Visuals/Frames/FileListFrameUnit.pas:2775
 #: Visuals/Frames/FileListFrameUnit.pas:3560
 #: Visuals/Frames/FileListFrameUnit.pas:3605
 msgid "Custom field"
-msgstr ""
+msgstr "Campo personalizzato"
 
 #. All supported files
 #: Visuals/Frames/FileListFrameUnit.pas:2918
 msgid "All supported files"
-msgstr ""
+msgstr "Tutti files supportati"
 
 #: Visuals/Frames/FileListFrameUnit.pas:3204
 msgid "MultiFile Name"
@@ -31486,28 +31486,28 @@ msgstr "Modo di registrazione"
 
 #: Visuals/Frames/FolderFrameUnit.pas:139
 msgid "Failed to create folder"
-msgstr ""
+msgstr "Creazione cartella fallita"
 
 #: Visuals/Frames/FolderFrameUnit.pas:139
 #: Visuals/Frames/FolderFrameUnit.pas:162
 msgid "Folder not empty or not allowed"
-msgstr ""
+msgstr "Cartella non vuota o non permesso"
 
 #: Visuals/Frames/FolderFrameUnit.pas:151
 msgid "Cannot delete desktop folder"
-msgstr ""
+msgstr "Impossibile cancellare cartella desktop"
 
 #: Visuals/Frames/FolderFrameUnit.pas:156
 msgid "Delete folder"
-msgstr ""
+msgstr "Cancella cartella"
 
 #: Visuals/Frames/FolderFrameUnit.pas:162
 msgid "Failed to delete folder"
-msgstr ""
+msgstr "Impossibile cancellare cartella"
 
 #: Visuals/Frames/FolderFrameUnit.pas:245
 msgid "Cannot rename desktop folder"
-msgstr ""
+msgstr "Impossibile rinominare la cartella desktop"
 
 #: Visuals/Frames/FolderFrameUnit.pas:249
 msgid "Rename folder"
@@ -31515,23 +31515,23 @@ msgstr "Rinomina cartella"
 
 #: Visuals/Frames/FolderFrameUnit.pas:249
 msgid "New folder name"
-msgstr ""
+msgstr "Nuovo nome cartella"
 
 #: Visuals/Frames/FolderFrameUnit.pas:264
 msgid "Failed to rename folder"
-msgstr ""
+msgstr "Errore nel rinominare cartella"
 
 #: Visuals/Frames/FolderFrameUnit.pas:301
 msgid "Not a valid folder"
-msgstr ""
+msgstr "Cartella non valida"
 
 #: Visuals/Frames/GlobalSettingsFrameUnit.pas:461
 msgid "Only one clock provider must be assigned."
-msgstr ""
+msgstr "Solo una sorgente di clock può essere assegnata."
 
 #: Visuals/Frames/GlobalSettingsFrameUnit.pas:768
 msgid "Add GPS folder"
-msgstr ""
+msgstr "Aggiungi cartella GPS"
 
 #: Visuals/Frames/GlobalSettingsFrameUnit.pas:800
 msgid "Initializing settings"
@@ -31539,11 +31539,11 @@ msgstr "Inizializzazione impostazioni"
 
 #: Visuals/Frames/GlobalSettingsFrameUnit.pas:1363
 msgid "Unable to exit settings"
-msgstr ""
+msgstr "Impossibile uscire dalle impostazioni."
 
 #: Visuals/Frames/GlobalSettingsFrameUnit.pas:1365
 msgid "Dewesoft needs to be restarted in order to apply settings."
-msgstr ""
+msgstr "Dewesoft deve essere riavviato per applicare le impostazioni."
 
 #: Visuals/Frames/NonLinScalingFrameUnit.pas:100
 msgid "Linear scale"
@@ -31567,7 +31567,7 @@ msgstr "Range scalato"
 
 #: Visuals/Frames/PreviewUnit.pas:276 Visuals/Frames/PreviewUnit.pas:700
 msgid "Page"
-msgstr ""
+msgstr "Pagina"
 
 #: Visuals/Frames/PreviewUnit.pas:300
 msgid "Show time"
@@ -31579,19 +31579,19 @@ msgstr ""
 
 #: Visuals/Frames/ProjectResolveFrameUnit.pas:56
 msgid "Hardware changed - try reloading the project"
-msgstr ""
+msgstr "Hardware modificato - prova a ricaricare il progetto"
 
 #: Visuals/Frames/RecallFrameUnit.pas:635
 msgid "Export is not possible. LIBMAT.dll library not found."
-msgstr ""
+msgstr "Esportazione non possibile. LIBMAT.dll non trovata."
 
 #: Visuals/Frames/RecallFrameUnit.pas:811
 msgid "Failed to export data"
-msgstr ""
+msgstr "Esportazione dati fallita"
 
 #: Visuals/Frames/RecallFrameUnit.pas:896
 msgid "Enter output file name"
-msgstr ""
+msgstr "Inserire il nome file ouptut"
 
 #: Visuals/Frames/RecallFrameUnit.pas:918
 msgid "Failed to create file"
@@ -31599,15 +31599,15 @@ msgstr "Errore creazione file"
 
 #: Visuals/Frames/RecallFrameUnit.pas:924
 msgid "There are offline channels which could not be stored."
-msgstr ""
+msgstr "Alcuni canali offline non possono essere memorizzati."
 
 #: Visuals/Frames/RecallFrameUnit.pas:941
 msgid "No export format is chosen - please select the format."
-msgstr ""
+msgstr "Non è stato selezionato alcun formato esportazione."
 
 #: Visuals/Frames/RecallFrameUnit.pas:948
 msgid "Please enter filename in \"Export file name\" field"
-msgstr ""
+msgstr "Prego inserire il nome nel campo \"Nome file esportazione\""
 
 #: Visuals/Frames/RecallFrameUnit.pas:1058
 msgid "FlexPro script not defined."
@@ -31615,16 +31615,16 @@ msgstr "Script FlexPro non definito."
 
 #: Visuals/Frames/RecallFrameUnit.pas:1344
 msgid "Selected file already exists. Do you want to overwrite the file?"
-msgstr ""
+msgstr "Il file selezionato già esiste. Vuoi sovrascriverlo ?"
 
 #. Enable and edit permissions
 #: Visuals/Frames/SecurityFrameUnit.pas:160
 msgid "Are you sure you want to disable permission scheme?"
-msgstr ""
+msgstr "Sicuro di voler disabilitare lo schema permessi ?"
 
 #: Visuals/Frames/SecurityFrameUnit.pas:183
 msgid "Are you sure you want to disable file encryption?"
-msgstr ""
+msgstr "Sicuro di voler disabilitare il criptaggio file ?"
 
 #: Visuals/Frames/SecurityFrameUnit.pas:195
 msgid "Permission"
@@ -31638,7 +31638,7 @@ msgstr "Modifica"
 #: Visuals/Frames/SecurityFrameUnit.pas:282
 #: Visuals/Frames/SecurityFrameUnit.pas:309
 msgid "Hidden"
-msgstr ""
+msgstr "Nascosto"
 
 #: Visuals/Frames/SensorAmplFrameUnit.pas:90
 msgid "Property"
@@ -31686,22 +31686,22 @@ msgstr "Gestisci estensioni"
 
 #: Visuals/Frames/Settings/LicensingFrameUnit.pas:130
 msgid "Do you really want to remove the license file from device?"
-msgstr ""
+msgstr "Vuoi veramente eliminare il file licenza dal dispositivo ?"
 
 #: Visuals/Frames/Settings/LicensingFrameUnit.pas:144
 #: Visuals/Frames/Settings/LicensingFrameUnit.pas:157
 #: Visuals/Frames/Settings/LicensingFrameUnit.pas:167
 #: Visuals/Frames/Settings/LicensingFrameUnit.pas:171
 msgid "Can not remove license file from device."
-msgstr ""
+msgstr "Impossibile rimuovere il file licenza dal dispositivo."
 
 #: Visuals/Frames/Settings/LicensingFrameUnit.pas:184
 msgid "Do you really want to remove the license file"
-msgstr ""
+msgstr "Vuoi veramente rimuovere il file di licenza"
 
 #: Visuals/Frames/Settings/LicensingFrameUnit.pas:222
 msgid "Import failed"
-msgstr ""
+msgstr "Importazione fallita"
 
 #. try offline
 #: Visuals/Frames/Settings/LicensingFrameUnit.pas:257
@@ -31709,25 +31709,27 @@ msgid ""
 "Online registration failed. Do you want to create license for offline "
 "registration?"
 msgstr ""
+"La registrazione online è fallita. Vuoi creare un file licenza per la "
+"procedura di registrazione offline ?"
 
 #: Visuals/Frames/Settings/LicensingFrameUnit.pas:266
 msgid "Please visit www.dewesoft.com/registration and register the file"
-msgstr ""
+msgstr "Prego visitare www.dewesoft.com/registration per registrare il file"
 
 #: Visuals/Frames/Settings/LicensingFrameUnit.pas:282
 msgid "License number is not valid"
-msgstr ""
+msgstr "Il numero di licenza non è valido"
 
 #: Visuals/Frames/Settings/LicensingFrameUnit.pas:334
 #: Visuals/Frames/Settings/LicensingFrameUnit.pas:748
 #: Visuals/Frames/Settings/LicensingFrameUnit.pas:765
 #: Visuals/Frames/Settings/LicensingFrameUnit.pas:786
 msgid "Can not write license file to device."
-msgstr ""
+msgstr "Impossibile scrivere la licenza sul dispositivo."
 
 #: Visuals/Frames/Settings/LicensingFrameUnit.pas:352
 msgid "This license does not require registration"
-msgstr ""
+msgstr "Questa licenza non richiede registrazione"
 
 #: Visuals/Frames/Settings/LicensingFrameUnit.pas:355
 msgid "Registration failed!"
@@ -31739,10 +31741,12 @@ msgid ""
 "No hardware devices are chosen currently. Do you really want to generate the "
 "license only for MAC addresses of this PC?"
 msgstr ""
+"Non ci sono dispositivi HW selezionati. Vuoi veramente generare la licenza "
+"solo per il MAC address di questo PC ?"
 
 #: Visuals/Frames/Settings/LicensingFrameUnit.pas:434
 msgid "License number is invalid."
-msgstr ""
+msgstr "Il numero di licenza non è valido."
 
 #: Visuals/Frames/Settings/LicensingFrameUnit.pas:487
 msgid "A/D"
@@ -31777,24 +31781,27 @@ msgid ""
 "Plug-in already has built-in license. Do you want to overwrite it with new "
 "license?"
 msgstr ""
+"Il plugin ha già una licenza integrata. Vuoi sovrascrivere con la nuova ?"
 
 #: Visuals/Frames/Settings/LicensingFrameUnit.pas:755
 msgid ""
 "Device already has built-in license. Do you want to overwrite it with new "
 "license?"
 msgstr ""
+"Il dispositivo ha già una licenza integrata. Vuoi sovrascrivere con la "
+"nuova ?"
 
 #: Visuals/Frames/Settings/LicensingFrameUnit.pas:763
 msgid "Not enough memory available to write license file to device."
-msgstr ""
+msgstr "Memoria insufficiente per scrivere file licenza sul dispositivo."
 
 #: Visuals/Frames/Settings/LicensingFrameUnit.pas:778
 msgid "Serial number of device does not match to licence."
-msgstr ""
+msgstr "Il SN dispositivo non coincide con quello della licenza."
 
 #: Visuals/Frames/Settings/LocalDevicesFrameUnit.pas:235
 msgid "Master measurement unit"
-msgstr ""
+msgstr "Unità misura master"
 
 #: Visuals/Frames/Settings/LocalDevicesFrameUnit.pas:243
 msgid "Slave client"
@@ -31802,7 +31809,7 @@ msgstr ""
 
 #: Visuals/Frames/Settings/LocalDevicesFrameUnit.pas:259
 msgid "system"
-msgstr ""
+msgstr "sistema"
 
 #: Visuals/Frames/Settings/LocalDevicesFrameUnit.pas:380
 #: Visuals/Frames/Settings/LocalDevicesFrameUnit.pas:384
@@ -31811,7 +31818,7 @@ msgstr "Sorgente clock"
 
 #: Visuals/Frames/Settings/LocalDevicesFrameUnit.pas:404
 msgid "No hardware sync"
-msgstr ""
+msgstr "Nessun sync hw"
 
 #: Visuals/Frames/Settings/LocalDevicesFrameUnit.pas:406
 msgid "Clock slave"
@@ -31819,7 +31826,7 @@ msgstr ""
 
 #: Visuals/Frames/Settings/LocalDevicesFrameUnit.pas:471
 msgid "NTP settings"
-msgstr ""
+msgstr "Impostazioni NTP"
 
 #~ msgid "Show cursor"
 #~ msgstr "Mostra cursore"
