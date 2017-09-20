@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2017-08-31 16:50\n"
-"PO-Revision-Date: 2017-09-20 08:12+0200\n"
+"PO-Revision-Date: 2017-09-20 08:28+0200\n"
 "Last-Translator: Somebody <your.email@address.com>\n"
 "Language-Team: \n"
 "Language: it\n"
@@ -15628,7 +15628,7 @@ msgstr ""
 #: Core/MathObjects/Visuals/MathNMTSetupUnit.dfm:157
 #: Core/MathObjects/Visuals/TransferFunctionSetup.dfm:956
 msgid "Response channels"
-msgstr ""
+msgstr "Canali risposta"
 
 #. MathNthOrderSetupFrame..AdvCaptionPanel1..Label1..Caption
 #: Core/MathObjects/Visuals/MathNthOrderExtractSetupUnit.dfm:29
@@ -15970,7 +15970,7 @@ msgstr ""
 #: Core/Objects/TriggerUnit.pas:1868 Core/Objects/TriggerUnit.pas:1870
 #: Core/Objects/TriggerUnit.pas:1872
 msgid "Direction"
-msgstr ""
+msgstr "Direzione"
 
 #. MathOrderTrackingSetupFrame..MainCalcCriteriaPanel..FrequencyLimitsPanel..UpperRPMLabel..Caption
 #: Core/MathObjects/Visuals/MathOrderTrackingSetupUnit.dfm:1692
@@ -17444,7 +17444,7 @@ msgstr ""
 #. TorsionalVibSetupFrame..GraphTVPanel..OptionsPanel..RefCurveAngle..RefCurveChkBox..Caption
 #: Core/MathObjects/Visuals/TorsionalVibMathSetupUnit.dfm:2054
 msgid "Use reference curve"
-msgstr ""
+msgstr "Usa curva riferimento"
 
 #. TorsionalVibSetupFrame..GraphTVPanel..OptionsPanel..RefCurveAngle..ResolutionValPanel..Caption
 #: Core/MathObjects/Visuals/TorsionalVibMathSetupUnit.dfm:2083
@@ -17454,17 +17454,17 @@ msgstr ""
 #. TorsionalVibSetupFrame..GraphTVPanel..RefCurveGraphPanel..AutoScaleChkBox..Caption
 #: Core/MathObjects/Visuals/TorsionalVibMathSetupUnit.dfm:2120
 msgid "Autoscale y"
-msgstr ""
+msgstr "Autoscala y"
 
 #. TransferFunctionSetupFrame..CalcTypeSettingsPanel..CalcTypeCBox....Items.Strings
 #: Core/MathObjects/Visuals/TransferFunctionSetup.dfm:34
 msgid "Triggered (FRF)"
-msgstr ""
+msgstr "Triggerato (FRF)"
 
 #. TransferFunctionSetupFrame..CalcTypeSettingsPanel..CalcTypeCBox....Items.Strings
 #: Core/MathObjects/Visuals/TransferFunctionSetup.dfm:35
 msgid "Free run (FRF)"
-msgstr ""
+msgstr "Continuo (FRF)"
 
 #. TransferFunctionSetupFrame..CalcTypeSettingsPanel..CalcTypeCBox....Items.Strings
 #: Core/MathObjects/Visuals/TransferFunctionSetup.dfm:36
@@ -17474,17 +17474,17 @@ msgstr ""
 #. TransferFunctionSetupFrame..CalcTypeSettingsPanel..CalcTypeCBox....Items.Strings
 #: Core/MathObjects/Visuals/TransferFunctionSetup.dfm:37
 msgid "Manual (NMT)"
-msgstr ""
+msgstr "Manuale (NMT)"
 
 #. TransferFunctionSetupFrame..CalcTypeSettingsPanel..UseGroupsChkBox..Caption
 #: Core/MathObjects/Visuals/TransferFunctionSetup.dfm:44
 msgid "Roving hammer/acc."
-msgstr ""
+msgstr "Martello/acc itinerante"
 
 #. TransferFunctionSetupFrame..CalcTypeSettingsPanel..UseFunGCBox..Caption
 #: Core/MathObjects/Visuals/TransferFunctionSetup.dfm:53
 msgid "Use function generator"
-msgstr ""
+msgstr "Usa generatore funzioni"
 
 #. TransferFunctionSetupFrame..SettingsPanel..Label16..Caption
 #: Core/MathObjects/Visuals/TransferFunctionSetup.dfm:82
@@ -17511,12 +17511,12 @@ msgstr ""
 #. TransferFunctionSetupFrame..SettingsPanel..FRFPageControl..TrigFRFPage..Panel5..Label12..Caption
 #: Core/MathObjects/Visuals/TransferFunctionSetup.dfm:325
 msgid "Excitation win. length"
-msgstr ""
+msgstr "Finestra eccitazione"
 
 #. TransferFunctionSetupFrame..SettingsPanel..FRFPageControl..TrigFRFPage..Panel5..Label13..Caption
 #: Core/MathObjects/Visuals/TransferFunctionSetup.dfm:332
 msgid "Response win. decay"
-msgstr ""
+msgstr "Decadim risposta"
 
 #. TransferFunctionSetupFrame..SettingsPanel..FRFPageControl..TrigFRFPage..Panel5..DoubleHitChkBox..Caption
 #: Core/MathObjects/Visuals/TransferFunctionSetup.dfm:382
@@ -17537,12 +17537,12 @@ msgstr ""
 #. TransferFunctionSetupFrame..SettingsPanel..StopAfterXCBox..Caption
 #: Core/MathObjects/Visuals/TransferFunctionSetup.dfm:531
 msgid "Stop after"
-msgstr ""
+msgstr "Ferma dopo"
 
 #. TransferFunctionSetupFrame..FGenPanel..Caption
 #: Core/MathObjects/Visuals/TransferFunctionSetup.dfm:555
 msgid "Function generator settings"
-msgstr ""
+msgstr "Impostazioni gen funzione"
 
 #. TransferFunctionSetupFrame..FGenPanel..FGenPageControl..FixedPage..Panel6..StartFreq4Label..Caption
 #. TransferFunctionSetupFrame..FGenPanel..FGenPageControl..SweepPage..Panel8..StartFreq3Label..Caption
@@ -17577,17 +17577,17 @@ msgstr ""
 #. TransferFunctionSetupFrame..Panel1..RespPanel..Panel3..OverloadPanel..StopOnCondCheckBox..Caption
 #: Core/MathObjects/Visuals/TransferFunctionSetup.dfm:1018
 msgid "Stop test if any excitation exceeds"
-msgstr ""
+msgstr "Ferma test se eccitazione supera"
 
 #. TransferFunctionSetupFrame..Panel1..ExcPanel..Caption
 #: Core/MathObjects/Visuals/TransferFunctionSetup.dfm:1044
 msgid "Excitation channels"
-msgstr ""
+msgstr "Canali eccitazione"
 
 #. TransferFunctionSetupFrame..Panel1..ExcPanel..Panel2..ExcitationPageCtrl..ExcitationOvlTab..Panel14..ExcOvlCBox..Caption
 #: Core/MathObjects/Visuals/TransferFunctionSetup.dfm:1131
 msgid "Show message if excitation exceeds"
-msgstr ""
+msgstr "Avvisa se eccitazione supera"
 
 #. TransferFunctionSetupFrame..Panel1..ExcPanel..Panel2..ExcitationPageCtrl..AdjustForceTab..Caption
 #: Core/MathObjects/Visuals/TransferFunctionSetup.dfm:1146
@@ -17599,12 +17599,12 @@ msgstr "Forza"
 #. TransferFunctionSetupFrame..Panel1..ExcPanel..Panel2..ExcitationPageCtrl..AdjustForceTab..AdjustForcePanel..ForceLimitLabel..Caption
 #: Core/MathObjects/Visuals/TransferFunctionSetup.dfm:1163
 msgid "Force limit"
-msgstr ""
+msgstr "Limite forza"
 
 #. TransferFunctionSetupFrame..Panel1..ExcPanel..Panel2..ExcitationPageCtrl..AdjustForceTab..AdjustForcePanel..PhaseLimitLabel..Caption
 #: Core/MathObjects/Visuals/TransferFunctionSetup.dfm:1178
 msgid "Phase limit"
-msgstr ""
+msgstr "Limite fase"
 
 #. TransferFunctionSetupFrame..Panel1..ExcPanel..Panel2..ExcitationPageCtrl..AdjustForceTab..AdjustForcePanel..DegLabel..Caption
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet2..ScrollBox1..VisualsLayoutPanel..DSPropertyGroup4..XYAngleOffsetProp..RightText
@@ -17616,17 +17616,17 @@ msgstr ""
 #. TransferFunctionSetupFrame..Panel1..ExcPanel..Panel2..ExcitationPageCtrl..AdjustForceTab..AdjustForcePanel..AdjustForceChkBox..Caption
 #: Core/MathObjects/Visuals/TransferFunctionSetup.dfm:1210
 msgid "Adjust force"
-msgstr ""
+msgstr "Regola forza"
 
 #. TransferFunctionSetupFrame..LoadChnPopup..LoadExc..Caption
 #: Core/MathObjects/Visuals/TransferFunctionSetup.dfm:1239
 msgid "Create excitations"
-msgstr ""
+msgstr "Crea eccitazioni"
 
 #. TransferFunctionSetupFrame..LoadChnPopup..LoadResp..Caption
 #: Core/MathObjects/Visuals/TransferFunctionSetup.dfm:1243
 msgid "Create responses"
-msgstr ""
+msgstr "Crea risposte"
 
 #. VectorMatrixSetupFrame..UsedFiltersPanel..Label1..Caption
 #. VectorMatrixSetupFrame..UsedFiltersPanel..Label2..Caption
@@ -17645,12 +17645,12 @@ msgstr ""
 #. VectorMatrixSetupFrame..UsedFiltersPanel..Label4..Caption
 #: Core/MathObjects/Visuals/VectorMatrixSetupUnit.dfm:59
 msgid "First number"
-msgstr ""
+msgstr "Primo num"
 
 #. VectorMatrixSetupFrame..UsedFiltersPanel..Label5..Caption
 #: Core/MathObjects/Visuals/VectorMatrixSetupUnit.dfm:66
 msgid "Second number"
-msgstr ""
+msgstr "Secondo num"
 
 #. MathZoomFFTSetupFrame..SignalBandPanel..UpperSignalLimitLabel..Caption
 #: Core/MathObjects/Visuals/ZoomFFTSetupUnit.dfm:29
@@ -20220,7 +20220,7 @@ msgstr "Salta"
 #. MainForm..SequencerControlPanel..SequenceYesActionButton..Caption
 #: DEWEsoft/MainUnit.dfm:20334
 msgid "&Yes"
-msgstr ""
+msgstr "&Si"
 
 #. MainForm..SequencerControlPanel..SequenceRecordActionButton..Caption
 #. MainForm..SequencerControlPanel..SequenceStopRecordingActionButton..Caption
@@ -20231,7 +20231,7 @@ msgstr ""
 #. MainForm..SequencerControlPanel..SequenceNoActionButton..Caption
 #: DEWEsoft/MainUnit.dfm:20564
 msgid "&No"
-msgstr ""
+msgstr "&No"
 
 #. MainForm..SequencerControlPanel..SequenceContinueActionButton..Caption
 #: DEWEsoft/MainUnit.dfm:20809
@@ -21022,7 +21022,7 @@ msgstr ""
 #: Visuals/Forms/ChannelSettingsFormUnit.dfm:182
 #: Core/Data/ChannelDataUnit.pas:6698
 msgid "GPS direction"
-msgstr ""
+msgstr "Direzione GPS"
 
 #. ChannelSettingsForm..SettingsPageControl..TabSheet2..Caption
 #. information
@@ -28457,7 +28457,7 @@ msgstr ""
 #: Core/MathObjects/Visuals/MathNMTSetupUnit.pas:292
 #: Core/MathObjects/Visuals/TransferFunctionSetup.pas:1740
 msgid "Sign"
-msgstr ""
+msgstr "Segno"
 
 #: Core/MathObjects/Visuals/MathObjSetupUnit.pas:43
 msgid "Cannot undo this object"
