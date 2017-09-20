@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2017-08-31 16:50\n"
-"PO-Revision-Date: 2017-09-20 09:03+0200\n"
+"PO-Revision-Date: 2017-09-20 09:07+0200\n"
 "Last-Translator: Somebody <your.email@address.com>\n"
 "Language-Team: \n"
 "Language: it\n"
@@ -14410,17 +14410,17 @@ msgstr "Posizione asse di minimo"
 #. MathBalancingApplicationSetupFrame..MainBalancingSettingsPanel..Caption
 #: Core/MathObjects/Visuals/MathBalancingApplicationSetupUnit.dfm:50
 msgid "Balancing settings"
-msgstr ""
+msgstr "Impostazioni di bilanciamento"
 
 #. MathBalancingApplicationSetupFrame..MainBalancingSettingsPanel..Label4..Caption
 #: Core/MathObjects/Visuals/MathBalancingApplicationSetupUnit.dfm:63
 msgid "Number of planes"
-msgstr ""
+msgstr "Numero di piani"
 
 #. MathBalancingApplicationSetupFrame..MainBalancingSettingsPanel..Label5..Caption
 #: Core/MathObjects/Visuals/MathBalancingApplicationSetupUnit.dfm:70
 msgid "Approx. balancing speed"
-msgstr ""
+msgstr "Vel bilanciamento approx"
 
 #. MathBalancingApplicationSetupFrame..MainBalancingSettingsPanel..Label6..Caption
 #. MathEnvelopeSetupFrame..BearingsDBPanel..UnitCBox....Items.Strings
@@ -14432,17 +14432,17 @@ msgstr ""
 #. MathBalancingApplicationSetupFrame..MainBalancingSettingsPanel..NumOfPlanesCbox....Items.Strings
 #: Core/MathObjects/Visuals/MathBalancingApplicationSetupUnit.dfm:95
 msgid "Single plane"
-msgstr ""
+msgstr "Piano singolo"
 
 #. MathBalancingApplicationSetupFrame..MainBalancingSettingsPanel..NumOfPlanesCbox....Items.Strings
 #: Core/MathObjects/Visuals/MathBalancingApplicationSetupUnit.dfm:96
 msgid "Dual plane"
-msgstr ""
+msgstr "Doppio piano"
 
 #. MathBalancingApplicationSetupFrame..MainBalancingSettingsPanel..BalSpeedEdit..Hint
 #: Core/MathObjects/Visuals/MathBalancingApplicationSetupUnit.dfm:103
 msgid "Field indicates the speed at which rotor will be balanced."
-msgstr ""
+msgstr "Il campo indica la velocità di bilanciamento del rotore."
 
 #. MathCaHWSetupFrame..Label2..Caption
 #. ScopeMathFrame..ScopeModePanel..Caption
@@ -14454,7 +14454,7 @@ msgstr "Mod. oscilloscopio"
 #. MathCaHWSetupFrame..Label1..Caption
 #: Core/MathObjects/Visuals/MathCaHWSetupUnit.dfm:15
 msgid "Encoder pulses limit"
-msgstr ""
+msgstr "Limite impulsi encoder"
 
 #. MathCaHWSetupFrame..Label3..Caption
 #: Core/MathObjects/Visuals/MathCaHWSetupUnit.dfm:22
@@ -25830,7 +25830,7 @@ msgstr ""
 
 #: Core/Daq/Video/CamSetupFrameUnit.pas:464
 msgid "Sync channel not assigned"
-msgstr ""
+msgstr "Canale sync non assegnato"
 
 #: Core/Daq/Video/CompressorUnit.pas:136 Core/TcpIpObjects/TcpIpUnit.pas:465
 #: DEWEsoft/MainUnit.pas:5310 DEWEsoft/MainUnit.pas:5367
@@ -26158,7 +26158,7 @@ msgstr ""
 
 #: Core/Data/SelectItemUnit.pas:411
 msgid "Not assigned"
-msgstr ""
+msgstr "Non assegnato"
 
 #: Core/Data/BatchCalc/BatchFileUnit.pas:245
 #: Core/MathObjects/BatchCalc/BatchCalcUnit.pas:142
