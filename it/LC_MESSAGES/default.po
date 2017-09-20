@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2017-08-31 16:50\n"
-"PO-Revision-Date: 2017-09-20 08:49+0200\n"
+"PO-Revision-Date: 2017-09-20 09:03+0200\n"
 "Last-Translator: Somebody <your.email@address.com>\n"
 "Language-Team: \n"
 "Language: it\n"
@@ -17362,17 +17362,17 @@ msgstr ""
 #. TorsionalVibSetupFrame..InputChannelsPanel..Sensor1Label..Caption
 #: Core/MathObjects/Visuals/TorsionalVibMathSetupUnit.dfm:44
 msgid "Sensor 1"
-msgstr ""
+msgstr "Sensore 1"
 
 #. TorsionalVibSetupFrame..InputChannelsPanel..GBoxPanel..GearRatioLabel..Caption
 #: Core/MathObjects/Visuals/TorsionalVibMathSetupUnit.dfm:1397
 msgid "Gearbox ratio"
-msgstr ""
+msgstr "Rapporto trasmissione"
 
 #. TorsionalVibSetupFrame..InputChannelsPanel..SensPanel..Sensor2Label..Caption
 #: Core/MathObjects/Visuals/TorsionalVibMathSetupUnit.dfm:1453
 msgid "Sensor 2"
-msgstr ""
+msgstr "Sensore 2"
 
 #. TorsionalVibSetupFrame..FilterSetupPanel..Caption
 #: Core/MathObjects/Visuals/TorsionalVibMathSetupUnit.dfm:1507
@@ -17382,66 +17382,66 @@ msgstr "Impostazioni filtro"
 #. TorsionalVibSetupFrame..FilterSetupPanel..Label2..Caption
 #: Core/MathObjects/Visuals/TorsionalVibMathSetupUnit.dfm:1535
 msgid "Rotational DC filter"
-msgstr ""
+msgstr "Filtro DC rotazionale"
 
 #. TorsionalVibSetupFrame..Panel1..RotVibSens1Panel..Caption
 #: Core/MathObjects/Visuals/TorsionalVibMathSetupUnit.dfm:1591
 msgid "Sensor 1 output channel"
-msgstr ""
+msgstr "Uscita sensore 1"
 
 #. TorsionalVibSetupFrame..Panel1..RotVibSens1Panel..FreqChkBox..Caption
 #: Core/MathObjects/Visuals/TorsionalVibMathSetupUnit.dfm:1604
 msgid "Frequency [RPM]"
-msgstr ""
+msgstr "Frequenza [RPM]"
 
 #. TorsionalVibSetupFrame..Panel1..RotVibSens1Panel..RefAngleChkBox..Caption
 #: Core/MathObjects/Visuals/TorsionalVibMathSetupUnit.dfm:1633
 msgid "X axis reference angle"
-msgstr ""
+msgstr "angolo rif. asse X"
 
 #. TorsionalVibSetupFrame..Panel1..RotVibSens1Panel..RotAngle1CBox..Caption
 #. TorsionalVibSetupFrame..Panel1..RotVibSens2Panel..RotAngle2CBox..Caption
 #: Core/MathObjects/Visuals/TorsionalVibMathSetupUnit.dfm:1642
 #: Core/MathObjects/Visuals/TorsionalVibMathSetupUnit.dfm:1752
 msgid "Rotational angle"
-msgstr ""
+msgstr "Angolo rotazionale"
 
 #. TorsionalVibSetupFrame..Panel1..RotVibSens1Panel..RotVel1CBox..Caption
 #. TorsionalVibSetupFrame..Panel1..RotVibSens2Panel..RotVel2CBox..Caption
 #: Core/MathObjects/Visuals/TorsionalVibMathSetupUnit.dfm:1651
 #: Core/MathObjects/Visuals/TorsionalVibMathSetupUnit.dfm:1761
 msgid "Rotational velocity"
-msgstr ""
+msgstr "Vel rotazionale"
 
 #. TorsionalVibSetupFrame..Panel1..TorsVibPanel..Caption
 #: Core/MathObjects/Visuals/TorsionalVibMathSetupUnit.dfm:1666
 msgid "Torsional vibration channels"
-msgstr ""
+msgstr "Canali vibrazione torsionale"
 
 #. TorsionalVibSetupFrame..Panel1..TorsVibPanel..AngVelDiff..Caption
 #: Core/MathObjects/Visuals/TorsionalVibMathSetupUnit.dfm:1695
 msgid "Torsional velocity"
-msgstr ""
+msgstr "Velocità torsionale"
 
 #. TorsionalVibSetupFrame..Panel1..TorsVibPanel..TorsionAngleCheckBox..Caption
 #: Core/MathObjects/Visuals/TorsionalVibMathSetupUnit.dfm:1704
 msgid "Torsional angle"
-msgstr ""
+msgstr "Angolo torsionale"
 
 #. TorsionalVibSetupFrame..Panel1..RotVibSens2Panel..Caption
 #: Core/MathObjects/Visuals/TorsionalVibMathSetupUnit.dfm:1719
 msgid "Sensor 2 output channel"
-msgstr ""
+msgstr "Uscita sensore 2"
 
 #. TorsionalVibSetupFrame..GraphTVPanel..OptionsPanel..AngleOffsetPanel..Caption
 #: Core/MathObjects/Visuals/TorsionalVibMathSetupUnit.dfm:1797
 msgid "Angle offset"
-msgstr ""
+msgstr "Offset angolo"
 
 #. TorsionalVibSetupFrame..GraphTVPanel..OptionsPanel..AngleOffsetPanel..AngleDiffLabel..Caption
 #: Core/MathObjects/Visuals/TorsionalVibMathSetupUnit.dfm:1811
 msgid "Average offset"
-msgstr ""
+msgstr "Media offset"
 
 #. TorsionalVibSetupFrame..GraphTVPanel..OptionsPanel..RefCurveAngle..RefCurveChkBox..Caption
 #: Core/MathObjects/Visuals/TorsionalVibMathSetupUnit.dfm:2054
@@ -17451,7 +17451,7 @@ msgstr "Usa curva riferimento"
 #. TorsionalVibSetupFrame..GraphTVPanel..OptionsPanel..RefCurveAngle..ResolutionValPanel..Caption
 #: Core/MathObjects/Visuals/TorsionalVibMathSetupUnit.dfm:2083
 msgid "not set"
-msgstr ""
+msgstr "non impostato"
 
 #. TorsionalVibSetupFrame..GraphTVPanel..RefCurveGraphPanel..AutoScaleChkBox..Caption
 #: Core/MathObjects/Visuals/TorsionalVibMathSetupUnit.dfm:2120
@@ -27423,7 +27423,7 @@ msgstr "Costanti vettori e matrici"
 
 #: Core/MathObjects/MathArrayGeneratorUnit.pas:223
 msgid "Matrix const."
-msgstr ""
+msgstr "Cost. matrice"
 
 #: Core/MathObjects/MathArrayGeneratorUnit.pas:224
 msgid "Constants"
@@ -27431,27 +27431,29 @@ msgstr "Costanti"
 
 #: Core/MathObjects/MathArrayReferenceUnit.pas:290
 msgid "Array reference curve"
-msgstr ""
+msgstr "Curva rif. array"
 
 #: Core/MathObjects/MathArrayReferenceUnit.pas:329
 msgid "Vector reference curve"
-msgstr ""
+msgstr "Curva rif. vettore"
 
 #: Core/MathObjects/MathArrayReferenceUnit.pas:330
 msgid "Vector reference"
-msgstr ""
+msgstr "Riferimento vettore"
 
 #: Core/MathObjects/MathArrayReferenceUnit.pas:439
 msgid "Reference curve has too small range. No data to compare to."
 msgstr ""
+"La curva di riferimento ha range troppo piccolo. Non ci sono dati da "
+"comparare."
 
 #: Core/MathObjects/MathArrayReferenceUnit.pas:442
 msgid "X values needs to be ascending"
-msgstr ""
+msgstr "X deve essere crescente"
 
 #: Core/MathObjects/MathArrayStat.pas:464
 msgid "Input not array channel"
-msgstr ""
+msgstr "Input non è canale array"
 
 #: Core/MathObjects/MathArrayStat.pas:540
 msgid "Var"
@@ -27467,7 +27469,7 @@ msgstr ""
 
 #: Core/MathObjects/MathClassUnit.pas:1148
 msgid "Running mode supports only asynchronous channels"
-msgstr ""
+msgstr "Modalità running supporta solo canali asincroni"
 
 #: Core/MathObjects/MathClassUnit.pas:1173 Core/MathObjects/MathCPBUnit.pas:284
 msgid "Overall"
@@ -27482,15 +27484,15 @@ msgstr "Classificazione"
 #: Core/MathObjects/Visuals/MathOrderTrackingSetupUnit.pas:763
 #: Core/MathObjects/Visuals/PowerSetupUnit.pas:444
 msgid "Module"
-msgstr ""
+msgstr "Modulo"
 
 #: Core/MathObjects/MathControllerEx.pas:6140
 msgid "External math"
-msgstr ""
+msgstr "Math esterna"
 
 #: Core/MathObjects/MathControllerEx.pas:6145
 msgid "External math not found"
-msgstr ""
+msgstr "Math esterna non trovata"
 
 #: Core/MathObjects/MathControllerEx.pas:6147
 msgid "not found"
@@ -27498,25 +27500,25 @@ msgstr "non trovato"
 
 #: Core/MathObjects/MathControllerEx.pas:8463
 msgid "Input channel not used"
-msgstr ""
+msgstr "Canale input non utilizzato"
 
 #: Core/MathObjects/MathControllerEx.pas:8465
 #: Core/MathObjects/Visuals/MathFormulaSetupUnit.pas:219
 msgid "Circular reference"
-msgstr ""
+msgstr "Riferimento circolare"
 
 #: Core/MathObjects/MathControllerEx.pas:8467
 #: Core/MathObjects/Visuals/MathFormulaSetupUnit.pas:223
 msgid "Input channel has errors"
-msgstr ""
+msgstr "Il canale input ha errori"
 
 #: Core/MathObjects/MathControllerEx.pas:8471
 msgid "No input channel selected"
-msgstr ""
+msgstr "Nessun canale input selezionato"
 
 #: Core/MathObjects/MathControllerEx.pas:8475
 msgid "Input not stored"
-msgstr ""
+msgstr "Input non memorizzato"
 
 #: Core/MathObjects/MathCPBUnit.pas:283 Core/MathObjects/MathCPBUnit.pas:284
 #: Core/MathObjects/MathCPBUnit.pas:615
@@ -27530,6 +27532,8 @@ msgstr ""
 #: Core/MathObjects/MathCPBUnit.pas:305
 msgid "Synthesized method does not allow sample rate divider on input channels"
 msgstr ""
+"Il metodo sintetizzato non permette divisore di freq campionamento su canali "
+"input"
 
 #: Core/MathObjects/MathCPBUnit.pas:614
 msgid "Octave analysis"
@@ -27537,7 +27541,7 @@ msgstr "Analisi in ottave"
 
 #: Core/MathObjects/MathCustomUnit.pas:423
 msgid "Math plugin missing/failed"
-msgstr ""
+msgstr "Plugin math mancante/fallito"
 
 #: Core/MathObjects/MathCustomUnit.pas:525
 msgid "Custom math"
@@ -27545,13 +27549,13 @@ msgstr ""
 
 #: Core/MathObjects/MathCustomUnit.pas:691
 msgid "Failed to initiate Custom Math"
-msgstr ""
+msgstr "Errore inizializzazione custom math"
 
 #: Core/MathObjects/MathDecimatorUnit.pas:236
 #: Core/MathObjects/MathDecimatorUnit.pas:237
 #: Core/MathObjects/MathDecimatorUnit.pas:238
 msgid "Decimator"
-msgstr ""
+msgstr "Decimatore"
 
 #: Core/MathObjects/MathDelayUnit.pas:779
 msgid "Delay channel"
@@ -27559,7 +27563,7 @@ msgstr "Canale ritardo"
 
 #: Core/MathObjects/MathEnvelopeUnit.pas:105
 msgid "Bearing cursor"
-msgstr ""
+msgstr "Cursore cuscinetto"
 
 #: Core/MathObjects/MathEnvelopeUnit.pas:111
 #: Core/MathObjects/Visuals/MathEnvelopeSetupUnit.pas:206
@@ -27946,22 +27950,22 @@ msgstr ""
 
 #: Core/MathObjects/TorsionalVibMathUnit.pas:950
 msgid "First sensor input"
-msgstr ""
+msgstr "Input primo sensore"
 
 #: Core/MathObjects/TorsionalVibMathUnit.pas:951
 msgid "Second sensor input"
-msgstr ""
+msgstr "Input secondo sensore"
 
 #: Core/MathObjects/TorsionalVibMathUnit.pas:1171
 #: Core/MathObjects/Visuals/MathOrderTrackingSetupUnit.pas:1003
 #: Core/MathObjects/Visuals/TorsionalVibMathSetupUnit.pas:809
 #: Core/MathObjects/Visuals/TorsionalVibMathSetupUnit.pas:820
 msgid "Max. speed"
-msgstr ""
+msgstr "Max. vel"
 
 #: Core/MathObjects/TorsionalVibMathUnit.pas:1184
 msgid "External clock is not supported"
-msgstr ""
+msgstr "Clock esterno non supportoato"
 
 #: Core/MathObjects/TorsionalVibMathUnit.pas:1229
 #: Core/MathObjects/Visuals/MathOrderTrackingSetupUnit.pas:985
