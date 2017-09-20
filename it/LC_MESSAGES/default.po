@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2017-08-31 16:50\n"
-"PO-Revision-Date: 2017-09-20 07:45+0200\n"
+"PO-Revision-Date: 2017-09-20 08:12+0200\n"
 "Last-Translator: Somebody <your.email@address.com>\n"
 "Language-Team: \n"
 "Language: it\n"
@@ -3130,7 +3130,7 @@ msgstr ""
 #. AOChannelSetup..Panel2..SignalSettingsGroupBox..PageControl..SignalSheet..SignalSettingsPanel..PhaseLabel..Caption
 #: Core/Daq/DaqCards/Visuals/AOChannelSetupUnit.dfm:338
 msgid "Phase (degrees)"
-msgstr ""
+msgstr "Fase (gradi)"
 
 #. AOChannelSetup..Panel2..SignalSettingsGroupBox..PageControl..SignalSheet..SignalSettingsPanel..MidAmplLabel..Caption
 #: Core/Daq/DaqCards/Visuals/AOChannelSetupUnit.dfm:380
@@ -5401,7 +5401,7 @@ msgstr "Salva e esci"
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.dfm:72
 #: Core/MathObjects/Visuals/PowerSetupUnit.dfm:1163
 msgid "Output units"
-msgstr ""
+msgstr "Unità calcolate"
 
 #. CNTSensorForm..Panel4..Panel6..LinSensorPanel..LinEncPulsesPerMM..Caption
 #: Core/Daq/DaqCards/Visuals/CntSensorsFormUnit.dfm:161
@@ -7654,7 +7654,7 @@ msgstr "Seleziona file riferimento"
 #: Core/Data/Visuals/AddPhysicalQuantityUnit.dfm:4
 #: Core/Data/Visuals/PhysicalQuantitiesEditorUnit.dfm:64
 msgid "Descriptor"
-msgstr ""
+msgstr "Descrittore"
 
 #. AxisFrame..AxisPrecLabel..Caption
 #: Core/Data/Visuals/AxisFrameUnit.dfm:27
@@ -7929,7 +7929,7 @@ msgstr ""
 #: Core/Data/Visuals/PhysicalQuantitiesEditorUnit.dfm:225
 #: Core/Daq/Amplifiers/AmplConstUnit.pas:468
 msgid "Potentiometer"
-msgstr ""
+msgstr "Potenziometro"
 
 #. PhysicalQuantitiesEditor..PhysicalQuantitiesPanel..MeasurementGroupBox..MeasureCBox8..Caption
 #. AngleSensorSetupFrame..Panel3..OutputChannelsPanel..FrequencyCheckBox..Caption
@@ -7969,17 +7969,17 @@ msgstr ""
 #. PhysicalQuantitiesEditor..UnitsPanel..UnitSystemGroupBox..Caption
 #: Core/Data/Visuals/PhysicalQuantitiesEditorUnit.dfm:516
 msgid "Default unit system"
-msgstr ""
+msgstr "Sistema di default"
 
 #. PhysicalQuantitiesEditor..UnitsPanel..UnitSystemGroupBox..MetricButton..Caption
 #: Core/Data/Visuals/PhysicalQuantitiesEditorUnit.dfm:527
 msgid "Metric"
-msgstr ""
+msgstr "Metrico"
 
 #. PhysicalQuantitiesEditor..UnitsPanel..UnitSystemGroupBox..ImperialButton..Caption
 #: Core/Data/Visuals/PhysicalQuantitiesEditorUnit.dfm:540
 msgid "Imperial"
-msgstr ""
+msgstr "Imperiale"
 
 #. PhysicalQuantitiesEditor..MenuPanel..SIUnitXAdvToolBarPager..AdvPage1..MiscToolBar..Caption
 #: Core/Data/Visuals/PhysicalQuantitiesEditorUnit.dfm:611
@@ -8051,7 +8051,7 @@ msgstr "Salva"
 #. SIUnitsEditor..Caption
 #: Core/Data/Visuals/SIUnitsEditorUnit.dfm:4
 msgid "SI units editor"
-msgstr ""
+msgstr "Editor unità SI"
 
 #. SIUnitsEditor..Panel4..Label2..Caption
 #: Core/Data/Visuals/SIUnitsEditorUnit.dfm:54
@@ -9416,7 +9416,7 @@ msgstr ""
 #: Core/Data/Visuals/PhysicalQuantitiesEditorUnit.pas:365
 #: Core/GObjects/DigitalVC.pas:1800
 msgid "Exponent"
-msgstr ""
+msgstr "Esponente"
 
 #. DigitalVCFrame..PageControl..CommonTS..ResolutionPanel..ResolutionManualPanel..Panel1..TrailingLabel..Caption
 #: Core/GObjects/Visuals/DigitalVCFrameUnit.dfm:950
@@ -9479,7 +9479,7 @@ msgstr ""
 #: Core/Daq/DaqCards/Visuals/AOChannelSetupUnit.pas:903
 #: Core/GObjects/DigitalVC.pas:1773 Core/GObjects/RecVControl.pas:2012
 msgid "Phase (deg)"
-msgstr ""
+msgstr "Fase (gradi)"
 
 #. DigitalVCFrame..PageControl..CommonTS..CxPresentPanel..CxPresentCBox....Items.Strings
 #. Graph2DVCFrame..PageControl..CommonTS..ComplexPresentPanel..ComplexPresentationAdvPanel..ComplexNumComboBox....Items.Strings
@@ -12124,7 +12124,7 @@ msgstr ""
 #: Core/MathObjects/MathPowerBackHarmonicSetupUnit.dfm:4
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.dfm:1212
 msgid "Background harmonics editor"
-msgstr "Editor armoniche di background"
+msgstr "Editor armoniche background"
 
 #. BackHarmForm..MainBackHarmPanel..AdvCaptionPanel1..UseBackUCheckBox..Caption
 #. PowerSetupFrame..PowerPanel..OptionsPageControl..BackHarmTabSheet..MainBackHarmPanel..UseBackUCheckBox..Caption
@@ -15132,7 +15132,7 @@ msgstr ""
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.dfm:59
 #: Core/MathObjects/Visuals/PowerSetupUnit.dfm:1150
 msgid "Number of cycles"
-msgstr ""
+msgstr "Numero di cicli"
 
 #. MathFatigueSetupFrame..MainPageControl..SNCurveTabSheet..AdvCaptionPanel3..Panel3..Panel5..CurveListView......Caption
 #. MathFatigueSetupFrame..MainPageControl..SNCurveTabSheet..AdvCaptionPanel3..Panel3..Panel5..Panel2..Label20..Caption
@@ -16162,28 +16162,28 @@ msgstr ""
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.dfm:33
 #: Core/MathObjects/Visuals/PowerSetupUnit.dfm:1124
 msgid "Power system configuration"
-msgstr ""
+msgstr "Configurazione sistema power"
 
 #. MathPowerSetupFrame..PowerPanel..MainSetupPanel..LineFrequencyLabel..Caption
 #. PowerSetupFrame..PowerPanel..MainSetupPanel..LineFrequencyLabel..Caption
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.dfm:46
 #: Core/MathObjects/Visuals/PowerSetupUnit.dfm:1137
 msgid "Line frequency"
-msgstr ""
+msgstr "Frequenza di linea"
 
 #. MathPowerSetupFrame..PowerPanel..MainSetupPanel..CalcRateLabel..Caption
 #. PowerSetupFrame..PowerPanel..MainSetupPanel..CalcRateLabel..Caption
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.dfm:98
 #: Core/MathObjects/Visuals/PowerSetupUnit.dfm:1189
 msgid "Calculation sample rate"
-msgstr ""
+msgstr "Velocità calcoli"
 
 #. MathPowerSetupFrame..PowerPanel..MainSetupPanel..NominalVoltageLabel..Caption
 #. PowerSetupFrame..PowerPanel..MainSetupPanel..NominalVoltageLabel..Caption
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.dfm:111
 #: Core/MathObjects/Visuals/PowerSetupUnit.dfm:1202
 msgid "Nominal voltage"
-msgstr ""
+msgstr "Tensione nominale"
 
 #. MathPowerSetupFrame..PowerPanel..MainSetupPanel..NominalTypeLabel..Caption
 #. PowerSetupFrame..PowerPanel..MainSetupPanel..NominalTypeLabel..Caption
@@ -16192,54 +16192,54 @@ msgstr ""
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.pas:1827
 #: Core/MathObjects/Visuals/PowerSetupUnit.pas:1676
 msgid "Line to earth"
-msgstr ""
+msgstr "Linea - terra"
 
 #. MathPowerSetupFrame..PowerPanel..MainSetupPanel..ConfigComboBox....Items.Strings
 #. PowerSetupFrame..PowerPanel..MainSetupPanel..ConfigComboBox....Items.Strings
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.dfm:171
 #: Core/MathObjects/Visuals/PowerSetupUnit.dfm:1248
 msgid "Single phase"
-msgstr ""
+msgstr "Fase singola"
 
 #. MathPowerSetupFrame..PowerPanel..MainSetupPanel..ConfigComboBox....Items.Strings
 #. PowerSetupFrame..PowerPanel..MainSetupPanel..ConfigComboBox....Items.Strings
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.dfm:172
 #: Core/MathObjects/Visuals/PowerSetupUnit.dfm:1249
 msgid "3-phase star"
-msgstr ""
+msgstr "trifase stella"
 
 #. MathPowerSetupFrame..PowerPanel..MainSetupPanel..ConfigComboBox....Items.Strings
 #. PowerSetupFrame..PowerPanel..MainSetupPanel..ConfigComboBox....Items.Strings
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.dfm:173
 #: Core/MathObjects/Visuals/PowerSetupUnit.dfm:1250
 msgid "3-phase Aron"
-msgstr ""
+msgstr "trifase Aron"
 
 #. MathPowerSetupFrame..PowerPanel..MainSetupPanel..ConfigComboBox....Items.Strings
 #. PowerSetupFrame..PowerPanel..MainSetupPanel..ConfigComboBox....Items.Strings
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.dfm:174
 #: Core/MathObjects/Visuals/PowerSetupUnit.dfm:1251
 msgid "3-phase delta"
-msgstr ""
+msgstr "trifase delta"
 
 #. MathPowerSetupFrame..PowerPanel..MainSetupPanel..ConfigComboBox....Items.Strings
 #. PowerSetupFrame..PowerPanel..MainSetupPanel..ConfigComboBox....Items.Strings
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.dfm:175
 #: Core/MathObjects/Visuals/PowerSetupUnit.dfm:1252
 msgid "3-phase V"
-msgstr ""
+msgstr "trifase V"
 
 #. MathPowerSetupFrame..PowerPanel..MainSetupPanel..ConfigComboBox....Items.Strings
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.dfm:176
 msgid "2-phase"
-msgstr ""
+msgstr "2 fasi"
 
 #. MathPowerSetupFrame..PowerPanel..MainSetupPanel..PowerCheckBoxCurrent..Caption
 #. PowerSetupFrame..PowerPanel..MainSetupPanel..PowerCheckBoxCurrent..Caption
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.dfm:183
 #: Core/MathObjects/Visuals/PowerSetupUnit.dfm:1259
 msgid "Current channels"
-msgstr ""
+msgstr "Canali corrente"
 
 #. MathPowerSetupFrame..PowerPanel..MainSetupPanel..OutputUnitsComboBox....Items.Strings
 #. PowerSetupFrame..PowerPanel..MainSetupPanel..OutputUnitsComboBox....Items.Strings
@@ -16316,7 +16316,7 @@ msgstr "Valori periodici"
 #. MathPowerSetupFrame..PowerPanel..SettingsPanel..OptionsPageControl..StoredChannelsTabSheet..ScrollBox1..AdvCaptionPanel11..FundamentalsChkBox..Caption
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.dfm:570
 msgid "Fundamentals"
-msgstr ""
+msgstr "Fondamentali"
 
 #. MathPowerSetupFrame..PowerPanel..SettingsPanel..OptionsPageControl..StoredChannelsTabSheet..ScrollBox1..AdvCaptionPanel11..DisturbanceCheckBox..Caption
 #. PowerSetupFrame..PowerPanel..OptionsPageControl..StoredChannelsTabSheet..PeriodsLabel..Caption
@@ -16345,22 +16345,26 @@ msgstr "Calcola energia"
 #: Core/MathObjects/MathStatUnit.pas:2092
 #: Core/MathObjects/MathStatUnit.pas:2093
 msgid "Triggered"
-msgstr ""
+msgstr "Triggerato"
 
 #. MathPowerSetupFrame..PowerPanel..SettingsPanel..OptionsPageControl..EnergyTabSheet..AdvCaptionPanel1..TriggeredChListBox..Hint
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.dfm:655
 msgid "Control channel can be used to trigger energy calculation."
 msgstr ""
+"Il control channel puà essere utilizzato per iniziare il calcolo "
+"dell'energia."
 
 #. MathPowerSetupFrame..PowerPanel..SettingsPanel..OptionsPageControl..EnergyTabSheet..AdvCaptionPanel1..ResetEnergyRadioGroup..Caption
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.dfm:667
 msgid "Reset at start of acquisition"
-msgstr ""
+msgstr "Reimposta su inizio acquisizione"
 
 #. MathPowerSetupFrame..PowerPanel..SettingsPanel..OptionsPageControl..EnergyTabSheet..AdvCaptionPanel1..ResetEnergyCbox..Hint
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.dfm:679
 msgid "Control channel can be used to reset energy calculation."
 msgstr ""
+"Il control channel può essere utilizzato per resettare il calcolo "
+"dell'energia."
 
 #. MathPowerSetupFrame..PowerPanel..SettingsPanel..OptionsPageControl..PowerQualityTabSheet..Caption
 #. MathPowerSetupFrame..PowerPanel..SettingsPanel..TopSettingsPanel..ObjectTabControl......Caption
@@ -16368,7 +16372,7 @@ msgstr ""
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.dfm:1540
 #| msgid "Lower limit"
 msgid "Power quality"
-msgstr ""
+msgstr "Qualità power"
 
 #. MathPowerSetupFrame..PowerPanel..SettingsPanel..OptionsPageControl..PowerQualityTabSheet..PowerQualityScrollBox..Panel1..AdvCaptionPanel5..Caption
 #. MathPowerSetupFrame..PowerPanel..SettingsPanel..OptionsPageControl..PowerQualityTabSheet..PowerQualityScrollBox..Panel1..AdvCaptionPanel5..FullFFTCbox..Caption
@@ -16377,7 +16381,7 @@ msgstr ""
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.dfm:748
 #: Core/MathObjects/Visuals/PowerSetupUnit.dfm:773
 msgid "Full FFT"
-msgstr ""
+msgstr "FFT completa"
 
 #. MathPowerSetupFrame..PowerPanel..SettingsPanel..OptionsPageControl..PowerQualityTabSheet..PowerQualityScrollBox..Panel1..AdvCaptionPanel5..Label2..Caption
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.dfm:734
@@ -16389,12 +16393,12 @@ msgstr ""
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.dfm:763
 #| msgid "Group name"
 msgid "Group FFT lines"
-msgstr ""
+msgstr "Gruppo linee FFT"
 
 #. MathPowerSetupFrame..PowerPanel..SettingsPanel..OptionsPageControl..PowerQualityTabSheet..PowerQualityScrollBox..Panel1..AdvCaptionPanel6..Caption
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.dfm:786
 msgid "Total harmonic distortion"
-msgstr ""
+msgstr "Distorsione arm. totale"
 
 #. MathPowerSetupFrame..PowerPanel..SettingsPanel..OptionsPageControl..PowerQualityTabSheet..PowerQualityScrollBox..Panel1..AdvCaptionPanel6..THDCheckBox..Caption
 #. PowerSetupFrame..PowerPanel..OptionsPageControl..StoredChannelsTabSheet..THDCheckBox..Caption
@@ -16407,19 +16411,19 @@ msgstr ""
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.dfm:829
 #| msgid "Symmetrical components"
 msgid "Symetrical components"
-msgstr ""
+msgstr "Componenti simmetrici"
 
 #. MathPowerSetupFrame..PowerPanel..SettingsPanel..OptionsPageControl..PowerQualityTabSheet..PowerQualityScrollBox..Panel1..AdvCaptionPanel7..UnbalanceCheckBox..Caption
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.dfm:842
 #| msgid "Symmetrical components"
 msgid "Cycles symmetrical components"
-msgstr ""
+msgstr "Componenti simmetrici di ciclo"
 
 #. MathPowerSetupFrame..PowerPanel..SettingsPanel..OptionsPageControl..PowerQualityTabSheet..PowerQualityScrollBox..Panel1..AdvCaptionPanel7..PeriodUnbalanceCheckBox..Caption
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.dfm:857
 #| msgid "Symmetrical components"
 msgid "Period symmetrical components"
-msgstr ""
+msgstr "Componenti simmetrici di periodo"
 
 #. MathPowerSetupFrame..PowerPanel..SettingsPanel..OptionsPageControl..PowerQualityTabSheet..PowerQualityScrollBox..Panel2..AdvCaptionPanel9..Caption
 #. MathPowerSetupFrame..PowerPanel..SettingsPanel..OptionsPageControl..PowerQualityTabSheet..PowerQualityScrollBox..Panel2..AdvCaptionPanel9..FlickerCheckBox..Caption
@@ -16427,7 +16431,7 @@ msgstr ""
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.dfm:896
 #| msgid "Voltage"
 msgid "Voltage flicker"
-msgstr ""
+msgstr "Flicker tensione"
 
 #. MathPowerSetupFrame..PowerPanel..SettingsPanel..OptionsPageControl..PowerQualityTabSheet..PowerQualityScrollBox..Panel2..AdvCaptionPanel9..FlickerCalcPanel..FlickerPstLabel..Caption
 #. PowerSetupFrame..PowerPanel..OptionsPageControl..StoredChannelsTabSheet..FlickerCalcPanel..FlickerPstLabel..Caption
@@ -16461,7 +16465,7 @@ msgstr ""
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.dfm:960
 #: Core/MathObjects/Visuals/PowerSetupUnit.dfm:680
 msgid "Calculate for"
-msgstr ""
+msgstr "Calcola per"
 
 #. MathPowerSetupFrame..PowerPanel..SettingsPanel..OptionsPageControl..PowerQualityTabSheet..PowerQualityScrollBox..Panel2..AdvCaptionPanel9..FlickerCalcPanel..Label1..Caption
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.dfm:1001
@@ -16471,21 +16475,21 @@ msgstr ""
 #: Core/Daq/Amplifiers/TedsTemplateUnit.pas:2576
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.pas:516
 msgid "LP filter"
-msgstr ""
+msgstr "Filtro LP"
 
 #. MathPowerSetupFrame..PowerPanel..SettingsPanel..OptionsPageControl..PowerQualityTabSheet..PowerQualityScrollBox..Panel2..AdvCaptionPanel9..FlickerCalcPanel..FlickerCalcOverlapLabel..Caption
 #. PowerSetupFrame..PowerPanel..OptionsPageControl..StoredChannelsTabSheet..FlickerCalcOverlapLabel..Caption
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.dfm:1014
 #: Core/MathObjects/Visuals/PowerSetupUnit.dfm:398
 msgid "Calculation overlap"
-msgstr ""
+msgstr "Overlap calcolo"
 
 #. MathPowerSetupFrame..PowerPanel..SettingsPanel..OptionsPageControl..PowerQualityTabSheet..PowerQualityScrollBox..Panel2..AdvCaptionPanel9..FlickerCalcPanel..FlickerCalcForComboBox....Items.Strings
 #. PowerSetupFrame..PowerPanel..OptionsPageControl..StoredChannelsTabSheet..FlickerCalcPanel..FlickerCalcForComboBox....Items.Strings
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.dfm:1063
 #: Core/MathObjects/Visuals/PowerSetupUnit.dfm:763
 msgid "Star"
-msgstr ""
+msgstr "Stella"
 
 #. MathPowerSetupFrame..PowerPanel..SettingsPanel..OptionsPageControl..PowerQualityTabSheet..PowerQualityScrollBox..Panel2..AdvCaptionPanel10..Caption
 #. MathPowerSetupFrame..PowerPanel..SettingsPanel..OptionsPageControl..PowerQualityTabSheet..PowerQualityScrollBox..Panel2..AdvCaptionPanel10..CurrentFlickerPanel..CurrentFlickerChkBox..Caption
@@ -16493,12 +16497,12 @@ msgstr ""
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.dfm:1124
 #| msgid "Permission"
 msgid "Flicker emission"
-msgstr ""
+msgstr "Emissioni flicker"
 
 #. MathPowerSetupFrame..PowerPanel..SettingsPanel..OptionsPageControl..PowerQualityTabSheet..PowerQualityScrollBox..Panel2..AdvCaptionPanel10..CurrentFlickerPanel..ImpedanceLabel..Caption
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.dfm:1110
 msgid "Short circuit power"
-msgstr ""
+msgstr "Potenza di corto circuito"
 
 #. MathPowerSetupFrame..PowerPanel..SettingsPanel..OptionsPageControl..PowerQualityTabSheet..PowerQualityScrollBox..Panel2..AdvCaptionPanel10..CurrentFlickerPanel..ShortCircuitCBox....Items.Strings
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.dfm:1168
@@ -16509,21 +16513,21 @@ msgstr ""
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.dfm:1184
 #| msgid "Harmonics will be calculated up to"
 msgid "Harmonics calculation"
-msgstr ""
+msgstr "Calcolo armoniche"
 
 #. MathPowerSetupFrame..PowerPanel..SettingsPanel..OptionsPageControl..PowerQualityTabSheet..PowerQualityScrollBox..AdvCaptionPanel4..HarErrorLabel..Caption
 #. PowerSetupFrame..PowerPanel..OptionsPageControl..StoredChannelsTabSheet..HarErrorLabel..Caption
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.dfm:1198
 #: Core/MathObjects/Visuals/PowerSetupUnit.dfm:357
 msgid "Harmonic error"
-msgstr ""
+msgstr "Errore armoniche"
 
 #. MathPowerSetupFrame..PowerPanel..SettingsPanel..OptionsPageControl..PowerQualityTabSheet..PowerQualityScrollBox..AdvCaptionPanel4..HarmonicsCheckBox..Caption
 #. PowerSetupFrame..PowerPanel..OptionsPageControl..StoredChannelsTabSheet..HarmonicsCheckBox..Caption
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.dfm:1219
 #: Core/MathObjects/Visuals/PowerSetupUnit.dfm:412
 msgid "Harmonics"
-msgstr ""
+msgstr "Armoniche"
 
 #. MathPowerSetupFrame..PowerPanel..SettingsPanel..OptionsPageControl..PowerQualityTabSheet..PowerQualityScrollBox..AdvCaptionPanel4..HarmonicsCompComboBox....Items.Strings
 #. PowerSetupFrame..PowerPanel..OptionsPageControl..StoredChannelsTabSheet..HarmonicsCompComboBox....Items.Strings
@@ -16532,7 +16536,7 @@ msgstr ""
 #: Core/MathObjects/Visuals/PowerSetupUnit.dfm:443
 #: Core/Sequencer/Visuals/SeqDeviceFrameUnit.dfm:238
 msgid "Even"
-msgstr ""
+msgstr "Pari"
 
 #. MathPowerSetupFrame..PowerPanel..SettingsPanel..OptionsPageControl..PowerQualityTabSheet..PowerQualityScrollBox..AdvCaptionPanel4..HarmonicsCompComboBox....Items.Strings
 #. PowerSetupFrame..PowerPanel..OptionsPageControl..StoredChannelsTabSheet..HarmonicsCompComboBox....Items.Strings
@@ -16541,14 +16545,14 @@ msgstr ""
 #: Core/MathObjects/Visuals/PowerSetupUnit.dfm:444
 #: Core/Sequencer/Visuals/SeqDeviceFrameUnit.dfm:237
 msgid "Odd"
-msgstr ""
+msgstr "Dispari"
 
 #. MathPowerSetupFrame..PowerPanel..SettingsPanel..OptionsPageControl..PowerQualityTabSheet..PowerQualityScrollBox..AdvCaptionPanel4..PhaseAnglesHarCheckBox..Caption
 #. PowerSetupFrame..PowerPanel..OptionsPageControl..StoredChannelsTabSheet..PhaseAnglesHarCheckBox..Caption
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.dfm:1259
 #: Core/MathObjects/Visuals/PowerSetupUnit.dfm:552
 msgid "phase angles"
-msgstr ""
+msgstr "angoli fase"
 
 #. MathPowerSetupFrame..PowerPanel..SettingsPanel..OptionsPageControl..PowerQualityTabSheet..PowerQualityScrollBox..AdvCaptionPanel4..PowerHarCheckBox..Caption
 #. PowerSetupFrame..PowerPanel..OptionsPageControl..StoredChannelsTabSheet..PowerHarCheckBox..Caption
@@ -16562,39 +16566,39 @@ msgstr ""
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.dfm:1291
 #: Core/MathObjects/Visuals/PowerSetupUnit.dfm:584
 msgid "Impedance"
-msgstr ""
+msgstr "Impedenza"
 
 #. MathPowerSetupFrame..PowerPanel..SettingsPanel..OptionsPageControl..PowerQualityTabSheet..PowerQualityScrollBox..AdvCaptionPanel4..InterharmonicsCheckBox..Caption
 #. PowerSetupFrame..PowerPanel..OptionsPageControl..StoredChannelsTabSheet..InterharmonicsCheckBox..Caption
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.dfm:1307
 #: Core/MathObjects/Visuals/PowerSetupUnit.dfm:615
 msgid "Interharmonics"
-msgstr ""
+msgstr "Internarmoniche"
 
 #. MathPowerSetupFrame..PowerPanel..SettingsPanel..OptionsPageControl..PowerQualityTabSheet..PowerQualityScrollBox..AdvCaptionPanel4..UseFFTGroupFilterCBox..Caption
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.dfm:1322
 msgid "Harmonics smoothing filter"
-msgstr ""
+msgstr "Filtro smoothing armoniche"
 
 #. MathPowerSetupFrame..PowerPanel..SettingsPanel..OptionsPageControl..PowerQualityTabSheet..PowerQualityScrollBox..AdvCaptionPanel4..SideBandsCBox..Caption
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.dfm:1331
 msgid "Number of sidebands"
-msgstr ""
+msgstr "Numero di bande laterali"
 
 #. MathPowerSetupFrame..PowerPanel..SettingsPanel..OptionsPageControl..PowerQualityTabSheet..PowerQualityScrollBox..AdvCaptionPanel4..HalfbandsCBox..Caption
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.dfm:1340
 msgid "Number of halfbands"
-msgstr ""
+msgstr "Numero di semibande"
 
 #. MathPowerSetupFrame..PowerPanel..SettingsPanel..OptionsPageControl..PowerQualityTabSheet..PowerQualityScrollBox..AdvCaptionPanel8..Caption
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.dfm:1381
 msgid "Rapid voltage change"
-msgstr ""
+msgstr "Variazioni rapide tensione"
 
 #. MathPowerSetupFrame..PowerPanel..SettingsPanel..OptionsPageControl..PowerQualityTabSheet..PowerQualityScrollBox..AdvCaptionPanel8..Label3..Caption
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.dfm:1394
 msgid "Steady state duration"
-msgstr ""
+msgstr "Durata steady state"
 
 #. MathPowerSetupFrame..PowerPanel..SettingsPanel..OptionsPageControl..PowerQualityTabSheet..PowerQualityScrollBox..AdvCaptionPanel8..Label4..Caption
 #. MathRFCountSetupFrame..SettingsPanel..HysteresisLabel..Caption
@@ -16624,7 +16628,7 @@ msgstr ""
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.dfm:1544
 #: Core/MathObjects/Visuals/PowerSetupUnit.dfm:785 DEWEsoft/MainUnit.dfm:16240
 msgid "Vector scope"
-msgstr ""
+msgstr "Diagramma vettoriale"
 
 #. MathReferenceInputFrame..RefCurveTypeLabel..Caption
 #: Core/MathObjects/Visuals/MathReferenceInputUnit.dfm:11
@@ -16686,7 +16690,7 @@ msgstr ""
 #. MathResamplerFrame..SettingsPanel..OutputRateLabel..Caption
 #: Core/MathObjects/Visuals/MathResamplerSetupUnit.dfm:39
 msgid "Output rate"
-msgstr ""
+msgstr "Rate uscita"
 
 #. MathResamplerFrame..SettingsPanel..MaxFreqLabel..Caption
 #: Core/MathObjects/Visuals/MathResamplerSetupUnit.dfm:54
@@ -16753,7 +16757,7 @@ msgstr "Valli"
 #. MathRFCountSetupFrame..Panel1..AdvCaptionPanel1..NormCBox....Items.Strings
 #: Core/MathObjects/Visuals/MathRFCountSetupUnit.dfm:241
 msgid "Relative [%]"
-msgstr ""
+msgstr "Relativo [%]"
 
 #. MathRosettesSetupFrame..OutputChannelSPanel..Caption
 #: Core/MathObjects/Visuals/MathRosettesSetupUnit.dfm:16
@@ -26295,7 +26299,7 @@ msgstr ""
 
 #: Core/Data/Visuals/PhysicalQuantitiesEditorUnit.pas:364
 msgid "SI unit"
-msgstr ""
+msgstr "Unità SI"
 
 #: Core/Data/Visuals/PhysicalQuantitiesEditorUnit.pas:374
 #: Core/GObjects/CursorTableUnit.pas:189 Core/GObjects/OverloadControl.pas:160
@@ -26309,11 +26313,11 @@ msgstr "Indice"
 
 #: Core/Data/Visuals/PhysicalQuantitiesEditorUnit.pas:379
 msgid "Operator"
-msgstr ""
+msgstr "Operatore"
 
 #: Core/Data/Visuals/PhysicalQuantitiesEditorUnit.pas:537
 msgid "Ratio"
-msgstr ""
+msgstr "Rapporto"
 
 #: Core/Data/Visuals/PhysicalQuantitiesEditorUnit.pas:538
 msgid "Log. ref."
@@ -26328,7 +26332,7 @@ msgstr ""
 #: Core/ExportObjects/RPCComm.pas:87 Core/ExportObjects/SonyComm.pas:55
 #: Core/ExportObjects/TextFileComm.pas:157 Core/ExportObjects/UnvComm.pas:99
 msgid "Opening file..."
-msgstr ""
+msgstr "Apertura file..."
 
 #: Core/ExportObjects/CANascComm.pas:61 Core/ExportObjects/CANComm.pas:58
 #: Core/ExportObjects/ComTradeComm.pas:60 Core/ExportObjects/DiademComm.pas:181
@@ -26346,7 +26350,7 @@ msgstr "Copia dati su"
 #: Core/ExportObjects/RPCComm.pas:89 Core/ExportObjects/SonyComm.pas:57
 #: Core/ExportObjects/TextFileComm.pas:159 Core/ExportObjects/UnvComm.pas:101
 msgid "file"
-msgstr "file"
+msgstr ""
 
 #: Core/ExportObjects/CANascComm.pas:63 Core/ExportObjects/CANComm.pas:60
 #: Core/ExportObjects/ComTradeComm.pas:62 Core/ExportObjects/DiademComm.pas:183
@@ -26356,7 +26360,7 @@ msgstr "file"
 #: Core/ExportObjects/RPCComm.pas:90 Core/ExportObjects/SonyComm.pas:58
 #: Core/ExportObjects/TextFileComm.pas:160 Core/ExportObjects/UnvComm.pas:102
 msgid "Closing file..."
-msgstr ""
+msgstr "Chiusura file..."
 
 #: Core/ExportObjects/ClipBrdComm.pas:59
 msgid "Opening clipboard"
@@ -26368,7 +26372,7 @@ msgstr "Copia dati clipboard"
 
 #: Core/ExportObjects/ClipBrdComm.pas:61
 msgid "Ending export..."
-msgstr ""
+msgstr "Termine exportazione..."
 
 #. rename to default english sheet names
 #: Core/ExportObjects/ExcelComm.pas:287
@@ -28481,7 +28485,7 @@ msgstr ""
 
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.pas:1722
 msgid "Total short circuit power"
-msgstr ""
+msgstr "Potenza totale di corto"
 
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.pas:1724
 msgid "Grid impedance"
@@ -28490,7 +28494,7 @@ msgstr ""
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.pas:1823
 #: Core/MathObjects/Visuals/PowerSetupUnit.pas:1672
 msgid "Line to line"
-msgstr ""
+msgstr "Linea - linea"
 
 #: Core/MathObjects/Visuals/MathReferenceInputUnit.pas:70
 #: Core/MathObjects/Visuals/MathReferenceInputUnit.pas:77
@@ -30853,7 +30857,7 @@ msgstr ""
 #: DEWEsoft/MainUnit.pas:18725 DEWEsoft/MainUnit.pas:18786
 #: Visuals/Frames/RecallFrameUnit.pas:425
 msgid "Are you sure you want to delete"
-msgstr ""
+msgstr "Sei sicuro di voler eliminare"
 
 #: DEWEsoft/MainUnit.pas:18839
 msgid "Plugin is project related and can be added/removed only in settings"
