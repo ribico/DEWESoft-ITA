@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2017-08-31 16:50\n"
-"PO-Revision-Date: 2017-09-18 18:07+0200\n"
+"PO-Revision-Date: 2017-09-20 07:10+0200\n"
 "Last-Translator: Somebody <your.email@address.com>\n"
 "Language-Team: \n"
 "Language: it\n"
@@ -13647,7 +13647,7 @@ msgstr "Lunghezza segmento"
 #: Core/MathObjects/Visuals/MathStatSetupUnit.pas:782
 #: Core/Objects/EventsUnit.pas:384 Visuals/Frames/FileListFrameUnit.pas:3457
 msgid "samples"
-msgstr "punti"
+msgstr "campioni"
 
 #. CepstrumSetupFrame..AdvCaptionPanel2..Caption
 #: Core/MathObjects/Visuals/CepstrumSetupUnit.dfm:124
@@ -22023,7 +22023,7 @@ msgstr "Mostra calcolo distanza mancante"
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet2..ScrollBox1..VisualsLayoutPanel..DSPropertyGroup2..MaxVertexCountProp..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:619
 msgid "Max vertex count"
-msgstr ""
+msgstr "Max numero vertici"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet2..ScrollBox1..VisualsLayoutPanel..DSPropertyGroup8..Caption
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:642
@@ -22162,7 +22162,7 @@ msgstr ""
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet3..ScrollBox2..MathLayoutPanel..DSPropertyGroup11..UseOldResamplerProp..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:984
 msgid "Sharper anti-aliasing filter"
-msgstr "Filtri anti-aliasing più ripidi"
+msgstr "Filtri anti-aliasing molto selettivi"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet3..ScrollBox2..MathLayoutPanel..DSPropertyGroup11..UseOldResamplerProp....Description
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:990
@@ -22183,12 +22183,12 @@ msgstr ""
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1991
 #: Visuals/Frames/GlobalSettingsFrameUnit.pas:1046
 msgid "Diagnostics"
-msgstr ""
+msgstr "Diagnostica"
 
 #. AdvancedSettingsFrame2..DSPageControl1..Performance..ScrollBox3..DiagnosticsLayoutPanel..DSPropertyGroup3..ShowProfilerProp..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1042
 msgid "Automatically show system info on startup"
-msgstr ""
+msgstr "Mostra automaticamente info sistema all'avvio"
 
 #. AdvancedSettingsFrame2..DSPageControl1..Performance..ScrollBox3..DiagnosticsLayoutPanel..DSPropertyGroup3..ShowProfilerProp....Description
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1045
@@ -22196,11 +22196,13 @@ msgid ""
 "Show system info (CPU load, disk space, buffers, task manager,...) in "
 "measurement screen"
 msgstr ""
+"Mostra info sistema (carico CPU, spazio disco, buffers, task manager,...) "
+"nella schermata di misura"
 
 #. AdvancedSettingsFrame2..DSPageControl1..Performance..ScrollBox3..DiagnosticsLayoutPanel..DSPropertyGroup3..ProfilerDefaultPageProp..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1065
 msgid "System info default page"
-msgstr ""
+msgstr "Pannello predefinito di info sistema"
 
 #. AdvancedSettingsFrame2..DSPageControl1..Performance..ScrollBox3..DiagnosticsLayoutPanel..DSPropertyGroup3..ProfilerDefaultPageProp....ComboBox.Items.Strings
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1081
@@ -22210,12 +22212,13 @@ msgstr ""
 #. AdvancedSettingsFrame2..DSPageControl1..Performance..ScrollBox3..DiagnosticsLayoutPanel..DSPropertyGroup3..ShowHWDebugProperties..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1089
 msgid "Hardware debug channels"
-msgstr ""
+msgstr "Canali debug hardware"
 
 #. AdvancedSettingsFrame2..DSPageControl1..Performance..ScrollBox3..DiagnosticsLayoutPanel..DSPropertyGroup3..ShowHWDebugProperties....Description
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1092
 msgid "Show debug system channels (sync error, IRIG time, VCXO values etc.)"
 msgstr ""
+"Mostra canali debug sistema (errori sincronia, tempo IRIG, val VCXO, etc.)"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet4..Caption
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet4..ScrollBox6..AnalysisLayoutPanel..DSPropertyGroup9..Caption
@@ -22225,12 +22228,12 @@ msgstr ""
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:2003
 #: Visuals/Frames/GlobalSettingsFrameUnit.pas:1047
 msgid "Analysis"
-msgstr ""
+msgstr "Analisi"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet4..ScrollBox6..AnalysisLayoutPanel..DSPropertyGroup9..AutoSelectSoundOutputChProp..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1144
 msgid "Automatically select output channel on sound card"
-msgstr ""
+msgstr "Imposta automaticamente il canale output su scheda audio"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet4..ScrollBox6..AnalysisLayoutPanel..DSPropertyGroup9..AutoSelectSoundOutputChProp....Description
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1147
@@ -22238,6 +22241,8 @@ msgid ""
 "Select synchronous channel as output for sound replaying in analysis mode "
 "(0...None, 1...first sync channel,...)"
 msgstr ""
+"Imposta canale sincrono per riproduzione audio in modalità analisi (0..."
+"Nessuno, 1...primo canale, ...)"
 
 #. AdvancedSettingsFrame2..DSPageControl1..NETTabSheet..ScrollBox7..NETLayoutPanel..NETGroup..Caption
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1192
@@ -22247,7 +22252,7 @@ msgstr "Connessione"
 #. AdvancedSettingsFrame2..DSPageControl1..NETTabSheet..ScrollBox7..NETLayoutPanel..NETGroup..StartingPortNumProp..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1200
 msgid "Starting TCP/IP port for MU data connection"
-msgstr ""
+msgstr "Porta TCP/IP per connessione dati MU"
 
 #. AdvancedSettingsFrame2..DSPageControl1..NETTabSheet..ScrollBox7..NETLayoutPanel..NETGroup..StartingPortNumProp....Description
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1205
@@ -22256,11 +22261,15 @@ msgid ""
 "transfer is initiated. Subsequent MUs connect to the next port counting "
 "downwards. Port 8999 is reserved as command port on MUs and slave clients."
 msgstr ""
+"La prima unità di misura si connette a questa porta sul client per "
+"trasferimento dati. Le successive unità di misura si connettono a porte "
+"successive decrescenti.\n"
+"La porta 8999 è riservata per comunicare comandi su MU e slave clients."
 
 #. AdvancedSettingsFrame2..DSPageControl1..NETTabSheet..ScrollBox7..NETLayoutPanel..NETGroup..NETMasterCombo..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1226
 msgid "Allow NET connection in master mode"
-msgstr ""
+msgstr "Autorizza connessioni NET in modalità master"
 
 #. AdvancedSettingsFrame2..DSPageControl1..NETTabSheet..ScrollBox7..NETLayoutPanel..NETGroup..NETMasterCombo....Description
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1229
@@ -22268,16 +22277,18 @@ msgid ""
 "Allow NET client connection to this unit if it is in master client or master "
 "measurement unit mode"
 msgstr ""
+"Autorizza connessioni NET da clients a questa unità sia in configurazione "
+"master client che master measurement"
 
 #. AdvancedSettingsFrame2..DSPageControl1..NETTabSheet..ScrollBox7..NETLayoutPanel..NETGroup..NETMasterCombo....ComboBox.Items.Strings
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1246
 msgid "View client only"
-msgstr ""
+msgstr "Solo view client"
 
 #. AdvancedSettingsFrame2..DSPageControl1..NETTabSheet..ScrollBox7..NETLayoutPanel..NETGroup..NETMasterCombo....ComboBox.Items.Strings
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1247
 msgid "Master or view client"
-msgstr ""
+msgstr "Sia Master che view client"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet5..Caption
 #. AdvancedSettingsFrame2..Menu..DSMenuItem1..Caption
@@ -22285,13 +22296,13 @@ msgstr ""
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:2027
 #: Visuals/Frames/GlobalSettingsFrameUnit.pas:1049
 msgid "Experimental"
-msgstr ""
+msgstr "Sperimentali"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet5..SBExperimental..ExpLayoutPanel..DSPropertyGroup10..Caption
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1279
 #: Visuals/Frames/AdvancedSettingsFrameUnit.pas:247
 msgid "Features"
-msgstr ""
+msgstr "Funzionalità"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet5..SBExperimental..ExpLayoutPanel..DSPropertyGroup6..DSLabelPropertyItem1....Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1299
@@ -22300,6 +22311,9 @@ msgid ""
 "time. We make absolutely no guarantees about what may happen if you turn one "
 "of these features on."
 msgstr ""
+"ATTENZIONE! Queste funzionalità sperimentali possono essere modificate o "
+"rimosse senza preavviso. Non c'è assolutamente alcuna garanzia di "
+"funzionamento del sofware con queste funzionalità attivate."
 
 #. AdvancedSettingsFrame2..DSPageControl1..Debug..ScrollBox4..DebugLayoutPanel..DSPropertyGroup1..Caption
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1336
@@ -22453,43 +22467,45 @@ msgstr ""
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1745
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:669
 msgid "Memory"
-msgstr ""
+msgstr "Memoria"
 
 #. AdvancedSettingsFrame2..DSPageControl1..PerformanceTabSheet..ScrollBox8..PerformanceLayoutPanel..MemoryGroup..MemoryManagerItem..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1753
 msgid "MemoryManager"
-msgstr ""
+msgstr "Gestore memoria"
 
 #. AdvancedSettingsFrame2..DSPageControl1..PerformanceTabSheet..ScrollBox8..PerformanceLayoutPanel..MemoryGroup..MemoryManagerItem....Description
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1756
 msgid ""
 "Changing memory manager can improve/degrade performance and memory usage"
 msgstr ""
+"Una diversa gestione della memoria può migliorare/degradare le performances "
+"e l'uso della memoria."
 
 #. AdvancedSettingsFrame2..DSPageControl1..PerformanceTabSheet..ScrollBox8..PerformanceLayoutPanel..MemoryGroup..MemoryManagerItem....ComboBox.Items.Strings
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1770
 msgid "Optimize for memory usage"
-msgstr ""
+msgstr "Ottimizza per uso di memoria"
 
 #. AdvancedSettingsFrame2..DSPageControl1..PerformanceTabSheet..ScrollBox8..PerformanceLayoutPanel..MemoryGroup..MemoryManagerItem....ComboBox.Items.Strings
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1771
 msgid "Optimize for performance"
-msgstr ""
+msgstr "Utilizza per prestazioni"
 
 #. AdvancedSettingsFrame2..DSPageControl1..PerformanceTabSheet..ScrollBox8..PerformanceLayoutPanel..DSPropertyGroup12..MaxCalcDelayProp..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1788
 msgid "Maximum calculation delay"
-msgstr ""
+msgstr "Massimo ritardo di calcolo"
 
 #. AdvancedSettingsFrame2..DSPageControl1..PerformanceTabSheet..ScrollBox8..PerformanceLayoutPanel..DSPropertyGroup12..MaxCalcDelayProp..Description
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1790
 msgid "AD card, plugin or math can increase this value"
-msgstr ""
+msgstr "Schede AD, plugins e matematica possono incrementare questo valore"
 
 #. AdvancedSettingsFrame2..DSPageControl1..SequencerTabSheet..ScrollBox9..SequencerLayoutPanel..SequencerDSPropGroup..SeqRelativePathPropItem..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1844
 msgid "Relative base directory"
-msgstr ""
+msgstr "Directory base relativa"
 
 #. AdvancedSettingsFrame2..DSPageControl1..SequencerTabSheet..ScrollBox9..SequencerLayoutPanel..SequencerDSPropGroup..SeqRelativePathPropItem....Description
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1848
@@ -22498,16 +22514,19 @@ msgid ""
 "directory. If this is not set, sequencer will take base directory, where the "
 "sequence file is stored. "
 msgstr ""
+"Se valorizzata, tutti i files esterni saranno caricati da questa directory "
+"base. Se non valorizzata, il sequencer considererà come directory base la "
+"stessa directory del file sequenza."
 
 #. AdvancedSettingsFrame2..DSPageControl1..SequencerTabSheet..ScrollBox9..SequencerLayoutPanel..SequencerDSPropGroup..SeqCopyFileIfFailsDirPropItem..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1875
 msgid "Data file location"
-msgstr ""
+msgstr "Posizione file dati"
 
 #. AdvancedSettingsFrame2..DSPageControl1..SequencerTabSheet..ScrollBox9..SequencerLayoutPanel..SequencerDSPropGroup..SeqCopyFileIfFailsPropItem..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1902
 msgid "Copy loaded data file to other location if test case fails"
-msgstr ""
+msgstr "Copia il file dati su altra posizione se il test case fallisce"
 
 #. AdvancedSettingsFrame2..DSPageControl1..WarningsTabSheet..Caption
 #. AdvancedSettingsFrame2..Menu..DSMenuItem2..Caption
@@ -25929,7 +25948,7 @@ msgstr ""
 #. +_('/ch');
 #: Core/Data/ChannelDataUnit.pas:6486 DEWEsoft/MainUnit.pas:16891
 msgid "samples/rev"
-msgstr "punti/giro"
+msgstr "campioni/giro"
 
 #: Core/Data/ChannelDataUnit.pas:6700
 msgid "Character"
