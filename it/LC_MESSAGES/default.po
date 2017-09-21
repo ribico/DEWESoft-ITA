@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2017-08-31 16:50\n"
-"PO-Revision-Date: 2017-09-20 09:39+0200\n"
+"PO-Revision-Date: 2017-09-21 21:10+0200\n"
 "Last-Translator: Somebody <your.email@address.com>\n"
 "Language-Team: \n"
 "Language: it\n"
@@ -2471,7 +2471,7 @@ msgstr ""
 #: Core/MathObjects/CAMath/Visuals/CAFormulaEditorUnit.pas:480
 #: Core/MathObjects/CAMath/Visuals/CAFormulaEditorUnit.pas:494
 msgid "Locked"
-msgstr ""
+msgstr "Protetto"
 
 #. CanSetupFrame..ExpFreqPopupMenu..ExpFreqSetToMenuItem..Caption
 #: Core/Daq/CAN/Visuals/CanSetupFrameUnit.dfm:1376
@@ -20804,7 +20804,7 @@ msgstr "Descrizione canale corrente"
 #: Visuals/Forms/AdvSaveSensorUnit.dfm:755
 #: Visuals/Forms/AdvSaveSensorUnit.dfm:818
 msgid "Lock"
-msgstr ""
+msgstr "Proteggi"
 
 #. AdvSaveSensorForm..ChannelPropsPanel..WriteChSR_HzToSensorCheckBox..Caption
 #: Visuals/Forms/AdvSaveSensorUnit.dfm:445
@@ -22970,12 +22970,12 @@ msgstr "Sblocca"
 #. FileInfoFrame..AnalysePageControl..FileLockingTabSheet..FileLockingPanel..AdvFileLockingStatusPanel..LockPasswordButton..Caption
 #: Visuals/Frames/FileInfoFrameUnit.dfm:388
 msgid "Lock (with password)"
-msgstr "Blocca (con password)"
+msgstr "Proteggi (con password)"
 
 #. FileInfoFrame..AnalysePageControl..FileLockingTabSheet..FileLockingPanel..AdvFileLockingStatusPanel..LockPermanentButton..Caption
 #: Visuals/Frames/FileInfoFrameUnit.dfm:397
 msgid "Lock (permanent)"
-msgstr "Blocca (permanente)"
+msgstr "Proteggi (permanente)"
 
 #. FileListFrame..BasePanel..CommonPanel..ClientPanel..RightPanel..AdvCaptionPanel1..FilterComboBox..Hint
 #: Visuals/Frames/FileListFrameUnit.dfm:132
@@ -23620,7 +23620,7 @@ msgstr "Nessuna immagine"
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabSecurity..ScrollBox2..SecurityLayoutPanel..GroupFileLocking..ComboLockFiles..Text
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:2140
 msgid "Automatically lock data files after storing"
-msgstr "Blocca file dati automaticamente dopo acquisizione"
+msgstr "Proteggi file dati automaticamente dopo acquisizione"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabSecurity..ScrollBox2..SecurityLayoutPanel..GroupFileLocking..ComboLockFiles..Description
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:2141
@@ -23635,7 +23635,7 @@ msgstr "Con password"
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabSecurity..ScrollBox2..SecurityLayoutPanel..DSPropertyGroup4..Caption
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:2168
 msgid "Lock settings"
-msgstr "Blocca impostazioni"
+msgstr "Proteggi impostazioni"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabSecurity..ScrollBox2..SecurityLayoutPanel..DSPropertyGroup4..CBSettingsPassword..Text
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:2176
@@ -23650,7 +23650,7 @@ msgstr "Questa password è necessaria per abilitare la protezione utente"
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabSecurity..ScrollBox2..SecurityLayoutPanel..DSPropertyGroup5..Caption
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:2199
 msgid "Lock user access"
-msgstr "Blocca accesso utente"
+msgstr "Proteggi accesso utente"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabSecurity..ScrollBox2..SecurityLayoutPanel..DSPropertyGroup5..CBChangeSetupPassword..Text
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:2207
@@ -28081,17 +28081,19 @@ msgstr ""
 
 #: Core/MathObjects/CAMath/CAMathUnit.pas:8467
 msgid "Custom volume formula is not correct"
-msgstr ""
+msgstr "Formula personalizzata per calcolo volume non corretta"
 
 #: Core/MathObjects/CAMath/CAMathUnit.pas:8468
 msgid ""
 "This file was made with old CA. CO/PO value were set to zero. Changes for "
 "recalculation are not possible."
 msgstr ""
+"Questo file è stato creato con il vecchio CA. Valori di CO/PO sono azzerati. "
+"Modifiche per ricalcolo non sono possibili."
 
 #: Core/MathObjects/CAMath/CAMathUnit.pas:10917
 msgid "Correction factor"
-msgstr ""
+msgstr "Fattore di correzione"
 
 #: Core/MathObjects/CAMath/CAMathUnit.pas:10919
 msgid "Overall pressure"
@@ -28099,11 +28101,11 @@ msgstr ""
 
 #: Core/MathObjects/CAMath/CAMathUnit.pas:11851
 msgid "New engine"
-msgstr ""
+msgstr "Nuovo motore"
 
 #: Core/MathObjects/CAMath/Visuals/CAFormulaEditorUnit.pas:152
 msgid "Do you want that new template is based on current template?"
-msgstr ""
+msgstr "Vuoi che il nuovo template sia basato su quello corrente?"
 
 #: Core/MathObjects/CAMath/Visuals/CAFormulaEditorUnit.pas:381
 #: Core/MathObjects/CAMath/Visuals/CAFormulaEditorUnit.pas:476
@@ -28127,7 +28129,7 @@ msgstr "Valore default"
 #: Core/MathObjects/CAMath/Visuals/CAFormulaEditorUnit.pas:401
 #: Core/MathObjects/CAMath/Visuals/CAFormulaEditorUnit.pas:496
 msgid "Unlocked"
-msgstr ""
+msgstr "Sbloccato"
 
 #: Core/MathObjects/CAMath/Visuals/CAMainGridUnit.pas:194
 msgid "Ref. cyl."
@@ -28174,7 +28176,7 @@ msgstr ""
 #: Core/MathObjects/CAMath/Visuals/CAMainGridUnit.pas:226
 #: Core/MathObjects/CAMath/Visuals/CAMainGridUnit.pas:598
 msgid "Additional channels"
-msgstr ""
+msgstr "Canali aggiuntivi"
 
 #: Core/MathObjects/CAMath/Visuals/CAMainGridUnit.pas:586
 msgid "Piston offset"
@@ -28190,11 +28192,11 @@ msgstr ""
 
 #: Core/MathObjects/CAMath/Visuals/CAMathSetupUnit.pas:1524
 msgid "Combustion analyser: calculations needs rebuild."
-msgstr ""
+msgstr "Analizzatore combustione: necessario ricalcolare."
 
 #: Core/MathObjects/CAMath/Visuals/CAMathSetupUnit.pas:1524
 msgid "Some references to channels will be lost (e.g. displays)!"
-msgstr ""
+msgstr "Alcuni riferimenti per canali andranno persi (ad es displays)!"
 
 #: Core/MathObjects/CAMath/Visuals/CAMathSetupUnit.pas:2881
 msgid "Actual val."
@@ -28245,25 +28247,25 @@ msgstr "Invalid number di parameters"
 
 #: Core/MathObjects/Formulas/DwFormula.pas:3813
 msgid "formula too long"
-msgstr ""
+msgstr "formula troppo lunga"
 
 #: Core/MathObjects/Visuals/AmplExtractMathSetupUnit.pas:146
 msgid "Amplitude response"
-msgstr ""
+msgstr "Risposta all'ampiezza"
 
 #: Core/MathObjects/Visuals/AmplExtractMathSetupUnit.pas:273
 #: Core/MathObjects/Visuals/ShakerControlSetupUnit.pas:222
 msgid "Not enough data!"
-msgstr ""
+msgstr "Dati non sufficienti!"
 
 #: Core/MathObjects/Visuals/AmplExtractMathSetupUnit.pas:274
 #: Core/MathObjects/Visuals/ShakerControlSetupUnit.pas:223
 msgid "Data format is wrong!"
-msgstr ""
+msgstr "Formato dati errato!"
 
 #: Core/MathObjects/Visuals/AmplExtractMathSetupUnit.pas:643
 msgid "Highpass"
-msgstr ""
+msgstr "Passa alto"
 
 #: Core/MathObjects/Visuals/CalculusSetupUnit.pas:189
 #: Core/MathObjects/Visuals/IIRMathSetup.pas:228
@@ -28285,19 +28287,19 @@ msgstr "Filtro alte frequenze"
 #: Core/MathObjects/Visuals/IIRMathSetup.pas:810
 #: Core/MathObjects/Visuals/IIRMathSetup.pas:816
 msgid "too low"
-msgstr ""
+msgstr "troppo basso"
 
 #: Core/MathObjects/Visuals/CalculusSetupUnit.pas:728
 #: Core/MathObjects/Visuals/CalculusSetupUnit.pas:734
 #: Core/MathObjects/Visuals/IIRMathSetup.pas:813
 #: Core/MathObjects/Visuals/IIRMathSetup.pas:819
 msgid "too high"
-msgstr ""
+msgstr "troppo alto"
 
 #: Core/MathObjects/Visuals/CalculusSetupUnit.pas:738
 #: Core/MathObjects/Visuals/IIRMathSetup.pas:823
 msgid "LP cutoff frequency must be greater than HP."
-msgstr ""
+msgstr "La freq di taglio LP deve essere superiore della HP."
 
 #. noL
 #: Core/MathObjects/Visuals/ChannelSetupPreviewUnit.pas:135
@@ -28323,27 +28325,27 @@ msgstr "Banda"
 
 #: Core/MathObjects/Visuals/FIRMathSetup.pas:172
 msgid "Low edge"
-msgstr ""
+msgstr "Bordo inf"
 
 #: Core/MathObjects/Visuals/FIRMathSetup.pas:173
 msgid "High edge"
-msgstr ""
+msgstr "Bordo sup"
 
 #: Core/MathObjects/Visuals/FIRMathSetup.pas:175
 msgid "Weight"
-msgstr ""
+msgstr "Peso"
 
 #: Core/MathObjects/Visuals/FIRMathSetup.pas:230
 msgid "Amplitude and phase response"
-msgstr ""
+msgstr "Risposta ampiezza e fase"
 
 #: Core/MathObjects/Visuals/FIRMathSetup.pas:247
 msgid "Impulse response"
-msgstr ""
+msgstr "Risposta all'impulso"
 
 #: Core/MathObjects/Visuals/FIRMathSetup.pas:264
 msgid "Step response"
-msgstr ""
+msgstr "Risposta al gradino"
 
 #: Core/MathObjects/Visuals/FIRMathSetup.pas:727
 msgid "Tap"
@@ -28356,16 +28358,16 @@ msgstr ""
 #: Core/MathObjects/Visuals/IIRMathSetup.pas:602
 #: Core/MathObjects/Visuals/IIRMathSetup.pas:693
 msgid "Poles"
-msgstr ""
+msgstr "Poli"
 
 #: Core/MathObjects/Visuals/IIRMathSetup.pas:604
 #: Core/MathObjects/Visuals/IIRMathSetup.pas:691
 msgid "Zeros"
-msgstr ""
+msgstr "Zeri"
 
 #: Core/MathObjects/Visuals/IIRMathSetup.pas:1364
 msgid "Pole"
-msgstr ""
+msgstr "Polo"
 
 #. sections headers (section 1,...)
 #: Core/MathObjects/Visuals/IIRMathSetupGridUnit.pas:181
@@ -28382,43 +28384,43 @@ msgstr ""
 
 #: Core/MathObjects/Visuals/MathAngleSensorSetupUnit.pas:640
 msgid "Pulses count"
-msgstr ""
+msgstr "Totale impulsi"
 
 #: Core/MathObjects/Visuals/MathAngleSensorSetupUnit.pas:650
 msgid "No triggers recognized"
-msgstr ""
+msgstr "Nessun trigger rilevato"
 
 #: Core/MathObjects/Visuals/MathAngleSensorSetupUnit.pas:767
 msgid "Error in gap detection"
-msgstr ""
+msgstr "Errore rilevazione gap"
 
 #: Core/MathObjects/Visuals/MathArrayReferenceAxisForm.pas:53
 msgid "X axis settings form (lower & upper)"
-msgstr ""
+msgstr "Impostazioni asse X (inferiore & superiore)"
 
 #: Core/MathObjects/Visuals/MathArrayReferenceAxisForm.pas:54
 msgid "X axis name"
-msgstr ""
+msgstr "Nome asse X"
 
 #: Core/MathObjects/Visuals/MathArrayReferenceAxisForm.pas:55
 msgid "X axis unit"
-msgstr ""
+msgstr "Unità asse X"
 
 #: Core/MathObjects/Visuals/MathArrayReferenceAxisForm.pas:60
 msgid "Lower limit settings"
-msgstr ""
+msgstr "Impostazioni limite inferiore"
 
 #: Core/MathObjects/Visuals/MathArrayReferenceAxisForm.pas:61
 msgid "Upper limit settings"
-msgstr ""
+msgstr "Impostazioni limite superiore"
 
 #: Core/MathObjects/Visuals/MathArrayReferenceAxisForm.pas:65
 msgid "Channel unit"
-msgstr ""
+msgstr "Unità canale"
 
 #: Core/MathObjects/Visuals/MathDelaySetupUnit.pas:142
 msgid "Start delay"
-msgstr ""
+msgstr "Ritardo start"
 
 #: Core/MathObjects/Visuals/MathEnvelopeSetupUnit.pas:94
 msgid "Component"
@@ -28434,33 +28436,33 @@ msgstr "Base x frequenza [Hz]"
 
 #: Core/MathObjects/Visuals/MathExSetupUnit.pas:537
 msgid "Setup not allowed for instrument math"
-msgstr ""
+msgstr "Setup non permesso per math strumento"
 
 #: Core/MathObjects/Visuals/MathExSetupUnit.pas:543
 msgid "Setup not allowed for unknown math"
-msgstr ""
+msgstr "Setup non permesso per math sconosciuta"
 
 #: Core/MathObjects/Visuals/MathExSetupUnit.pas:904
 msgid "Can not paste data from clipboard"
-msgstr ""
+msgstr "Impossibile incollare da appunti"
 
 #: Core/MathObjects/Visuals/MathHumanBodySetupUnit.pas:452
 msgid "Alz calculation rate set to"
-msgstr ""
+msgstr "Vel calcolo Alz impostato a"
 
 #: Core/MathObjects/Visuals/MathInstrumentFrameUnit.pas:397
 msgid "Maximum number of instances reached"
-msgstr ""
+msgstr "Massimo numero di istanze raggiunto"
 
 #. old files will work anyway
 #: Core/MathObjects/Visuals/MathInstrumentFrameUnit.pas:427
 #: DEWEsoft/MainUnit.pas:18576 DEWEsoft/MainUnit.pas:18612
 msgid "Dewesoft not registered to use"
-msgstr ""
+msgstr "Dewesoft non registrato per usare"
 
 #: Core/MathObjects/Visuals/MathInstrumentFrameUnit.pas:882
 msgid "Rename math module"
-msgstr ""
+msgstr "Rinomina modulo math"
 
 #: Core/MathObjects/Visuals/MathNMTSetupUnit.pas:292
 #: Core/MathObjects/Visuals/TransferFunctionSetup.pas:1740
@@ -28469,27 +28471,29 @@ msgstr "Segno"
 
 #: Core/MathObjects/Visuals/MathObjSetupUnit.pas:43
 msgid "Cannot undo this object"
-msgstr ""
+msgstr "Impossibile eseguire undo su questo oggetto"
 
 #: Core/MathObjects/Visuals/MathObjSetupUnit1.pas:280
 msgid "No channel"
-msgstr ""
+msgstr "Nessun canale"
 
 #: Core/MathObjects/Visuals/MathObjSetupUnit1.pas:724
 msgid ""
 "Input channel is in offline mode. Math object will be changed to offline "
 "mode."
 msgstr ""
+"Canale ingresso in modalità offline. L'oggetto math sarà portato su modalità "
+"offline."
 
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.pas:1239
 #: Core/MathObjects/Visuals/PowerSetupUnit.pas:787
 msgid "Harmonics will be calculated up to"
-msgstr ""
+msgstr "Armoniche calcolate fino a"
 
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.pas:1239
 #: Core/MathObjects/Visuals/PowerSetupUnit.pas:787
 msgid "harmonic"
-msgstr ""
+msgstr "armonica"
 
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.pas:1722
 msgid "Total short circuit power"
@@ -28497,7 +28501,7 @@ msgstr "Potenza totale di corto"
 
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.pas:1724
 msgid "Grid impedance"
-msgstr ""
+msgstr "Impedenza di rete"
 
 #: Core/MathObjects/Visuals/MathPowerSetupUnit.pas:1823
 #: Core/MathObjects/Visuals/PowerSetupUnit.pas:1672
@@ -28507,7 +28511,7 @@ msgstr "Linea - linea"
 #: Core/MathObjects/Visuals/MathReferenceInputUnit.pas:70
 #: Core/MathObjects/Visuals/MathReferenceInputUnit.pas:77
 msgid "First reference channel"
-msgstr ""
+msgstr "Primo canale riferimento"
 
 #: Core/MathObjects/Visuals/MathReferenceSetupUnit.pas:265
 #: Core/MathObjects/Visuals/MathReferenceSetupUnit.pas:530
@@ -28517,31 +28521,31 @@ msgstr ""
 
 #: Core/MathObjects/Visuals/MathReferenceSetupUnit.pas:377
 msgid "Not exists"
-msgstr ""
+msgstr "Non esiste"
 
 #: Core/MathObjects/Visuals/MathReferenceSetupUnit.pas:379
 msgid "Not loaded"
-msgstr ""
+msgstr "Non caricato"
 
 #: Core/MathObjects/Visuals/MathReferenceSetupUnit.pas:381
 msgid "Loaded"
-msgstr ""
+msgstr "Caricato"
 
 #: Core/MathObjects/Visuals/MathSetupGrid.pas:1163
 #: Core/MathObjects/Visuals/MathSetupGrid.pas:1328
 msgid "Input channels not stored."
-msgstr ""
+msgstr "Canali di input non memorizzati."
 
 #: Core/MathObjects/Visuals/MathSetupGrid.pas:1163
 #: Core/MathObjects/Visuals/MathSetupGrid.pas:1328
 msgid "Changing to offline will remove original data."
-msgstr ""
+msgstr "Modificando come offline eliminerà i dati originali."
 
 #: Core/MathObjects/Visuals/MathSetupGrid.pas:1163
 #: Core/MathObjects/Visuals/MathSetupGrid.pas:1328 DEWEsoft/MainUnit.pas:13201
 #: DEWEsoft/MainUnit.pas:13243
 msgid "Do you want to continue?"
-msgstr ""
+msgstr "Vuoi continuare ?"
 
 #. L
 #: Core/MathObjects/Visuals/MathStatSetupUnit.pas:377
@@ -28551,7 +28555,7 @@ msgstr ""
 #: Core/MathObjects/Visuals/PowerWireDrawing.pas:573
 #: Core/MathObjects/Visuals/WireDrawing.pas:456
 msgid "Units in red are not valid!"
-msgstr ""
+msgstr "Le unità in rosso non sono valide!"
 
 #: Core/MathObjects/Visuals/ShakerControlSetupUnit.pas:451
 msgid "Sine sweep"
@@ -28569,19 +28573,19 @@ msgstr "Angolo torsione"
 #: Core/MathObjects/Visuals/TransferFunctionSetup.pas:1777
 #: Core/MathObjects/Visuals/TransferFunctionSetup.pas:1792
 msgid "AO channel"
-msgstr ""
+msgstr "Canale AO"
 
 #: Core/MathObjects/Visuals/TransferFunctionSetup.pas:1799
 msgid "Wanted force"
-msgstr ""
+msgstr "Forza richiesta"
 
 #: Core/MathObjects/Visuals/TransferFunctionSetup.pas:1800
 msgid "Wanted phase"
-msgstr ""
+msgstr "Fase richiesta"
 
 #: Core/Objects/AlarmsUnit.pas:318
 msgid "Virtual"
-msgstr ""
+msgstr "Virtuale"
 
 #: Core/Objects/CommObject.pas:143 DEWEsoft/MainUnit.pas:11121
 #: DEWEsoft/MainUnit.pas:11124 Visuals/Forms/ScopeAVIExpUnit.pas:209
@@ -28592,11 +28596,11 @@ msgstr "Esportazione"
 #. custom sample rate divider for each exported channel - obtained from exported channel's custom export rate
 #: Core/Objects/CommObject.pas:320
 msgid "Only relative time is supported in this format"
-msgstr ""
+msgstr "Solo tempo relativo è supportato in questo formato"
 
 #: Core/Objects/CommObject.pas:354 Core/Objects/CommObject.pas:2806
 msgid "data file"
-msgstr ""
+msgstr "file dati"
 
 #. noL
 #. noL
@@ -28608,15 +28612,15 @@ msgstr "Errore durante esportazione"
 
 #: Core/Objects/CommObject.pas:1469
 msgid "Reduced data export not supported in this format"
-msgstr ""
+msgstr "Esportazione dati ridotti non supportati in questo formato"
 
 #: Core/Objects/CommObject.pas:2767
 msgid "Additional channels are not allowed for this export type"
-msgstr ""
+msgstr "Canali aggiuntivi non sono disponibili in questo tipo di esportazione"
 
 #: Core/Objects/CommObject.pas:2769
 msgid "Choose either statistic, cycle or average data"
-msgstr ""
+msgstr "Scegli uno tra dati statistici, ciclici o media"
 
 #: Core/Objects/CommObject.pas:2774
 msgid "Average cycle data can't be exported combined with cycle data to iFile"
@@ -28637,6 +28641,7 @@ msgstr ""
 #: Core/Objects/ControllerTimer.pas:384
 msgid "No PPS channel defined. Please go to synchronization settings."
 msgstr ""
+"Nessun canale PPS definito. Verificare il impostazioni di sincronizzazione."
 
 #: Core/Objects/ControllerTimer.pas:390 Core/Objects/ControllerTimer.pas:457
 msgid "Waiting for sync"
@@ -28645,65 +28650,65 @@ msgstr "In attesa di sync"
 #: Core/Objects/ControllerTimer.pas:438 Core/Objects/ControllerTimer.pas:501
 #: Core/Objects/ControllerTimer.pas:503
 msgid "Start pulse is not detected. Please check the hardware."
-msgstr ""
+msgstr "Impulso di start non rilevato. Prego controllare l'hardware."
 
 #: Core/Objects/ControllerTimer.pas:449 Core/Objects/ControllerTimer.pas:451
 msgid "Clock system failed to start."
-msgstr ""
+msgstr "Errore avvio clock sistema."
 
 #: Core/Objects/ControllerTimer.pas:519 Core/Objects/ControllerTimer.pas:521
 msgid "GPS time is not valid. Please check the hardware."
-msgstr ""
+msgstr "Tempo GPS non valido. Prego verificare l'hardware."
 
 #: Core/Objects/ControllerTimer.pas:577 Core/Objects/ControllerTimer.pas:579
 msgid "Measurement unit(s) failed to start"
-msgstr ""
+msgstr "Errore avvio unità di misura"
 
 #: Core/Objects/ControllerTimer.pas:785
 msgid "AO stopped with error code"
-msgstr ""
+msgstr "AO interrotti con codice errore"
 
 #: Core/Objects/ControllerTimer.pas:838
 msgid "calc delay is too high"
-msgstr ""
+msgstr "ritardo calc è troppo grande"
 
 #: Core/Objects/ControllerTimer.pas:840
 msgid "max calc delay is too high"
-msgstr ""
+msgstr "il ritardo max calc è troppo grande"
 
 #: Core/Objects/ControllerTimer.pas:1230
 msgid "Measurement unit stopped, waiting for restart ..."
-msgstr ""
+msgstr "Unità di misura arrestate, in attesa di riavvio..."
 
 #: Core/Objects/ControllerTimer.pas:1258
 msgid "Measurement units not synchronized."
-msgstr ""
+msgstr "Unità di misura non sincronizzate."
 
 #: Core/Objects/ControllerTimer.pas:1575
 msgid "Storing remaining frames..."
-msgstr ""
+msgstr "Salvataggio frames rimanenti..."
 
 #: Core/Objects/ControllerTimer.pas:1621
 msgid "Out of disk space. Storing was stopped."
-msgstr ""
+msgstr "Spazio disco terminato. Registrazione fermata."
 
 #: Core/Objects/ControllerTimer.pas:1717 Core/Objects/ControllerTimer.pas:1725
 msgid "Time code restored"
-msgstr ""
+msgstr "Codice temporale ripristinato"
 
 #: Core/Objects/ControllerTimer.pas:1726
 msgid "Time code lost"
-msgstr ""
+msgstr "Codice temporale perso"
 
 #. text
 #: Core/Objects/EventLogChannels.pas:164
 msgid "Alarm events"
-msgstr ""
+msgstr "Eventi allarme"
 
 #. text
 #: Core/Objects/EventLogChannels.pas:178
 msgid "Application events"
-msgstr ""
+msgstr "Eventi applicazione"
 
 #: Core/Objects/EventsUnit.pas:314 Core/Objects/EventsUnit.pas:1505
 msgid "storing started at"
@@ -28773,7 +28778,7 @@ msgstr "Event immagine alle"
 
 #: Core/Objects/EventsUnit.pas:1514
 msgid "Module event at"
-msgstr ""
+msgstr "Evento modulo a"
 
 #: Core/Objects/EventsUnit.pas:1517
 msgid "Unknown event at"
@@ -28781,11 +28786,11 @@ msgstr "Evento ignoto a"
 
 #: Core/Objects/ExtensionsUnit.pas:370
 msgid "Registration tool not found"
-msgstr ""
+msgstr "Tool di registrazione non trovato"
 
 #: Core/Objects/ExtensionsUnit.pas:388
 msgid "Problem starting addons registration tool"
-msgstr ""
+msgstr "Problema all'avvio del tool di registrazione addons"
 
 #: Core/Objects/ExtensionsUnit.pas:464 Core/Objects/ExtensionsUnit.pas:533
 msgid "Math application"
@@ -28797,93 +28802,93 @@ msgstr ""
 
 #: Core/Objects/LoadUnit.pas:568
 msgid "Store calculated channels?"
-msgstr ""
+msgstr "Salvare canali calcolati?"
 
 #: Core/Objects/LoadUnit.pas:582
 msgid "Storing offline channels..."
-msgstr ""
+msgstr "Salvataggio canali offline..."
 
 #: Core/Objects/LoadUnit.pas:735 DEWEsoft/MainUnit.pas:14584
 msgid "Loading data file"
-msgstr "Carica Data File"
+msgstr "Caricamento file dati"
 
 #: Core/Objects/LoadUnit.pas:809
 msgid "Forward compatibility not supported"
-msgstr ""
+msgstr "Compatibilità con nuove versioni non supportata"
 
 #: Core/Objects/LoadUnit.pas:1038
 msgid "Loading data files"
-msgstr ""
+msgstr "Registrazione file dati"
 
 #: Core/Objects/LoadUnit.pas:2171
 msgid "has no video in this section"
-msgstr ""
+msgstr "non ha video in questa sessione"
 
 #: Core/Objects/LoadUnit.pas:2328
 msgid "File is read only"
-msgstr ""
+msgstr "File in sola lettura"
 
 #: Core/Objects/LoadUnit.pas:2784 Core/Objects/LoadUnit.pas:4050
 msgid "Reducing data file"
-msgstr ""
+msgstr "Riduzione file dati"
 
 #. rewind to last keyframe
 #: Core/Objects/LoadUnit.pas:4253 Core/Objects/LoadUnit.pas:4267
 #: Core/Objects/LoadUnit.pas:4342 Core/Objects/LoadUnit.pas:4366
 msgid "Reducing video file"
-msgstr ""
+msgstr "Riduzione file video"
 
 #: Core/Objects/LoadUnit.pas:5670
 msgid "Wrong camera file numbering"
-msgstr ""
+msgstr "Errata numerazione dei files video"
 
 #: Core/Objects/LoadUnit.pas:5672
 msgid "Unknown video file name extension"
-msgstr ""
+msgstr "Estensione nome file video sconosciuta"
 
 #: Core/Objects/LoadUnit.pas:8377 SharedLib/DS.UI.DSChannelsGridUnit.pas:1118
 msgid "File is locked"
-msgstr ""
+msgstr "File protetto"
 
 #: Core/Objects/LoadUnit.pas:8380
 msgid "File is not postprocessed"
-msgstr ""
+msgstr "File non post-processato"
 
 #: Core/Objects/LoadUnit.pas:8388
 msgid "Invalid Dewesoft data file"
-msgstr ""
+msgstr "File dati Dewesoft non valido"
 
 #: Core/Objects/LoadUnit.pas:9344
 msgid "Storing video"
-msgstr ""
+msgstr "Registrazione video"
 
 #: Core/Objects/ProjectManager.pas:196 Core/Objects/ProjectManager.pas:198
 msgid "Enter the name of new project"
-msgstr ""
+msgstr "Inserisci il nome del nuovo progetto"
 
 #: Core/Objects/ProjectManager.pas:196
 msgid "New project will be based on"
-msgstr ""
+msgstr "Il nuovo progetto sarà basato su"
 
 #: Core/Objects/ProjectManager.pas:198
 msgid "New project will be blank"
-msgstr ""
+msgstr "Il nuovo progetto sarà vuoto"
 
 #: Core/Objects/ProjectManager.pas:204
 msgid "Project name already exists"
-msgstr ""
+msgstr "Il nome progetto esiste già"
 
 #: Core/Objects/ProjectManager.pas:208
 msgid "Project file can't be created. Please check the file name."
-msgstr ""
+msgstr "Il file progetto non può essere creato. Verificare il nome del file."
 
 #: Core/Objects/ProjectManager.pas:245
 msgid "Project not found"
-msgstr ""
+msgstr "Progetto non trovato"
 
 #: Core/Objects/ProjectManager.pas:398 DEWEsoft/MainUnit.pas:12442
 msgid "Invalid file structure. Data file is corrupted."
-msgstr ""
+msgstr "Struttura file non valida. Il file dati è corrotto."
 
 #: Core/Objects/ProjectManager.pas:427
 msgid "Add project"
@@ -28903,48 +28908,49 @@ msgstr "Importa progetto da file"
 
 #: Core/Objects/ProjectManager.pas:464
 msgid "At least one project file must exists."
-msgstr ""
+msgstr "Deve esistere almeno un file progetto."
 
 #: Core/Objects/ProjectManager.pas:467
 msgid "Do you really want to delete project file?"
-msgstr ""
+msgstr "Vuoi veramente eliminare il file progetto?"
 
 #: Core/Objects/ProjectManager.pas:486
 msgid "Please enter new name for the project"
-msgstr ""
+msgstr "Prego inserire il nuovo nome per il progetto"
 
 #: Core/Objects/ProjectManager.pas:490
 msgid "Can't rename project file. Please enter again the file name."
 msgstr ""
+"Impossibile rinominare il file progetto. Prego inserire nuovamente il nome."
 
 #: Core/Objects/ProjectManager.pas:714 Core/Objects/ProjectManager.pas:856
 #: Core/Objects/ProjectManager.pas:1074 Core/Objects/ProjectManager.pas:1113
 msgid "Project file is not valid or has the wrong structure"
-msgstr ""
+msgstr "Il file progetto non è valido oppure ha una struttura errata"
 
 #: Core/Objects/ProjectManager.pas:914
 msgid "Unable to load project"
-msgstr ""
+msgstr "Impossibile caricare progetto"
 
 #: Core/Objects/ProjectManager.pas:1075
 msgid "Old project was renamed to:"
-msgstr ""
+msgstr "Il vecchio progetto è stato rinominato in:"
 
 #: Core/Objects/RegistrationUnit.pas:213
 msgid "Plugins not working in demo mode"
-msgstr ""
+msgstr "Plugins non funzionanti in modalità demo"
 
 #: Core/Objects/RegistrationUnit.pas:254
 msgid "Missing"
-msgstr ""
+msgstr "Mancante"
 
 #: Core/Objects/RegistrationUnit.pas:287
 msgid "TRIAL expired"
-msgstr ""
+msgstr "TRIAL scaduto"
 
 #: Core/Objects/ScopeTriggerUnit.pas:434 Core/Objects/ScopeTriggerUnit.pas:436
 msgid "Channel buffer too small"
-msgstr ""
+msgstr "Buffer canali troppo piccolo"
 
 #: Core/Objects/SensorsUnit.pas:601
 msgid "All groups"
@@ -28968,7 +28974,7 @@ msgstr "Modulo già presente"
 
 #: Core/Objects/SetupModulesUnit.pas:805
 msgid "Max number of instances reached"
-msgstr ""
+msgstr "Max numero istanze raggiunto"
 
 #: Core/Objects/SetupModulesUnit.pas:881
 msgid "Analog input channels settings."
@@ -28993,11 +28999,11 @@ msgstr "Generatore Funzioni"
 #: Core/Objects/SetupModulesUnit.pas:1007
 #| msgid "Function generator"
 msgid "No license for function generator"
-msgstr ""
+msgstr "Nessuna licenza per generatore di funzioni"
 
 #: Core/Objects/SetupModulesUnit.pas:1038
 msgid "GPS device settings."
-msgstr ""
+msgstr "Impostazioni dispositivo GPS."
 
 #: Core/Objects/SetupModulesUnit.pas:1102
 msgid "CAN device settings."
@@ -29005,7 +29011,7 @@ msgstr "Impostazioni canali CAN."
 
 #: Core/Objects/SetupModulesUnit.pas:1170
 msgid "Support for digital sensors"
-msgstr ""
+msgstr "Supporto per sensori digitali"
 
 #: Core/Objects/SetupModulesUnit.pas:1171
 msgid "encoder"
@@ -29025,7 +29031,7 @@ msgstr "Impostazioni ingressi digitali."
 
 #: Core/Objects/SetupModulesUnit.pas:1321
 msgid "Mathematic functions"
-msgstr ""
+msgstr "Funzione matematica"
 
 #: Core/Objects/SetupModulesUnit.pas:1322
 msgid "formula"
@@ -29033,31 +29039,31 @@ msgstr ""
 
 #: Core/Objects/SetupModulesUnit.pas:1323
 msgid "filtering"
-msgstr ""
+msgstr "filtraggio"
 
 #: Core/Objects/SetupModulesUnit.pas:1324
 msgid "statistics"
-msgstr ""
+msgstr "statistiche"
 
 #: Core/Objects/SetupModulesUnit.pas:1325
 msgid "reference curves"
-msgstr ""
+msgstr "curve di riferimento"
 
 #: Core/Objects/SetupModulesUnit.pas:1326
 msgid "time and frequency domain analysis"
-msgstr ""
+msgstr "analisi dominio tempo e frequenza"
 
 #: Core/Objects/SetupModulesUnit.pas:1327
 msgid "machinery diagnostics"
-msgstr ""
+msgstr "diagnosi macchine"
 
 #: Core/Objects/SetupModulesUnit.pas:1328
 msgid "counting procedures"
-msgstr ""
+msgstr "procedure di conteggio"
 
 #: Core/Objects/SetupModulesUnit.pas:1403
 msgid "Triggered alarm outputs (digital, analog or virtual)"
-msgstr ""
+msgstr "Uscite allarmi triggerati (digitali, analogici o virtuali)"
 
 #: Core/Objects/SetupModulesUnit.pas:1679
 msgid "Analog and digital out settings."
@@ -29073,7 +29079,7 @@ msgstr "Definizione di campi metadata per il file."
 
 #: Core/Objects/SetupModulesUnit.pas:2019
 msgid "No fields defined"
-msgstr ""
+msgstr "Nessun campo definito"
 
 #: Core/Objects/SetupModulesUnit.pas:2052
 msgid "Sys. mon."
@@ -29089,19 +29095,19 @@ msgstr "Impostazioni telecamere."
 
 #: Core/Objects/SetupModulesUnit.pas:2259
 msgid "Event list (keyboard, notice, and voice)."
-msgstr ""
+msgstr "Lista eventi (tastiera, nota, voce)"
 
 #: Core/Objects/SetupModulesUnit.pas:2302
 msgid "Read protect data file"
-msgstr ""
+msgstr "Protegge file dati da lettura"
 
 #: Core/Objects/SetupModulesUnit.pas:2357
 msgid "Imports channels from other data files."
-msgstr ""
+msgstr "Importa canali da altri file dati."
 
 #: Core/Objects/SetupModulesUnit.pas:2408
 msgid "All channels shown and editable in one list."
-msgstr ""
+msgstr "Tutti i canali mostrati e modificabili in una lista."
 
 #: Core/Objects/SetupModulesUnit.pas:2456
 msgid "File locking and encryption"
@@ -29112,26 +29118,28 @@ msgid ""
 "This file already contains offline math objects. Delete existing offline "
 "objects?"
 msgstr ""
+"Questo file contiene già oggetti offline. Eliminare gli oggetti offline "
+"esistenti?"
 
 #: Core/Objects/SetupObjectUnit.pas:855
 msgid "This file already contains offline math objects."
-msgstr ""
+msgstr "Questo file contiene già oggetti offline."
 
 #: Core/Objects/SetupObjectUnit.pas:855
 msgid "Delete existing offline objects?"
-msgstr ""
+msgstr "Eliminare gli oggetti offline esistenti?"
 
 #: Core/Objects/SetupObjectUnit.pas:912
 msgid "Registration"
-msgstr ""
+msgstr "Registrazione"
 
 #: Core/Objects/SetupObjectUnit.pas:913
 msgid "Dewesoft not registered for"
-msgstr ""
+msgstr "Dewesoft non è registrato per"
 
 #: Core/Objects/SetupObjectUnit.pas:913
 msgid "math removed"
-msgstr ""
+msgstr "math rimossa"
 
 #: Core/Objects/ShortcutMappingUnit.pas:294
 msgid "Full screen"
@@ -29217,19 +29225,19 @@ msgstr "Livello"
 
 #: Core/Objects/TriggerUnit.pas:1828 Visuals/Frames/TriggerFrameUnit.pas:206
 msgid "AVE of"
-msgstr ""
+msgstr "MEDIA di"
 
 #: Core/Objects/TriggerUnit.pas:1829 Visuals/Frames/TriggerFrameUnit.pas:207
 msgid "RMS of"
-msgstr ""
+msgstr "RMS di"
 
 #: Core/Objects/TriggerUnit.pas:1830 Visuals/Frames/TriggerFrameUnit.pas:208
 msgid "MAX of"
-msgstr ""
+msgstr "MAX di"
 
 #: Core/Objects/TriggerUnit.pas:1831 Visuals/Frames/TriggerFrameUnit.pas:209
 msgid "MIN of"
-msgstr ""
+msgstr "MIN di"
 
 #: Core/Objects/TriggerUnit.pas:1834 Visuals/Frames/TriggerFrameUnit.pas:263
 msgid "Time trigger on"
@@ -29609,7 +29617,7 @@ msgstr "Path assoluto"
 
 #: Core/Sequencer/Visuals/RelAbsPathOpenDialog.pas:108
 msgid "Path"
-msgstr ""
+msgstr "Percorso"
 
 #: Core/Sequencer/Visuals/RelAbsPathOpenDialog.pas:112
 msgid "If you want to use a relative"
@@ -30105,15 +30113,15 @@ msgstr ""
 
 #: Core/Updates/Firmware/FirmwareUpgradingFormUnit.pas:86
 msgid "Disconnecting"
-msgstr ""
+msgstr "Disconnessione"
 
 #: Core/Updates/Firmware/FirmwareUpgradingFormUnit.pas:94
 msgid "Erasing"
-msgstr ""
+msgstr "Eliminazione"
 
 #: Core/Updates/Firmware/FirmwareUpgradingFormUnit.pas:96
 msgid "Reconnecting"
-msgstr ""
+msgstr "Riconnessione"
 
 #: Core/Updates/Firmware/FirmwareUpgradingFormUnit.pas:123
 msgid "Upgrade failed; Error code: "
@@ -30139,7 +30147,7 @@ msgstr "Log eventi"
 
 #: Core/Utilities/DebugFormUnit.pas:710
 msgid "Submit form"
-msgstr ""
+msgstr "Invia form"
 
 #: Core/Utilities/DebugFormUnit.pas:711
 msgid "Debug log"
@@ -30176,7 +30184,7 @@ msgstr ""
 #. system information
 #: Core/Utilities/SysMonitorFrame.pas:106
 msgid "CPU load"
-msgstr ""
+msgstr "Carico CPU"
 
 #: Core/Utilities/SysMonitorFrame.pas:115
 msgid "Memory used"
@@ -30184,16 +30192,16 @@ msgstr "Memoria usata"
 
 #: Core/Utilities/SysMonitorFrame.pas:119
 msgid "Physical"
-msgstr "Physical (input) unit"
+msgstr ""
 
 #: Core/Utilities/SysMonitorFrame.pas:125
 msgid "Fixed disks space"
-msgstr ""
+msgstr "Spazio disco fisso"
 
 #. Dewesoft information
 #: Core/Utilities/SysMonitorFrame.pas:137
 msgid "Acquisition buffer usage"
-msgstr ""
+msgstr "Uso buffer acquisizione"
 
 #: Core/Utilities/SysMonitorFrame.pas:140
 msgid "Daq Data lost"
@@ -30205,7 +30213,7 @@ msgstr ""
 
 #: Core/Utilities/SysMonitorFrame.pas:155
 msgid "Video information"
-msgstr ""
+msgstr "Informazioni video"
 
 #: Core/Utilities/SysMonitorFrame.pas:161
 msgid "Video rate"
@@ -30214,30 +30222,30 @@ msgstr ""
 #. critical limit
 #: Core/Utilities/SysMonitorUnit.pas:608
 msgid "Critical limit exceeded"
-msgstr ""
+msgstr "Limite critico superato"
 
 #. since it is already running!
 #: Core/Utilities/SysMonitorUnit.pas:616
 msgid "Critical limit exceeded for channel"
-msgstr ""
+msgstr "Limite critico superato per canale"
 
 #. warning limit
 #: Core/Utilities/SysMonitorUnit.pas:627
 msgid "Warning limit exceeded"
-msgstr ""
+msgstr "Avviso limite superato"
 
 #: Core/Utilities/SysMonitorUnit.pas:801
 msgid "Battery"
-msgstr ""
+msgstr "Batteria"
 
 #: Core/Utilities/VoiceDaq.pas:228
 #: Visuals/Frames/GlobalSettingsFrameUnit.pas:684
 msgid "Unable to initialize microphone"
-msgstr ""
+msgstr "Impossibile inizializzare il microfono"
 
 #: Core/Utilities/RemoteControl/CustomRemoteControlUnit.pas:55
 msgid "Please wait until connection with the server is established."
-msgstr ""
+msgstr "Prego attendere fino alla connessione con il server."
 
 #. Programmer's name for it: dtlServerPage
 #. Programmer's name for it: dtlOcxPage
@@ -30296,20 +30304,20 @@ msgstr ""
 
 #: Core/Variables/Visuals/VariableOpenDialogUnit.pas:94
 msgid "Merge mode"
-msgstr ""
+msgstr "Modo unione"
 
 #. first time only
 #: Core/Variables/Visuals/VariableOpenDialogUnit.pas:97
 msgid "No merge (add variables)"
-msgstr ""
+msgstr "Non unire (aggiungi variabile)"
 
 #: Core/Variables/Visuals/VariableOpenDialogUnit.pas:98
 msgid "By channel name"
-msgstr ""
+msgstr "Per nome canale"
 
 #: Core/Variables/Visuals/VariableOpenDialogUnit.pas:99
 msgid "By channel index"
-msgstr ""
+msgstr "Per indice canale"
 
 #: Core/Variables/Visuals/VariableOpenDialogUnit.pas:111
 msgid "Keep existing variables"
@@ -30420,15 +30428,15 @@ msgstr "Selezionare almeno un canale."
 
 #: DEWEsoft/MainUnit.pas:2632
 msgid "Triggering disabled on following offline channels"
-msgstr ""
+msgstr "Il triggering è disabilitato sui seguenti canali offline"
 
 #: DEWEsoft/MainUnit.pas:2646 DEWEsoft/MainUnit.pas:2648
 msgid "Sample rate not equal on all MUs"
-msgstr ""
+msgstr "Il campionamento non è uguale su tutte le MUs"
 
 #: DEWEsoft/MainUnit.pas:2660 DEWEsoft/MainUnit.pas:2663
 msgid "Please wait until modules are scanned!"
-msgstr ""
+msgstr "Prego attendere la scansione dei moduli"
 
 #. else if Data.StoringType > 0 then
 #: DEWEsoft/MainUnit.pas:2885 DEWEsoft/MainUnit.pas:2888
@@ -30437,7 +30445,7 @@ msgstr "Carica Data File"
 
 #: DEWEsoft/MainUnit.pas:3929
 msgid "Ethercat libraries failed to load"
-msgstr ""
+msgstr "Errore caricamento librerie Ethercat"
 
 #: DEWEsoft/MainUnit.pas:3929
 msgid "or"
@@ -30449,16 +30457,16 @@ msgstr "Nessun canale selezionato per registrazione"
 
 #: DEWEsoft/MainUnit.pas:4467 DEWEsoft/MainUnit.pas:6754
 msgid "Not enough free disk space. Cannot start storing."
-msgstr ""
+msgstr "Spazio disco insufficiente. Impossibile registrare."
 
 #. first scan of modules
 #: DEWEsoft/MainUnit.pas:4568
 msgid "Updating amplifiers"
-msgstr ""
+msgstr "Aggiornamento amplificatori"
 
 #: DEWEsoft/MainUnit.pas:4670
 msgid "First scan of amplifiers"
-msgstr ""
+msgstr "Prima scansione amplificatori"
 
 #: DEWEsoft/MainUnit.pas:4713
 msgid "Loading setup"
@@ -30466,11 +30474,11 @@ msgstr "Caricamento setup"
 
 #: DEWEsoft/MainUnit.pas:4829
 msgid "Loading setup on MU"
-msgstr ""
+msgstr "Caricamento setup su MU"
 
 #: DEWEsoft/MainUnit.pas:4909
 msgid "Please stop acquistion"
-msgstr ""
+msgstr "Prego fermare l'acquisizione"
 
 #: DEWEsoft/MainUnit.pas:4912
 msgid "Loading settings"
@@ -30482,20 +30490,20 @@ msgstr "Chiusura impostazioni"
 
 #: DEWEsoft/MainUnit.pas:5063
 msgid "Setup version"
-msgstr ""
+msgstr "Versione setup"
 
 #: DEWEsoft/MainUnit.pas:5134 DEWEsoft/MainUnit.pas:10533
 #: DEWEsoft/MainUnit.pas:14444 DEWEsoft/MainUnit.pas:19190
 msgid "File locked"
-msgstr ""
+msgstr "File protetto"
 
 #: DEWEsoft/MainUnit.pas:5226
 msgid "Importing CA module not supported"
-msgstr ""
+msgstr "Importazione modulo CA non supportato"
 
 #: DEWEsoft/MainUnit.pas:5273
 msgid "Error at load setup"
-msgstr "Errore Caricamento Setup"
+msgstr "Errore caricamento setup"
 
 #: DEWEsoft/MainUnit.pas:5346
 msgid "No last setup saved"
@@ -30511,14 +30519,16 @@ msgid ""
 "Data header is not the same as in the setup file. To fix this, import the "
 "header from setup file and reload the setup."
 msgstr ""
+"L'intestazione è diversa dal file di setup. Per risolvere importare "
+"importare l'intestazoine dal setup."
 
 #: DEWEsoft/MainUnit.pas:6684
 msgid "(BEFORE storing)"
-msgstr ""
+msgstr "(PRIMA di registrare)"
 
 #: DEWEsoft/MainUnit.pas:6687
 msgid "(AFTER storing)"
-msgstr ""
+msgstr "(DOPO registrazione)"
 
 #: DEWEsoft/MainUnit.pas:6707 Visuals/Frames/AddItemFrameUnit.pas:902
 msgid "New setup defaults"
@@ -30536,7 +30546,7 @@ msgstr ""
 #. Check if possible to write to file
 #: DEWEsoft/MainUnit.pas:6793
 msgid "Access denied"
-msgstr ""
+msgstr "Accesso negato"
 
 #: DEWEsoft/MainUnit.pas:6795
 msgid "Invalid file name"
@@ -30544,7 +30554,7 @@ msgstr "Nome file non valido"
 
 #: DEWEsoft/MainUnit.pas:6987
 msgid "Printer error or no printer is currently selected."
-msgstr ""
+msgstr "Errore di stampa o nessura stampante selezionata."
 
 #: DEWEsoft/MainUnit.pas:7637
 msgid "Mem left"
@@ -30581,23 +30591,25 @@ msgstr ""
 
 #: DEWEsoft/MainUnit.pas:8504
 msgid "One or more required inputs are empty!"
-msgstr ""
+msgstr "Uno o più campi necessari sono vuoti!"
 
 #: DEWEsoft/MainUnit.pas:9121
 msgid "Error setting sample rate on MU"
-msgstr ""
+msgstr "Errore di impostazione campionamento su MU"
 
 #: DEWEsoft/MainUnit.pas:9180
 msgid "Unable to set sample rate on measurement unit(s)."
-msgstr ""
+msgstr "Impossibile impostare la freq di campionamento sulle unità di misura."
 
 #: DEWEsoft/MainUnit.pas:9181
 msgid "Measurement unit(s) is (are) in remote display setup."
-msgstr ""
+msgstr "Le unità di misura sono in setup display remoto."
 
 #: DEWEsoft/MainUnit.pas:9182
 msgid "Go out of remote display setup and set sample rate again."
 msgstr ""
+"Esci dal setup del display remoto e imposta la frequenza di campionamento di "
+"nuovo."
 
 #: DEWEsoft/MainUnit.pas:9750
 msgid "Name of display"
@@ -30613,34 +30625,36 @@ msgstr "Vuoi veramente cancellare ultimo display?"
 
 #: DEWEsoft/MainUnit.pas:10061
 msgid "Post sync of zipped files not supported"
-msgstr ""
+msgstr "Post sync dei file compressi non è supportato"
 
 #: DEWEsoft/MainUnit.pas:10079 SharedLib/DS.Utils.pas:2255
 #: SharedLib/DS.Utils.pas:2271
 msgid "Unable to rename video file"
-msgstr ""
+msgstr "Impossibile rinominare file video"
 
 #: DEWEsoft/MainUnit.pas:10175
 msgid "Do you want to save the changes to"
-msgstr ""
+msgstr "Vuoi salvare modifiche su"
 
 #: DEWEsoft/MainUnit.pas:10200
 msgid "Initializing measurement"
-msgstr ""
+msgstr "Inizializzazione misura"
 
 #: DEWEsoft/MainUnit.pas:10202
 msgid "Initializing channel setup"
-msgstr ""
+msgstr "Inizializzazione setup canale"
 
 #: DEWEsoft/MainUnit.pas:10341
 msgid "Storing in progress. Press stop"
-msgstr ""
+msgstr "Salvataggio in corso. Premi stop"
 
 #: DEWEsoft/MainUnit.pas:10516
 msgid ""
 "Partially calculated channels will be set to offline. Do you want to save "
 "anyway"
 msgstr ""
+"I canali calcolati parzialmente saranno impostati a offline. Vuoi salvare "
+"comunque"
 
 #: DEWEsoft/MainUnit.pas:10543
 msgid "File is write protected"
@@ -30649,7 +30663,7 @@ msgstr "File protetto"
 #: DEWEsoft/MainUnit.pas:10559
 msgid ""
 "Setup saved to data file! Do you want to store data for calculated channels?"
-msgstr ""
+msgstr "Setup salvato nel file dati! Vuoi salvare dati per i canali calcolati?"
 
 #: DEWEsoft/MainUnit.pas:10580
 msgid "File not opened"
@@ -30657,23 +30671,23 @@ msgstr "File non aperto"
 
 #: DEWEsoft/MainUnit.pas:10751
 msgid "Export scope to AVI"
-msgstr ""
+msgstr "Esporta oscilloscopio in AVI"
 
 #: DEWEsoft/MainUnit.pas:10829
 msgid "No files selected for export"
-msgstr ""
+msgstr "Non ci sono file selezionati per esportazione"
 
 #: DEWEsoft/MainUnit.pas:11133 DEWEsoft/MainUnit.pas:11148
 msgid "Exporting file"
-msgstr ""
+msgstr "Esportazione file"
 
 #: DEWEsoft/MainUnit.pas:11133 DEWEsoft/MainUnit.pas:11208
 msgid "of"
-msgstr ""
+msgstr "di"
 
 #: DEWEsoft/MainUnit.pas:11344
 msgid "Dewesoft manual is not installed!"
-msgstr ""
+msgstr "Il manuale Dewesoft non è installato!"
 
 #: DEWEsoft/MainUnit.pas:11358
 msgid "Dewesoft tutorials are not installed!"
@@ -30686,15 +30700,15 @@ msgstr "Impossibile aprire il documento"
 #. if data is being stored, don't close the form
 #: DEWEsoft/MainUnit.pas:11406
 msgid "Data is being stored. Please stop the acquisition before exiting."
-msgstr ""
+msgstr "Salvataggio dati. Non fermare l'acquisizione prima della fine."
 
 #: DEWEsoft/MainUnit.pas:12420
 msgid "Invalid file structure. No channels were stored."
-msgstr ""
+msgstr "Struttura file non valida. I canali non sono stati salvati."
 
 #: DEWEsoft/MainUnit.pas:12440
 msgid "This file requires new version of Dewesoft"
-msgstr ""
+msgstr "Questo file necessita di una nuova versione di Dewesoft"
 
 #: DEWEsoft/MainUnit.pas:12474
 msgid "No data in file"
@@ -30710,7 +30724,7 @@ msgstr ""
 
 #: DEWEsoft/MainUnit.pas:12882
 msgid "Offline math not supported for files with reduced data"
-msgstr ""
+msgstr "Matematica offline non supportata su files con dati ridotti"
 
 #: DEWEsoft/MainUnit.pas:13042
 msgid "REW"
@@ -30718,26 +30732,30 @@ msgstr ""
 
 #: DEWEsoft/MainUnit.pas:13068
 msgid "Output rate too high. Decrease replay speed."
-msgstr ""
+msgstr "Rate di uscita troppo alto. Ridurre la velocità replay."
 
 #: DEWEsoft/MainUnit.pas:13201
 msgid ""
 "Selected files will be reverted to acquired data - all postprocessing will "
 "be lost!"
 msgstr ""
+"I files selezionati saranno ripristinati come acquisiti - tutti i calcoli "
+"successivi saranno persi!"
 
 #: DEWEsoft/MainUnit.pas:13235
 msgid "Unable to revert file(s)"
-msgstr ""
+msgstr "Impossibile ripristinare i file(s)"
 
 #: DEWEsoft/MainUnit.pas:13243
 msgid ""
 "File will be reverted to acquired data - all postprocessing will be lost!"
 msgstr ""
+"Il file sarà ripristinato come da acquisizione - tutti i dati calcolati "
+"successivamente saranno persi!"
 
 #: DEWEsoft/MainUnit.pas:13258
 msgid "Unable to revert file"
-msgstr ""
+msgstr "Impossible ripristinare file"
 
 #: DEWEsoft/MainUnit.pas:13582 DEWEsoft/MainUnit.pas:16391
 msgid "Resume"
@@ -30754,46 +30772,50 @@ msgstr "Reset counters PAD-CNT"
 #: DEWEsoft/MainUnit.pas:14213 Visuals/Frames/EventFrameUnit.pas:258
 #: Visuals/Frames/FileInfoFrameUnit.pas:341
 msgid "more events"
-msgstr ""
+msgstr "più eventi"
 
 #: DEWEsoft/MainUnit.pas:14438
 msgid "Not supported for multifiles"
-msgstr ""
+msgstr "Non supportato per multifiles"
 
 #: DEWEsoft/MainUnit.pas:14450
 msgid "Not supported for high speed video"
-msgstr ""
+msgstr "Non supportato per video ad alta velocità"
 
 #: DEWEsoft/MainUnit.pas:14463
 msgid "Save data file as"
-msgstr ""
+msgstr "Salva file dati come"
 
 #: DEWEsoft/MainUnit.pas:14480
 msgid "Failed to save file"
-msgstr ""
+msgstr "Salvataggio file fallito"
 
 #: DEWEsoft/MainUnit.pas:14597 DEWEsoft/MainUnit.pas:15575
 msgid "Initializing"
-msgstr ""
+msgstr "Inizializzazione"
 
 #: DEWEsoft/MainUnit.pas:14969 DEWEsoft/MainUnit.pas:14996
 msgid ""
 "Cannot export to AVI when file is opened in video post synchronization mode"
 msgstr ""
+"Impossibile esportare su AVI quando il file è aperto in modalità post-"
+"sincronizzazione video"
 
 #: DEWEsoft/MainUnit.pas:14971 DEWEsoft/MainUnit.pas:14998
 msgid ""
 "Cannot export to AVI when file is opened in high speed video download mode"
 msgstr ""
+"Impossibile esportare su AVI quando il file è aperto in modalità download "
+"video alta velocità"
 
 #: DEWEsoft/MainUnit.pas:16296 Visuals/Frames/FileInfoFrameUnit.pas:543
 #: Visuals/Frames/FileInfoFrameUnit.pas:565
 msgid "Wrong password"
-msgstr ""
+msgstr "Password errata"
 
 #: DEWEsoft/MainUnit.pas:16354
 msgid "Enter new file name"
-msgstr ""
+msgstr "Inserire nuovo nome"
 
 #: DEWEsoft/MainUnit.pas:16366 DEWEsoft/MainUnit.pas:16375
 msgid "Unable to rename file"
@@ -30801,7 +30823,7 @@ msgstr "Impossibile rinominare file"
 
 #: DEWEsoft/MainUnit.pas:16371
 msgid "Can not rename file. Filename already exists"
-msgstr ""
+msgstr "Impossibile rinomicare file. Esiste già un file con lo stesso nome"
 
 #: DEWEsoft/MainUnit.pas:16558
 msgid "Scanning AO watchdogs"
@@ -30821,46 +30843,46 @@ msgstr "campionamento"
 
 #: DEWEsoft/MainUnit.pas:16897
 msgid "bandwidth"
-msgstr "banda"
+msgstr ""
 
 #: DEWEsoft/MainUnit.pas:16978 DEWEsoft/MainUnit.pas:16979
 #: DEWEsoft/MainUnit.pas:16980
 msgid "fixed external clock"
-msgstr ""
+msgstr "clock esterno fisso"
 
 #: DEWEsoft/MainUnit.pas:16981
 msgid "variable clock - encoder"
-msgstr ""
+msgstr "clock variabile - encoder"
 
 #: DEWEsoft/MainUnit.pas:17507
 msgid "Disconnect from measurement units"
-msgstr ""
+msgstr "Disconnetti dalle unità di misura"
 
 #. developer
 #: DEWEsoft/MainUnit.pas:18194
 msgid "Developer"
-msgstr ""
+msgstr "Sviluppatore"
 
 #: DEWEsoft/MainUnit.pas:18317
 msgid "Unable to start steps recorder"
-msgstr ""
+msgstr "Impossibile lanciare steps recorder"
 
 #: DEWEsoft/MainUnit.pas:18328
 #| msgid "Unable to open"
 msgid "Unable to stop steps recorder"
-msgstr ""
+msgstr "Impossibile fermare steps recorder"
 
 #: DEWEsoft/MainUnit.pas:18344
 msgid "Fan on"
-msgstr ""
+msgstr "Ventola on"
 
 #: DEWEsoft/MainUnit.pas:18348
 msgid "Fan off"
-msgstr ""
+msgstr "Ventola off"
 
 #: DEWEsoft/MainUnit.pas:18356
 msgid "Save video"
-msgstr ""
+msgstr "Salva video"
 
 #: DEWEsoft/MainUnit.pas:18725 DEWEsoft/MainUnit.pas:18786
 #: Visuals/Frames/RecallFrameUnit.pas:425
@@ -30870,10 +30892,12 @@ msgstr "Sei sicuro di voler eliminare"
 #: DEWEsoft/MainUnit.pas:18839
 msgid "Plugin is project related and can be added/removed only in settings"
 msgstr ""
+"I plugin sono parte del progetto e possono essere aggiunti/rimossi sono in "
+"settings"
 
 #: DEWEsoft/MainUnit.pas:19241
 msgid "Acquiring"
-msgstr ""
+msgstr "In acquisizione"
 
 #: DEWEsoft/MainUnit.pas:19249 DEWEsoft/MainUnit.pas:19252
 #: DEWEsoft/MainUnit.pas:19253 DEWEsoft/MainUnit.pas:19254
@@ -30890,19 +30914,19 @@ msgstr ""
 
 #: DEWEsoft/MainUnit.pas:19578
 msgid "Shunt - all off"
-msgstr ""
+msgstr "Shunt - tutti off"
 
 #: DEWEsoft/MainUnit.pas:19586 DEWEsoft/MainUnit.pas:19606
 msgid "Shunt - all on"
-msgstr ""
+msgstr "Shunt - tutti on"
 
 #: DEWEsoft/MainUnit.pas:19613
 msgid "Excitation - all off"
-msgstr ""
+msgstr "Eccitazione - tutti off"
 
 #: DEWEsoft/MainUnit.pas:19683
 msgid "Recalculating"
-msgstr ""
+msgstr "Ricalcolo"
 
 #: DEWEsoft/MainUnit.pas:19766 DEWEsoft/MainUnit.pas:19768
 msgid "Ext. cal."
@@ -30910,27 +30934,27 @@ msgstr ""
 
 #: DEWEsoft/MainUnit.pas:19845
 msgid "EPAD_BASE2 communication restored"
-msgstr ""
+msgstr "Ristabilita comunicazione con EPAD_BASE2"
 
 #: DEWEsoft/MainUnit.pas:19846
 msgid "EPAD_BASE2 communication lost"
-msgstr ""
+msgstr "persa comunicazione con EPAD_BASE2"
 
 #. warn if Dewesoft is in zoom mode (i.e. export area is shorter than the actual recording)
 #: DEWEsoft/MainUnit.pas:20571
 msgid ""
 "Only the zoomed region of the data file will be exported. Do you want to "
 "continue?"
-msgstr ""
+msgstr "Solo i dati attualmente visibili saranno esportati. Vuoi continuare ?"
 
 #: DEWEsoft/MainUnit.pas:20576
 msgid "Please select min, max, RMS and ave setting"
-msgstr ""
+msgstr "Prego selezionare impostazioni min, max, RMS e media"
 
 #. don't allow deleting all templates, at least one template must be left intact
 #: DEWEsoft/MainUnit.pas:20844
 msgid "Deleting the only existing Excel template is not allowed!"
-msgstr ""
+msgstr "Impossibile cancella l'unico template Excel esistente!"
 
 #: DEWEsoft/MainUnit.pas:20862
 msgid "Do you really want to delete template?"
@@ -30938,11 +30962,11 @@ msgstr "Vuoi veramente cancellare template?"
 
 #: DEWEsoft/MainUnit.pas:21398
 msgid "Excitation all on"
-msgstr ""
+msgstr "Abilita tutte exc"
 
 #: DEWEsoft/MainUnit.pas:21406
 msgid "Excitation all off"
-msgstr ""
+msgstr "Disabilita tutte exc"
 
 #: SharedLib/DS.UI.DSChannelsGridUnit.pas:927
 #: Visuals/Frames/ChannelsDSGridView.pas:443 Visuals/Frames/PreviewUnit.pas:165
@@ -30952,16 +30976,16 @@ msgstr ""
 #: SharedLib/DS.UI.DSChannelsGridUnit.pas:929
 #: Visuals/Frames/ChannelsDSGridView.pas:449
 msgid "Amplifier info"
-msgstr ""
+msgstr "Info amplificatore"
 
 #: SharedLib/DS.UI.DSChannelsGridUnit.pas:942
 msgid "Export order"
-msgstr ""
+msgstr "Ordine exportazione"
 
 #: SharedLib/DS.UI.DSChannelsGridUnit.pas:943
 #: Visuals/Frames/ExportSelectFrameUnit.pas:251
 msgid "Export rate"
-msgstr ""
+msgstr "Rate esportazione"
 
 #: SharedLib/DS.UI.DSChannelsGridUnit.pas:944
 #| msgid "Buffer used"
@@ -30971,12 +30995,12 @@ msgstr "Dimensione buffer"
 #: SharedLib/DS.UI.DSComponentsUnit.pas:4183
 #: SharedLib/DS.UI.DSComponentsUnit.pas:4212
 msgid "Value must be at least"
-msgstr ""
+msgstr "Valore più grande di"
 
 #: SharedLib/DS.UI.DSComponentsUnit.pas:4188
 #: SharedLib/DS.UI.DSComponentsUnit.pas:4217
 msgid "Value must not be above"
-msgstr ""
+msgstr "Valore inferiore a"
 
 #: SharedLib/DS.UI.DSComponentsUnit.pas:4198
 msgid "Only integer numbers are allowed"
@@ -31098,31 +31122,31 @@ msgstr "Ora evento successiva allo stop."
 
 #: Visuals/Forms/ChannelInfoForm.pas:125
 msgid "Sample size"
-msgstr ""
+msgstr "Dim campione"
 
 #: Visuals/Forms/ChannelInfoForm.pas:129
 msgid "Array size"
-msgstr ""
+msgstr "Dim array"
 
 #: Visuals/Forms/ChannelInfoForm.pas:133
 msgid "Data precision"
-msgstr ""
+msgstr "Precisione dati"
 
 #: Visuals/Forms/ChannelInfoForm.pas:149
 msgid "Calc delay"
-msgstr ""
+msgstr "Ritardo calc"
 
 #: Visuals/Forms/ChannelRemappingFormUnit.pas:829
 msgid "Cannot connect"
-msgstr ""
+msgstr "Impossibile connettere"
 
 #: Visuals/Forms/ChannelRemappingFormUnit.pas:845
 msgid "Cannot connect group to single slot"
-msgstr ""
+msgstr "Impossibile collegare gruppo ad uno slot singolo"
 
 #: Visuals/Forms/ChannelRemappingFormUnit.pas:987
 msgid "New filename must be different than original"
-msgstr ""
+msgstr "Il nuovo nome deve essere diverso dal precedente"
 
 #: Visuals/Forms/DiscreteListFormUnit.pas:196
 msgid "Transparent"
@@ -31134,15 +31158,15 @@ msgstr "Carica immagine"
 
 #: Visuals/Forms/DownloadFormUnit.pas:66
 msgid "Reading files for download"
-msgstr ""
+msgstr "Lettura files da scaricare"
 
 #: Visuals/Forms/DownloadFormUnit.pas:76
 msgid "No files for transfer"
-msgstr ""
+msgstr "Nessun file da trasferire"
 
 #: Visuals/Forms/DownloadFormUnit.pas:78
 msgid "files waiting for download"
-msgstr ""
+msgstr "files in attesa di essere scaricati"
 
 #: Visuals/Forms/DownloadFormUnit.pas:127
 msgid "Downloading"
@@ -31179,20 +31203,20 @@ msgstr "Esportazione fallita"
 #: Visuals/Forms/SensorEditorUnitX.pas:173
 #: Visuals/Forms/SensorEditorUnitX.pas:1101
 msgid "Duplicate sensor serial numbers are not allowed!"
-msgstr ""
+msgstr "Non sono ammessi SN duplicati per sensori!"
 
 #: Visuals/Forms/SensorEditorUnitX.pas:174
 msgid "Do you want to exit without saving changes?"
-msgstr ""
+msgstr "Vuoi uscire senza salvare le modifiche ?"
 
 #: Visuals/Forms/SensorEditorUnitX.pas:197
 msgid "Sensor database changed"
-msgstr ""
+msgstr "Database sensori modificato"
 
 #. not UseCustomOffset
 #: Visuals/Forms/SensorEditorUnitX.pas:242
 msgid "Fixed offset"
-msgstr ""
+msgstr "Offset fisso"
 
 #. Measurement
 #: Visuals/Forms/SensorEditorUnitX.pas:244
@@ -31202,7 +31226,7 @@ msgstr ""
 #. ChannelDesc
 #: Visuals/Forms/SensorEditorUnitX.pas:257
 msgid "Ch. description"
-msgstr ""
+msgstr "Descrizione ch."
 
 #. CalInitials
 #: Visuals/Forms/SensorEditorUnitX.pas:261
@@ -31219,6 +31243,8 @@ msgid ""
 "Sensor is present in current setup. Are you sure you want to delete this "
 "sensor?"
 msgstr ""
+"Il sensore è usato nel setup corrente. Sei sicuro di voler eliminare questa "
+"sessione?"
 
 #: Visuals/Forms/SensorEditorUnitX.pas:735
 #: Visuals/Forms/SensorEditorUnitX.pas:811
@@ -31232,7 +31258,7 @@ msgstr "Tabella"
 
 #: Visuals/Forms/SensorEditorUnitX.pas:1102
 msgid "Sensor database was not stored."
-msgstr ""
+msgstr "Il database sensori non è salvato."
 
 #: Visuals/Forms/ServersFormUnit.pas:87
 msgid "subnet"
@@ -31240,11 +31266,11 @@ msgstr ""
 
 #: Visuals/Forms/SplashScreenUnit.pas:419
 msgid "You are using evaluation version "
-msgstr ""
+msgstr "Stai utilizzando la versione di valutazione"
 
 #: Visuals/Forms/TimeSelectUnit.pas:197
 msgid "Time is not valid"
-msgstr ""
+msgstr "Tempo non valido"
 
 #: Visuals/Forms/TriggerSetupUnit.pas:194
 msgid "equal to"
@@ -31253,15 +31279,15 @@ msgstr "uguale a"
 #: Visuals/Forms/TriggerSetupUnit.pas:197
 #: Visuals/Forms/TriggerSetupUnit.pas:274
 msgid "after start trig"
-msgstr ""
+msgstr "dopo trg start"
 
 #: Visuals/Forms/TriggerSetupUnit.pas:201
 msgid "greater than"
-msgstr ""
+msgstr "più grande di"
 
 #: Visuals/Forms/TriggerSetupUnit.pas:202
 msgid "less than"
-msgstr ""
+msgstr "meno di"
 
 #. DATA TRIGGERS
 #. FFT TRIGGER
@@ -31272,7 +31298,7 @@ msgstr "Nessun Canale scelto per trigger."
 
 #: Visuals/Forms/TriggerSetupUnit.pas:584
 msgid "Preview of data unavailable"
-msgstr ""
+msgstr "Anteprima dati non disponibile"
 
 #: Visuals/Forms/TriggerSetupUnit.pas:903
 #: Visuals/Forms/TriggerSetupUnit.pas:904
@@ -31291,28 +31317,28 @@ msgstr ""
 #: Visuals/Forms/VersionInfoUnit.pas:178
 #: Visuals/Frames/Settings/ExtensionsFrameUnit.pas:95
 msgid "Please restart Dewesoft"
-msgstr ""
+msgstr "Prego riavviare Dewesoft"
 
 #: Visuals/Forms/VideoCompressUnit.pas:76
 #: Visuals/Forms/VideoCompressUnit.pas:90
 msgid "Compress in progress"
-msgstr ""
+msgstr "Compressione in corso"
 
 #: Visuals/Forms/VideoCompressUnit.pas:79
 msgid "File is not opened"
-msgstr ""
+msgstr "Il file non è aperto"
 
 #: Visuals/Forms/VideoCompressUnit.pas:82
 msgid "No video files"
-msgstr ""
+msgstr "Nessun file video"
 
 #: Visuals/Forms/VideoExportUnit.pas:361
 msgid "Export region too low"
-msgstr ""
+msgstr "Regione da esportare troppo piccola"
 
 #: Visuals/Forms/VideoExportUnit.pas:429
 msgid "Exporting display as video"
-msgstr ""
+msgstr "Esporta display come video"
 
 #: Visuals/Forms/VideoPostSyncUnit.pas:90
 msgid "from position"
@@ -31321,15 +31347,15 @@ msgstr "da posizione"
 #: Visuals/Frames/AdvancedSettingsFrameUnit.pas:248
 #: Visuals/Frames/AdvancedSettingsFrameUnit.pas:266
 msgid "Debug features"
-msgstr ""
+msgstr "Funzionalità di debug"
 
 #: Visuals/Frames/ChannelSelectFrameUnit.pas:587
 msgid "RMS will no longer be available for this channel."
-msgstr ""
+msgstr "RMS non sarà più disponibile per questo canale"
 
 #: Visuals/Frames/ChannelSelectFrameUnit.pas:1397
 msgid "more"
-msgstr ""
+msgstr "più"
 
 #: Visuals/Frames/ControlChannelsFrameUnit.pas:308
 msgid "On start measurement"
@@ -31364,58 +31390,61 @@ msgstr "Vuoi veramente eliminare questo evento ?"
 #: Visuals/Frames/ExportSelectFrameUnit.pas:247
 #: Visuals/Frames/ExportSelectFrameUnit.pas:302
 msgid "Acq. rate"
-msgstr ""
+msgstr "Freq. acq."
 
 #: Visuals/Frames/ExportSelectFrameUnit.pas:370
 #: Visuals/Frames/ExportSelectFrameUnit.pas:1115
 msgid "Once per cycle"
-msgstr ""
+msgstr "Uno per ciclo"
 
 #: Visuals/Frames/ExportSelectFrameUnit.pas:371
 #: Visuals/Frames/ExportSelectFrameUnit.pas:1116
 msgid "Averaged cycle"
-msgstr ""
+msgstr "Ciclo mediato"
 
 #: Visuals/Frames/FileInfoFrameUnit.pas:260
 msgid "No password entered"
-msgstr ""
+msgstr "Nessuna password inserita"
 
 #: Visuals/Frames/FileInfoFrameUnit.pas:267
 msgid "Password does not match"
-msgstr ""
+msgstr "La password non coincide"
 
 #: Visuals/Frames/FileInfoFrameUnit.pas:274
 msgid "File will be permanently locked and no unlock option will be available."
 msgstr ""
+"Il file sarà protetto permanentemente e non sarà disponibile alcuna "
+"impostazione di sblocco."
 
 #: Visuals/Frames/FileInfoFrameUnit.pas:274
 msgid "Are you sure you want to lock the file?"
-msgstr ""
+msgstr "Sicuro di voler proteggere il file ?"
 
 #: Visuals/Frames/FileInfoFrameUnit.pas:470
 msgid "File locking not supported for .dxz files."
-msgstr ""
+msgstr "Protezione file non supportata per files .dxz"
 
 #: Visuals/Frames/FileInfoFrameUnit.pas:484
 msgid ""
 "File is unlocked for this session. When closing it, it will be locked again."
 msgstr ""
+"Il file è protetto per questa sessione. Sarà bloccato nuovamente in chiusura."
 
 #: Visuals/Frames/FileInfoFrameUnit.pas:486
 msgid "File is permanently locked. It can't be edited."
-msgstr ""
+msgstr "Il file è protetto permanentemente. Non può essere modificato."
 
 #: Visuals/Frames/FileInfoFrameUnit.pas:488
 msgid "File is locked with password. Enter the password to modify it."
-msgstr ""
+msgstr "Il file è protetto con password. Inserire la password per modificarlo."
 
 #: Visuals/Frames/FileInfoFrameUnit.pas:496
 msgid "Locked (permanent)"
-msgstr ""
+msgstr "Protetto (permanente)"
 
 #: Visuals/Frames/FileInfoFrameUnit.pas:502
 msgid "File is not locked and can be freely modified"
-msgstr ""
+msgstr "Il file non è protetto e può essere modificato liberamente"
 
 #. DispName: array[0..MAX_PATH] of Char;
 #. DispName: array[0..MAX_PATH] of Char;
@@ -31426,32 +31455,32 @@ msgstr "Set main data directory"
 
 #: Visuals/Frames/FileListFrameUnit.pas:911
 msgid "Custom data header field"
-msgstr ""
+msgstr "Campo intestazione personalizzato"
 
 #: Visuals/Frames/FileListFrameUnit.pas:911
 msgid "Enter field name"
-msgstr ""
+msgstr "Inserire nome campo"
 
 #: Visuals/Frames/FileListFrameUnit.pas:1195
 msgid "Do you really want to delete multiple files?"
-msgstr ""
+msgstr "Vuoi veramente eliminare files multipli?"
 
 #: Visuals/Frames/FileListFrameUnit.pas:1213
 #: Visuals/Frames/FileListFrameUnit.pas:1240
 msgid "Do you want to delete attached video files?"
-msgstr ""
+msgstr "Vuoi veramente eliminare i files video allegati"
 
 #: Visuals/Frames/FileListFrameUnit.pas:1227
 msgid "Some or all files could not be deleted"
-msgstr ""
+msgstr "Alcuni o tutti i file non possono essere eliminati"
 
 #: Visuals/Frames/FileListFrameUnit.pas:1233
 msgid "Do you really want to delete file"
-msgstr ""
+msgstr "Vuoi veramente cancellare il file"
 
 #: Visuals/Frames/FileListFrameUnit.pas:1249
 msgid "Failed to delete file"
-msgstr ""
+msgstr "Impossibile cancellare file"
 
 #: Visuals/Frames/FileListFrameUnit.pas:2429
 msgid "Setup info"
