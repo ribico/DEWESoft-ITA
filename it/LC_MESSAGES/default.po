@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2017-08-31 16:50\n"
-"PO-Revision-Date: 2017-09-21 21:10+0200\n"
+"PO-Revision-Date: 2017-09-23 17:09+0200\n"
 "Last-Translator: Somebody <your.email@address.com>\n"
 "Language-Team: \n"
 "Language: it\n"
@@ -22412,11 +22412,13 @@ msgid ""
 "This option will disable hardware dual core switching on Sirius-CD. Dewesoft "
 "will do the gain switching instead."
 msgstr ""
+"Questa opzione disabilita il dual core hardware, sarà Dewesoft a fare lo "
+"switch del guadagno."
 
 #. AdvancedSettingsFrame2..DSPageControl1..Debug..ScrollBox4..DebugLayoutPanel..DebugHWGroup..ReadEmptyCANMessagesProp..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1530
 msgid "Read empty CAN messages"
-msgstr ""
+msgstr "Leggi messaggi CAN vuoti"
 
 #. AdvancedSettingsFrame2..DSPageControl1..Debug..ScrollBox4..DebugLayoutPanel..DebugHWGroup..DisableRetransmitProp..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1550
@@ -22441,12 +22443,12 @@ msgstr ""
 #. AdvancedSettingsFrame2..DSPageControl1..Debug..ScrollBox4..DebugLayoutPanel..DebugHWGroup..CANTimeoutProp..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1596
 msgid "CAN timeout"
-msgstr ""
+msgstr "Timeout CAN"
 
 #. AdvancedSettingsFrame2..DSPageControl1..Debug..ScrollBox4..DebugLayoutPanel..DSPropertyGroup7..XMLDefaultsProp..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1629
 msgid "Write XML defaults"
-msgstr ""
+msgstr "Valori defaults su XML"
 
 #. AdvancedSettingsFrame2..DSPageControl1..Debug..ScrollBox4..DebugLayoutPanel..DSPropertyGroup7..XMLDefaultsProp....Description
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1632
@@ -22454,6 +22456,8 @@ msgid ""
 "If this is checked, also default properties will be written inside XMLs, "
 "which will increase file size."
 msgstr ""
+"Al check, anche le proprietà di default saranno scritte nei file XML, la "
+"dimensione del file sarà più grande."
 
 #. AdvancedSettingsFrame2..DSPageControl1..Debug..ScrollBox4..DebugLayoutPanel..DSDebugSeqGroup..SlackBotURLSeqProp..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1661
@@ -22463,12 +22467,12 @@ msgstr ""
 #. AdvancedSettingsFrame2..DSPageControl1..Debug..ScrollBox4..DebugLayoutPanel..DSDebugSeqGroup..SlackBotChannelSeqProp..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1681
 msgid "SlackBot channel"
-msgstr ""
+msgstr "Canale SlackBot"
 
 #. AdvancedSettingsFrame2..DSPageControl1..Debug..ScrollBox4..DebugLayoutPanel..DSDebugSeqGroup..EnableSlackBotSeqProp..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1701
 msgid "Send error message to SlackBot"
-msgstr ""
+msgstr "Invia messaggio errore su SlackBot"
 
 #. AdvancedSettingsFrame2..DSPageControl1..PerformanceTabSheet..ScrollBox8..PerformanceLayoutPanel..MemoryGroup..Caption
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabPerformance..ScrollBoxPerformance..PerformanceLayoutPanel..PerformanceMemoryGroup..Caption
@@ -22646,32 +22650,32 @@ msgstr "Reset tutti valori"
 #. DeviceSettingsFrame..MainPanel..DeviceTreePanel..TopLeftPanel..DevicesFilterCombo....Items.Strings
 #: Visuals/Frames/DeviceSettingsFrameUnit.dfm:70
 msgid "All devices"
-msgstr ""
+msgstr "Tutti i dispositivi"
 
 #. DeviceSettingsFrame..MainPanel..DeviceTreePanel..TopLeftPanel..DevicesFilterCombo....Items.Strings
 #: Visuals/Frames/DeviceSettingsFrameUnit.dfm:71
 msgid "AI devices"
-msgstr ""
+msgstr "Dispositivi AI"
 
 #. DeviceSettingsFrame..MainPanel..DeviceTreePanel..TopLeftPanel..DevicesFilterCombo....Items.Strings
 #: Visuals/Frames/DeviceSettingsFrameUnit.dfm:72
 msgid "AO devices"
-msgstr ""
+msgstr "Dispositivi AO"
 
 #. DeviceSettingsFrame..MainPanel..DeviceTreePanel..TopLeftPanel..DevicesFilterCombo....Items.Strings
 #: Visuals/Frames/DeviceSettingsFrameUnit.dfm:73
 msgid "CAN devices"
-msgstr ""
+msgstr "Dispositivi CAN"
 
 #. DeviceSettingsFrame..MainPanel..DeviceTreePanel..TopLeftPanel..DevicesFilterCombo....Items.Strings
 #: Visuals/Frames/DeviceSettingsFrameUnit.dfm:74
 msgid "DIO devices"
-msgstr ""
+msgstr "Dispositivi DIO"
 
 #. DeviceSettingsFrame..MainPanel..DeviceTreePanel..TopLeftPanel..DevicesFilterCombo....Items.Strings
 #: Visuals/Frames/DeviceSettingsFrameUnit.dfm:75
 msgid "GPS devices"
-msgstr ""
+msgstr "Dispositivi GPS"
 
 #. DeviceSettingsFrame..MainPanel..DeviceTreePanel..TopLeftPanel..DevicesFilterCombo....Items.Strings
 #: Visuals/Frames/DeviceSettingsFrameUnit.dfm:76
@@ -22681,28 +22685,28 @@ msgstr ""
 #. DeviceSettingsFrame..MainPanel..DeviceTreePanel..BottomLeftPanel..ManageInterfacesButton..Caption
 #: Visuals/Frames/DeviceSettingsFrameUnit.dfm:92
 msgid "Manage interfaces"
-msgstr ""
+msgstr "Gestisci interfacce"
 
 #. DevicesSettingsFrame..LeftPanel..DeviceTreePanel..DeviceButtonsPanel..ButtonAddDevice..Hint
 #: Visuals/Frames/DevicesSettingsFrameUnit.dfm:125
 #: Visuals/Frames/DevicesSettingsFrameUnit.pas:200
 msgid "Add device"
-msgstr ""
+msgstr "Aggiungi dispositivo"
 
 #. DevicesSettingsFrame..LeftPanel..DeviceTreePanel..DeviceButtonsPanel..ButtonMoveDown..Hint
 #: Visuals/Frames/DevicesSettingsFrameUnit.dfm:136
 msgid "Move device down"
-msgstr ""
+msgstr "Muovi dispositivo giù"
 
 #. DevicesSettingsFrame..LeftPanel..DeviceTreePanel..DeviceButtonsPanel..ButtonMoveUp..Hint
 #: Visuals/Frames/DevicesSettingsFrameUnit.dfm:147
 msgid "Move device up"
-msgstr ""
+msgstr "Muovi dispositivo su"
 
 #. DevicesSettingsFrame..LeftPanel..DeviceTreePanel..DeviceButtonsPanel..ButtonRemoveDevice..Hint
 #: Visuals/Frames/DevicesSettingsFrameUnit.dfm:169
 msgid "Remove device"
-msgstr ""
+msgstr "Rimuovi dispositivo"
 
 #. DevicesSettingsFrame..TopPanel..OperationModePanel..OperationModeGroup..OperationModeProp....ComboBox.Items.Strings
 #: Visuals/Frames/DevicesSettingsFrameUnit.dfm:237
@@ -22729,28 +22733,28 @@ msgstr "Registr. evento voce"
 #. EventFrame..BackPanel..ButtonPanel..KeyboardButton..Hint
 #: Visuals/Frames/EventFrameUnit.dfm:209
 msgid "Keyboard event (Space)"
-msgstr ""
+msgstr "Evento tastiera (Spazio)"
 
 #. EventFrame..BackPanel..ButtonPanel..NoticeButton..Hint
 #: Visuals/Frames/EventFrameUnit.dfm:284
 msgid "Enter notice (n)"
-msgstr ""
+msgstr "Inserisci nota (n)"
 
 #. EventFrame..BackPanel..ButtonPanel..VoiceButton..Hint
 #: Visuals/Frames/EventFrameUnit.dfm:349
 msgid "Voice event (v)"
-msgstr ""
+msgstr "Evento voce (v)"
 
 #. EventFrame..BackPanel..ButtonPanel..CursorButton..Hint
 #: Visuals/Frames/EventFrameUnit.dfm:442
 msgid "Cursor event (c)"
-msgstr ""
+msgstr "Evento cursore (c)"
 
 #. ExportSelectFrame..CAScrollBox..CyclePanel..Caption
 #: Visuals/Frames/ExportSelectFrameUnit.dfm:57
 #: Core/MathObjects/CAMath/CAMathUnit.pas:1849
 msgid "Cycle data"
-msgstr ""
+msgstr "Dati ciclo"
 
 #. ExportSelectFrame..CAScrollBox..CyclePanel..DerivativeCB..Caption
 #. ExportSelectFrame..CAScrollBox..OncePerCyclePanel..Derivative1CB..Caption
@@ -22760,7 +22764,7 @@ msgstr ""
 #: Visuals/Frames/ExportSelectFrameUnit.dfm:280
 #: Core/MathObjects/CAMath/Visuals/CAMathSetupUnit.pas:660
 msgid "Derivative"
-msgstr ""
+msgstr "Derivata"
 
 #. ExportSelectFrame..CAScrollBox..CyclePanel..TQCB..Caption
 #. ExportSelectFrame..CAScrollBox..CycleAveragePanel..AveTQCB..Caption
@@ -22779,12 +22783,12 @@ msgstr ""
 #. ExportSelectFrame..CAScrollBox..CyclePanel..TimeAxisCB..Caption
 #: Visuals/Frames/ExportSelectFrameUnit.dfm:133
 msgid "Time/Revs"
-msgstr ""
+msgstr "Tempo/Giri"
 
 #. ExportSelectFrame..CAScrollBox..OncePerCyclePanel..Caption
 #: Visuals/Frames/ExportSelectFrameUnit.dfm:149
 msgid "Once per cycle data"
-msgstr ""
+msgstr "Dati una volta al ciclo"
 
 #. ExportSelectFrame..CAScrollBox..OncePerCyclePanel..MaxPressureCB..Caption
 #: Visuals/Frames/ExportSelectFrameUnit.dfm:162
@@ -22794,13 +22798,13 @@ msgstr "Pressione max"
 #. ExportSelectFrame..CAScrollBox..OncePerCyclePanel..ZeroCorrectionCB..Caption
 #: Visuals/Frames/ExportSelectFrameUnit.dfm:180
 msgid "Zero correction"
-msgstr ""
+msgstr "Correzione zero"
 
 #. ExportSelectFrame..CAScrollBox..OncePerCyclePanel..WorkCB..Caption
 #: Visuals/Frames/ExportSelectFrameUnit.dfm:198
 #: Core/MathObjects/CAMath/CAMathUnit.pas:1842
 msgid "Work"
-msgstr ""
+msgstr "Lavoro"
 
 #. ExportSelectFrame..CAScrollBox..OncePerCyclePanel..TorqueCB..Caption
 #: Visuals/Frames/ExportSelectFrameUnit.dfm:216
@@ -22812,7 +22816,7 @@ msgstr "Coppia"
 #. ExportSelectFrame..CAScrollBox..CycleAveragePanel..Caption
 #: Visuals/Frames/ExportSelectFrameUnit.dfm:249
 msgid "Cycle average"
-msgstr ""
+msgstr "Media ciclo"
 
 #. ExportSelectFrame..PopupMenu..SelectAllItem..Caption
 #. ExportSelectFrame..DimensionPopupMenu..DimSelectAllMenuItem..Caption
@@ -22841,75 +22845,75 @@ msgstr "&Deseleziona tutto"
 #: Visuals/Frames/ExportSelectFrameUnit.dfm:393
 #: Visuals/Frames/ExportSelectFrameUnit.dfm:410
 msgid "Scalar channels"
-msgstr ""
+msgstr "Canali scalari"
 
 #. ExportSelectFrame..DimensionPopupMenu..DimSelectAllMenuItem..VectorChannelsMenuItem..Caption
 #. ExportSelectFrame..DimensionPopupMenu..DimDeselectAllMenuItem..DVectorChannelsMenuItem..Caption
 #: Visuals/Frames/ExportSelectFrameUnit.dfm:398
 #: Visuals/Frames/ExportSelectFrameUnit.dfm:415
 msgid "Vector channels"
-msgstr ""
+msgstr "Canali vettore"
 
 #. ExportSelectFrame..DimensionPopupMenu..DimSelectAllMenuItem..MatrixChannelsMenuItem..Caption
 #. ExportSelectFrame..DimensionPopupMenu..DimDeselectAllMenuItem..DMatrixChannelsMenuItem..Caption
 #: Visuals/Frames/ExportSelectFrameUnit.dfm:403
 #: Visuals/Frames/ExportSelectFrameUnit.dfm:420
 msgid "Matrix channels"
-msgstr ""
+msgstr "Canali matrice"
 
 #. ExportSelectFrame..RatePopupMenu..RateSelectAllMenuItem..SyncChannelsMenuItem..Caption
 #. ExportSelectFrame..RatePopupMenu..RateDeselectAllMenuItem..DSyncChannelsMenuItem..Caption
 #: Visuals/Frames/ExportSelectFrameUnit.dfm:431
 #: Visuals/Frames/ExportSelectFrameUnit.dfm:448
 msgid "Sync channels"
-msgstr ""
+msgstr "Canali sincroni"
 
 #. ExportSelectFrame..RatePopupMenu..RateSelectAllMenuItem..AsyncChannelsMenuItem..Caption
 #. ExportSelectFrame..RatePopupMenu..RateDeselectAllMenuItem..DASyncChannelsMenuItem..Caption
 #: Visuals/Frames/ExportSelectFrameUnit.dfm:436
 #: Visuals/Frames/ExportSelectFrameUnit.dfm:453
 msgid "Async channels"
-msgstr ""
+msgstr "Canali asincroni"
 
 #. ExportSelectFrame..RatePopupMenu..RateSelectAllMenuItem..SingleValueChannelsMenuItem..Caption
 #. ExportSelectFrame..RatePopupMenu..RateDeselectAllMenuItem..DSingleValueChannelsMenuItem..Caption
 #: Visuals/Frames/ExportSelectFrameUnit.dfm:441
 #: Visuals/Frames/ExportSelectFrameUnit.dfm:458
 msgid "Single value channels"
-msgstr ""
+msgstr "Canali singolo valore"
 
 #. ExportSelectFrame..CARatePopup..MenuItem1..CACycleMenuItem..Caption
 #. ExportSelectFrame..CARatePopup..MenuItem5..CADeselectCycleMenuItem..Caption
 #: Visuals/Frames/ExportSelectFrameUnit.dfm:469
 #: Visuals/Frames/ExportSelectFrameUnit.dfm:486
 msgid "Cycle channels"
-msgstr ""
+msgstr "Canali ciclo"
 
 #. ExportSelectFrame..CARatePopup..MenuItem1..CAOncePerCycleMenuItem..Caption
 #. ExportSelectFrame..CARatePopup..MenuItem5..CADeselectOncePerCycleMenuItem..Caption
 #: Visuals/Frames/ExportSelectFrameUnit.dfm:474
 #: Visuals/Frames/ExportSelectFrameUnit.dfm:491
 msgid "Once per cycle channels"
-msgstr ""
+msgstr "Canali una volta al ciclo"
 
 #. ExportSelectFrame..CARatePopup..MenuItem1..CAAvgCycleMenuItem..Caption
 #. ExportSelectFrame..CARatePopup..MenuItem5..CADeselectAveragedCycleMenuItem..Caption
 #: Visuals/Frames/ExportSelectFrameUnit.dfm:479
 #: Visuals/Frames/ExportSelectFrameUnit.dfm:496
 msgid "Averaged cycle channels"
-msgstr ""
+msgstr "Canali ciclo mediati"
 
 #. ExportSelectFrame..ExportRatePopupMenu..SetAllToDefaultMenuItem..Caption
 #: Visuals/Frames/ExportSelectFrameUnit.dfm:505
 msgid "Set all to default"
-msgstr ""
+msgstr "Imposta tutti come default"
 
 #. FileInfoFrame..AnalysePageControl..SettingsTabSheet..FileInfoPanel..Caption
 #. GlobalChnListFrame..FileInfoPanel..Caption
 #: Visuals/Frames/FileInfoFrameUnit.dfm:34
 #: Visuals/Frames/GlobalChnListFrameUnit.dfm:72
 msgid "General file information"
-msgstr ""
+msgstr "Informazioni generali file"
 
 #. FileInfoFrame..AnalysePageControl..SettingsTabSheet..FileInfoPanel..NumberChanLabel..Caption
 #. GlobalChnListFrame..FileInfoPanel..NumberChanLabel..Caption
@@ -22924,14 +22928,14 @@ msgstr "Numero di canali"
 #: Visuals/Frames/FileInfoFrameUnit.dfm:168
 #: Visuals/Frames/GlobalChnListFrameUnit.dfm:206
 msgid "Store date and time"
-msgstr ""
+msgstr "Data e ora salvataggio"
 
 #. FileInfoFrame..AnalysePageControl..SettingsTabSheet..FileInfoPanel..TriggerConditionLabel..Caption
 #. GlobalChnListFrame..FileInfoPanel..TriggerConditionLabel..Caption
 #: Visuals/Frames/FileInfoFrameUnit.dfm:183
 #: Visuals/Frames/GlobalChnListFrameUnit.dfm:221
 msgid "Trigger conditions"
-msgstr ""
+msgstr "Condizioni di trigger"
 
 #. FileInfoFrame..AnalysePageControl..SettingsTabSheet..FileInfoPanel..ReducedRateLabel..Caption
 #. GlobalChnListFrame..FileInfoPanel..ReducedRateLabel..Caption
@@ -22939,17 +22943,17 @@ msgstr ""
 #: Visuals/Frames/GlobalChnListFrameUnit.dfm:236
 #: Core/Daq/Video/CamSetupFrameUnit.pas:461
 msgid "Reduced rate"
-msgstr ""
+msgstr "Rate ridotto"
 
 #. FileInfoFrame..AnalysePageControl..SettingsTabSheet..FileInfoPanel..ShowCANMessagesCheckBox..Caption
 #: Visuals/Frames/FileInfoFrameUnit.dfm:229
 msgid "Show CAN messages"
-msgstr ""
+msgstr "Mostra messaggio CAN"
 
 #. FileInfoFrame..AnalysePageControl..EventsTabSheet..EventListPanel..Caption
 #: Visuals/Frames/FileInfoFrameUnit.dfm:282
 msgid "Event list"
-msgstr ""
+msgstr "Lista eventi"
 
 #. FileInfoFrame..AnalysePageControl..FileLockingTabSheet..FileLockingPanel..AdvFileLockingStatusPanel..Caption
 #: Visuals/Frames/FileInfoFrameUnit.dfm:349
@@ -23470,7 +23474,7 @@ msgstr "Mappa scorciatoie"
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabInterface..ScrollBoxInterface..InterfaceLayoutPanel..DSPropertyGroup2..ShortcutMappingCombo....ComboBox.Items.Strings
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:1192
 msgid "Legacy"
-msgstr ""
+msgstr "Originale"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabFolders..Caption
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:1200
@@ -23835,7 +23839,7 @@ msgstr "Modifica / Sblocca"
 #: Visuals/Frames/SensorAmplFrameUnit.dfm:54
 #: Core/Daq/Amplifiers/TedsTemplateUnit.pas:2553
 msgid "Shunt cal resistor"
-msgstr ""
+msgstr "Resistenza shunt cal"
 
 #. StoreOptionsFrame..DataPanel..ProjNameLabel..Caption
 #: Visuals/Frames/StoreOptionFrameUnit.dfm:66
@@ -23845,12 +23849,12 @@ msgstr "Nome progetto"
 #. StoreOptionsFrame..DataPanel..OperaterLabel..Caption
 #: Visuals/Frames/StoreOptionFrameUnit.dfm:73
 msgid "Operater"
-msgstr ""
+msgstr "Operatore"
 
 #. StoreOptionsFrame..DataPanel..PlaceOfMeasureLabel..Caption
 #: Visuals/Frames/StoreOptionFrameUnit.dfm:80
 msgid "Place of measurement"
-msgstr ""
+msgstr "Luogo misura"
 
 #. StoreOptionsFrame..DataPanel..CommentsLabel..Caption
 #: Visuals/Frames/StoreOptionFrameUnit.dfm:87
@@ -23874,17 +23878,17 @@ msgstr ""
 #. TransferCurveFrame..CopyPopup..CopyReImMenuItem..Caption
 #: Visuals/Frames/TransferCurveFrameUnit.dfm:127
 msgid "Copy Re / Im to clipboard"
-msgstr ""
+msgstr "Copia parte Re/Im su appunti"
 
 #. TransferCurveFrame..CopyPopup..CopyAPhiMenuItem..Caption
 #: Visuals/Frames/TransferCurveFrameUnit.dfm:131
 msgid "Copy Ampl / Phase to clipboard"
-msgstr ""
+msgstr "Copia ampiezza/fase su appunti"
 
 #. TriggerFrame..FullPanel..TopPanel..MsgLabel..Caption
 #: Visuals/Frames/TriggerFrameUnit.dfm:42
 msgid "Criteria"
-msgstr ""
+msgstr "Criterio"
 
 #. TriggerSetupFrame..StartPanel..StartTriggerFrame..FullPanel..TopPanel..MsgLabel..Caption
 #: Visuals/Frames/TriggerSetupFrameUnit.dfm:48
@@ -24085,7 +24089,7 @@ msgstr "Autorizza connessioni remote a questo sistema"
 #: Visuals/Frames/Settings/LocalDevicesFrameUnit.dfm:127
 #: Visuals/Frames/Settings/LocalDevicesFrameUnit.dfm:267
 msgid "Remote mode"
-msgstr ""
+msgstr "Modalità remota"
 
 #. LocalDevicesFrame..ScrollBox..LayoutPanel..DewesoftNETGroup..RemoteModeComboItem....ComboBox.Items.Strings
 #: Visuals/Frames/Settings/LocalDevicesFrameUnit.dfm:143
@@ -24102,42 +24106,44 @@ msgstr ""
 #. LocalDevicesFrame..ScrollBox..LayoutPanel..DewesoftNETGroup..StoreDataOnRemoteItem..Text
 #: Visuals/Frames/Settings/LocalDevicesFrameUnit.dfm:152
 msgid "Store data on remote measurement units"
-msgstr ""
+msgstr "Salva dati su unità di misura"
 
 #. LocalDevicesFrame..ScrollBox..LayoutPanel..DewesoftNETGroup..DisableMouseKeyboardItem..Text
 #: Visuals/Frames/Settings/LocalDevicesFrameUnit.dfm:173
 msgid "Disable mouse && keyboard on measurement units"
-msgstr ""
+msgstr "Disabilita mouse e tastiera su unità di misura"
 
 #. LocalDevicesFrame..ScrollBox..LayoutPanel..DewesoftNETGroup..NetAutoConnectItem..Text
 #: Visuals/Frames/Settings/LocalDevicesFrameUnit.dfm:194
 msgid "Auto connect"
-msgstr ""
+msgstr "Auto connessione"
 
 #. LocalDevicesFrame..ScrollBox..LayoutPanel..DewesoftNETGroup..NetAutoConnectItem..Description
 #: Visuals/Frames/Settings/LocalDevicesFrameUnit.dfm:195
 msgid "Auto connect to measurement units on start and exit of settings"
 msgstr ""
+"Collegamento automatico alle unità di misura remote all'avvio e all'uscita "
+"dalle impostazioni"
 
 #. LocalDevicesFrame..ScrollBox..LayoutPanel..SystemBoxGroup..Caption
 #: Visuals/Frames/Settings/LocalDevicesFrameUnit.dfm:217
 msgid "SBOX settings"
-msgstr ""
+msgstr "Impostazioni SBOX"
 
 #. LocalDevicesFrame..ScrollBox..LayoutPanel..SystemBoxGroup..RemoteModeProp..Description
 #: Visuals/Frames/Settings/LocalDevicesFrameUnit.dfm:268
 msgid "To power on/off the system on remote external pin"
-msgstr ""
+msgstr "Per accendere/spegnere il sistema da pin esterno"
 
 #. LocalDevicesFrame..ScrollBox..LayoutPanel..SystemBoxGroup..RemoteModeProp....ComboBox.Items.Strings
 #: Visuals/Frames/Settings/LocalDevicesFrameUnit.dfm:285
 msgid "Remote power on on external pin"
-msgstr ""
+msgstr "Accensione remota su pin esterno"
 
 #. LocalDevicesFrame..ScrollBox..LayoutPanel..SystemBoxGroup..RemoteModeProp....ComboBox.Items.Strings
 #: Visuals/Frames/Settings/LocalDevicesFrameUnit.dfm:286
 msgid "Remote power on and off on external pin"
-msgstr ""
+msgstr "Accenzione e spegnimento da remoto su pin esterno"
 
 #. LocalDevicesFrame..ScrollBox..LayoutPanel..SystemBoxGroup..SystemSNProp..Text
 #: Visuals/Frames/Settings/LocalDevicesFrameUnit.dfm:294
@@ -24218,7 +24224,7 @@ msgstr ""
 
 #: DEWEsoft/DEWEsoft.dpr:1197
 msgid "Unsupported parameter /STARTUPTIMEOUT_MS:"
-msgstr ""
+msgstr "Parametri non supportati /STARTUPTIMEOUT_MS:"
 
 #: Core/Daq/DeviceTopologyUnit.pas:167
 #: Core/MathObjects/Visuals/MathReferenceSetupUnit.pas:375
@@ -24244,13 +24250,13 @@ msgstr ""
 
 #: Core/Daq/DeviceTopologyUnit.pas:376
 msgid "Undefined"
-msgstr ""
+msgstr "Non definito"
 
 #. reference needed for searching local node
 #: Core/Daq/SystemTopologyUnit.pas:208 Core/Daq/SystemTopologyUnit.pas:216
 #: Core/Utilities/SysMonitorUnit.pas:814
 msgid "System"
-msgstr ""
+msgstr "Sistema"
 
 #: Core/Daq/SystemTopologyUnit.pas:218
 msgid "Local system"
@@ -24258,15 +24264,15 @@ msgstr "Sistema locale"
 
 #: Core/Daq/Amplifiers/AmplConstUnit.pas:469
 msgid "Capacity"
-msgstr ""
+msgstr "Capacità"
 
 #: Core/Daq/Amplifiers/AmplConstUnit.pas:478
 msgid "Quarter bridge 3-wire"
-msgstr ""
+msgstr "Quarto ponte 3-fili"
 
 #: Core/Daq/Amplifiers/AmplConstUnit.pas:479
 msgid "Quarter bridge 4-wire"
-msgstr ""
+msgstr "Quarto ponte 4-fili"
 
 #: Core/Daq/Amplifiers/AmplConstUnit.pas:489
 #: Core/Daq/Amplifiers/AmplConstUnit.pas:493 Core/GObjects/AnalogMeter.pas:795
@@ -24276,12 +24282,12 @@ msgstr "Mezzo"
 #: Core/Daq/Amplifiers/AmplConstUnit.pas:490
 #: Core/Daq/Amplifiers/AmplConstUnit.pas:611
 msgid "Quarter 3-wire"
-msgstr ""
+msgstr "Quarto 3-fili"
 
 #: Core/Daq/Amplifiers/AmplConstUnit.pas:491
 #: Core/Daq/Amplifiers/AmplConstUnit.pas:612
 msgid "Quarter 4-wire"
-msgstr ""
+msgstr "Quarto 4-fili"
 
 #: Core/Daq/Amplifiers/AmplConstUnit.pas:503
 msgid "External +9V relay"
@@ -24315,13 +24321,13 @@ msgstr ""
 #: Core/Daq/Amplifiers/AmplConstUnit.pas:572
 #: Core/Daq/Amplifiers/AmplConstUnit.pas:604
 msgid "Bipolar"
-msgstr ""
+msgstr "Bipolare"
 
 #: Core/Daq/Amplifiers/AmplConstUnit.pas:539
 #: Core/Daq/Amplifiers/AmplConstUnit.pas:573
 #: Core/Daq/Amplifiers/AmplConstUnit.pas:603
 msgid "Unipolar"
-msgstr ""
+msgstr "Unipolare"
 
 #: Core/Daq/Amplifiers/AmplConstUnit.pas:541
 #: Core/Daq/Amplifiers/AmplConstUnit.pas:608
@@ -24333,7 +24339,7 @@ msgstr ""
 #: Core/Daq/Amplifiers/AmplConstUnit.pas:605
 #: Core/Daq/Amplifiers/AmplConstUnit.pas:606
 msgid "termination"
-msgstr ""
+msgstr "terminazione"
 
 #. L
 #: Core/Daq/Amplifiers/AmplConstUnit.pas:564
@@ -24348,11 +24354,11 @@ msgstr ""
 #. bridge
 #: Core/Daq/Amplifiers/AmplConstUnit.pas:585
 msgid "Bridge configuration"
-msgstr ""
+msgstr "Configurazione bridge"
 
 #: Core/Daq/Amplifiers/AmplConstUnit.pas:586
 msgid "Excitation voltage"
-msgstr ""
+msgstr "Tensione eccitazione"
 
 #: Core/Daq/Amplifiers/AmplConstUnit.pas:587
 #: Core/Daq/Amplifiers/TedsTemplateUnit.pas:2588
@@ -24374,11 +24380,11 @@ msgstr "Resistenza shunt"
 #. IEPE
 #: Core/Daq/Amplifiers/AmplConstUnit.pas:594
 msgid "Excitation current [mA]"
-msgstr ""
+msgstr "Corrente eccitazione [mA]"
 
 #: Core/Daq/Amplifiers/AmplConstUnit.pas:619
 msgid "Anti-aliasing filter (IIR)"
-msgstr ""
+msgstr "Filtro anti-aliasing (IIR)"
 
 #: Core/Daq/Amplifiers/AmplConstUnit.pas:621
 msgid "AAF (zero-phase distortion)"
@@ -24390,11 +24396,11 @@ msgstr "Senza ripple"
 
 #: Core/Daq/Amplifiers/AmplConstUnit.pas:633
 msgid "3-wire"
-msgstr ""
+msgstr "4-fili"
 
 #: Core/Daq/Amplifiers/AmplConstUnit.pas:634
 msgid "4-wire"
-msgstr ""
+msgstr "4-fili"
 
 #. L
 #: Core/Daq/Amplifiers/AmplifiersUnit.pas:2326
@@ -24422,7 +24428,7 @@ msgstr ""
 #: Core/Daq/Amplifiers/DeweUSBAmplUnit.pas:5746
 #: Core/Daq/Amplifiers/TedsTemplateUnit.pas:2577
 msgid "LP filter type"
-msgstr ""
+msgstr "Tipo filtro LP"
 
 #: Core/Daq/Amplifiers/AmplifiersUnit.pas:3188
 #: Core/Daq/Amplifiers/AmplifiersUnit.pas:3199
@@ -24430,24 +24436,24 @@ msgstr ""
 #: Core/Daq/Amplifiers/DeweUSBAmplUnit.pas:5748
 #: Core/Daq/Amplifiers/TedsTemplateUnit.pas:2578
 msgid "LP filter order"
-msgstr ""
+msgstr "Ordine filtro LP"
 
 #: Core/Daq/Amplifiers/AmplifiersUnit.pas:3225
 #: Core/Daq/Amplifiers/DeweUSBAmplUnit.pas:5756
 #: Core/Daq/Amplifiers/TedsTemplateUnit.pas:2580
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.pas:517
 msgid "HP filter"
-msgstr ""
+msgstr "Filtro HP"
 
 #: Core/Daq/Amplifiers/AmplifiersUnit.pas:3243
 #: Core/Daq/Amplifiers/AmplifiersUnit.pas:3245
 msgid "Bridge shunt active"
-msgstr ""
+msgstr "Shunt bridge attivo"
 
 #: Core/Daq/Amplifiers/AmplifiersUnit.pas:3252
 #: Core/Daq/Amplifiers/AmplifiersUnit.pas:3254
 msgid "Short active"
-msgstr ""
+msgstr "Corto attivo"
 
 #: Core/Daq/Amplifiers/AmplifiersUnit.pas:3259
 msgid "Exc. info"
@@ -24471,7 +24477,7 @@ msgstr ""
 #: Core/Daq/Amplifiers/DeweUSBAmplUnit.pas:5825
 #: Core/Daq/Amplifiers/TedsTemplateUnit.pas:2593
 msgid "Sensor offset"
-msgstr ""
+msgstr "Offset sensore"
 
 #: Core/Daq/Amplifiers/AmplifiersUnit.pas:3276
 #: Core/Daq/Amplifiers/DeweUSBAmplUnit.pas:5823
@@ -24481,11 +24487,11 @@ msgstr "Compensazione lead wire"
 #: Core/Daq/Amplifiers/AmplifiersUnit.pas:3457
 #: Core/Daq/Amplifiers/AmplifiersUnit.pas:5260
 msgid "wires"
-msgstr ""
+msgstr "conduttori"
 
 #: Core/Daq/Amplifiers/AmplifierTransportUnit.pas:1357
 msgid "No interface"
-msgstr ""
+msgstr "Nessuna interfaccia"
 
 #: Core/Daq/Amplifiers/AOModules.pas:284
 msgid "Unable to open"
@@ -24497,23 +24503,23 @@ msgstr ""
 
 #: Core/Daq/Amplifiers/DaqCardAmplUnit.pas:343
 msgid "Daqcard amplifier"
-msgstr ""
+msgstr "Amplificatore Daqcard"
 
 #: Core/Daq/Amplifiers/DeweMSIAmplUnit.pas:914
 msgid "MSI adapters/TEDS sensors"
-msgstr ""
+msgstr "Adattatori MSI/sensori TEDS"
 
 #: Core/Daq/Amplifiers/DewesoftDaqAmplifierUnit.pas:359
 msgid "Onboard amplifier"
-msgstr ""
+msgstr "Amplificatore interno"
 
 #: Core/Daq/Amplifiers/DeweUSBAmplUnit.pas:2181
 msgid "Excitation voltage depends on connection"
-msgstr ""
+msgstr "La tensione di eccitazione dipende dalla connessione"
 
 #: Core/Daq/Amplifiers/DeweUSBAmplUnit.pas:2377
 msgid "Shunt cal measurement value is out of range."
-msgstr ""
+msgstr "Il valore misurato di shunt cal è fuori dal range."
 
 #: Core/Daq/Amplifiers/DeweUSBAmplUnit.pas:2434
 #: Core/Daq/Amplifiers/DeweUSBAmplUnit.pas:2443
@@ -24530,32 +24536,32 @@ msgstr "Valore misurato fuori dal range."
 #: Core/Daq/Amplifiers/DeweUSBAmplUnit.pas:2768
 #: Core/Daq/Amplifiers/DeweUSBAmplUnit.pas:2770
 msgid "Shunt cal value is smaller than 2% of possible range."
-msgstr ""
+msgstr "Il valore di shunt cal è più piccolo del 2% del range possibile."
 
 #: Core/Daq/Amplifiers/TedsTemplateUnit.pas:2531
 msgid "Model type"
-msgstr ""
+msgstr "Tipo modello"
 
 #: Core/Daq/Amplifiers/TedsTemplateUnit.pas:2532
 msgid "Serial nr."
-msgstr ""
+msgstr "N seriale"
 
 #: Core/Daq/Amplifiers/TedsTemplateUnit.pas:2535
 msgid "Cal date"
-msgstr ""
+msgstr "Data cal"
 
 #: Core/Daq/Amplifiers/TedsTemplateUnit.pas:2536
 msgid "Cal period"
-msgstr ""
+msgstr "Periodo cal"
 
 #: Core/Daq/Amplifiers/TedsTemplateUnit.pas:2542
 #: Core/Daq/DaqCards/Visuals/CNTChannelSetup.pas:288
 msgid "Physical unit"
-msgstr ""
+msgstr "Unità fisica"
 
 #: Core/Daq/Amplifiers/TedsTemplateUnit.pas:2543
 msgid "Electrical unit"
-msgstr ""
+msgstr "Unità elettrica"
 
 #: Core/Daq/Amplifiers/TedsTemplateUnit.pas:2547
 msgid "Offset factor"
@@ -24573,27 +24579,27 @@ msgstr ""
 
 #: Core/Daq/Amplifiers/TedsTemplateUnit.pas:2564
 msgid "Allow custom offset"
-msgstr ""
+msgstr "Permetti offset custom"
 
 #: Core/Daq/Amplifiers/TedsTemplateUnit.pas:2565
 msgid "Allow custom scale"
-msgstr ""
+msgstr "Permetti scala custom"
 
 #: Core/Daq/Amplifiers/TedsTemplateUnit.pas:2572
 msgid "Wanted range"
-msgstr ""
+msgstr "Range richiesto"
 
 #: Core/Daq/Amplifiers/TedsTemplateUnit.pas:2589
 msgid "Bridge shunt type"
-msgstr ""
+msgstr "Tipo shunt bridge"
 
 #: Core/Daq/Amplifiers/TedsTemplateUnit.pas:2590
 msgid "Bridge shunt resistor"
-msgstr ""
+msgstr "Resistenza shunt bridge"
 
 #: Core/Daq/Amplifiers/TedsTemplateUnit.pas:2591
 msgid "Bridge shunt direction"
-msgstr ""
+msgstr "Direzione shunt bridge"
 
 #: Core/Daq/Amplifiers/TedsTemplateUnit.pas:2597
 msgid "Ext. shunt"
@@ -24610,7 +24616,7 @@ msgstr ""
 
 #: Core/Daq/Amplifiers/Visuals/AmplifierFrameUnit.pas:660
 msgid "OPEN"
-msgstr ""
+msgstr "APRI"
 
 #: Core/Daq/Amplifiers/Visuals/AmplifierFrameUnit.pas:776
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.pas:2435
@@ -24620,7 +24626,7 @@ msgstr ""
 
 #: Core/Daq/Amplifiers/Visuals/AmplifierFrameUnit.pas:1018
 msgid "No response from amplifier, no changes allowed."
-msgstr ""
+msgstr "Nessuna risposta dall'amplificatore, non sono possibili modifiche."
 
 #: Core/Daq/Amplifiers/Visuals/AmplifierFrameUnit.pas:1028
 #: Core/Daq/Amplifiers/Visuals/AmplifierFrameUnit.pas:2190
@@ -24655,26 +24661,26 @@ msgstr ""
 #: Core/Daq/Amplifiers/Visuals/DeweUSBAmplFrameUnit.pas:184
 #: Core/Daq/Video/Cameras/DirX/DirectXCamUnit.pas:915
 msgid "failed"
-msgstr ""
+msgstr "fallito"
 
 #: Core/Daq/Amplifiers/Visuals/DaqCardAmplFrameUnit.pas:100
 #: Core/Daq/Amplifiers/Visuals/DeweUSBAmplFrameUnit.pas:174
 #: Core/Sequencer/DSUnit/Visuals/SeqTestUnitRuntimeFrameUnit.pas:119
 msgid "passed"
-msgstr ""
+msgstr "passato"
 
 #: Core/Daq/Amplifiers/Visuals/DeweUSBAmplFrameUnit.pas:106
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.pas:580
 msgid "Selftest"
-msgstr "Autodiagnosi"
+msgstr "Autotest"
 
 #: Core/Daq/CAN/CanChannelPanel.pas:135
 msgid "No module"
-msgstr "Nessun modulo trovato"
+msgstr "Nessun modulo"
 
 #: Core/Daq/CAN/CanChannels.pas:646
 msgid "Raw hex value"
-msgstr ""
+msgstr "Valore raw hex"
 
 #: Core/Daq/CAN/CanControllerUnit.pas:795
 msgid "port"
@@ -24682,11 +24688,11 @@ msgstr "porta"
 
 #: Core/Daq/CAN/CanControllerUnit.pas:796
 msgid "Board name"
-msgstr ""
+msgstr "Nome scheda"
 
 #: Core/Daq/CAN/CanControllerUnit.pas:797
 msgid "Port name"
-msgstr ""
+msgstr "Nome porta"
 
 #: Core/Daq/CAN/CanControllerUnit.pas:799
 msgid "Firmware"
@@ -24706,7 +24712,7 @@ msgstr ""
 #: Core/Daq/CAN/CanControllerUnit.pas:802
 #: Core/Daq/DewesoftDaq/Devices/Visuals/DSDeviceSettingsFrameUnit.pas:588
 msgid "Termination"
-msgstr ""
+msgstr "Terminazione"
 
 #. Default baudrate
 #: Core/Daq/CAN/CanControllerUnit.pas:803
@@ -24716,11 +24722,11 @@ msgstr ""
 
 #: Core/Daq/CAN/CanControllerUnit.pas:804
 msgid "Special device"
-msgstr ""
+msgstr "Dispositivo speciale"
 
 #: Core/Daq/CAN/CustomCANUnit.pas:734
 msgid "Custom CAN cannot be created"
-msgstr ""
+msgstr "CAN personalizzato non puù essere creato"
 
 #: Core/Daq/CAN/TestCan.pas:171
 msgid "Test CAN (replay mode)"
@@ -24733,7 +24739,7 @@ msgstr "Non usato"
 
 #: Core/Daq/CAN/VectorCAN.pas:247
 msgid "no port connected to CAN card XL!"
-msgstr ""
+msgstr "nessuna porta connessa a scheda CAN XL!"
 
 #. that it only gets reported once
 #. that it only gets reported once
@@ -24748,7 +24754,7 @@ msgstr ""
 #: Core/MathObjects/CAMath/Visuals/CAMathSetupUnit.pas:2913
 #: Core/Objects/SetupModulesUnit.pas:799
 msgid "Not available"
-msgstr ""
+msgstr "Non disponibile"
 
 #: Core/Daq/CAN/Visuals/CanControllerFrameUnit.pas:120
 #: Core/Daq/CAN/Visuals/CanSetupFrameUnit.pas:2018
@@ -24774,15 +24780,15 @@ msgstr ""
 
 #: Core/Daq/CAN/Visuals/CanSetupFrameUnit.pas:746
 msgid "Expected frequency"
-msgstr ""
+msgstr "Frequenza attesa"
 
 #: Core/Daq/CAN/Visuals/CanSetupFrameUnit.pas:759
 msgid "Tx value type"
-msgstr ""
+msgstr "Tipo val Tx"
 
 #: Core/Daq/CAN/Visuals/CanSetupFrameUnit.pas:760
 msgid "Tx value"
-msgstr ""
+msgstr "Valore Tx"
 
 #. CanOpenDialog.DefaultExt:='dbc';
 #: Core/Daq/CAN/Visuals/CanSetupFrameUnit.pas:768
@@ -24840,7 +24846,7 @@ msgstr "Non supportato"
 
 #: Core/Daq/CAN/Visuals/CanSetupFrameUnit.pas:2020
 msgid "Transmit"
-msgstr ""
+msgstr "Trasmetti"
 
 #: Core/Daq/CAN/Visuals/CanSetupFrameUnit.pas:2026
 msgid "Transm.OFF"
@@ -24849,12 +24855,12 @@ msgstr ""
 #. Matching signals will be updated and all their references will stay intact
 #: Core/Daq/CAN/Visuals/CanSetupFrameUnit.pas:2430
 msgid "Signals merge mode"
-msgstr ""
+msgstr "Modo unione segnali"
 
 #. first time only
 #: Core/Daq/CAN/Visuals/CanSetupFrameUnit.pas:2433
 msgid "No merge (add signals)"
-msgstr ""
+msgstr "Non unisce (aggiunge segnali)"
 
 #: Core/Daq/CAN/Visuals/CanSetupFrameUnit.pas:2434
 msgid "By ArbID + signal name"
@@ -24866,23 +24872,23 @@ msgstr ""
 
 #: Core/Daq/CAN/Visuals/CanSetupFrameUnit.pas:2447
 msgid "Keep existing messages"
-msgstr ""
+msgstr "Mantieni messaggi esistenti"
 
 #: Core/Daq/CAN/Visuals/CanSetupFrameUnit.pas:2448
 msgid "Delete existing messages"
-msgstr ""
+msgstr "Elimina messaggi esistenti"
 
 #: Core/Daq/CAN/Visuals/CanSetupFrameUnit.pas:2449
 msgid "Messages already exist"
-msgstr ""
+msgstr "I messaggi esistono già"
 
 #: Core/Daq/CAN/Visuals/CANSetupTabSheetUnit.pas:69
 msgid "Rename CAN port"
-msgstr ""
+msgstr "Rinomina porta CAN"
 
 #: Core/Daq/CAN/Visuals/TestCanFrameUnit.pas:82
 msgid "traffic simulation stream file"
-msgstr ""
+msgstr "simulazione traffico in file stream"
 
 #. this is for DTTacho which reads dtSingle value. G
 #: Core/Daq/DaqCards/CNTChannels.pas:1439
@@ -24892,15 +24898,15 @@ msgstr ""
 
 #: Core/Daq/DaqCards/CNTChannels.pas:1624
 msgid "Sensor mode"
-msgstr ""
+msgstr "Modo sensore"
 
 #: Core/Daq/DaqCards/CNTChannels.pas:1628
 msgid "Event counting mode"
-msgstr ""
+msgstr "Modo conteggio eventi"
 
 #: Core/Daq/DaqCards/CNTChannels.pas:1631
 msgid "Waveform timing mode"
-msgstr ""
+msgstr "Modo timing forma d'onda"
 
 #: Core/Daq/DaqCards/CNTChannels.pas:1683
 msgid "Gated event"
@@ -24935,11 +24941,13 @@ msgstr "Su/giù"
 #: Visuals/Frames/GlobalChnListFrameUnit.pas:243
 #: Visuals/Frames/TriggerSetupFrameUnit.pas:349
 msgid "Revs"
-msgstr ""
+msgstr "Giri"
 
 #: Core/Daq/DaqCards/CNTInterpolation.pas:1166
 msgid "Number of pulses differs from definition or sensor is not counting."
 msgstr ""
+"Il n umero di impulsi non coincide con la definiziona del sensore o il "
+"sensore non funziona."
 
 #: Core/Daq/DaqCards/CNTSensorsUnit.pas:134
 msgid "Geartooth"
@@ -24951,31 +24959,31 @@ msgstr ""
 
 #: Core/Daq/DaqCards/CNTSensorsUnit.pas:136
 msgid "Miss teeth"
-msgstr ""
+msgstr "Dente manc."
 
 #: Core/Daq/DaqCards/CNTSensorsUnit.pas:137
 msgid "Dbl teeth"
-msgstr ""
+msgstr "Doppio dente"
 
 #: Core/Daq/DaqCards/CNTSensorsUnit.pas:138
 msgid "Linear enc."
-msgstr ""
+msgstr "Encoder lin."
 
 #: Core/Daq/DaqCards/CNTSensorsUnit.pas:139
 msgid "Linear pulse"
-msgstr ""
+msgstr "Impuso lineare"
 
 #: Core/Daq/DaqCards/CNTSensorsUnit.pas:140
 msgid "Tape"
-msgstr ""
+msgstr "Nastro"
 
 #: Core/Daq/DaqCards/CNTSensorsUnit.pas:462
 msgid "Counter sensor XML file not valid!"
-msgstr ""
+msgstr "File XML sensori counters non valido!"
 
 #: Core/Daq/DaqCards/CNTSensorsUnit.pas:532
 msgid "Error while saving sensor data to the XML."
-msgstr ""
+msgstr "Errore nel salvataggio dati sensori su file XML."
 
 #: Core/Daq/DaqCards/CommonDaq.pas:1028
 msgid "N/A"
@@ -24986,7 +24994,7 @@ msgstr ""
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.pas:3135
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.pas:3341
 msgid "Main group"
-msgstr ""
+msgstr "Gruppo principale"
 
 #: Core/Daq/DaqCards/CustomDaq.pas:3526 Core/Daq/DaqCards/CustomDaq.pas:3804
 #: Core/Daq/DaqCards/CustomDaq.pas:3917 Core/Daq/DaqCards/TestDaq.pas:1126
@@ -25002,7 +25010,7 @@ msgstr ""
 
 #: Core/Daq/DaqCards/DaqChannels.pas:891 Core/Daq/DaqCards/DaqChannels.pas:3097
 msgid "Input mode"
-msgstr ""
+msgstr "Modalità input"
 
 #: Core/Daq/DaqCards/DaqChannels.pas:915 Core/Daq/DaqCards/DaqChannels.pas:3115
 msgid "50 ohm"
@@ -25055,27 +25063,29 @@ msgstr ""
 #: Core/Daq/DaqCards/AO/CommonAO.pas:335
 msgid "Write size must be integer divider of buffer size"
 msgstr ""
+"La dimensione di scrittura deve essere un divisore intero della dimensione "
+"del buffer"
 
 #: Core/Daq/DaqCards/AO/CommonAO.pas:676 Core/GObjects/ScopeVControl.pas:1541
 #: Core/Sequencer/Items/WaitForItem.pas:105 DEWEsoft/MainUnit.pas:16706
 msgid "Wait"
-msgstr "Attesa"
+msgstr "Attendi"
 
 #: Core/Daq/DaqCards/AO/CommonAO.pas:683
 msgid "Stop output"
-msgstr ""
+msgstr "Ferma output"
 
 #: Core/Daq/DaqCards/AO/CommonAO.pas:689 Core/Daq/DaqCards/AO/CommonAO.pas:695
 msgid "Start sweep"
-msgstr ""
+msgstr "Inizia sweep"
 
 #: Core/Daq/DaqCards/AO/CommonAO.pas:700
 msgid "Start burst"
-msgstr ""
+msgstr "Inizia burst"
 
 #: Core/Daq/DaqCards/AO/CommonAO.pas:705
 msgid "Start chirp"
-msgstr ""
+msgstr "Inizia chirp"
 
 #: Core/Daq/DaqCards/AO/DT_AO.pas:409 Core/Daq/DaqCards/AO/NIDaqMX_AO.pas:568
 msgid "Found 1 card"
@@ -25091,7 +25101,7 @@ msgstr ""
 
 #: Core/Daq/DaqCards/AO/DT_AO.pas:418 Core/Daq/DaqCards/AO/NIDaqMX_AO.pas:578
 msgid "AO channels"
-msgstr ""
+msgstr "Canali AO"
 
 #: Core/Daq/DaqCards/AO/DT_AO.pas:419 Core/Daq/DaqCards/AO/NIDaqMX_AO.pas:579
 msgid "AO bits"
@@ -25142,25 +25152,25 @@ msgstr ""
 #: Core/TcpIpObjects/Visuals/RemoteSetupGrid.pas:159
 #: SharedLib/DS.UI.DSChannelsGridUnit.pas:923
 msgid "Crit low"
-msgstr ""
+msgstr "Allarme basso"
 
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.pas:524
 #: Core/TcpIpObjects/Visuals/RemoteSetupGrid.pas:156
 #: SharedLib/DS.UI.DSChannelsGridUnit.pas:920
 msgid "Crit high"
-msgstr ""
+msgstr "Allarme alto"
 
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.pas:525
 #: Core/TcpIpObjects/Visuals/RemoteSetupGrid.pas:158
 #: SharedLib/DS.UI.DSChannelsGridUnit.pas:922
 msgid "Warn low"
-msgstr ""
+msgstr "Avvisa basso"
 
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.pas:526
 #: Core/TcpIpObjects/Visuals/RemoteSetupGrid.pas:157
 #: SharedLib/DS.UI.DSChannelsGridUnit.pas:921
 msgid "Warn high"
-msgstr ""
+msgstr "Avvisa alto"
 
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.pas:533
 msgid "Offset in amplifier unit"
@@ -25168,27 +25178,27 @@ msgstr "Offset in amplificatore"
 
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.pas:534
 msgid "Sensor model"
-msgstr ""
+msgstr "Modello sensore"
 
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.pas:535
 msgid "Sensor S/N"
-msgstr ""
+msgstr "S/N Sensore"
 
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.pas:537
 msgid "Sensor recal date"
-msgstr ""
+msgstr "Data rical. sensore"
 
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.pas:539
 msgid "Shunt cal result"
-msgstr ""
+msgstr "Risultato shunt cal"
 
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.pas:540
 msgid "Shunt cal error"
-msgstr ""
+msgstr "Errore shunt cal"
 
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.pas:544
 msgid "Selftest error"
-msgstr ""
+msgstr "Errore autotest"
 
 #. L
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.pas:565
@@ -25230,7 +25240,7 @@ msgstr "Bilancia amplificatori"
 
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.pas:577
 msgid "Shunt cal check"
-msgstr ""
+msgstr "Verifica shunt cal"
 
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.pas:578
 msgid "Cal by shunt"
@@ -25294,11 +25304,11 @@ msgstr "Tutti chs"
 
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.pas:1911
 msgid "Cal by shunt, shunt off measurement"
-msgstr ""
+msgstr "Cal con shunt, shunt disattivo"
 
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.pas:1967
 msgid "Cal by shunt, shunt on measurement"
-msgstr ""
+msgstr "Cal con shunt, shunt attivo"
 
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.pas:3524
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.pas:3526
@@ -25314,28 +25324,28 @@ msgstr "Impostazione per canale"
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.pas:3879
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.pas:4083
 msgid "Updating ranges"
-msgstr ""
+msgstr "Aggiornamento ranges"
 
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.pas:4014
 msgid "Updating filters"
-msgstr ""
+msgstr "Aggiornamento filtri"
 
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.pas:4199
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.pas:4201
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.pas:4244
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.pas:4246
 msgid "Charge capacity check"
-msgstr ""
+msgstr "Verifica capacità charge"
 
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.pas:4199
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.pas:4203
 msgid "Shunt cal check, shunt off measurement"
-msgstr ""
+msgstr "Verifica shunt cal, shunt non attivo "
 
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.pas:4244
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.pas:4248
 msgid "Shunt cal check, shunt on measurement"
-msgstr ""
+msgstr "Verifica shunt cal, shunt attivo"
 
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.pas:5151
 #: Core/Daq/DaqCards/Visuals/ChannelSetupUnitEx.pas:559
@@ -25346,7 +25356,7 @@ msgstr "Nessun sensore"
 #: Core/Daq/DaqCards/Visuals/AOChannelSetupUnit.pas:913
 #: Visuals/Frames/AnalogOutFrameUnit.pas:251
 msgid "Phase change (deg/s)"
-msgstr ""
+msgstr "Variazione fase (deg/s)"
 
 #: Core/Daq/DaqCards/Visuals/AOSetupFrameUnit.pas:287
 #| msgid "Input type"
@@ -25355,7 +25365,7 @@ msgstr "Tipo uscita"
 
 #: Core/Daq/DaqCards/Visuals/AOSetupFrameUnit.pas:555
 msgid "Start output/sweep"
-msgstr ""
+msgstr "Inizia output/sweep"
 
 #: Core/Daq/DaqCards/Visuals/ChannelSetupUnitEx.pas:1530
 #: Visuals/Frames/SetupGridEx.pas:104
@@ -25365,7 +25375,7 @@ msgstr "Valore scalato"
 
 #: Core/Daq/DaqCards/Visuals/ChannelSetupUnitEx.pas:1806
 msgid "Create sensor"
-msgstr ""
+msgstr "Crea sensore"
 
 #: Core/Daq/DaqCards/Visuals/ChannelSetupUnitEx.pas:2004
 #: Core/Daq/DaqCards/Visuals/ChannelSetupUnitEx.pas:2013
@@ -25374,90 +25384,92 @@ msgstr ""
 
 #: Core/Daq/DaqCards/Visuals/ChannelSetupUnitEx.pas:2293
 msgid "Sensor Id has changed"
-msgstr ""
+msgstr "Id del sensore modificato"
 
 #: Core/Daq/DaqCards/Visuals/ChannelSetupUnitEx.pas:2293
 msgid "Id for current sensor will be changed."
-msgstr ""
+msgstr "Id per il sensore corrente sarà modificato."
 
 #: Core/Daq/DaqCards/Visuals/ChannelSetupUnitEx.pas:3027
 msgid "different"
-msgstr ""
+msgstr "diverso"
 
 #: Core/Daq/DaqCards/Visuals/ChannelSetupUnitEx.pas:3154
 msgid ""
 "OK: will set channel properties from sensor, Cancel: will keep you in "
 "channel setup to check and correct properties manually."
 msgstr ""
+"OK: imposta proprietà del canale da sensore, Annulla: rimarrà sulla finestra "
+"impostazioni canale per verificare e modificare le proprietà manualmente."
 
 #: Core/Daq/DaqCards/Visuals/ChannelSetupUnitEx.pas:3155
 msgid "Sensor properties missmatch"
-msgstr ""
+msgstr "Le proprietà del sensore non coincidono"
 
 #: Core/Daq/DaqCards/Visuals/ChannelSetupUnitEx.pas:3442
 msgid "Teds standard"
-msgstr ""
+msgstr "TEDS standard"
 
 #: Core/Daq/DaqCards/Visuals/ChannelSetupUnitEx.pas:3445
 msgid "Not standard TEDS"
-msgstr ""
+msgstr "TEDS non standard"
 
 #: Core/Daq/DaqCards/Visuals/ChannelSetupUnitEx.pas:3980
 msgid "Erase TEDS chip?"
-msgstr ""
+msgstr "Cancellare chip TEDS?"
 
 #: Core/Daq/DaqCards/Visuals/ChannelSetupUnitEx.pas:3999
 msgid "Do you really want to erase all data from TEDS chip?"
-msgstr ""
+msgstr "Vuoi veramente eliminare tutti i dati dal chip TEDS?"
 
 #: Core/Daq/DaqCards/Visuals/ChannelSetupUnitEx.pas:4203
 #: Core/Daq/DaqCards/Visuals/ChannelSetupUnitEx.pas:4204
 msgid "Note: offset shown in amplifier unit"
-msgstr ""
+msgstr "Nota: offset mostrato in amplificatore"
 
 #: Core/Daq/DaqCards/Visuals/ChannelSetupUnitEx.pas:4402
 msgid "not supported for"
-msgstr ""
+msgstr "non supportato per"
 
 #: Core/Daq/DaqCards/Visuals/CNTChannelSetup.pas:505
 msgid "Sensor (encoder, CDM, tacho...)"
-msgstr ""
+msgstr "Sensore (encoder, CDM, tacho...)"
 
 #: Core/Daq/DaqCards/Visuals/CNTChannelSetup.pas:506
 msgid "Event counting"
-msgstr ""
+msgstr "Conteggio eventi"
 
 #: Core/Daq/DaqCards/Visuals/CNTChannelSetup.pas:507
 msgid "Waveform timing"
-msgstr ""
+msgstr "Timing forme d'onda"
 
 #: Core/Daq/DaqCards/Visuals/CNTChannelSetup.pas:521
 msgid "Basic event counting"
-msgstr ""
+msgstr "Conteggio eventi base"
 
 #: Core/Daq/DaqCards/Visuals/CNTChannelSetup.pas:522
 msgid "Gated event counting"
-msgstr ""
+msgstr "Conteggio eventi con gate"
 
 #: Core/Daq/DaqCards/Visuals/CNTChannelSetup.pas:523
 msgid "Up/down counting"
-msgstr ""
+msgstr "Conteggio su/giù"
 
 #: Core/Daq/DaqCards/Visuals/CNTChannelSetup.pas:524
 msgid "Basic encoder counting"
-msgstr ""
+msgstr "Conteggio encoder base"
 
 #: Core/Daq/DaqCards/Visuals/CNTChannelSetup.pas:538
 msgid "Period, frequency"
-msgstr ""
+msgstr "Periodo, frequenza"
 
 #: Core/Daq/DaqCards/Visuals/CNTChannelSetup.pas:540
 msgid "Period, pulsewidth, duty cycle"
-msgstr ""
+msgstr "Periodo, ampiezza impulso, duty cycle"
 
 #: Core/Daq/DaqCards/Visuals/CNTChannelSetup.pas:634
 msgid "Measured pulses"
-msgstr ""
+msgstr "Impulsi misurati"
 
 #. simple event counting with zero
 #. Up/down counting with zero
@@ -25465,7 +25477,7 @@ msgstr ""
 #: Core/Daq/DaqCards/Visuals/CNTChannelSetup.pas:1005
 #: Core/Daq/DaqCards/Visuals/CNTChannelSetup.pas:1150
 msgid "Signal zero"
-msgstr ""
+msgstr "Segnale zero"
 
 #. Up/down counting
 #: Core/Daq/DaqCards/Visuals/CNTChannelSetup.pas:967
@@ -25494,7 +25506,7 @@ msgstr "Segnale Z"
 #: Core/Daq/DaqCards/Visuals/CNTChannelSetup.pas:1186
 #: Core/Daq/DaqCards/Visuals/CNTChannelSetup.pas:1246
 msgid "Signal input"
-msgstr ""
+msgstr "Segnale input"
 
 #. encoder; edge sep
 #. OrionCNTSourceComboBox.OnChange:=nil;
@@ -25505,24 +25517,24 @@ msgstr "Segnale A"
 
 #: Core/Daq/DaqCards/Visuals/CNTChannelSetup.pas:1166
 msgid "Signal stop"
-msgstr "Segnale stop"
+msgstr "Fine segnale"
 
 #. not shown anyway
 #: Core/Daq/DaqCards/Visuals/CNTChannelSetup.pas:1181
 msgid "Internal_CNT"
-msgstr "Internal_CNT"
+msgstr ""
 
 #: Core/Daq/DaqCards/Visuals/CNTChannelSetup.pas:1245
 msgid "Signal start"
-msgstr "Segnale start"
+msgstr "Inizio segnale"
 
 #: Core/Daq/DaqCards/Visuals/CNTChannelSetup.pas:1938
 msgid "Canceled"
-msgstr ""
+msgstr "Cancellato"
 
 #: Core/Daq/DaqCards/Visuals/CNTChannelSetup.pas:1948
 msgid "Detecting..."
-msgstr ""
+msgstr "In rilevamento..."
 
 #: Core/Daq/DaqCards/Visuals/CNTChannelSetup.pas:2507
 #: Core/Daq/DaqCards/Visuals/CNTSetupUnit.pas:415
@@ -25535,45 +25547,45 @@ msgstr "Nessun dato"
 
 #: Core/Daq/DaqCards/Visuals/CntSensorsFormUnit.pas:183
 msgid "Double teeth"
-msgstr ""
+msgstr "Doppio dente"
 
 #: Core/Daq/DaqCards/Visuals/CntSensorsFormUnit.pas:190
 #: Core/Daq/DaqCards/Visuals/CntSensorsFormUnit.pas:193
 msgid "Pulses per"
-msgstr ""
+msgstr "Impulsi per"
 
 #: Core/Daq/DaqCards/Visuals/CntSensorsFormUnit.pas:233
 msgid "New sensor"
-msgstr ""
+msgstr "Nuovo sensore"
 
 #: Core/Daq/DaqCards/Visuals/CntSensorsFormUnit.pas:365
 msgid "Sensor name"
-msgstr ""
+msgstr "Nome sensore"
 
 #: Core/Daq/DaqCards/Visuals/CntSensorsFormUnit.pas:397
 #: Core/Data/Visuals/PhysicalQuantitiesEditorUnit.pas:340
 #: Core/Sequencer/Visuals/SequencerFormUnit.pas:48
 #: Visuals/Forms/SensorEditorUnitX.pas:196
 msgid "Do you want to save changes?"
-msgstr ""
+msgstr "Vuoi salvare le modifiche ?"
 
 #: Core/Daq/DaqCards/Visuals/CNTSetupUnit.pas:115
 #| msgid "Controller type"
 msgid "Counter type"
-msgstr ""
+msgstr "Tipo counter"
 
 #: Core/Daq/DaqCards/Visuals/CNTSetupUnit.pas:355
 msgid "This channel is used as counter output"
-msgstr ""
+msgstr "Questo canale è usato come output counter"
 
 #: Core/Daq/DaqCards/Visuals/CNTSetupUnit.pas:451
 msgid "Used as pair counter"
-msgstr ""
+msgstr "Usato come coppia di contatori"
 
 #. OutPutDebugString(PChar(Dev.LongDisplayName + ' AbsTime=' + DateTimeToStr(Dev.TimingDevice.StartAbsTime) + ' SkipSamples[s]=' + FloatToStr(Dev.AcqOffset / FSampleRate)));
 #: Core/Daq/DewesoftDaq/DSDaqController.pas:363
 msgid "Could not start acquisition (absolute time does not match)"
-msgstr ""
+msgstr "Impossibile avviare acquisizione (i tempi assoluti non coincidono)"
 
 #. Time also must be started
 #. Data Lost
@@ -25586,19 +25598,19 @@ msgstr ""
 #: Core/TcpIpObjects/DwServerProto.pas:2449
 #: Core/TcpIpObjects/DwServerProto.pas:2464
 msgid "Could not start acquisition"
-msgstr ""
+msgstr "Impossibile avviare acquisizione"
 
 #: Core/Daq/DewesoftDaq/DSDaqController.pas:1732
 msgid "AO sample rate not possible!"
-msgstr ""
+msgstr "Velocità AO non possibile!"
 
 #: Core/Daq/DewesoftDaq/DSDaqController.pas:2062
 msgid "Device stored in project is not connected"
-msgstr ""
+msgstr "Il dispositivo memorizzato nel progetto non è connesso"
 
 #: Core/Daq/DewesoftDaq/DSDaqController.pas:2065
 msgid "Devices do not match"
-msgstr ""
+msgstr "I dispositivi non coincidono"
 
 #: Core/Daq/DewesoftDaq/DSDaqController.pas:2065
 msgid "Connected device"
@@ -25606,45 +25618,47 @@ msgstr "Dispositivi connessi"
 
 #: Core/Daq/DewesoftDaq/DSDaqController.pas:2065
 msgid "Device stored in project"
-msgstr ""
+msgstr "Dispositivo salvato nel progetto"
 
 #: Core/Daq/DewesoftDaq/Devices/DSDaqDevice.pas:1321 DEWEsoft/MainUnit.pas:7572
 #: DEWEsoft/MainUnit.pas:7590 Visuals/Frames/DevicesSettingsFrameUnit.pas:655
 msgid "Disconnected"
-msgstr ""
+msgstr "Disconnesso"
 
 #: Core/Daq/DewesoftDaq/Devices/DSDaqDevice.pas:1325 DEWEsoft/MainUnit.pas:7574
 #: DEWEsoft/MainUnit.pas:7592 Visuals/Frames/DevicesSettingsFrameUnit.pas:659
 msgid "No power"
-msgstr ""
+msgstr "Alimentazione assente"
 
 #: Core/Daq/DewesoftDaq/Devices/DSEthercatDevice.pas:471
 msgid "Unsupported hardware in ethercat chain"
-msgstr ""
+msgstr "Hardware non supportato in catena ethercat"
 
 #: Core/Daq/DewesoftDaq/Devices/DSKrypton.pas:463
 msgid " settings were fixed, to apply changes Dewesoft reboot is needed"
 msgstr ""
+" impostazioni sono state cambiate, per applicare le modifiche è necessario "
+"riavviare Dewesoft."
 
 #: Core/Daq/DewesoftDaq/Devices/DSSiriusBase.pas:210
 msgid "Watchdog cannot use DO lines on Sync connector."
-msgstr ""
+msgstr "Watchdog non può utilizzare linee DO sul connettore Sync."
 
 #: Core/Daq/DewesoftDaq/Devices/DSSiriusBase.pas:753
 msgid "Use as digital output"
-msgstr ""
+msgstr "Usa come uscita digitale"
 
 #: Core/Daq/DewesoftDaq/Devices/DSSiriusBase.pas:755
 msgid "Use as switch"
-msgstr ""
+msgstr "Usa come switch"
 
 #: Core/Daq/DewesoftDaq/Devices/DSSyncJunction.pas:154
 msgid "Sync Junction must be first in the chain"
-msgstr ""
+msgstr "La giunzione sync deve essere la prima della catena"
 
 #: Core/Daq/DewesoftDaq/Devices/Visuals/DSDaqSettingsFrameUnit.pas:117
 msgid "Not detected"
-msgstr ""
+msgstr "Non rilevato"
 
 #: Core/Daq/DewesoftDaq/Devices/Visuals/DSDaqSettingsFrameUnit.pas:164
 #: Core/Updates/Firmware/FirmwareUpgradeFrameUnit.pas:89
@@ -25657,11 +25671,11 @@ msgstr "Versione HW"
 
 #: Core/Daq/DewesoftDaq/Devices/Visuals/DSDeviceSettingsFrameUnit.pas:227
 msgid "Motherboard serial number"
-msgstr ""
+msgstr "S/N scheda madre"
 
 #: Core/Daq/DewesoftDaq/Devices/Visuals/DSDeviceSettingsFrameUnit.pas:239
 msgid "Isolated power"
-msgstr ""
+msgstr "Alimentazione isolata"
 
 #: Core/Daq/DewesoftDaq/Devices/Visuals/DSDeviceSettingsFrameUnit.pas:372
 msgid "bits"
@@ -25712,7 +25726,7 @@ msgstr "Comando non eseguito correttamente"
 
 #: Core/Daq/GPS/CommonGPS.pas:590
 msgid "Not fixed"
-msgstr ""
+msgstr "Non fisso"
 
 #: Core/Daq/GPS/CommonGPS.pas:594
 msgid "RTK fixed"
@@ -25729,16 +25743,16 @@ msgstr "Seriale"
 #. !!
 #: Core/Daq/GPS/Visuals/MicrosatGPSFrame.pas:97
 msgid "Status: searching..."
-msgstr ""
+msgstr "Stato: in ricerca..."
 
 #. !!
 #: Core/Daq/GPS/Visuals/MicrosatGPSFrame.pas:106
 msgid "Status: GPS found"
-msgstr ""
+msgstr "Stato: GPS trovato"
 
 #: Core/Daq/GPS/Visuals/MicrosatGPSFrame.pas:111
 msgid "Invalid COM port!"
-msgstr ""
+msgstr "Porta COM non valida!"
 
 #: Core/Daq/GPS/Visuals/NMEAGPSFrame.pas:168
 #: Core/Daq/GPS/Visuals/NMEAGPSFrame.pas:331
@@ -25770,7 +25784,7 @@ msgstr "Tentativo"
 
 #: Core/Daq/MultiDevice/DewesoftMD.pas:891
 msgid "Dewesoft DAQ Devices"
-msgstr ""
+msgstr "Dispositivi DAQ Dewesoft"
 
 #: Core/Daq/MultiDevice/DewesoftMD.pas:896
 msgid "PC Clock"
@@ -25778,11 +25792,11 @@ msgstr ""
 
 #: Core/Daq/MultiDevice/MultiDeviceUnit.pas:911
 msgid "USB speed limit exceeded!"
-msgstr ""
+msgstr "Superata massima velocità USB!"
 
 #: Core/Daq/MultiDevice/Visuals/DewesoftSyncFrameUnit.pas:127
 msgid "Sample rate divider on sync connector (RES pin)"
-msgstr ""
+msgstr "Divisore clock campionamento su connettore sync (RES pin)"
 
 #: Core/Daq/Timing/GenericTimingUnit.pas:151
 msgid "No GPS"
@@ -25806,7 +25820,7 @@ msgstr "Camera sconosciuta"
 #: Core/Daq/Video/CamSetupFrameUnit.pas:299
 #: Core/Daq/Video/VideoChannels.pas:209 Visuals/Forms/VersionInfoUnit.pas:150
 msgid "Camera"
-msgstr "Camera"
+msgstr ""
 
 #: Core/Daq/Video/CameraUnit.pas:2943
 msgid "Error: could not initialize"
@@ -25814,7 +25828,7 @@ msgstr "Errore: Impossibile inizializzare"
 
 #: Core/Daq/Video/CamSettingsFormUnit.pas:283
 msgid "Preview, no frames received!"
-msgstr ""
+msgstr "Anteprima, nessun frame ricevuto!"
 
 #: Core/Daq/Video/CamSettingsFormUnit.pas:285
 #: Core/Daq/Video/CamSetupFrameUnit.pas:458
@@ -25824,11 +25838,11 @@ msgstr ""
 
 #: Core/Daq/Video/CamSettingsFormUnit.pas:291
 msgid "Preview, not started!"
-msgstr ""
+msgstr "Anteprima, non iniziata!"
 
 #: Core/Daq/Video/CamSetupFrameUnit.pas:159
 msgid "Camera status"
-msgstr ""
+msgstr "Stato telecamera"
 
 #: Core/Daq/Video/CamSetupFrameUnit.pas:464
 msgid "Sync channel not assigned"
@@ -25837,12 +25851,12 @@ msgstr "Canale sync non assegnato"
 #: Core/Daq/Video/CompressorUnit.pas:136 Core/TcpIpObjects/TcpIpUnit.pas:465
 #: DEWEsoft/MainUnit.pas:5310 DEWEsoft/MainUnit.pas:5367
 msgid "File does not exist"
-msgstr "File Non esiste"
+msgstr "File non trovato"
 
 #. allocate resample dest buffer
 #: Core/Daq/Video/CompressorUnit.pas:469
 msgid "Failed to write audio format"
-msgstr ""
+msgstr "Errore scrittura formato audio"
 
 #: Core/Daq/Video/ControllerFrameUnit.pas:53
 msgid "No."
@@ -25875,7 +25889,7 @@ msgstr "Guadagno"
 #: Core/Daq/Video/Cameras/CustomCamera/CustomCamFrameUnit.pas:101
 #: Core/Daq/Video/Cameras/DirX/DirXCameraFrameUnit.pas:416
 msgid "White balance"
-msgstr ""
+msgstr "Bilanciamento bianco"
 
 #: Core/Daq/Video/Cameras/DirX/DirectXCamUnit.pas:598
 msgid "DirectX 8.0 or later not installed"
@@ -25887,15 +25901,15 @@ msgstr "Non è un formato video"
 
 #: Core/Daq/Video/Cameras/DirX/DirXCameraFrameUnit.pas:401
 msgid "Pan"
-msgstr ""
+msgstr "Spostamento"
 
 #: Core/Daq/Video/Cameras/DirX/DirXCameraFrameUnit.pas:402
 msgid "Tilt"
-msgstr ""
+msgstr "Inclinazione"
 
 #: Core/Daq/Video/Cameras/DirX/DirXCameraFrameUnit.pas:403
 msgid "Roll"
-msgstr ""
+msgstr "Rotazione"
 
 #: Core/Daq/Video/Cameras/DirX/DirXCameraFrameUnit.pas:405
 msgid "Exposure"
@@ -25931,7 +25945,7 @@ msgstr ""
 
 #: Core/Daq/Video/Cameras/DirX/DirXCameraFrameUnit.pas:415
 msgid "Color enable"
-msgstr ""
+msgstr "Abilita colore"
 
 #: Core/Daq/Video/Cameras/DirX/DirXCameraFrameUnit.pas:417
 msgid "Backlight comp."
@@ -25960,7 +25974,7 @@ msgstr "campioni/giro"
 
 #: Core/Data/ChannelDataUnit.pas:6700
 msgid "Character"
-msgstr ""
+msgstr "Carattere"
 
 #: Core/Data/ChannelDataUnit.pas:6703
 msgid "Binary data"
@@ -25974,12 +25988,12 @@ msgstr ""
 #: Core/Data/ChannelDataUnit.pas:6711
 #: Core/ImportObjects/Visuals/DwFileImportFrameUnit.pas:597
 msgid "Asynchronous"
-msgstr ""
+msgstr "Asincrono"
 
 #: Core/Data/ChannelDataUnit.pas:6715
 #: Core/ImportObjects/Visuals/DwFileImportFrameUnit.pas:595
 msgid "Synchronous"
-msgstr ""
+msgstr "Sincrono"
 
 #: Core/Data/ChannelDataUnit.pas:6718
 msgid "Live calc."
@@ -25991,52 +26005,52 @@ msgstr ""
 
 #: Core/Data/ChannelDataUnit.pas:9002
 msgid "Expected rate"
-msgstr ""
+msgstr "Rate atteso"
 
 #: Core/Data/ChannelDataUnit.pas:9003
 #: SharedLib/DS.UI.DSChannelsGridUnit.pas:934
 msgid "Data structure"
-msgstr ""
+msgstr "Struttura dati"
 
 #: Core/Data/ChannelDataUnit.pas:9008
 msgid "Presentation"
-msgstr ""
+msgstr "Presentazione"
 
 #: Core/Data/ChannelDataUnit.pas:9011
 msgid "Not stored"
-msgstr ""
+msgstr "Non salvato"
 
 #. additional channel info
 #: Core/Data/ChannelDataUnit.pas:9016
 msgid "Additional info"
-msgstr ""
+msgstr "Info aggiuntive"
 
 #: Core/Data/ChannelDataUnit.pas:9069 Core/Data/ChannelPropsUnit.pas:94
 #: Core/Data/ChannelPropsUnit.pas:110
 #: Core/ImportObjects/Visuals/DwFileImportFrameUnit.pas:579
 #: Visuals/Frames/ExportSelectFrameUnit.pas:395
 msgid "Scalar"
-msgstr ""
+msgstr "Scalare"
 
 #: Core/Data/ChannelPropsUnit.pas:61
 msgid "Function Type"
-msgstr ""
+msgstr "Tipo funzione"
 
 #: Core/Data/ChannelPropsUnit.pas:63
 msgid "Time Response"
-msgstr ""
+msgstr "Risposta nel tempo"
 
 #: Core/Data/ChannelPropsUnit.pas:64
 msgid "Auto Spectrum"
-msgstr ""
+msgstr "Auto Spettro"
 
 #: Core/Data/ChannelPropsUnit.pas:65
 msgid "Cross Spectrum"
-msgstr ""
+msgstr "Cross Spettro"
 
 #: Core/Data/ChannelPropsUnit.pas:66
 msgid "Frequency Response Function"
-msgstr ""
+msgstr "Risposta in frequenza"
 
 #: Core/Data/ChannelPropsUnit.pas:67
 msgid "Transmissibility"
@@ -26056,7 +26070,7 @@ msgstr ""
 
 #: Core/Data/ChannelPropsUnit.pas:74
 msgid "Spectrum"
-msgstr ""
+msgstr "Spettro"
 
 #: Core/Data/ChannelPropsUnit.pas:75
 msgid "Cumulative Frequency Distribution"
@@ -26080,51 +26094,51 @@ msgstr ""
 
 #: Core/Data/ChannelPropsUnit.pas:81
 msgid "Force Pattern"
-msgstr ""
+msgstr "Pattern forza"
 
 #: Core/Data/ChannelPropsUnit.pas:82
 msgid "Partial Power"
-msgstr ""
+msgstr "Potenza parziale"
 
 #: Core/Data/ChannelPropsUnit.pas:83
 msgid "Partial Coherence"
-msgstr ""
+msgstr "Coerenza parziale"
 
 #: Core/Data/ChannelPropsUnit.pas:84
 msgid "Eigenvalue"
-msgstr ""
+msgstr "Autovalori"
 
 #: Core/Data/ChannelPropsUnit.pas:85
 msgid "Eigenvector"
-msgstr ""
+msgstr "Autovettori"
 
 #: Core/Data/ChannelPropsUnit.pas:86
 msgid "Shock Response Spectrum"
-msgstr ""
+msgstr "Spettro risposta shock"
 
 #: Core/Data/ChannelPropsUnit.pas:87
 msgid "Finite Impulse Response Filter"
-msgstr ""
+msgstr "Filtro risposta impulsiva finita"
 
 #: Core/Data/ChannelPropsUnit.pas:88
 msgid "Multiple Coherence"
-msgstr ""
+msgstr "Coerenza multipla"
 
 #: Core/Data/ChannelPropsUnit.pas:89
 msgid "Order Function"
-msgstr ""
+msgstr "Funzione ordine"
 
 #: Core/Data/ChannelPropsUnit.pas:90
 msgid "Phase Compensation"
-msgstr ""
+msgstr "Compensazione fase"
 
 #: Core/Data/ChannelPropsUnit.pas:92
 msgid "Response Node"
-msgstr ""
+msgstr "Nodo risposta"
 
 #: Core/Data/ChannelPropsUnit.pas:93
 msgid "Response Direction"
-msgstr ""
+msgstr "Direzione risposta"
 
 #: Core/Data/ChannelPropsUnit.pas:95 Core/Data/ChannelPropsUnit.pas:96
 #: Core/Data/ChannelPropsUnit.pas:97 Core/Data/ChannelPropsUnit.pas:98
@@ -26146,17 +26160,17 @@ msgstr ""
 
 #: Core/Data/ChannelPropsUnit.pas:108
 msgid "Reference Node"
-msgstr ""
+msgstr "Nodo riferimento"
 
 #: Core/Data/ChannelPropsUnit.pas:109
 msgid "Reference Direction"
-msgstr ""
+msgstr "Direzione riferimento"
 
 #. maybe already exists
 #: Core/Data/MultiStream.pas:2886 Core/Sequencer/Items/ActionItem.pas:767
 #: Core/Sequencer/Items/AvdioVideoItem.pas:195
 msgid "File not found"
-msgstr ""
+msgstr "File non trovato"
 
 #: Core/Data/SelectItemUnit.pas:411
 msgid "Not assigned"
@@ -26165,23 +26179,25 @@ msgstr "Non assegnato"
 #: Core/Data/BatchCalc/BatchFileUnit.pas:245
 #: Core/MathObjects/BatchCalc/BatchCalcUnit.pas:142
 msgid "Reading setup from"
-msgstr ""
+msgstr "In lettura setup da"
 
 #: Core/Data/BatchCalc/BatchFileUnit.pas:252
 #: Core/MathObjects/BatchCalc/BatchCalcUnit.pas:149
 msgid "Can not read setup from"
-msgstr ""
+msgstr "Impossibile leggere setup da"
 
 #. FInputSetup.SecurityManager.LockPassword := Password;
 #: Core/Data/BatchCalc/BatchFileUnit.pas:376 Core/Objects/LoadUnit.pas:874
 msgid "Password is not valid"
-msgstr ""
+msgstr "Password non valida"
 
 #: Core/Data/BatchCalc/BatchFileUnit.pas:555
 msgid ""
 "Offline mathematics and display setups will be copied from reference file to "
 "target files."
 msgstr ""
+"Canali matematici e display saranno copiati dal file riferimento al file "
+"target. "
 
 #: Core/Data/BatchCalc/BatchFileUnit.pas:560
 msgid "Offline math and displays"
@@ -26191,14 +26207,14 @@ msgstr ""
 #: Core/Data/BatchCalc/BatchFileUnit.pas:1059
 #: Core/MathObjects/BatchCalc/BatchCalcUnit.pas:163
 msgid "preparing"
-msgstr ""
+msgstr "preparazione"
 
 #: Core/Data/BatchCalc/BatchFileUnit.pas:703
 #: Core/Data/BatchCalc/BatchFileUnit.pas:715
 #: Core/Data/BatchCalc/BatchFileUnit.pas:970
 #: Core/Data/BatchCalc/BatchFileUnit.pas:982
 msgid "RMS will no longer be available for some channels."
-msgstr ""
+msgstr "RMS non sarà più disponibile per alcuni canali."
 
 #: Core/Data/BatchCalc/BatchFileUnit.pas:706
 #: Core/Data/BatchCalc/BatchFileUnit.pas:973
@@ -26212,16 +26228,22 @@ msgid ""
 "of same channels from the reference data file. If reference file holds "
 "initial (zero) values, this can be used to zero channels in target files."
 msgstr ""
+"L'offset del canale analogico input del file target sarà impostato al valor "
+"medio dello stesso canale nel file riferimento. Se il file riferimento "
+"inizia con l'acquisizione della condizione di zero, questa può essere "
+"utilizzata per azzerare gli stessi canali nel file target."
 
 #: Core/Data/BatchCalc/BatchFileUnit.pas:787
 msgid "Channel offset from reference file average (AI channels only)"
-msgstr ""
+msgstr "Offset canale dalla media del file di riferimento (solo canali AI)"
 
 #: Core/Data/BatchCalc/BatchFileUnit.pas:838
 msgid ""
 "Data header variables in target files that are empty or zero, will be "
 "overwritten with values from reference file."
 msgstr ""
+"Le variabili intestazione nel target file sono vuote o zero, saranno "
+"sovrascritte con valori del file di riferimento."
 
 #: Core/Data/BatchCalc/BatchFileUnit.pas:843
 msgid "Data header values"
@@ -26232,54 +26254,60 @@ msgid ""
 "Export channel selection and order will be copied from reference file to "
 "target files."
 msgstr ""
+"La selezione dei canali e ordine sarà copiata dal file riferimento al file "
+"target."
 
 #: Core/Data/BatchCalc/BatchFileUnit.pas:893
 msgid "Export properties"
-msgstr ""
+msgstr "Proprietà esportazione"
 
 #: Core/Data/BatchCalc/BatchFileUnit.pas:1015
 msgid ""
 "Channel offsets and factors from reference file will be applied to same "
 "channels in target files."
 msgstr ""
+"Offset canale e fattore di forma sul file riferimento saranno applicati agli "
+"stessi canali del file target."
 
 #: Core/Data/BatchCalc/BatchFileUnit.pas:1020
 msgid "Channel scaling"
-msgstr ""
+msgstr "Scalatura canale"
 
 #: Core/Data/BatchCalc/BatchFileUnit.pas:1044
 msgid "Batch calculaction with CA module in reference file not supported"
-msgstr ""
+msgstr "Calcolo batch con modulo CA in file riferimento non è supportato"
 
 #. noL
 #. noL
 #: Core/Data/BatchCalc/BatchFileUnit.pas:1102
 #: Core/MathObjects/BatchCalc/BatchCalcUnit.pas:201
 msgid "calculating offline data"
-msgstr ""
+msgstr "calcolo dati offline"
 
 #: Core/Data/BatchCalc/BatchFileUnit.pas:1112
 #: Core/Data/BatchCalc/BatchFileUnit.pas:1129
 #: Core/MathObjects/BatchCalc/BatchCalcUnit.pas:211
 msgid "saving setup"
-msgstr ""
+msgstr "salvataggio setup"
 
 #. noL
 #. noL
 #: Core/Data/BatchCalc/BatchFileUnit.pas:1143
 #: Core/MathObjects/BatchCalc/BatchCalcUnit.pas:242
 msgid "Error while processing"
-msgstr ""
+msgstr "Errore durante esecuzione"
 
 #: Core/Data/BatchCalc/ReferenceFileUnit.pas:163
 msgid ""
 "This will permanently change all selected files. Are you sure you want to "
 "continue?"
 msgstr ""
+"Questa operazione modificherà permanentemente tutti i file selezionati. "
+"Sicuro di voler continuare ?"
 
 #: Core/Data/BatchCalc/ReferenceFileUnit.pas:181
 msgid "Reference file does not exist"
-msgstr ""
+msgstr "Il file di riferimento non esiste"
 
 #: Core/Data/Visuals/CommonChannelPreviewUnit.pas:76
 #: Core/Data/Visuals/CommonChannelPreviewUnit.pas:244
@@ -26287,19 +26315,19 @@ msgstr ""
 #: Core/Data/Visuals/CommonChannelPreviewUnit.pas:359
 #: Core/GObjects/XYVControl.pas:2616
 msgid "Waiting calculation"
-msgstr ""
+msgstr "Attesa calcolo"
 
 #: Core/Data/Visuals/PasteSelectionUnit.pas:204
 msgid "Property name"
-msgstr ""
+msgstr "Nome proprietà"
 
 #: Core/Data/Visuals/PasteSelectionUnit.pas:205
 msgid "Property value"
-msgstr ""
+msgstr "Valore proprietà"
 
 #: Core/Data/Visuals/PhysicalQuantitiesEditorUnit.pas:341
 msgid "Physical quantities database changed"
-msgstr ""
+msgstr "Il database unità ingegneristiche è cambiato"
 
 #: Core/Data/Visuals/PhysicalQuantitiesEditorUnit.pas:364
 msgid "SI unit"
@@ -26402,17 +26430,22 @@ msgid ""
 "of FlexPro and can not be automatically updated. Please update this database "
 "to the current installed Flexpro version manually."
 msgstr ""
+"Il database non può essere acceduto in quanto creato con una versione "
+"precedente di FlexPro e non può essere aggiornato automaticamente. Prego "
+"aggiornare manualmente questo database alla versione corrente installata."
 
 #. Params := PSafeArray(TVarData(v).VArray);
 #: Core/ExportObjects/FlexProComm.pas:401
 msgid "Flexpro can't run Macro"
-msgstr ""
+msgstr "Flexpro non può eseguire la macro"
 
 #: Core/ExportObjects/FlexProComm.pas:426
 msgid ""
 "Flexpro can't open the script. Please open the script directly and save it "
 "in current format"
 msgstr ""
+"Flexpro non riesce ad aprire lo script. Prego aprire lo script direttamente "
+"e salvarlo nel formato corrente"
 
 #: Core/ExportObjects/MatlabComm.pas:373
 msgid "Failed to create Matlab file"
@@ -26438,17 +26471,17 @@ msgstr ""
 
 #: Core/ExportObjects/MatlabComm.pas:839
 msgid "Matlab is not installed. Please install Matlab"
-msgstr ""
+msgstr "MATLAB non installato. Prego installare MATLAB"
 
 #. Lebar fix
 #: Core/ExportObjects/MatlabComm.pas:854
 msgid "Data was sent to MATLAB."
-msgstr ""
+msgstr "I dati sono stati inviati a MATLAB"
 
 #. on 64 bit windows with 64 bit Matlab this will also fail
 #: Core/ExportObjects/MatlabComm.pas:871
 msgid "Failed to load Matlab dll files"
-msgstr "Errore caricamento Matlab dll files"
+msgstr "Errore caricamento Matlab dll"
 
 #: Core/ExportObjects/MatlabComm.pas:876 Core/ExportObjects/MatlabComm.pas:880
 #: Core/ExportObjects/MatlabComm.pas:887 Core/ExportObjects/MatlabComm.pas:895
@@ -26458,11 +26491,11 @@ msgstr "Errore caricamento Matlab dll files"
 #: Core/ExportObjects/MatlabComm.pas:926 Core/ExportObjects/MatlabComm.pas:930
 #: Core/ExportObjects/MatlabComm.pas:934
 msgid "Failed to load function from Matlab dll files"
-msgstr ""
+msgstr "Errore caricamento funzione da dll Matlab"
 
 #: Core/ExportObjects/NSoftComm.pas:112
 msgid "Copying data..."
-msgstr ""
+msgstr "Copia dati..."
 
 #: Core/GObjects/AnalogMeter.pas:794
 #| msgid "Classes"
@@ -26493,20 +26526,20 @@ msgstr "Immagine e valore"
 
 #: Core/GObjects/ButtonControl.pas:577
 msgid "No channel assigned"
-msgstr ""
+msgstr "Nessun canale assegnato"
 
 #: Core/GObjects/ButtonControl.pas:642
 msgid "No value"
-msgstr ""
+msgstr "Nessun valore"
 
 #: Core/GObjects/CampbellVCUnit.pas:1177 Core/GObjects/Graph2D.pas:2265
 msgid "Cursor channel"
-msgstr ""
+msgstr "Canale cursore"
 
 #: Core/GObjects/CampbellVCUnit.pas:1183 Core/GObjects/Graph2D.pas:2271
 #: Core/GObjects/Visuals/Graph2DEditMarkerUnit.pas:152
 msgid "Free marker"
-msgstr ""
+msgstr "Marker libero"
 
 #: Core/GObjects/CApvControl.pas:160
 #: Core/MathObjects/CAMath/Visuals/CAMathSetupUnit.pas:698
@@ -26520,7 +26553,7 @@ msgstr "Valori RMS"
 #. noL
 #: Core/GObjects/CustomVCControl.pas:394
 msgid "Custom VC not created"
-msgstr ""
+msgstr "VC personalizzato non creato"
 
 #: Core/GObjects/DataGraph.pas:395 Core/GObjects/RecorderDataGraph.pas:1919
 #| msgid "Axis 0"
@@ -26587,11 +26620,11 @@ msgstr "Usa font digitale"
 
 #: Core/GObjects/DigitalVC.pas:1789 Core/GObjects/DigitalVC.pas:1801
 msgid "Increase"
-msgstr "Ingrandisci"
+msgstr "Aumenta"
 
 #: Core/GObjects/DigitalVC.pas:1790 Core/GObjects/DigitalVC.pas:1802
 msgid "Decrease"
-msgstr "Impiccolisci"
+msgstr "Riduci"
 
 #: Core/GObjects/DigitalVC.pas:1978
 #: Core/GObjects/Visuals/MeterVCFrameUnit.pas:96
@@ -26601,7 +26634,7 @@ msgstr ""
 #: Core/GObjects/DigitalVC.pas:2027
 #| msgid "Manual"
 msgid "Manual min/max"
-msgstr ""
+msgstr "Min/max manuale"
 
 #: Core/GObjects/DigitalVC.pas:2034
 #| msgid "Cursor color"
@@ -26653,30 +26686,30 @@ msgstr "valori (zoomed)"
 #: Core/GObjects/Graph2D.pas:2272
 #: Core/GObjects/Visuals/Graph2DEditMarkerUnit.pas:172
 msgid "Max marker"
-msgstr ""
+msgstr "Marker max"
 
 #: Core/GObjects/Graph2D.pas:2273
 #: Core/GObjects/Visuals/Graph2DEditMarkerUnit.pas:164
 msgid "Harmonic marker"
-msgstr ""
+msgstr "Marker armoniche"
 
 #: Core/GObjects/Graph2D.pas:2274
 #: Core/GObjects/Visuals/Graph2DEditMarkerUnit.pas:155
 msgid "Sideband marker"
-msgstr ""
+msgstr "Marker bande laterali"
 
 #: Core/GObjects/Graph2D.pas:2275
 #: Core/GObjects/Visuals/Graph2DEditMarkerUnit.pas:187
 msgid "RMS marker"
-msgstr ""
+msgstr "Marker RMS"
 
 #: Core/GObjects/Graph2D.pas:2276
 msgid "Damping marker"
-msgstr ""
+msgstr "Marker damping"
 
 #: Core/GObjects/Graph2D.pas:2289
 msgid "DSA license needed"
-msgstr ""
+msgstr "Necessaria licenza DSA"
 
 #: Core/GObjects/Graph2D.pas:5517 Core/GObjects/RecVControl.pas:3172
 msgid "Remove all markers"
@@ -26684,7 +26717,7 @@ msgstr "Rimuovi tutti i canali"
 
 #: Core/GObjects/Graph2D.pas:5519 Core/GObjects/RecVControl.pas:3174
 msgid "Edit selected marker"
-msgstr ""
+msgstr "Modifica marker selezionati"
 
 #: Core/GObjects/Graph2D.pas:5520 Core/GObjects/RecVControl.pas:3175
 msgid "Remove selected marker"
@@ -26693,7 +26726,7 @@ msgstr "Rimuovi marker selezionato"
 #: Core/GObjects/Graph3D.pas:1701 Core/GObjects/Graph3D.pas:3667
 #: Core/GObjects/Graph3D.pas:5620 Core/GObjects/Graph3D.pas:6967
 msgid "Revolutions"
-msgstr ""
+msgstr "Rivoluzioni"
 
 #: Core/GObjects/Graph3D.pas:3291
 #: Core/MathObjects/Visuals/MathFormulaSetupUnit.pas:227
@@ -26703,15 +26736,15 @@ msgstr "Canale non selezionato"
 #: Core/GObjects/Graph3D.pas:3300 Core/GObjects/Graph3D.pas:3310
 #: Core/GObjects/Graph3D.pas:3331
 msgid "Initializing Direct3D"
-msgstr ""
+msgstr "Inizializzazione Direct3D"
 
 #: Core/GObjects/Graph3D.pas:3319
 msgid "No Direct3D 9 found"
-msgstr ""
+msgstr "Direct3D 9 non trovata"
 
 #: Core/GObjects/Graph3D.pas:3325
 msgid "Direct3D 9 initialization failed"
-msgstr ""
+msgstr "Errore inizializzazione Direct3D 9"
 
 #. OutputDebugString('not predrawn');
 #: Core/GObjects/Graph3D.pas:3348
@@ -26721,15 +26754,15 @@ msgstr "Nessun dato nel canale sorgente"
 #. DrawMsgStr('Waiting for data...')
 #: Core/GObjects/Graph3D.pas:3358
 msgid "Error retrieving back buffer"
-msgstr ""
+msgstr "Errore lettura back buffer"
 
 #: Core/GObjects/Graph3D.pas:3378 Core/GObjects/Graph3D.pas:3409
 msgid "Error retrieving device context"
-msgstr ""
+msgstr "Errore lettura contesto dispositivo"
 
 #: Core/GObjects/HarmonicFFT.pas:663
 msgid "Reactive power"
-msgstr ""
+msgstr "Potenza reattiva"
 
 #: Core/GObjects/OrbitVControl.pas:141
 msgid "Orbit graph"
@@ -26744,7 +26777,7 @@ msgstr ""
 #: Visuals/Frames/ChannelsDSGridView.pas:134
 #: Visuals/Frames/ExportSelectFrameUnit.pas:384
 msgid "single"
-msgstr ""
+msgstr "singolo"
 
 #: Core/GObjects/OverloadControl.pas:826 Core/GObjects/OverloadControl.pas:828
 #: Visuals/Frames/ChannelsDSGridView.pas:153
@@ -26759,7 +26792,7 @@ msgstr "Anteprima"
 #: Core/GObjects/OverviewControl.pas:1492
 #| msgid "Time selector"
 msgid "Show time selector"
-msgstr ""
+msgstr "Mostra selettore tempo"
 
 #: Core/GObjects/OverviewControl.pas:1494
 msgid "Zoom to trigger"
@@ -26772,7 +26805,7 @@ msgstr "Trigger precedente"
 #: Core/GObjects/OverviewControl.pas:1498
 #| msgid "Use trigger"
 msgid "Next trigger"
-msgstr ""
+msgstr "Prossimo trigger"
 
 #: Core/GObjects/RecorderDataGraph.pas:1920
 #| msgid "Remove display"
@@ -26814,76 +26847,79 @@ msgstr "Mostra tabella cursori"
 #: Core/GObjects/RecVControl.pas:2635
 msgid "Different channel types (sync/async/single value) not supported"
 msgstr ""
+"Canali di tipo diverso (sincrono/asincrono/valore singolo) non supportato"
 
 #: Core/GObjects/RecVControl.pas:2641
 msgid "Copying intermediate buffers not supported"
-msgstr ""
+msgstr "La copia di buffers intermedi non supportata"
 
 #: Core/GObjects/RecVControl.pas:2677 Core/GObjects/RecVControl.pas:2693
 msgid "Different timebase in async channels not supported"
-msgstr ""
+msgstr "Base tempi diverse per canali async non supportata"
 
 #: Core/GObjects/RecVControl.pas:2971
 msgid "Distance between cursor 1 and 2"
-msgstr ""
+msgstr "Distanza tra cursori 1 e 2"
 
 #: Core/GObjects/RecVControl.pas:2978
 msgid "Distance between yellow cursor and cursor 1"
-msgstr ""
+msgstr "Distanza tra cursore giallo e cursore 1"
 
 #: Core/GObjects/RecVControl.pas:2985
 msgid "Distance between yellow cursor and cursor 2"
-msgstr ""
+msgstr "Distanza tra cursore giallo e cursore 2"
 
 #: Core/GObjects/RecVControl.pas:2992
 msgid "Cursor 1 value"
-msgstr ""
+msgstr "Valore cursore 1"
 
 #: Core/GObjects/RecVControl.pas:2999
 msgid "Cursor 2 value"
-msgstr ""
+msgstr "Valore cursore 2"
 
 #: Core/GObjects/RecVControl.pas:3006
 msgid "Difference between C1 and C2"
-msgstr ""
+msgstr "Differenza tra C1 e C2"
 
 #: Core/GObjects/RecVControl.pas:3013
 msgid "Rate - Difference between C1 and C2 / Distance between C1 and C2"
-msgstr ""
+msgstr "Rate - Differenza tra C1 e C2 / Distanza tra C1 e C2"
 
 #: Core/GObjects/ScopeVControl.pas:1536
 msgid "No scope pictures created, check scope memory"
 msgstr ""
+"Non è stata creata alcuna immagine oscilloscopio, prego verificare la "
+"memoria oscilloscopio"
 
 #: Core/GObjects/ScopeVControl.pas:1539
 msgid "Not armed"
-msgstr ""
+msgstr "Non armato"
 
 #: Core/GObjects/ScopeVControl.pas:2552
 #: Core/GObjects/Visuals/ScopeVCFrameUnit.pas:747
 #: Visuals/Forms/ScopeAVIExpUnit.pas:69
 msgid "Data is unavailable."
-msgstr ""
+msgstr "Data non disponibile."
 
 #: Core/GObjects/TabControl.pas:868
 msgid "Release CTRL key to disable width expansion"
-msgstr ""
+msgstr "RIlasciare CTRL per disabilitare l'espansione larghezza"
 
 #: Core/GObjects/TabControl.pas:874
 msgid "Release SHIFT key to resize adjacent columns"
-msgstr ""
+msgstr "Rilasciare SHIFT per dimensionare le curve adiacenti"
 
 #: Core/GObjects/TabControl.pas:878
 msgid "Hold SHIFT key to resize all columns on right"
-msgstr ""
+msgstr "Tieni premuto SHIFT per ridimensionare tutte le colonne sulla destra"
 
 #: Core/GObjects/TabControl.pas:883
 msgid "Hold CTRL key to expand/shrink total width"
-msgstr ""
+msgstr "Tieni premuto CTRL per espandere/ridurre la larghezza totale"
 
 #: Core/GObjects/TabControl.pas:885
 msgid "Hold CTRL key to enter scroll mode"
-msgstr ""
+msgstr "Tieni premuto CTRL per scrollare"
 
 #: Core/GObjects/TmGPSMap.pas:1922
 msgid "Load map to calibrate!"
@@ -26895,6 +26931,8 @@ msgid ""
 "The track is out of bounds according to old calibration file. Reset "
 "calibration?"
 msgstr ""
+"La traccia è fuori dai limiti secondo il vecchio file di calibrazione. "
+"Resettare calibrazione ?"
 
 #: Core/GObjects/TmGPSMap.pas:3409
 msgid "Calibration requires a track"
@@ -26914,11 +26952,11 @@ msgstr "Livelli allarme"
 
 #: Core/GObjects/VideoVControl.pas:1154
 msgid "No picture"
-msgstr ""
+msgstr "Nessuna immagine"
 
 #: Core/GObjects/VideoVControl.pas:1252
 msgid "No video"
-msgstr "Nessun frame ricevuto"
+msgstr "Nessun frame"
 
 #: Core/GObjects/VideoVControl.pas:1254
 msgid "No camera selected"
@@ -26930,7 +26968,7 @@ msgstr "RMS non disponibile"
 
 #: Core/GObjects/VisualControl.pas:809
 msgid "Freeze mode not supported"
-msgstr ""
+msgstr "Modalità freeze non supportata"
 
 #: Core/GObjects/VisualControl.pas:810
 msgid "Only default complex presentation can be shown in IB"
@@ -26943,11 +26981,11 @@ msgstr "Caricamento"
 
 #: Core/GObjects/XYVControl.pas:2622
 msgid "vector dimension mismatch"
-msgstr ""
+msgstr "dimensioni vettore non coincidono"
 
 #: Core/GObjects/Visuals/DispFrameUnit.pas:513
 msgid "Unable to load picture"
-msgstr ""
+msgstr "Impossibile caricare l'immagine"
 
 #: Core/GObjects/Visuals/DispFrameUnit.pas:762
 msgid "Select monitor"
@@ -26955,15 +26993,15 @@ msgstr "Seleziona monitor"
 
 #: Core/GObjects/Visuals/DispFrameUnit.pas:768
 msgid "Cannot attach display do dewesoft primary monitor"
-msgstr ""
+msgstr "Impossibile collegare il display al monitor primario dewesoft"
 
 #: Core/GObjects/Visuals/FFTVCFrameUnit.pas:570
 msgid "Not enough data stored"
-msgstr ""
+msgstr "Dati memorizzati insufficienti"
 
 #: Core/GObjects/Visuals/FFTVCFrameUnit.pas:574
 msgid "Complete measurement"
-msgstr ""
+msgstr "Misura completa"
 
 #: Core/GObjects/Visuals/GPSVCFrameUnit.pas:374
 msgid "Calibration file for this map allready exists, overwrite?"
@@ -26979,11 +27017,11 @@ msgstr "Nessuna mappa caricata!"
 
 #: Core/GObjects/Visuals/Graph2DEditMarkerUnit.pas:182
 msgid "Channel marker"
-msgstr ""
+msgstr "Marker canale"
 
 #: Core/GObjects/Visuals/Graph2DEditMarkerUnit.pas:190
 msgid "Damping factor marker"
-msgstr ""
+msgstr "Marker fattore damping"
 
 #: Core/GObjects/Visuals/GroupFrameUnit.pas:116
 #| msgid "FFT"
@@ -27003,7 +27041,7 @@ msgstr "Riarmo"
 #: Core/Objects/TriggerUnit.pas:1870 Core/Objects/TriggerUnit.pas:1872
 #: Visuals/Frames/TriggerFrameUnit.pas:291
 msgid "Delta level"
-msgstr ""
+msgstr "Delta livello"
 
 #: Core/GObjects/Visuals/TriggerCondFrameUnit.pas:157
 msgid "Rearm level"
@@ -27012,7 +27050,7 @@ msgstr "Livello riarmo"
 #: Core/GObjects/Visuals/TriggerCondFrameUnit.pas:161
 #: Core/Objects/TriggerUnit.pas:1872
 msgid "Delta time"
-msgstr ""
+msgstr "Delta tempo"
 
 #. edge
 #: Core/GObjects/Visuals/TriggerCondFrameUnit.pas:191
@@ -27118,16 +27156,16 @@ msgstr "NESSUNA TELECAMERA"
 
 #: Core/GObjects/Visuals/VideoVCFrameUnit.pas:323
 msgid "Waiting"
-msgstr ""
+msgstr "In attesa"
 
 #: Core/GObjects/Visuals/VideoVCFrameUnit.pas:326
 msgid "No sync channel"
-msgstr ""
+msgstr "Nessun canale sync"
 
 #: Core/GObjects/Visuals/VideoVCFrameUnit.pas:333
 #: Core/MathObjects/Visuals/TorsionalVibMathSetupUnit.pas:500
 msgid "Not running"
-msgstr ""
+msgstr "Fermo"
 
 #: Core/GObjects/Visuals/VideoVCFrameUnit.pas:356
 #: Core/Utilities/SysMonitorFrame.pas:160 DEWEsoft/MainUnit.pas:7698
@@ -27136,28 +27174,30 @@ msgstr ""
 
 #: Core/GObjects/Visuals/XYRecVCFrameUnit.pas:235
 msgid "Auto scale every"
-msgstr ""
+msgstr "Autoscala ogni"
 
 #: Core/GObjects/Visuals/XYRecVCFrameUnit.pas:386
 msgid "Number of periods"
-msgstr ""
+msgstr "Numero di periodi"
 
 #: Core/ImportObjects/FileImportUnit.pas:238
 msgid "Only 1 second of data import is possible when using evaluation version."
 msgstr ""
+"La versione di valutazione consente l'importazione di un solo secondo di "
+"dati."
 
 #: Core/ImportObjects/Filters/DWDataReaderImportUnit.pas:311
 msgid "Only fast/dynamic data will be imported"
-msgstr ""
+msgstr "Solo dati veloci saranno importati"
 
 #: Core/ImportObjects/Filters/DWDataReaderImportUnit.pas:344
 msgid "files with reduced data only not supported"
-msgstr ""
+msgstr "files con dati ridotti non suppportati"
 
 #: Core/ImportObjects/Visuals/DwFileImportFrameUnit.pas:116
 #: Core/MathObjects/Visuals/MathReferenceSetupUnit.pas:127
 msgid "Dewesoft data file"
-msgstr ""
+msgstr "File dati Dewesoft"
 
 #: Core/ImportObjects/Visuals/DwFileImportFrameUnit.pas:137
 msgid "Domain"
@@ -27166,44 +27206,44 @@ msgstr "Dominio"
 #: Core/ImportObjects/Visuals/DwFileImportFrameUnit.pas:138
 #: Visuals/Frames/ExportSelectFrameUnit.pas:248
 msgid "Dimension"
-msgstr ""
+msgstr "Dimensioni"
 
 #: Core/ImportObjects/Visuals/DwFileImportFrameUnit.pas:207
 msgid "Importing channels"
-msgstr ""
+msgstr "Importazione canali"
 
 #: Core/ImportObjects/Visuals/DwFileImportFrameUnit.pas:233
 msgid "Importing files"
-msgstr ""
+msgstr "Importazione files"
 
 #: Core/ImportObjects/Visuals/DwFileImportFrameUnit.pas:652
 #: Core/ImportObjects/Visuals/DwFileImportFrameUnit.pas:671
 msgid "Not selected"
-msgstr ""
+msgstr "Non selezionato"
 
 #: Core/ImportObjects/Visuals/ImportFrameUnit.pas:66
 #: Visuals/Frames/RecallFrameUnit.pas:953
 msgid "File already exists. Do you want to overwrite the file?"
-msgstr ""
+msgstr "Il file esiste. Vuoi sovrascriverlo ?"
 
 #: Core/ImportObjects/Visuals/ImportFrameUnit.pas:83
 #: Core/ImportObjects/Visuals/ImportFrameUnit.pas:160
 msgid "Can not import"
-msgstr ""
+msgstr "Impossibile importare"
 
 #: Core/MathObjects/AmplitudeExtractUnit.pas:442
 #: Core/MathObjects/AmplitudeExtractUnit.pas:447
 msgid "Frequency channel is missing"
-msgstr ""
+msgstr "Canale frequenza mancante"
 
 #: Core/MathObjects/AmplitudeExtractUnit.pas:451
 msgid "Frequency channel must be in Hz or RPM"
-msgstr ""
+msgstr "Il canale frequenza deve essere in Hz o RPM"
 
 #: Core/MathObjects/AmplitudeExtractUnit.pas:485
 #: Core/MathObjects/ShakerControlUnit.pas:436
 msgid "Rms amplitude extraction of input channel"
-msgstr ""
+msgstr "Estrazione ampiezza Rms del canale input"
 
 #: Core/MathObjects/AmplitudeExtractUnit.pas:503
 msgid "Frequency domain filter"
@@ -27211,7 +27251,7 @@ msgstr "Filtro in frequenza"
 
 #: Core/MathObjects/AmplitudeExtractUnit.pas:504
 msgid "FFT filter"
-msgstr ""
+msgstr "Filtro FFT"
 
 #: Core/MathObjects/AngleSensorMathUnit.pas:509
 msgid "Angle sensor calculation"
@@ -27238,7 +27278,7 @@ msgstr "Diagnosi di macchine"
 
 #: Core/MathObjects/AngleSensorMathUnit.pas:704
 msgid "Sensor type is not supported"
-msgstr ""
+msgstr "Il tipo sensore non è supportato"
 
 #: Core/MathObjects/AngleSensorMathUnit.pas:707
 #: Core/MathObjects/CANoiseMathUnit.pas:376
@@ -27256,7 +27296,7 @@ msgstr ""
 #: Core/MathObjects/TransferFunctionMath.pas:1577
 #: Core/MathObjects/ZoomFFTUnit.pas:207
 msgid "Input channels with sample rate divider are not allowed"
-msgstr ""
+msgstr "Canali input con divisore di campionamento non ammessi"
 
 #: Core/MathObjects/BlockMathUnit.pas:115
 msgid "Reduces input block by increment value"
@@ -27264,11 +27304,11 @@ msgstr ""
 
 #: Core/MathObjects/BlockMathUnit.pas:222
 msgid "Calculates custom formula based on input blocks"
-msgstr ""
+msgstr "Calcola formula personalizzata in base al blocco input"
 
 #: Core/MathObjects/BlockMathUnit.pas:281
 msgid "Chooses one of first inputs based on which of the last inputs is bigger"
-msgstr ""
+msgstr "Sceglie uno dei primi inputs in base al valore maggiore"
 
 #: Core/MathObjects/CalculusUnit.pas:558 Core/MathObjects/CalculusUnit.pas:559
 msgid "Integral, derivative"
@@ -27287,16 +27327,16 @@ msgstr "filtro custom"
 
 #: Core/MathObjects/CalculusUnit.pas:907 Core/MathObjects/IIRMathUnit.pas:884
 msgid "Input channel is single value"
-msgstr ""
+msgstr "Canale input è un valore singolo"
 
 #: Core/MathObjects/CANoiseMathUnit.pas:168
 #: Core/MathObjects/CANoiseMathUnit.pas:190
 msgid "Combustion noise"
-msgstr ""
+msgstr "Rumore combustione"
 
 #: Core/MathObjects/CANoiseMathUnit.pas:172
 msgid "weighted"
-msgstr ""
+msgstr "pesato"
 
 #: Core/MathObjects/CANoiseMathUnit.pas:191
 msgid "CA noise"
@@ -27304,11 +27344,11 @@ msgstr ""
 
 #: Core/MathObjects/CANoiseMathUnit.pas:373
 msgid "Input channel units must be either in bar or Pa"
-msgstr ""
+msgstr "Il canale input deve essere in bar oppure Pa"
 
 #: Core/MathObjects/CANoiseMathUnit.pas:379
 msgid "CA noise can not be used with external clock!"
-msgstr ""
+msgstr "CA noise non può essere utilizzato con clock esterno!"
 
 #: Core/MathObjects/CepstrumUnit.pas:137
 #: Core/MathObjects/ComplexFFTUnit.pas:141
@@ -27317,6 +27357,8 @@ msgid ""
 "Increase \"Settings->Performance->Sync DB buffer length\" for higher "
 "resolution."
 msgstr ""
+"Incrementa \"Impostazioni->Prestazioni->Dimensione buffer DB sincrono\" per "
+"risoluzioni maggiori."
 
 #: Core/MathObjects/CepstrumUnit.pas:437 Core/MathObjects/CepstrumUnit.pas:439
 msgid "Cepstrum"
@@ -27341,16 +27383,16 @@ msgstr ""
 #: Core/MathObjects/CorrelationUnit.pas:348
 #: Core/MathObjects/CorrelationUnit.pas:352
 msgid "No input channel selected."
-msgstr ""
+msgstr "Nessun canale input selezionato."
 
 #: Core/MathObjects/CorrelationUnit.pas:355
 #: Core/MathObjects/ScopeMathUnit.pas:491
 msgid "Channels have different sample rate dividers."
-msgstr ""
+msgstr "I canali hanno divisori di campionamento diversi,"
 
 #: Core/MathObjects/CorrelationUnit.pas:358
 msgid "Too high frequency in user frequency range."
-msgstr ""
+msgstr "Frequenza troppo alta nel range di frequenze utente"
 
 #: Core/MathObjects/CorrelationUnit.pas:440
 #: Core/MathObjects/CorrelationUnit.pas:442
@@ -27360,11 +27402,11 @@ msgstr "Correlazione"
 #: Core/MathObjects/ExactFrequencyUnit.pas:380
 msgid ""
 "Edge frequencies should not exceed sample rate/2 in used frequency range"
-msgstr ""
+msgstr "Le frequenze limite non dovrebbero superare il campionamento/2"
 
 #: Core/MathObjects/ExactFrequencyUnit.pas:399
 msgid "Exact frequency of input channel"
-msgstr ""
+msgstr "Frequenza esatta del canale input"
 
 #: Core/MathObjects/ExactFrequencyUnit.pas:417
 msgid "Exact frequency"
@@ -27372,20 +27414,20 @@ msgstr "Frequenza esatta"
 
 #: Core/MathObjects/ExactFrequencyUnit.pas:418
 msgid "Exact freq."
-msgstr ""
+msgstr "Freq. esatta"
 
 #: Core/MathObjects/FilterChannel.pas:380 Core/MathObjects/FIRMathUnit.pas:477
 #: Core/MathObjects/IIRMathUnit.pas:534 Core/MathObjects/IIRMathUnit.pas:855
 msgid "Band-pass filter"
-msgstr ""
+msgstr "Passa banda"
 
 #: Core/MathObjects/FIRMathUnit.pas:478 Core/MathObjects/IIRMathUnit.pas:535
 msgid "Band-stop filter"
-msgstr ""
+msgstr "Elimina banda"
 
 #: Core/MathObjects/FIRMathUnit.pas:484
 msgid "All-pass"
-msgstr ""
+msgstr "Passa tutto"
 
 #: Core/MathObjects/FIRMathUnit.pas:528 Core/MathObjects/FIRMathUnit.pas:529
 msgid "FIR filter"
@@ -27397,11 +27439,11 @@ msgstr "Filtro IIR"
 
 #: Core/MathObjects/LatchMathUnit.pas:239
 msgid "Limit channel is not defined"
-msgstr ""
+msgstr "Canale limite non definito"
 
 #: Core/MathObjects/LatchMathUnit.pas:245
 msgid "Limit channel with sample rate divider is not allowed"
-msgstr ""
+msgstr "Canale limit con divisore di campionamento non supportato"
 
 #: Core/MathObjects/LatchMathUnit.pas:256
 msgid "Latch math"
@@ -27409,7 +27451,7 @@ msgstr ""
 
 #: Core/MathObjects/LatchMathUnit.pas:276
 msgid "Latch value math"
-msgstr "Funzione latch"
+msgstr ""
 
 #: Core/MathObjects/LatchMathUnit.pas:277
 msgid "Latch"
@@ -27570,38 +27612,38 @@ msgstr "Cursore cuscinetto"
 #: Core/MathObjects/MathEnvelopeUnit.pas:111
 #: Core/MathObjects/Visuals/MathEnvelopeSetupUnit.pas:206
 msgid "Cage"
-msgstr ""
+msgstr "Gabbia"
 
 #: Core/MathObjects/MathEnvelopeUnit.pas:114
 #: Core/MathObjects/Visuals/MathEnvelopeSetupUnit.pas:207
 msgid "Rolling element"
-msgstr ""
+msgstr "Elementi rotanti"
 
 #: Core/MathObjects/MathEnvelopeUnit.pas:117
 #: Core/MathObjects/Visuals/MathEnvelopeSetupUnit.pas:208
 msgid "Outer race"
-msgstr ""
+msgstr "Traccia esterna"
 
 #: Core/MathObjects/MathEnvelopeUnit.pas:120
 #: Core/MathObjects/Visuals/MathEnvelopeSetupUnit.pas:209
 msgid "Inner race"
-msgstr ""
+msgstr "Traccia interna"
 
 #: Core/MathObjects/MathEnvelopeUnit.pas:271
 msgid "Lower band frequency is higher than sample rate"
-msgstr ""
+msgstr "Limite inferiore di banda è più alto del campionamento"
 
 #: Core/MathObjects/MathEnvelopeUnit.pas:273
 msgid "Upper band frequency is higher than sample rate"
-msgstr ""
+msgstr "Limite alto di banda è superiore al campionamento"
 
 #: Core/MathObjects/MathEnvelopeUnit.pas:277
 msgid "Lower envelope frequency is higher than sample rate"
-msgstr ""
+msgstr "Frequenza inferiore inviluppo è più alta del campionamento"
 
 #: Core/MathObjects/MathEnvelopeUnit.pas:279
 msgid "Upper envelope frequency is higher than sample rate"
-msgstr ""
+msgstr "Frequenza superiore inviluppo è più alta del campionamento"
 
 #: Core/MathObjects/MathEnvelopeUnit.pas:369
 msgid "Envelope detection"
@@ -27613,7 +27655,7 @@ msgstr "Analisi a fatica"
 
 #: Core/MathObjects/MathFatigueUnit.pas:969
 msgid "Fatigue"
-msgstr ""
+msgstr "Fatica"
 
 #: Core/MathObjects/MathFatigueUnit.pas:970
 #: Core/MathObjects/MathRosettesUnit.pas:358
@@ -27627,7 +27669,7 @@ msgstr "Analizzatore FFT"
 
 #: Core/MathObjects/MathFFTReferenceUnit.pas:254
 msgid "FFT reference curve"
-msgstr ""
+msgstr "Curva riferimento FFT"
 
 #: Core/MathObjects/MathFFTReferenceUnit.pas:334
 msgid "Frequency domain ref. curve"
@@ -27639,15 +27681,15 @@ msgstr ""
 
 #: Core/MathObjects/MathFFTUnit.pas:1060
 msgid "Input vector must be divisible by 2!"
-msgstr ""
+msgstr "Vettore input deve essere divisibile per 2!"
 
 #: Core/MathObjects/MathFFTUnit.pas:1064
 msgid "Vector channels with different lengths are not allowed."
-msgstr ""
+msgstr "Canali vettori con lunghezze diverse non sono ammessi."
 
 #: Core/MathObjects/MathFFTUnit.pas:1067
 msgid "PSD can not be used with exponential window."
-msgstr ""
+msgstr "PSD non può essere utilizzata con finestra esponenziale."
 
 #: Core/MathObjects/MathFFTUnit.pas:1258
 msgid "Fourier transform"
@@ -27655,27 +27697,27 @@ msgstr "Trasformata di Fourier"
 
 #: Core/MathObjects/MathFormulaUnit.pas:2712
 msgid "Synchronous arrays not supported"
-msgstr ""
+msgstr "Arrays sinconi non supportati"
 
 #: Core/MathObjects/MathFormulaUnit.pas:2714
 msgid "Timebase channel not assigned"
-msgstr ""
+msgstr "Canale base tempi non assegnato"
 
 #: Core/MathObjects/MathFormulaUnit.pas:2732
 msgid "No formula entered"
-msgstr ""
+msgstr "Nessuna formula inserita"
 
 #: Core/MathObjects/MathFormulaUnit.pas:3618
 msgid "Undefined channel"
-msgstr ""
+msgstr "Canale non definito"
 
 #: Core/MathObjects/MathFormulaUnit.pas:3623
 msgid "Undefined header"
-msgstr ""
+msgstr "Intestazione non definita"
 
 #: Core/MathObjects/MathHumanBodyUnit.pas:480
 msgid "Human body vibrations (ISO 8041, ISO 2631-1, ISO 2631-5)"
-msgstr ""
+msgstr "Vibrazioni corpo umano (ISO 8041, ISO 2631-1, ISO 2631-5)"
 
 #: Core/MathObjects/MathHumanBodyUnit.pas:495
 msgid "Human vibration"
@@ -27687,7 +27729,7 @@ msgstr ""
 
 #: Core/MathObjects/MathHumanBodyUnit.pas:1078
 msgid "Input channels unit must be in g or m/s2"
-msgstr ""
+msgstr "Canali di input devono essere in g oppure m/s2"
 
 #: Core/MathObjects/MathMultiRateUnit.pas:213
 #: Core/MathObjects/MathMultiRateUnit.pas:215
@@ -27700,19 +27742,19 @@ msgstr ""
 
 #: Core/MathObjects/MathNMTUnit.pas:732
 msgid "AO has to be set to start on acquistion"
-msgstr ""
+msgstr "AO deve essere impostata su inizio acquisizione"
 
 #: Core/MathObjects/MathNMTUnit.pas:734
 msgid "AO is not set to fixed mode"
-msgstr ""
+msgstr "AO is not impostata in modalità fissa"
 
 #: Core/MathObjects/MathNMTUnit.pas:739
 msgid "AO has to be set to manual mode"
-msgstr ""
+msgstr "AO deve essere impostata in modalità manuale"
 
 #: Core/MathObjects/MathNMTUnit.pas:741
 msgid "AO is not set to step sweep"
-msgstr ""
+msgstr "AO non impostata per step sweep"
 
 #: Core/MathObjects/MathNMTUnit.pas:840
 msgid "DSA"
@@ -27775,11 +27817,14 @@ msgid ""
 "partial v7.0.5 structure compatibility. Please remove and add power module "
 "for correct results."
 msgstr ""
+"Potresti incontrare errori al ricalcolo di questo file per parziale "
+"incompatibilità della struttura v7.0.5. Prego rimuovere e aggiungere "
+"nuovamente il modulo power per un corretto funzionamento."
 
 #: Core/MathObjects/MathPowerUnit.pas:6482
 #| msgid "Frequency of rotation"
 msgid "Frequency source not available"
-msgstr ""
+msgstr "Sorgente frequenza non disponibile"
 
 #: Core/MathObjects/MathPowerUnit.pas:7095 Core/Objects/ExtensionsUnit.pas:771
 msgid "Electrical measurements"
@@ -27795,15 +27840,15 @@ msgstr ""
 
 #: Core/MathObjects/MathReferenceUnit.pas:497
 msgid "Axis values should be arranged in ascending order"
-msgstr ""
+msgstr "I valori asse dovrebbero essere ordinati in ordine crescente"
 
 #: Core/MathObjects/MathReferenceUnit.pas:543
 msgid "First channel"
-msgstr ""
+msgstr "Primo canale"
 
 #: Core/MathObjects/MathReferenceUnit.pas:544
 msgid "Second channel"
-msgstr ""
+msgstr "Secondo canale"
 
 #: Core/MathObjects/MathReferenceUnit.pas:581
 msgid "Time reference curve"
@@ -27812,11 +27857,11 @@ msgstr "Curva di riferimento nel tempo"
 #: Core/MathObjects/MathReferenceUnit.pas:583
 #: Core/MathObjects/Visuals/TorsionalVibMathSetupUnit.pas:154
 msgid "Ref. curve"
-msgstr ""
+msgstr "Curva rif."
 
 #: Core/MathObjects/MathResamplerUnit.pas:188
 msgid "Resampler"
-msgstr ""
+msgstr "Ricampionatore"
 
 #: Core/MathObjects/MathRFCountUnit.pas:346 Core/Objects/ExtensionsUnit.pas:772
 msgid "Counting procedures"
@@ -27832,11 +27877,11 @@ msgstr ""
 
 #: Core/MathObjects/MathRosettesUnit.pas:389
 msgid "Physical quantities on analog channels are not the same"
-msgstr ""
+msgstr "Le unità ingegneristiche sui canali analogici non coincidono"
 
 #: Core/MathObjects/MathSFFTUnit.pas:353
 msgid "Short-time Fourier transform"
-msgstr "Trasformata di Short-time Fourier"
+msgstr "Trasformata fourier short-time"
 
 #: Core/MathObjects/MathSFFTUnit.pas:355
 msgid "STFT"
@@ -27848,7 +27893,7 @@ msgstr ""
 
 #: Core/MathObjects/MathSoundUnit.pas:569
 msgid "Sound level meter"
-msgstr "Misura livello acustico"
+msgstr "Misura sound level"
 
 #: Core/MathObjects/MathSoundUnit.pas:570
 #: Core/MathObjects/MathWeightingUnit.pas:514
@@ -27857,7 +27902,7 @@ msgstr "Acustica"
 
 #: Core/MathObjects/MathSoundUnit.pas:571
 msgid "Sound level"
-msgstr "Livello acustico"
+msgstr ""
 
 #: Core/MathObjects/MathStatUnit.pas:1326
 msgid "Basic statistics"
@@ -27869,7 +27914,7 @@ msgstr "Stat. base"
 
 #: Core/MathObjects/MathWaveletUnit.pas:223
 msgid "Wavelet transform"
-msgstr ""
+msgstr "Trasformata wavelet"
 
 #: Core/MathObjects/MathWaveletUnit.pas:224
 #: Core/MathObjects/MathWaveletUnit.pas:225
@@ -27882,7 +27927,7 @@ msgstr "Filtri pesatura acustica"
 
 #: Core/MathObjects/MathWeightingUnit.pas:515
 msgid "Weighting filters"
-msgstr ""
+msgstr "Filtri pesatura"
 
 #: Core/MathObjects/MathXYReferenceUnit.pas:189
 #: Core/MathObjects/MathXYReferenceUnit.pas:223
@@ -27920,7 +27965,7 @@ msgstr ""
 
 #: Core/MathObjects/PQMath.pas:117
 msgid "Total harmonic distortion (full, even, odd)"
-msgstr ""
+msgstr "Distorsione armonica totale (tutte, pari, dispari)"
 
 #: Core/MathObjects/ScopeMathUnit.pas:494
 msgid "Too small block size."
@@ -27932,11 +27977,11 @@ msgstr "Matematica oscilloscopio"
 
 #: Core/MathObjects/ShakerControlUnit.pas:449
 msgid "Shaker control"
-msgstr ""
+msgstr "Controllo shaker"
 
 #: Core/MathObjects/SineProcessingUnit.pas:236
 msgid "COLA channel is missing"
-msgstr ""
+msgstr "Canale COLA mancante"
 
 #: Core/MathObjects/SineProcessingUnit.pas:276
 msgid "Sine processing (COLA)"
@@ -27967,7 +28012,7 @@ msgstr "Max. vel"
 
 #: Core/MathObjects/TorsionalVibMathUnit.pas:1184
 msgid "External clock is not supported"
-msgstr "Clock esterno non supportoato"
+msgstr "Clock esterno non supportato"
 
 #: Core/MathObjects/TorsionalVibMathUnit.pas:1229
 #: Core/MathObjects/Visuals/MathOrderTrackingSetupUnit.pas:985
@@ -27980,19 +28025,20 @@ msgstr ""
 
 #: Core/MathObjects/TransferFunctionMath.pas:1558
 msgid "Multiple excitation channels are not allowed to be in the same group!"
-msgstr ""
+msgstr "Canali multipli di eccitazione non ammessi nello stesso gruppo!"
 
 #: Core/MathObjects/TransferFunctionMath.pas:1564
 msgid "Analog output is not selected in hardware setup or missing"
 msgstr ""
+"L'uscita analogica non è selezionata o mancante nelle impostazioni hardware"
 
 #: Core/MathObjects/TransferFunctionMath.pas:1569
 msgid "Trigger channel not selected"
-msgstr ""
+msgstr "Canale trigger non selezionato"
 
 #: Core/MathObjects/TransferFunctionMath.pas:1574
 msgid "AO channel is not selected"
-msgstr ""
+msgstr "Canale AO non selezionato"
 
 #: Core/MathObjects/TransferFunctionMath.pas:1661
 msgid "Modal test"
@@ -28006,7 +28052,7 @@ msgstr ""
 #: Core/MathObjects/VectorMatrixMathUnit.pas:265
 #: Core/MathObjects/VectorMatrixMathUnit.pas:266
 msgid "Complex test"
-msgstr ""
+msgstr "Test complesso"
 
 #: Core/MathObjects/CAMath/CAMathUnit.pas:1541
 #: Core/MathObjects/CAMath/CAMathUnit.pas:1569
@@ -28023,30 +28069,30 @@ msgstr "Pressioni max"
 
 #: Core/MathObjects/CAMath/CAMathUnit.pas:1839
 msgid "Derivates"
-msgstr ""
+msgstr "Derivate"
 
 #: Core/MathObjects/CAMath/CAMathUnit.pas:1847
 msgid "Injection"
-msgstr ""
+msgstr "Iniezione"
 
 #: Core/MathObjects/CAMath/CAMathUnit.pas:1848
 msgid "Average values"
-msgstr ""
+msgstr "Valori medi"
 
 #. cylinder params
 #: Core/MathObjects/CAMath/CAMathUnit.pas:2990
 msgid "Engine database not found"
-msgstr ""
+msgstr "Database motore non trovato"
 
 #: Core/MathObjects/CAMath/CAMathUnit.pas:4043
 msgid "RPM is missing in engine XML."
-msgstr ""
+msgstr "RPM non esiste nell'XML motore."
 
 #: Core/MathObjects/CAMath/CAMathUnit.pas:8374
 #: Core/MathObjects/CAMath/CAMathUnit.pas:8377
 #: Core/MathObjects/CAMath/CAMathUnit.pas:8457
 msgid "Detected no. of pulses differs from defined sensor."
-msgstr ""
+msgstr "Numero di impulsi rilevati è diverso dalla definizione del sensore."
 
 #: Core/MathObjects/CAMath/CAMathUnit.pas:8375
 #: Core/MathObjects/CAMath/CAMathUnit.pas:8458
@@ -28055,29 +28101,31 @@ msgstr "Nessun segnale angolo."
 
 #: Core/MathObjects/CAMath/CAMathUnit.pas:8377
 msgid "Check sensor line direction (inv.)."
-msgstr ""
+msgstr "Verifica la direzione del sensore (inv.)."
 
 #: Core/MathObjects/CAMath/CAMathUnit.pas:8459
 msgid "Counter channels are not available or wrong type."
-msgstr ""
+msgstr "Canali contatori non disponibili o tipo errato."
 
 #: Core/MathObjects/CAMath/CAMathUnit.pas:8460
 msgid "Trigger channel is not selected."
-msgstr ""
+msgstr "Canale trigger non selezionato."
 
 #: Core/MathObjects/CAMath/CAMathUnit.pas:8461
 msgid "Reference pressure is unassigned."
-msgstr ""
+msgstr "Pressione di riferimento non impostata."
 
 #: Core/MathObjects/CAMath/CAMathUnit.pas:8462
 msgid ""
 "Geartooth with missing or double teeth is not supported for digital input "
 "signal."
 msgstr ""
+"Ingranaggio con dente o doppio dente mancante non è supportato come ingresso "
+"digitale"
 
 #: Core/MathObjects/CAMath/CAMathUnit.pas:8465
 msgid "with sample rate divider are not allowed"
-msgstr ""
+msgstr "con divisore di campionamento non sono supportati"
 
 #: Core/MathObjects/CAMath/CAMathUnit.pas:8467
 msgid "Custom volume formula is not correct"
