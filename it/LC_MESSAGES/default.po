@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2017-08-31 16:50\n"
-"PO-Revision-Date: 2017-09-23 17:09+0200\n"
+"PO-Revision-Date: 2017-09-24 02:08+0200\n"
 "Last-Translator: Somebody <your.email@address.com>\n"
 "Language-Team: \n"
 "Language: it\n"
@@ -18163,22 +18163,22 @@ msgstr ""
 #: Core/Sequencer/Items/Visuals/ExportItemFrameUnit.dfm:48
 #: DEWEsoft/MainUnit.dfm:21821
 msgid "Reduced data"
-msgstr ""
+msgstr "Dati ridotti"
 
 #. ExportItemFrame..MainSeqItemPanel..AdvCaptionPanel3..Caption
 #: Core/Sequencer/Items/Visuals/ExportItemFrameUnit.dfm:97
 msgid "Timestamp format"
-msgstr ""
+msgstr "Formato timestamp"
 
 #. ExportItemFrame..MainSeqItemPanel..AdvCaptionPanel2..UseTemplateCheckBox..Caption
 #: Core/Sequencer/Items/Visuals/ExportItemFrameUnit.dfm:155
 msgid "Use template"
-msgstr ""
+msgstr "Usa template"
 
 #. ExportItemFrame..MainSeqItemPanel..AdvCaptionPanel2..ShowWarningPromptCheckBox..Caption
 #: Core/Sequencer/Items/Visuals/ExportItemFrameUnit.dfm:182
 msgid "Show warning prompt"
-msgstr ""
+msgstr "Mostra messaggi avviso"
 
 #. ExportItemFrame..MainSeqItemPanel..AdvCaptionPanel1..Caption
 #. MultiExportForm..Panel1..Panel3..Panel4..MExportFormatPanel..Caption
@@ -18186,12 +18186,12 @@ msgstr ""
 #: Core/Sequencer/Items/Visuals/ExportItemFrameUnit.dfm:197
 #: Visuals/Forms/MultiExportUnit.dfm:335 Visuals/Frames/RecallFrameUnit.dfm:525
 msgid "Export file type"
-msgstr ""
+msgstr "Esporta tipo file"
 
 #. FileManagerItemFrame..MainSeqItemPanel..CopyPanel..Caption
 #: Core/Sequencer/Items/Visuals/FileManagerItemFrameUnit.dfm:27
 msgid "Copy files"
-msgstr ""
+msgstr "Copia files"
 
 #. FileManagerItemFrame..MainSeqItemPanel..CopyPanel..CopySourcePatternLabel..Caption
 #. FileManagerItemFrame..MainSeqItemPanel..DeletePanel..DelPatternLabel..Caption
@@ -18205,14 +18205,14 @@ msgstr ""
 #. FileManagerItemFrame..MainSeqItemPanel..CopyPanel..CopyDestFolderLabel..Caption
 #: Core/Sequencer/Items/Visuals/FileManagerItemFrameUnit.dfm:64
 msgid "Destination folder"
-msgstr ""
+msgstr "Directory di destinazione"
 
 #. FileManagerItemFrame..MainSeqItemPanel..CopyPanel..CopySourceComboBox....Items.Strings
 #. FileManagerItemFrame..MainSeqItemPanel..DeletePanel..DelTypeComboBox....Items.Strings
 #: Core/Sequencer/Items/Visuals/FileManagerItemFrameUnit.dfm:78
 #: Core/Sequencer/Items/Visuals/FileManagerItemFrameUnit.dfm:214
 msgid "Fixed files"
-msgstr ""
+msgstr "Files fissi"
 
 #. FileManagerItemFrame..MainSeqItemPanel..CopyPanel..CopySourceComboBox....Items.Strings
 #. FileManagerItemFrame..MainSeqItemPanel..DeletePanel..DelTypeComboBox....Items.Strings
@@ -18221,37 +18221,37 @@ msgstr ""
 #: Core/Sequencer/Items/Visuals/FileManagerItemFrameUnit.dfm:215
 #: Core/Sequencer/Items/Visuals/FileManagerItemFrameUnit.dfm:517
 msgid "Last stored data file"
-msgstr ""
+msgstr "Ultimo file dati salvato"
 
 #. FileManagerItemFrame..MainSeqItemPanel..DeletePanel..Caption
 #: Core/Sequencer/Items/Visuals/FileManagerItemFrameUnit.dfm:141
 msgid "Delete files"
-msgstr ""
+msgstr "Elina files"
 
 #. FileManagerItemFrame..MainSeqItemPanel..FindPanel..Caption
 #: Core/Sequencer/Items/Visuals/FileManagerItemFrameUnit.dfm:228
 msgid "Find files"
-msgstr ""
+msgstr "Trova files"
 
 #. FileManagerItemFrame..MainSeqItemPanel..FindPanel..FindVariableLabel..Caption
 #: Core/Sequencer/Items/Visuals/FileManagerItemFrameUnit.dfm:265
 msgid "Assign file name to"
-msgstr ""
+msgstr "Assegna nome file a"
 
 #. FileManagerItemFrame..MainSeqItemPanel..FindPanel..FindTypeComboBox....Items.Strings
 #: Core/Sequencer/Items/Visuals/FileManagerItemFrameUnit.dfm:306
 msgid "Find first"
-msgstr ""
+msgstr "Trova primo"
 
 #. FileManagerItemFrame..MainSeqItemPanel..FindPanel..FindTypeComboBox....Items.Strings
 #: Core/Sequencer/Items/Visuals/FileManagerItemFrameUnit.dfm:307
 msgid "Find next"
-msgstr ""
+msgstr "Trova prossimo"
 
 #. FileManagerItemFrame..MainSeqItemPanel..FindPanel..FindIncludeSubDirCheckBox..Caption
 #: Core/Sequencer/Items/Visuals/FileManagerItemFrameUnit.dfm:314
 msgid "Include subdirectories"
-msgstr ""
+msgstr "Includi sotto-directories"
 
 #. FileManagerItemFrame..MainSeqItemPanel..OpenPanel..Caption
 #. FileManagerItemFrame..MainSeqItemPanel..OperationTypePanel..OperationTypeComboBox....Items.Strings
@@ -18259,28 +18259,28 @@ msgstr ""
 #: Core/Sequencer/Items/Visuals/FileManagerItemFrameUnit.dfm:449
 #: Core/Sequencer/Items/FileManagerItem.pas:215
 msgid "Open file"
-msgstr ""
+msgstr "Apri file"
 
 #. FileManagerItemFrame..MainSeqItemPanel..OpenPanel..OpenVarNameLabel..Caption
 #: Core/Sequencer/Items/Visuals/FileManagerItemFrameUnit.dfm:368
 msgid "Assign application result to"
-msgstr ""
+msgstr "Assegna risultati applicazione a"
 
 #. FileManagerItemFrame..MainSeqItemPanel..OpenPanel..WaitingCheckBox..Caption
 #: Core/Sequencer/Items/Visuals/FileManagerItemFrameUnit.dfm:404
 msgid "Waiting till an application ends"
-msgstr ""
+msgstr "Attendi fino al termine dell'applicazione"
 
 #. FileManagerItemFrame..MainSeqItemPanel..OperationTypePanel..Caption
 #: Core/Sequencer/Items/Visuals/FileManagerItemFrameUnit.dfm:428
 msgid "Operation type"
-msgstr ""
+msgstr "Tipo operazione"
 
 #. FileManagerItemFrame..MainSeqItemPanel..OperationTypePanel..OperationTypeComboBox....Items.Strings
 #: Core/Sequencer/Items/Visuals/FileManagerItemFrameUnit.dfm:450
 #: Core/Sequencer/Items/FileManagerItem.pas:216
 msgid "Copy file"
-msgstr ""
+msgstr "Copia file"
 
 #. FileManagerItemFrame..MainSeqItemPanel..OperationTypePanel..OperationTypeComboBox....Items.Strings
 #. RecallFrame..FilesPopup..MIDeleteFile..Caption
@@ -18288,7 +18288,7 @@ msgstr ""
 #: Visuals/Frames/RecallFrameUnit.dfm:1126
 #: Core/Sequencer/Items/FileManagerItem.pas:217
 msgid "Delete file"
-msgstr ""
+msgstr "Elimina file"
 
 #. FileManagerItemFrame..MainSeqItemPanel..OperationTypePanel..OperationTypeComboBox....Items.Strings
 #. FileManagerItemFrame..MainSeqItemPanel..RenamePanel..Caption
@@ -18297,43 +18297,43 @@ msgstr ""
 #: Core/Sequencer/Items/FileManagerItem.pas:218
 #: Core/Sequencer/Items/FileManagerItem.pas:433
 msgid "Rename file"
-msgstr ""
+msgstr "Rinomina file"
 
 #. FileManagerItemFrame..MainSeqItemPanel..OperationTypePanel..OperationTypeComboBox....Items.Strings
 #: Core/Sequencer/Items/Visuals/FileManagerItemFrameUnit.dfm:453
 #: Core/Sequencer/Items/FileManagerItem.pas:219
 msgid "Search file"
-msgstr ""
+msgstr "Ricerca file"
 
 #. FileManagerItemFrame..MainSeqItemPanel..RenamePanel..RenTargetLabel..Caption
 #: Core/Sequencer/Items/Visuals/FileManagerItemFrameUnit.dfm:489
 msgid "Target"
-msgstr ""
+msgstr "Obiettivo"
 
 #. FileManagerItemFrame..MainSeqItemPanel..RenamePanel..RenNewNameLabel..Caption
 #: Core/Sequencer/Items/Visuals/FileManagerItemFrameUnit.dfm:496
 msgid "New file name (only file name)"
-msgstr ""
+msgstr "Nuovo nome file (solo nome file)"
 
 #. FileManagerItemFrame..MainSeqItemPanel..RenamePanel..RenOldNameLabel..Caption
 #: Core/Sequencer/Items/Visuals/FileManagerItemFrameUnit.dfm:503
 msgid "Old file name (absolute path)"
-msgstr ""
+msgstr "Nome file vecchio (path assoluto)"
 
 #. FileManagerItemFrame..MainSeqItemPanel..RenamePanel..RenSourceComboBox....Items.Strings
 #: Core/Sequencer/Items/Visuals/FileManagerItemFrameUnit.dfm:518
 msgid "Fixed file"
-msgstr ""
+msgstr "File fisso"
 
 #. FileManagerItemFrame..MainSeqItemPanel..RenamePanel..RenTargetComboBox....Items.Strings
 #: Core/Sequencer/Items/Visuals/FileManagerItemFrameUnit.dfm:532
 msgid "Fixed name"
-msgstr ""
+msgstr "Nome fisso"
 
 #. FileManagerItemFrame..MainSeqItemPanel..RenamePanel..RenTargetComboBox....Items.Strings
 #: Core/Sequencer/Items/Visuals/FileManagerItemFrameUnit.dfm:533
 msgid "User's entry"
-msgstr ""
+msgstr "Campo utente"
 
 #. FormItemFrame..MainSeqItemPanel..advDelay..Caption
 #: Core/Sequencer/Items/Visuals/FormItemFrameUnit.dfm:15
@@ -18343,12 +18343,12 @@ msgstr ""
 #. FormItemFrame..MainSeqItemPanel..advDelay..Label1..Caption
 #: Core/Sequencer/Items/Visuals/FormItemFrameUnit.dfm:31
 msgid "Caption"
-msgstr ""
+msgstr "Etichetta"
 
 #. FormItemFrame..MainSeqItemPanel..AdvCaptionPanel1..ControlVarNameLabel..Caption
 #: Core/Sequencer/Items/Visuals/FormItemFrameUnit.dfm:82
 msgid "Variable name"
-msgstr ""
+msgstr "Nome variabile"
 
 #. FormItemFrame..MainSeqItemPanel..AdvCaptionPanel1..SelectionAdvGlowButton..Caption
 #. DHDesignFrame..Panel1..SelectionButton..Caption
@@ -18361,56 +18361,56 @@ msgstr "Selezione"
 #. FormItemFrame..MainSeqItemPanel..AdvCaptionPanel1..SelectionByIndexValueCheckBox..Caption
 #: Core/Sequencer/Items/Visuals/FormItemFrameUnit.dfm:282
 msgid "Use selection by index value"
-msgstr ""
+msgstr "Usa selezione per valore indice"
 
 #. FormulaItemFrame..MainSeqItemPanel..AdvFormula..Label2..Caption
 #: Core/Sequencer/Items/Visuals/FormulaItemFrameUnit.dfm:51
 msgid "Advanced functions"
-msgstr ""
+msgstr "Funzioni avanzate"
 
 #. IfDecisionItemFrame..MainSeqItemPanel..AdvFileExists..Caption
 #. IfDecisionItemFrame..MainSeqItemPanel..AdvConditionType..cbType....Items.Strings
 #: Core/Sequencer/Items/Visuals/IfDecisionItemFrameUnit.dfm:45
 #: Core/Sequencer/Items/Visuals/IfDecisionItemFrameUnit.dfm:99
 msgid "File exists"
-msgstr ""
+msgstr "File esistente"
 
 #. IfDecisionItemFrame..MainSeqItemPanel..AdvConditionType..Caption
 #: Core/Sequencer/Items/Visuals/IfDecisionItemFrameUnit.dfm:76
 msgid "Condition type"
-msgstr ""
+msgstr "Tipo condizione"
 
 #. IfDecisionItemFrame..MainSeqItemPanel..AdvConditionType..cbType....Items.Strings
 #: Core/Sequencer/Items/Visuals/IfDecisionItemFrameUnit.dfm:100
 msgid "Error state"
-msgstr ""
+msgstr "Stato errore"
 
 #. LoadSetupFrame..MainSeqItemPanel..AdvLoadFile..Caption
 #. MainForm..MainAdvToolBar..ChSetupPage..SetupSaveToolbar..CompactCaption
 #: Core/Sequencer/Items/Visuals/LoadSetupFrameUnit.dfm:24
 #: DEWEsoft/MainUnit.dfm:2285
 msgid "Setup file"
-msgstr ""
+msgstr "File setup"
 
 #. LoadSetupFrame..MainSeqItemPanel..AdvLoadFile..rbDynamic..Caption
 #: Core/Sequencer/Items/Visuals/LoadSetupFrameUnit.dfm:70
 msgid "Dynamic link"
-msgstr ""
+msgstr "Link dinamico"
 
 #. LoadSetupFrame..MainSeqItemPanel..AdvLoadFile..rbStatic..Caption
 #: Core/Sequencer/Items/Visuals/LoadSetupFrameUnit.dfm:81
 msgid "Static link"
-msgstr ""
+msgstr "Link statico"
 
 #. LoadSetupFrame..MainSeqItemPanel..AdvLoadFile..bEditSetupFile..Caption
 #: Core/Sequencer/Items/Visuals/LoadSetupFrameUnit.dfm:90
 msgid "Edit setup"
-msgstr ""
+msgstr "Modifica setup"
 
 #. LoopItemFrame..MainSeqItemPanel..AdvLoop..Caption
 #: Core/Sequencer/Items/Visuals/LoopItemFrameUnit.dfm:15
 msgid "Repeat number"
-msgstr ""
+msgstr "Ripeti numero"
 
 #. MacroItemFrame..MainSeqItemPanel..AdvCaptionPanel1..Caption
 #: Core/Sequencer/Items/Visuals/MacroItemFrameUnit.dfm:13
@@ -18421,39 +18421,39 @@ msgstr ""
 #. MacroItemFrame..MainSeqItemPanel..AdvCaptionPanel1..bRecordMacro..Caption
 #: Core/Sequencer/Items/Visuals/MacroItemFrameUnit.dfm:30
 msgid "Play sequence and record macro"
-msgstr ""
+msgstr "Esegui sequenza e registra macro"
 
 #. MacroItemFrame..MainSeqItemPanel..AdvCaptionPanel1..StoreVoiceCheckBox..Caption
 #: Core/Sequencer/Items/Visuals/MacroItemFrameUnit.dfm:39
 msgid "Record voice"
-msgstr ""
+msgstr "Registra voce"
 
 #. SeqItemFrame..MainSeqItemPanel..AdvMProperties..Caption
 #. SeqLogSettingsForm..SettingsPanel..GroupBox1..TextInfoCheckBox..Caption
 #: Core/Sequencer/Items/Visuals/SeqItemFrameUnit.dfm:27
 #: Core/Sequencer/Visuals/SeqLogSettingsFormUnit.dfm:114
 msgid "Text info"
-msgstr ""
+msgstr "Info testo"
 
 #. SeqItemFrame..MainSeqItemPanel..AdvMProperties..cbTTS..Caption
 #: Core/Sequencer/Items/Visuals/SeqItemFrameUnit.dfm:53
 msgid "Output voice"
-msgstr ""
+msgstr "Voce output"
 
 #. SeqItemFrame..MainSeqItemPanel..AdvBlockInfo..Caption
 #: Core/Sequencer/Items/Visuals/SeqItemFrameUnit.dfm:68
 msgid "Block info"
-msgstr ""
+msgstr "Info blocco"
 
 #. SeqParametersForm..Caption
 #: Core/Sequencer/Items/Visuals/SeqParametersFormUnit.dfm:5
 msgid "Form parameters"
-msgstr ""
+msgstr "Form parametri"
 
 #. SeqParametersForm..RegExprLabel..Caption
 #: Core/Sequencer/Items/Visuals/SeqParametersFormUnit.dfm:32
 msgid "Validation expression (regular expression syntax) "
-msgstr ""
+msgstr "Espressione validazione (sintassi regular expression) "
 
 #. SeqParametersForm..OpenDialogCheckBox..Caption
 #: Core/Sequencer/Items/Visuals/SeqParametersFormUnit.dfm:39
@@ -18468,17 +18468,17 @@ msgstr ""
 #. SeqParametersForm..CloseFormOnEnterKeyCheckBox..Caption
 #: Core/Sequencer/Items/Visuals/SeqParametersFormUnit.dfm:75
 msgid "Close form when presses \"Enter\" key"
-msgstr ""
+msgstr "Chiudi il form con pressione tasto \"Invio\""
 
 #. TestBoardItemFrame..PCCommand..TabSetMode..Caption
 #: Core/Sequencer/Items/Visuals/TestBoardItemFrameUnit.dfm:16
 msgid "Set mode"
-msgstr ""
+msgstr "Imposta modo"
 
 #. TestBoardItemFrame..PCCommand..TabSheet1..LabelSubType..Caption
 #: Core/Sequencer/Items/Visuals/TestBoardItemFrameUnit.dfm:82
 msgid "Subtype"
-msgstr ""
+msgstr "Sottotipo"
 
 #. TestBoardItemFrame..PCCommand..TabSheet1..CBBridgeType....Items.Strings
 #: Core/Sequencer/Items/Visuals/TestBoardItemFrameUnit.dfm:95
@@ -18494,17 +18494,17 @@ msgstr "Ponte intero"
 #: Core/Daq/Amplifiers/AmplConstUnit.pas:481
 #: Core/Daq/Amplifiers/AmplConstUnit.pas:610
 msgid "Half bridge"
-msgstr "1/2 Ponte"
+msgstr "1/2 ponte"
 
 #. TestBoardItemFrame..PCCommand..TabSheet1..CBBridgeType....Items.Strings
 #: Core/Sequencer/Items/Visuals/TestBoardItemFrameUnit.dfm:97
 msgid "Quarter bridge 120"
-msgstr ""
+msgstr "Quarto ponte 120"
 
 #. TestBoardItemFrame..PCCommand..TabSheet1..CBBridgeType....Items.Strings
 #: Core/Sequencer/Items/Visuals/TestBoardItemFrameUnit.dfm:98
 msgid "Quarter bridge 350"
-msgstr ""
+msgstr "Quarto ponte 350"
 
 #. TestBoardItemFrame..PCCommand..TabSheet1..CBBridgeSubType....Items.Strings
 #: Core/Sequencer/Items/Visuals/TestBoardItemFrameUnit.dfm:112
@@ -18519,19 +18519,19 @@ msgstr ""
 #. TestBoardItemFrame..PCCommand..TabSheet4..Button1..Caption
 #: Core/Sequencer/Items/Visuals/TestBoardItemFrameUnit.dfm:147
 msgid "Open form"
-msgstr ""
+msgstr "Form apertura"
 
 #. TestBoardItemFrame..PCCommand..TabChargeAdapter..Caption
 #. TestBoardItemFrame..PCCommand..TabChargeAdapter..Label4..Caption
 #: Core/Sequencer/Items/Visuals/TestBoardItemFrameUnit.dfm:153
 #: Core/Sequencer/Items/Visuals/TestBoardItemFrameUnit.dfm:160
 msgid "Charge adapter"
-msgstr ""
+msgstr "Adattatore charge"
 
 #. TestBoardItemFrame..TopPanel..LabelCmd..Caption
 #: Core/Sequencer/Items/Visuals/TestBoardItemFrameUnit.dfm:187
 msgid "Command"
-msgstr ""
+msgstr "Comando"
 
 #. WaitForItemFrame..MainSeqItemPanel..AdvLoadSetup..Caption
 #. WaitForItemFrame..MainSeqItemPanel..AdvWaitFor..cbWaitFor....Items.Strings
@@ -18561,32 +18561,32 @@ msgstr ""
 #. WaitForItemFrame..MainSeqItemPanel..AdvWaitFor..Caption
 #: Core/Sequencer/Items/Visuals/WaitForItemFrameUnit.dfm:261
 msgid "Wait for"
-msgstr ""
+msgstr "Attendi"
 
 #. WaitForItemFrame..MainSeqItemPanel..AdvWaitFor..cbWaitFor....Items.Strings
 #: Core/Sequencer/Items/Visuals/WaitForItemFrameUnit.dfm:286
 msgid "Stop storing"
-msgstr ""
+msgstr "Ferma registrazione"
 
 #. ModelPropsForm..LocalVariablesPanel..Caption
 #: Core/Sequencer/Visuals/ModelPropsUnit.dfm:30
 msgid "Local variables"
-msgstr ""
+msgstr "Variabili locali"
 
 #. SeqControlSelFrame..acpBlocks..Caption
 #: Core/Sequencer/Visuals/SeqControlSelFrameUnit.dfm:17
 msgid "Blocks"
-msgstr ""
+msgstr "Blocchi"
 
 #. SeqDeviceFrame..DeviceListPanel..Caption
 #: Core/Sequencer/Visuals/SeqDeviceFrameUnit.dfm:17
 msgid "Device list"
-msgstr ""
+msgstr "Lista dispositivi"
 
 #. SeqDeviceFrame..DeviceListPanel..RightPanel..PageControl1..RS232TabSheet..DataBitsLabel..Caption
 #: Core/Sequencer/Visuals/SeqDeviceFrameUnit.dfm:103
 msgid "Data bits"
-msgstr ""
+msgstr "bits dati"
 
 #. SeqDeviceFrame..DeviceListPanel..RightPanel..PageControl1..RS232TabSheet..BaudLabel..Caption
 #: Core/Sequencer/Visuals/SeqDeviceFrameUnit.dfm:116
@@ -18598,7 +18598,7 @@ msgstr ""
 #. SeqDeviceFrame..DeviceListPanel..RightPanel..PageControl1..RS232TabSheet..ParityDLabel..Caption
 #: Core/Sequencer/Visuals/SeqDeviceFrameUnit.dfm:131
 msgid "Parity"
-msgstr ""
+msgstr "Partià"
 
 #. SeqDeviceFrame..DeviceListPanel..RightPanel..PageControl1..RS232TabSheet..StopBitsLabel..Caption
 #: Core/Sequencer/Visuals/SeqDeviceFrameUnit.dfm:138
@@ -18658,12 +18658,12 @@ msgstr ""
 #. SeqDeviceFrame..DeviceListPanel..RightPanel..PageControl1..EthernetTabSheet..Label1..Caption
 #: Core/Sequencer/Visuals/SeqDeviceFrameUnit.dfm:290
 msgid "Remote host"
-msgstr ""
+msgstr "Host remoto"
 
 #. SeqDeviceFrame..DeviceListPanel..RightPanel..PageControl1..EthernetTabSheet..Label2..Caption
 #: Core/Sequencer/Visuals/SeqDeviceFrameUnit.dfm:305
 msgid "Remote port"
-msgstr ""
+msgstr "Porta remota"
 
 #. SeqDeviceFrame..DeviceListPanel..RightPanel..PageControl1..EthernetTabSheet..TCPRadioButton..Caption
 #: Core/Sequencer/Visuals/SeqDeviceFrameUnit.dfm:338
@@ -18678,14 +18678,14 @@ msgstr ""
 #. SeqDeviceFrame..DeviceListPanel..RightPanel..PageControl1..FileTabSheet..AppendFileCheckBox..Caption
 #: Core/Sequencer/Visuals/SeqDeviceFrameUnit.dfm:384
 msgid "Append file"
-msgstr ""
+msgstr "Appendi file"
 
 #. SeqDeviceFrame..DeviceListPanel..RightPanel..PageControl1..CANTabSheet..Label4..Caption
 #. SeqDeviceFrame..DeviceListPanel..RightPanel..PageControl1..TBTabSheet..Label5..Caption
 #: Core/Sequencer/Visuals/SeqDeviceFrameUnit.dfm:397
 #: Core/Sequencer/Visuals/SeqDeviceFrameUnit.dfm:425
 msgid "CAN port"
-msgstr ""
+msgstr "Porta CAN"
 
 #. SeqDeviceFrame..DeviceListPanel..RightPanel..PageControl1..TBTabSheet..Caption
 #: Core/Sequencer/Visuals/SeqDeviceFrameUnit.dfm:418
@@ -18695,37 +18695,37 @@ msgstr ""
 #. SeqDeviceFrame..DeviceListPanel..DeviceToolBar..AddRS232Button..Caption
 #: Core/Sequencer/Visuals/SeqDeviceFrameUnit.dfm:494
 msgid "Add RS232"
-msgstr ""
+msgstr "Aggiungi RS232"
 
 #. SeqDeviceFrame..DeviceListPanel..DeviceToolBar..AddEthernetButton..Caption
 #: Core/Sequencer/Visuals/SeqDeviceFrameUnit.dfm:662
 msgid "Add Ethernet"
-msgstr ""
+msgstr "Aggiungi Ethernet"
 
 #. SeqDeviceFrame..DeviceListPanel..DeviceToolBar..AddCANButton..Caption
 #: Core/Sequencer/Visuals/SeqDeviceFrameUnit.dfm:811
 msgid "Add CAN"
-msgstr ""
+msgstr "Aggiungi CAN"
 
 #. SeqDeviceFrame..DeviceListPanel..DeviceToolBar..AddFileButton..Caption
 #: Core/Sequencer/Visuals/SeqDeviceFrameUnit.dfm:894
 msgid "Add Txt file"
-msgstr ""
+msgstr "Aggiungi file testo"
 
 #. SeqDeviceFrame..DeviceListPanel..DeviceToolBar..AddTBButton..Caption
 #: Core/Sequencer/Visuals/SeqDeviceFrameUnit.dfm:977
 msgid "Add Test board"
-msgstr ""
+msgstr "Aggiungi test board"
 
 #. SeqDiagramFrame..AdvCaptionPanel1..Caption
 #: Core/Sequencer/Visuals/SeqDiagramFrameUnit.dfm:50
 msgid "Main diagram"
-msgstr ""
+msgstr "Diagramma principale"
 
 #. SeqDiagramFrame..pumBlock..miRoot..Caption
 #: Core/Sequencer/Visuals/SeqDiagramFrameUnit.dfm:124
 msgid "Starting block (root)"
-msgstr ""
+msgstr "Blocco di avvio (radice)"
 
 #. SeqDiagramFrame..pumBlock..miRefactor..Caption
 #: Core/Sequencer/Visuals/SeqDiagramFrameUnit.dfm:148
@@ -18735,73 +18735,73 @@ msgstr ""
 #. SeqDiagramFrame..pumBlock..miRefactor..miExtractCustomBlock..Caption
 #: Core/Sequencer/Visuals/SeqDiagramFrameUnit.dfm:150
 msgid "Extract custom block..."
-msgstr ""
+msgstr "Estrai blocco custom..."
 
 #. SeqDiagramFrame..pumBlock..miDebug..miAddBreakpoint..Caption
 #: Core/Sequencer/Visuals/SeqDiagramFrameUnit.dfm:161
 msgid "Add breakpoint"
-msgstr ""
+msgstr "Aggiungi breakpoint"
 
 #. SeqDiagramFrame..pumBlock..miDebug..miAddOutputDebugString..Caption
 #: Core/Sequencer/Visuals/SeqDiagramFrameUnit.dfm:165
 msgid "Add output string"
-msgstr ""
+msgstr "Aggiungi stringa output"
 
 #. SeqDiagramFrame..pumBlock..miDebug..miRemoveBreakpoint..Caption
 #: Core/Sequencer/Visuals/SeqDiagramFrameUnit.dfm:169
 msgid "Remove breakpoint"
-msgstr ""
+msgstr "Rimuovi breakpoint"
 
 #. SeqDiagramFrame..pumBlock..miDebug..miRemoveOutputString..Caption
 #: Core/Sequencer/Visuals/SeqDiagramFrameUnit.dfm:173
 msgid "Remove output string"
-msgstr ""
+msgstr "Rimuovi stringa output"
 
 #. SeqDiagramFrame..pumBlock..miDebug..miClearAllBreakpoints..Caption
 #: Core/Sequencer/Visuals/SeqDiagramFrameUnit.dfm:177
 msgid "Clear all breakpoints"
-msgstr ""
+msgstr "Elimina tutti breakpoints"
 
 #. SeqDiagramFrame..pumBlock..miDebug..miBreakpointProperties..Caption
 #: Core/Sequencer/Visuals/SeqDiagramFrameUnit.dfm:181
 msgid "Breakpoint properties..."
-msgstr ""
+msgstr "Proprietà breakpoint..."
 
 #. SeqDiagramFrame..pumBlock..miDebug..miOutputStringProperties..Caption
 #: Core/Sequencer/Visuals/SeqDiagramFrameUnit.dfm:185
 msgid "Output string properties..."
-msgstr ""
+msgstr "Proprietà stringhe output..."
 
 #. SeqLogSettingsForm..SettingsPanel..ExcelTemplateLabel..Caption
 #: Core/Sequencer/Visuals/SeqLogSettingsFormUnit.dfm:54
 msgid "Number of blocks in the log file (0..unlimited)"
-msgstr ""
+msgstr "Numero di blocchi nel file log (0..illimitati)"
 
 #. SeqLogSettingsForm..SettingsPanel..GroupBox1..Caption
 #: Core/Sequencer/Visuals/SeqLogSettingsFormUnit.dfm:91
 msgid "Message format"
-msgstr ""
+msgstr "Formato messaggio"
 
 #. SeqLogSettingsForm..SettingsPanel..GroupBox1..BlockNameCheckBox..Caption
 #: Core/Sequencer/Visuals/SeqLogSettingsFormUnit.dfm:98
 msgid "Block name"
-msgstr ""
+msgstr "Nome blocco"
 
 #. SeqLogSettingsForm..SettingsPanel..GroupBox1..BlockIDCheckBox..Caption
 #: Core/Sequencer/Visuals/SeqLogSettingsFormUnit.dfm:106
 #: Core/Sequencer/Items/Visuals/SeqItemFrameUnit.pas:75
 msgid "Block ID"
-msgstr ""
+msgstr "ID blocco"
 
 #. SeqLogSettingsForm..SettingsPanel..GroupBox1..VariablesCheckBox..Caption
 #: Core/Sequencer/Visuals/SeqLogSettingsFormUnit.dfm:130
 msgid "Custom text"
-msgstr ""
+msgstr "Testo custom"
 
 #. SeqMainFrame..SeqAdvToolBarPager..SequenceAdvToolBarPager..Caption
 #: Core/Sequencer/Visuals/SeqMainFrameUnit.dfm:45 DEWEsoft/MainUnit.pas:16460
 msgid "Sequence"
-msgstr ""
+msgstr "Sequenza"
 
 #. SeqMainFrame..SeqAdvToolBarPager..SequenceAdvToolBarPager..AdvtbView..advbViewDesigner..Caption
 #. SeqMainFrame..SeqAdvToolBarPager..SeqUnitAdvToolBarPager..UnitViewToolBar..UnitDesignView..Caption
@@ -18815,29 +18815,29 @@ msgstr ""
 #: Core/Sequencer/Visuals/SeqMainFrameUnit.dfm:165
 #: Core/Sequencer/Visuals/SeqMainFrameUnit.dfm:3007
 msgid "Code"
-msgstr ""
+msgstr "Codice"
 
 #. SeqMainFrame..SeqAdvToolBarPager..SequenceAdvToolBarPager..AdvtbFile..advbNew..Caption
 #. SeqMainFrame..SeqAdvToolBarPager..SeqUnitAdvToolBarPager..AdvToolBar2..AdvGlowButton1..Caption
 #: Core/Sequencer/Visuals/SeqMainFrameUnit.dfm:275
 #: Core/Sequencer/Visuals/SeqMainFrameUnit.dfm:3755
 msgid "New"
-msgstr ""
+msgstr "Nuovo"
 
 #. SeqMainFrame..SeqAdvToolBarPager..SequenceAdvToolBarPager..AdvtbDiagram..Caption
 #: Core/Sequencer/Visuals/SeqMainFrameUnit.dfm:596
 msgid "Diagram"
-msgstr ""
+msgstr "Diagramma"
 
 #. SeqMainFrame..SeqAdvToolBarPager..SequenceAdvToolBarPager..AdvtbDiagram..advbDiagramEvent..Caption
 #: Core/Sequencer/Visuals/SeqMainFrameUnit.dfm:730
 msgid "Event"
-msgstr ""
+msgstr "Evento"
 
 #. SeqMainFrame..SeqAdvToolBarPager..SequenceAdvToolBarPager..AdvtbDiagram..advbDiagramMain..Caption
 #: Core/Sequencer/Visuals/SeqMainFrameUnit.dfm:844
 msgid "Main"
-msgstr ""
+msgstr "Principale"
 
 #. SeqMainFrame..SeqAdvToolBarPager..SequenceAdvToolBarPager..AdvtbEventCustom..Caption
 #: Core/Sequencer/Visuals/SeqMainFrameUnit.dfm:950
@@ -18847,29 +18847,29 @@ msgstr ""
 #. SeqMainFrame..SeqAdvToolBarPager..SequenceAdvToolBarPager..AdvtbEventCustom..advbAddBlock..Hint
 #: Core/Sequencer/Visuals/SeqMainFrameUnit.dfm:970
 msgid "Add new custom block"
-msgstr ""
+msgstr "Aggiungi nuovo blocco custom"
 
 #. SeqMainFrame..SeqAdvToolBarPager..SequenceAdvToolBarPager..AdvtbEventCustom..advmbEventCustom..Caption
 #. SeqMainFrame..SeqAdvToolBarPager..SeqUnitAdvToolBarPager..UnitTestCaseCustomToolBar..UnitCustomMenuButton..Caption
 #: Core/Sequencer/Visuals/SeqMainFrameUnit.dfm:1135
 #: Core/Sequencer/Visuals/SeqMainFrameUnit.dfm:2579
 msgid "Custom event"
-msgstr ""
+msgstr "Evento custom"
 
 #. SeqMainFrame..SeqAdvToolBarPager..SequenceAdvToolBarPager..AdvtbEventCustom..advbRenameBlock..Hint
 #: Core/Sequencer/Visuals/SeqMainFrameUnit.dfm:1183
 msgid "Edit custom block"
-msgstr ""
+msgstr "Modifica blocco custom"
 
 #. SeqMainFrame..SeqAdvToolBarPager..SequenceAdvToolBarPager..AdvtbEventCustom..advbImportBlock..Hint
 #: Core/Sequencer/Visuals/SeqMainFrameUnit.dfm:1367
 msgid "Import custom blocks"
-msgstr ""
+msgstr "Importa blocco custom"
 
 #. SeqMainFrame..SeqAdvToolBarPager..SequenceAdvToolBarPager..AdvtbEventCustom..advbExportBlock..Hint
 #: Core/Sequencer/Visuals/SeqMainFrameUnit.dfm:1455
 msgid "Export custom blocks"
-msgstr ""
+msgstr "Esporta blocco custom"
 
 #. SeqMainFrame..SeqAdvToolBarPager..SequenceAdvToolBarPager..AdvToolBar1..advbPlay..Caption
 #. SeqMainFrame..SeqAdvToolBarPager..SeqUnitAdvToolBarPager..AdvToolBar6..UnitPlayButton..Caption
@@ -18883,7 +18883,7 @@ msgstr ""
 #: DEWEsoft/MainUnit.pas:13081 DEWEsoft/MainUnit.pas:13329
 #: DEWEsoft/MainUnit.pas:13345
 msgid "Play"
-msgstr ""
+msgstr "Esegui"
 
 #. SeqMainFrame..SeqAdvToolBarPager..SequenceAdvToolBarPager..AdvToolBar1..advbBuild..Caption
 #. SeqMainFrame..SeqAdvToolBarPager..SeqUnitAdvToolBarPager..AdvToolBar6..UnitBuildButton..Caption
@@ -18919,22 +18919,22 @@ msgstr ""
 #. SeqMainFrame..SeqAdvToolBarPager..SeqUnitAdvToolBarPager..UnitTestCaseCustomToolBar..UnitImportBlocksButton..Hint
 #: Core/Sequencer/Visuals/SeqMainFrameUnit.dfm:2717
 msgid "Import blocks"
-msgstr ""
+msgstr "Importa blocchi"
 
 #. SeqMainFrame..SeqAdvToolBarPager..SeqUnitAdvToolBarPager..UnitTestCaseCustomToolBar..UnitExportBlocksButton..Hint
 #: Core/Sequencer/Visuals/SeqMainFrameUnit.dfm:2805
 msgid "Export blocks"
-msgstr ""
+msgstr "Esporta blocchi"
 
 #. SeqMainFrame..SeqAdvToolBarPager..SeqUnitAdvToolBarPager..AdvToolBar6..UnitPlayAllButton..Caption
 #: Core/Sequencer/Visuals/SeqMainFrameUnit.dfm:3117
 msgid "Play all"
-msgstr ""
+msgstr "Esegui tutti"
 
 #. SeqMainFrame..SeqAdvToolBarPager..SettingsAdvToolBarPager..AdvtbSettings..AdvbResource..Caption
 #: Core/Sequencer/Visuals/SeqMainFrameUnit.dfm:4229
 msgid "Resources"
-msgstr ""
+msgstr "Risorse"
 
 #. SeqMainFrame..SeqAdvToolBarPager..SettingsAdvToolBarPager..AdvtbSettings..AdvbDevices..Caption
 #. MainForm..MainAdvToolBar..ChSetupPage..SetupDevicesToolBar..CompactCaption
@@ -18963,12 +18963,12 @@ msgstr "Dispositivi"
 #. MainForm..SaveDialogSeq..Title
 #: Core/Sequencer/Visuals/SeqMainFrameUnit.dfm:4480 DEWEsoft/MainUnit.dfm:21854
 msgid "Save sequence"
-msgstr ""
+msgstr "Salva sequenze"
 
 #. SeqResourceFrame..AdvCaptionPanel1..Caption
 #: Core/Sequencer/Visuals/SeqResourceFrameUnit.dfm:17
 msgid "Resource view"
-msgstr ""
+msgstr "Vista risorse"
 
 #. SeqResourceFrame..AdvCaptionPanel1..RightPanel..PageControl1..NewFolderTabSheet..Caption
 #. FoldersFrame..FolderActionsPopupMenu..CreateMenuItem..Caption
@@ -18981,78 +18981,78 @@ msgstr "Nuova cartella"
 #. SeqResourceFrame..AdvCaptionPanel1..RightPanel..PageControl1..NewFolderTabSheet..ReplaceCheckBox..Caption
 #: Core/Sequencer/Visuals/SeqResourceFrameUnit.dfm:92
 msgid "Replace existing (if found)"
-msgstr ""
+msgstr "Sostituisci esistente (se trovato)"
 
 #. SeqResourceFrame..AdvCaptionPanel1..RightPanel..PageControl1..NewFolderTabSheet..PermanentCheckBox..Caption
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabSecurity..ScrollBox2..SecurityLayoutPanel..GroupFileLocking..ComboLockFiles....ComboBox.Items.Strings
 #: Core/Sequencer/Visuals/SeqResourceFrameUnit.dfm:101
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:2159
 msgid "Permanent"
-msgstr ""
+msgstr "Permanente"
 
 #. SeqResourceFrame..AdvCaptionPanel1..RightPanel..PageControl1..NewFolderTabSheet..ExtractFileButton..Caption
 #: Core/Sequencer/Visuals/SeqResourceFrameUnit.dfm:110
 msgid "Export file..."
-msgstr ""
+msgstr "Esporta file..."
 
 #. SeqResourceFrame..AdvCaptionPanel1..ResourceToolBar..AddFolderButton..Caption
 #. SeqResourceFrame..PopupMenu1..AddFolder1..Caption
 #: Core/Sequencer/Visuals/SeqResourceFrameUnit.dfm:172
 #: Core/Sequencer/Visuals/SeqResourceFrameUnit.dfm:887
 msgid "Add folder"
-msgstr ""
+msgstr "Aggiungi cartella"
 
 #. SeqResourceFrame..AdvCaptionPanel1..ResourceToolBar..ImportFileButton..Caption
 #. SeqResourceFrame..PopupMenu1..ImportFile1..Caption
 #: Core/Sequencer/Visuals/SeqResourceFrameUnit.dfm:319
 #: Core/Sequencer/Visuals/SeqResourceFrameUnit.dfm:892
 msgid "Import file"
-msgstr ""
+msgstr "Importa file"
 
 #. SeqSettingsFrame..GeneralSettingsPanel..Label1..Caption
 #: Core/Sequencer/Visuals/SeqSettingsFrameUnit.dfm:30
 msgid "File locking (prevent modifying sequence) with password"
-msgstr ""
+msgstr "Protezione file (previene la modifica della sequenza) con password"
 
 #. SeqSettingsFrame..GeneralSettingsPanel..cbShowMainToolBar..Caption
 #: Core/Sequencer/Visuals/SeqSettingsFrameUnit.dfm:37
 msgid "Show main toolbar"
-msgstr ""
+msgstr "Mostra toolbar principale"
 
 #. SeqSettingsFrame..GeneralSettingsPanel..cbShowSeqControlToolBar..Caption
 #: Core/Sequencer/Visuals/SeqSettingsFrameUnit.dfm:46
 msgid "Show sequence control toolbar"
-msgstr ""
+msgstr "Mostra la toolbar di controllo sequencer"
 
 #. SeqSettingsFrame..GeneralSettingsPanel..chShowPropertyPanel..Caption
 #: Core/Sequencer/Visuals/SeqSettingsFrameUnit.dfm:55
 msgid "Show display property panels and channel selector"
-msgstr ""
+msgstr "Mostra pannello proprietà display e selettore canale"
 
 #. SeqSettingsFrame..GeneralSettingsPanel..TCExportCheckBox..Caption
 #: Core/Sequencer/Visuals/SeqSettingsFrameUnit.dfm:64
 msgid "Export test cases to Excel template"
-msgstr ""
+msgstr "Esporta test cases su template Excel"
 
 #. SeqSettingsFrame..GeneralSettingsPanel..TSExportToExcelEdit..EditLabel.Caption
 #: Core/Sequencer/Visuals/SeqSettingsFrameUnit.dfm:75
 msgid "Excel template file name"
-msgstr ""
+msgstr "Nome file template Excel"
 
 #. SeqSettingsFrame..GeneralSettingsPanel..ExecutionLogCheckBox..Caption
 #: Core/Sequencer/Visuals/SeqSettingsFrameUnit.dfm:93
 msgid "Enable execution logging"
-msgstr ""
+msgstr "Abilita logging esecuzione"
 
 #. SeqSettingsFrame..GeneralSettingsPanel..PlayTestCasesContinuouslyCheckBox..Caption
 #: Core/Sequencer/Visuals/SeqSettingsFrameUnit.dfm:120
 msgid "Play test cases continuously (break if the test fails)"
-msgstr ""
+msgstr "Esegui tutti i test cases in fila (ferma se il test fallisce)"
 
 #. SeqSettingsFrame..LocalVariablesPanel..Caption
 #: Core/Sequencer/Visuals/SeqSettingsFrameUnit.dfm:135
 msgid "Sequencer variables"
-msgstr ""
+msgstr "Variabili sequencer"
 
 #. SeqSettingsFrame..LocalVariablesPanel..ExportButton..Caption
 #. VariablesFrame..ExportButton..Caption
@@ -19096,28 +19096,28 @@ msgstr ""
 #: Core/TcpIpObjects/Visuals/ConnectUnit.dfm:38
 #: Core/TcpIpObjects/Visuals/ConnectUnit.pas:147
 msgid "Connect"
-msgstr ""
+msgstr "Connetti"
 
 #. ConnectForm..BottomPanel..RunLocalMode..Caption
 #: Core/TcpIpObjects/Visuals/ConnectUnit.dfm:47
 msgid "Run local mode"
-msgstr ""
+msgstr "Esegui modalità locale"
 
 #. ConnectForm..BottomPanel..BWButton..Caption
 #. MainForm..RemotePopupMenu..MeasureBWItem..Caption
 #: Core/TcpIpObjects/Visuals/ConnectUnit.dfm:56 DEWEsoft/MainUnit.dfm:21467
 msgid "Measure bandwidth"
-msgstr ""
+msgstr "Misura banda"
 
 #. ConnectForm..BottomPanel..FixButton..Caption
 #: Core/TcpIpObjects/Visuals/ConnectUnit.dfm:65
 msgid "Fix network problems"
-msgstr ""
+msgstr "Correggi errori rete"
 
 #. MUSettingsFrame..StatusLabel..Caption
 #: Core/TcpIpObjects/Visuals/MUSettingsFrameUnit.dfm:12
 msgid "Waiting for status update..."
-msgstr ""
+msgstr "In attesa di aggiornamento stato..."
 
 #. MUSettingsFrame..IPLabel..Caption
 #. ServersForm..IPAddressLabel..Caption
@@ -19479,7 +19479,7 @@ msgstr "Rimuovi variabile"
 #: DEWEsoft/MainUnit.dfm:469 DEWEsoft/MainUnit.dfm:487
 #: DEWEsoft/MainUnit.dfm:17235 Visuals/Frames/FileListFrameUnit.dfm:435
 msgid "Setup files"
-msgstr ""
+msgstr "File setup"
 
 #. MainForm..MainAdvToolBar..SetupFilesPage..AdvToolBar26..NewSetupButton..Caption
 #. MainForm..MainMenu..NewSetupMenuItem..Caption
@@ -19517,7 +19517,7 @@ msgstr "Setup ch."
 #: DEWEsoft/MainUnit.dfm:3121 DEWEsoft/MainUnit.dfm:4812
 #: Core/TcpIpObjects/Visuals/CustomSetupGrid.pas:166
 msgid "Transfer"
-msgstr ""
+msgstr "Trasferisci"
 
 #. MainForm..MainAdvToolBar..ChSetupPage..SetupPluginsToolBar..CompactCaption
 #. MainForm..MainPageControl..ChSetupMeasTabSheet..SetupPanel..RemoteSetupPageControl..LocalTabSheet..MainOptionsPanel..SetupPageControl..PluginSheet..Caption
@@ -19528,7 +19528,7 @@ msgstr ""
 #. MainForm..MainAdvToolBar..ChSetupPage..AddMathToolBar..CompactCaption
 #: DEWEsoft/MainUnit.dfm:3538
 msgid "Add/Remove"
-msgstr ""
+msgstr "Aggiungi/Rimuovi"
 
 #. MainForm..MainAdvToolBar..ChSetupPage..AddMathToolBar..AddInstrumentCtrlButton..Hint
 #: DEWEsoft/MainUnit.dfm:3668 DEWEsoft/MainUnit.pas:6705
@@ -19546,7 +19546,7 @@ msgstr "Altro..."
 #. MainForm..MainAdvToolBar..PostProcessPage..AdvToolBar1..RemoveInstrumentAnalyseButton..Hint
 #: DEWEsoft/MainUnit.dfm:3842 DEWEsoft/MainUnit.dfm:6517
 msgid "Remove module"
-msgstr ""
+msgstr "Rimuovi modulo"
 
 #. MainForm..MainAdvToolBar..MeasurePage..Caption
 #. MainForm..MainAdvToolBar..MeasureToolButton..Caption
@@ -19573,12 +19573,12 @@ msgstr "Eventi"
 #: DEWEsoft/MainUnit.dfm:4163 DEWEsoft/MainUnit.dfm:5360
 #: DEWEsoft/MainUnit.dfm:8094
 msgid "Data control"
-msgstr ""
+msgstr "Controllo dati"
 
 #. MainForm..MainAdvToolBar..MeasurePage..DataControlToolBar..HoldDisplayBtn..Caption
 #: DEWEsoft/MainUnit.dfm:4690
 msgid "Hold"
-msgstr ""
+msgstr "Mantieni"
 
 #. MainForm..MainAdvToolBar..MeasurePage..DisplaysToolBar..CompactCaption
 #. MainForm..MainPageControl..DisplaysTabSheet..Caption
@@ -19596,7 +19596,7 @@ msgstr ""
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:1533
 #: Visuals/Frames/FileListFrameUnit.pas:2902
 msgid "Data files"
-msgstr ""
+msgstr "File dati"
 
 #. MainForm..MainAdvToolBar..DataFilesPage..AdvToolBar10..UseForMeasureGlowButton..Caption
 #: DEWEsoft/MainUnit.dfm:5439
@@ -19626,12 +19626,12 @@ msgstr ""
 #. MainForm..MainAdvToolBar..DataFilesPage..DEWEMoteToolbar..CompactCaption
 #: DEWEsoft/MainUnit.dfm:6114 Core/Sequencer/Items/ControlItem.pas:84
 msgid "Remote control"
-msgstr ""
+msgstr "Controllo remoto"
 
 #. MainForm..MainAdvToolBar..DataFilesPage..DEWEMoteToolbar..DEWEMoteButton..Caption
 #: DEWEsoft/MainUnit.dfm:6193 Visuals/Forms/ChannelRemappingFormUnit.pas:683
 msgid "Not connected"
-msgstr ""
+msgstr "Non collegato"
 
 #. MainForm..MainAdvToolBar..PostProcessPage..AnalyseMathToolBar..CompactCaption
 #: DEWEsoft/MainUnit.dfm:6307
@@ -19641,12 +19641,12 @@ msgstr ""
 #. MainForm..MainAdvToolBar..PostProcessPage..AdvToolBar1..AddInstrumentAnalyseButton..Hint
 #: DEWEsoft/MainUnit.dfm:6342
 msgid "Add instrument"
-msgstr ""
+msgstr "Aggiungi strumento"
 
 #. MainForm..MainAdvToolBar..PostProcessPage..AnalyseGeneralToolBar..CompactCaption
 #: DEWEsoft/MainUnit.dfm:6687
 msgid "Data review"
-msgstr ""
+msgstr "Analisi dati"
 
 #. MainForm..MainAdvToolBar..ReviewPage..Caption
 #: DEWEsoft/MainUnit.dfm:6776
@@ -19656,7 +19656,7 @@ msgstr "Analisi"
 #. MainForm..MainAdvToolBar..ReviewPage..ReplayAdvToolBar..CompactCaption
 #: DEWEsoft/MainUnit.dfm:6795
 msgid "Replay control"
-msgstr ""
+msgstr "Controllo replay"
 
 #. MainForm..MainAdvToolBar..ReviewPage..ReplayAdvToolBar..ReplaySpeedLabel..Caption
 #: DEWEsoft/MainUnit.dfm:6892
@@ -19687,7 +19687,7 @@ msgstr "Uscita analogica"
 #. MainForm..MainAdvToolBar..ReviewPage..PostProcessingToolBar..CalcMathButton..Caption
 #: DEWEsoft/MainUnit.dfm:8185 DEWEsoft/MainUnit.pas:12813
 msgid "Recalculate"
-msgstr ""
+msgstr "Ricalcola"
 
 #. MainForm..MainAdvToolBar..ReviewPage..PostProcessingToolBar..AutoRecalcButton..Caption
 #: DEWEsoft/MainUnit.dfm:8446
@@ -19716,48 +19716,48 @@ msgstr "Stampa"
 #. MainForm..MainAdvToolBar..PrintPage..AdvToolBar15..CompactCaption
 #: DEWEsoft/MainUnit.dfm:8755
 msgid "Measurement note"
-msgstr ""
+msgstr "Nota misura"
 
 #. MainForm..MainAdvToolBar..PrintPage..AdvToolBar15..PrintCaptionLabel..Caption
 #: DEWEsoft/MainUnit.dfm:8835
 msgid "Print header"
-msgstr ""
+msgstr "Intestazione stampa"
 
 #. MainForm..MainAdvToolBar..PrintPage..AdvToolBar16..CompactCaption
 #: DEWEsoft/MainUnit.dfm:8887
 msgid "Orientation"
-msgstr ""
+msgstr "Orientamento"
 
 #. MainForm..MainAdvToolBar..PrintPage..AdvToolBar16..PrintPortraitButton..Caption
 #: DEWEsoft/MainUnit.dfm:8942
 msgid "Portrait"
-msgstr ""
+msgstr "Verticale"
 
 #. MainForm..MainAdvToolBar..PrintPage..AdvToolBar16..PrintLandscapeButton..Caption
 #: DEWEsoft/MainUnit.dfm:9036
 msgid "Landscape"
-msgstr ""
+msgstr "Orizzontale"
 
 #. MainForm..MainAdvToolBar..PrintPage..MultiPagePrintToolBar..CompactCaption
 #. MainForm..MainAdvToolBar..PrintPage..MultiPagePrintToolBar..PrintMultipageButton..Caption
 #: DEWEsoft/MainUnit.dfm:9145 DEWEsoft/MainUnit.dfm:9651
 msgid "Multi page"
-msgstr ""
+msgstr "Pagina multipla"
 
 #. MainForm..MainAdvToolBar..PrintPage..MultiPagePrintToolBar..PrevPageButton..Caption
 #: DEWEsoft/MainUnit.dfm:9239
 msgid "Previous"
-msgstr ""
+msgstr "Precedente"
 
 #. MainForm..MainAdvToolBar..PrintPage..MultiPagePrintToolBar..NextPageButton..Caption
 #: DEWEsoft/MainUnit.dfm:9421
 msgid "Next"
-msgstr ""
+msgstr "Prossimo"
 
 #. MainForm..MainAdvToolBar..PrintPage..MultiPagePrintToolBar..PrintTimeResToolBar..Caption
 #: DEWEsoft/MainUnit.dfm:9604
 msgid "Time resolution"
-msgstr ""
+msgstr "Risoluzione temporale"
 
 #. MainForm..MainAdvToolBar..PrintPage..MultiPagePrintToolBar..PrintTimeResToolBar..PrintTimeResCombo....Items.Strings
 #: DEWEsoft/MainUnit.dfm:9643
@@ -19767,7 +19767,7 @@ msgstr ""
 #. MainForm..MainAdvToolBar..PrintPage..MultiPagePrintToolBar..PrintOverlapToolBar..Caption
 #: DEWEsoft/MainUnit.dfm:9784
 msgid "Overlap time"
-msgstr ""
+msgstr "Periodo overlap"
 
 #. MainForm..MainAdvToolBar..PrintPage..AdvToolBar9..CompactCaption
 #. MainForm..MainAdvToolBar..ExportPage..AdvToolBar6..CompactCaption
@@ -19778,23 +19778,23 @@ msgstr ""
 #: DEWEsoft/MainUnit.dfm:11775 Visuals/Forms/DaqActionsFormUnit.dfm:31
 #: Visuals/Forms/SensorEditorUnitX.dfm:56
 msgid "Actions"
-msgstr ""
+msgstr "Azioni"
 
 #. MainForm..MainAdvToolBar..PrintPage..PrintPropsAdvToolBar..CompactCaption
 #. MainForm..MainAdvToolBar..PrintPage..PrintPropsAdvToolBar..PrinterLabel..Caption
 #: DEWEsoft/MainUnit.dfm:10021 DEWEsoft/MainUnit.dfm:10034
 msgid "Printer"
-msgstr ""
+msgstr "Stampante"
 
 #. MainForm..MainAdvToolBar..PrintPage..PrintPropsAdvToolBar..PaperLabel..Caption
 #: DEWEsoft/MainUnit.dfm:10041
 msgid "Paper"
-msgstr ""
+msgstr "Carta"
 
 #. MainForm..MainAdvToolBar..ExportPage..ExportOptionsToolBar..CompactCaption
 #: DEWEsoft/MainUnit.dfm:10107
 msgid "Export options"
-msgstr ""
+msgstr "Esporta opzioni"
 
 #. MainForm..MainAdvToolBar..ExportPage..ExportToToolBar..ExportExcelButton..Caption
 #: DEWEsoft/MainUnit.dfm:10708
@@ -19809,28 +19809,28 @@ msgstr ""
 #. MainForm..MainAdvToolBar..ExportPage..ExportToToolBar..ExportClipboardButton..Caption
 #: DEWEsoft/MainUnit.dfm:11058
 msgid "Clipboard"
-msgstr ""
+msgstr "Appunti"
 
 #. MainForm..MainAdvToolBar..ExportPage..ExportToToolBar..ExportFileButton..Caption
 #. MultiExportForm..Panel2..ExportToToolBar..ExportFileButton..Caption
 #: DEWEsoft/MainUnit.dfm:11162 Visuals/Forms/MultiExportUnit.dfm:1532
 msgid "File export"
-msgstr ""
+msgstr "Esporta file"
 
 #. MainForm..MainAdvToolBar..ExportPage..ExpTemplatesToolBar..NewTemplateButton..Caption
 #: DEWEsoft/MainUnit.dfm:11508
 msgid "New template"
-msgstr ""
+msgstr "Nuovo template"
 
 #. MainForm..MainAdvToolBar..ExportPage..ExpTemplatesToolBar..EditTemplateButton..Caption
 #: DEWEsoft/MainUnit.dfm:11594
 msgid "Edit template"
-msgstr ""
+msgstr "Modifica template"
 
 #. MainForm..MainAdvToolBar..ExportPage..ExpTemplatesToolBar..DeleteTemplateButton..Caption
 #: DEWEsoft/MainUnit.dfm:11679
 msgid "Delete template"
-msgstr ""
+msgstr "Elimina template"
 
 #. MainForm..MainAdvToolBar..ExportPage..ComplexExportToolBar..ImagExpLabel..Caption
 #. MultiExportForm..Panel1..Panel3..Panel4..ExportPage..MultiComplexPanel..ImagExpLabel..Caption
@@ -19870,7 +19870,7 @@ msgstr "Grafico XY"
 #. MainForm..EditPopupMenu..Undelete1..Caption
 #: DEWEsoft/MainUnit.dfm:13042 DEWEsoft/MainUnit.dfm:21208
 msgid "Undelete"
-msgstr ""
+msgstr "Annulla elimina"
 
 #. MainForm..MainAdvToolBar..DesignPage..AdvToolBar22..CompactCaption
 #: DEWEsoft/MainUnit.dfm:13196
@@ -19927,7 +19927,7 @@ msgstr "Bottone strumento personallizzato"
 #. MainForm..MainAdvToolBar..DesignPage..DesignOthersToolBar..InputVCToolButton..Hint
 #: DEWEsoft/MainUnit.dfm:14977
 msgid "Input control display"
-msgstr "Display input"
+msgstr "Controllo display input"
 
 #. MainForm..MainAdvToolBar..DesignPage..DesignOthersToolBar..TabularValuesVCButton..Hint
 #: DEWEsoft/MainUnit.dfm:15178
@@ -19943,17 +19943,17 @@ msgstr "Grafico 3D"
 #. MainForm..MainAdvToolBar..DesignPage..DesignGraphsToolBar..Graph2DToolButton..Hint
 #: DEWEsoft/MainUnit.dfm:15523
 msgid "2D graph"
-msgstr ""
+msgstr "Grafico 2D"
 
 #. MainForm..MainAdvToolBar..DesignPage..DesignGraphsToolBar..CampbellPlotToolButton..Hint
 #: DEWEsoft/MainUnit.dfm:15620 Core/GObjects/CampbellVCUnit.pas:720
 msgid "Campbell plot"
-msgstr ""
+msgstr "Grafico Campbell"
 
 #. MainForm..MainAdvToolBar..DesignPage..AdvToolBar2..CompactCaption
 #: DEWEsoft/MainUnit.dfm:15718 Visuals/Frames/GlobalChnListFrameUnit.pas:230
 msgid "Dynamic"
-msgstr ""
+msgstr "Dinamica"
 
 #. MainForm..MainAdvToolBar..DesignPage..AdvToolBar2..VCCPBToolButton..Hint
 #: DEWEsoft/MainUnit.dfm:15882
@@ -19978,12 +19978,12 @@ msgstr "Combustione"
 #. MainForm..MainAdvToolBar..DesignPage..DesignCAToolBar..CA_pvButton..Hint
 #: DEWEsoft/MainUnit.dfm:16599
 msgid "Combustion p-v diagram"
-msgstr ""
+msgstr "Diagramma p-v combustione"
 
 #. MainForm..MainAdvToolBar..DesignPage..DesignCAToolBar..CA_scopeButton..Hint
 #: DEWEsoft/MainUnit.dfm:16727
 msgid "Combustion scope"
-msgstr ""
+msgstr "Scope combustione"
 
 #. MainForm..MainAdvToolBar..CaptionButtonsPanel..InfoNotebook....InfoFramesPanel..SyncInfoButton..Caption
 #: DEWEsoft/MainUnit.dfm:17064
@@ -20007,12 +20007,12 @@ msgstr ""
 #. MainForm..MainAdvToolBar..AnalyseToolButton..Caption
 #: DEWEsoft/MainUnit.dfm:17206 DEWEsoft/MainUnit.pas:19245
 msgid "Analyse"
-msgstr "Analisi"
+msgstr "Analizza"
 
 #. MainForm..MainPageControl..ChSetupMeasTabSheet..SetupPanel..RemoteSetupPageControl..LocalTabSheet..Caption
 #: DEWEsoft/MainUnit.dfm:17263 Core/Daq/SystemTopologyUnit.pas:216
 msgid "Local"
-msgstr ""
+msgstr "Locale"
 
 #. MainForm..MainPageControl..ChSetupMeasTabSheet..SetupPanel..RemoteSetupPageControl..LocalTabSheet..MainOptionsPanel..SetupPageControl..GeneralSetupTabSheet..GeneralPanel..DataFileOptionsPanel..Caption
 #: DEWEsoft/MainUnit.dfm:17317
@@ -20070,7 +20070,7 @@ msgstr "Tipo registrazione"
 #. MainForm..MainPageControl..ChSetupMeasTabSheet..SetupPanel..RemoteSetupPageControl..LocalTabSheet..MainOptionsPanel..SetupPageControl..GeneralSetupTabSheet..GeneralPanel..SetupSRPanel..Panel3..OfflineMathReducedLabel..Caption
 #: DEWEsoft/MainUnit.dfm:17662
 msgid "Offline math will not be available  on reduced  data"
-msgstr ""
+msgstr "Math offline non sarà disponibile su dati ridotti"
 
 #. MainForm..MainPageControl..ChSetupMeasTabSheet..SetupPanel..RemoteSetupPageControl..LocalTabSheet..MainOptionsPanel..SetupPageControl..GeneralSetupTabSheet..GeneralPanel..SetupSRPanel..Panel3..StoreProntoCheckBox..Caption
 #: DEWEsoft/MainUnit.dfm:17676
@@ -20080,7 +20080,7 @@ msgstr "Avvia registr. automaticamente"
 #. MainForm..MainPageControl..ChSetupMeasTabSheet..SetupPanel..RemoteSetupPageControl..LocalTabSheet..MainOptionsPanel..SetupPageControl..GeneralSetupTabSheet..GeneralPanel..SetupSRPanel..SetupDynPanel..StatAcqRateLabel..Caption
 #: DEWEsoft/MainUnit.dfm:17727
 msgid "Static acquisition rate"
-msgstr ""
+msgstr "Vel campionamento statico"
 
 #. MainForm..MainPageControl..ChSetupMeasTabSheet..SetupPanel..RemoteSetupPageControl..LocalTabSheet..MainOptionsPanel..SetupPageControl..DHSetupSheet..HeaderEntriesPanel..DataHeaderInfoPanel..DataHeaderInfoLabel..Caption
 #: DEWEsoft/MainUnit.dfm:17851
@@ -20090,7 +20090,7 @@ msgstr "info intestazioni ?"
 #. MainForm..MainPageControl..ChSetupMeasTabSheet..SetupPanel..RemoteSetupPageControl..LocalTabSheet..MainOptionsPanel..SetupPageControl..DHSetupSheet..HeaderEntriesPanel..RightHeaderPanel..ResetHeaderButton..Caption
 #: DEWEsoft/MainUnit.dfm:17874
 msgid "Reset entries"
-msgstr ""
+msgstr "Annulla campi"
 
 #. MainForm..MainPageControl..ChSetupMeasTabSheet..SetupPanel..RemoteSetupPageControl..LocalTabSheet..MainOptionsPanel..SetupPageControl..AISetupSheet..Caption
 #: DEWEsoft/MainUnit.dfm:17882
@@ -20123,7 +20123,7 @@ msgstr "Monitor sistema"
 #. MainForm..MainPageControl..ChSetupMeasTabSheet..SetupPanel..RemoteSetupPageControl..LocalTabSheet..MainOptionsPanel..SetupPageControl..CtrlChnTabSheet..Caption
 #: DEWEsoft/MainUnit.dfm:17944
 msgid "Control channels"
-msgstr ""
+msgstr "Canali controllo"
 
 #. MainForm..MainPageControl..ChSetupMeasTabSheet..SetupPanel..RemoteSetupPageControl..LocalTabSheet..MainOptionsPanel..SetupStore2Panel..StorePanelHolder..Caption
 #: DEWEsoft/MainUnit.dfm:17976 DEWEsoft/MainUnit.pas:16877
@@ -20138,7 +20138,7 @@ msgstr "Banda"
 #. MainForm..MainPageControl..ChSetupMeasTabSheet..SetupPanel..RemoteSetupPageControl..LocalTabSheet..MainOptionsPanel..SetupStore2Panel..StorePanelHolder..RateUnitLabel..Caption
 #: DEWEsoft/MainUnit.dfm:18026
 msgid "[samples/sec/ch]"
-msgstr "[samples/sec/ch]"
+msgstr ""
 
 #. MainForm..MainPageControl..ChSetupMeasTabSheet..SetupPanel..RemoteSetupPageControl..LocalTabSheet..MainOptionsPanel..SetupStore2Panel..StorePanelHolder..ExternalClockCheckBox..Caption
 #: DEWEsoft/MainUnit.dfm:18063 Visuals/Frames/FileInfoFrameUnit.pas:410
@@ -20154,32 +20154,32 @@ msgstr "Avvio su trigger esterno"
 #. MainForm..MainPageControl..ChSetupMeasTabSheet..SetupPanel..RemoteSetupPageControl..LocalTabSheet..MainOptionsPanel..SetupStore2Panel..StorePanelHolder..MultiRecordCheckBox..Caption
 #: DEWEsoft/MainUnit.dfm:18093
 msgid "Multiple recording"
-msgstr ""
+msgstr "Registrazioni multiple"
 
 #. MainForm..MainPageControl..ChSetupMeasTabSheet..SetupPanel..RemoteSetupPageControl..RemoteTabSheet..Caption
 #: DEWEsoft/MainUnit.dfm:18191
 msgid "Remote"
-msgstr ""
+msgstr "Remoto"
 
 #. MainForm..MainPageControl..ChSetupMeasTabSheet..SetupPanel..RemoteSetupPageControl..RemoteTabSheet..RemoteSetup2PageControl..RemoteDisplayTabSheet..Caption
 #: DEWEsoft/MainUnit.dfm:18208
 msgid "Display setup"
-msgstr ""
+msgstr "Setup display"
 
 #. MainForm..MainPageControl..ChSetupMeasTabSheet..SetupPanel..RemoteSetupPageControl..RemoteTabSheet..RemoteSetup2PageControl..RemoteTransferTabSheet..Caption
 #: DEWEsoft/MainUnit.dfm:18213
 msgid "Transfer setup"
-msgstr ""
+msgstr "Setup trasferimento"
 
 #. MainForm..MainPageControl..ChSetupMeasTabSheet..SetupPanel..RemoteSetupPageControl..RemoteTabSheet..RemoteSetup2PageControl..RemoteTransferTabSheet..RemoteBackPanel..ChannelPrefixLabel..Caption
 #: DEWEsoft/MainUnit.dfm:18230
 msgid "Channel prefix"
-msgstr ""
+msgstr "Prefisso canale"
 
 #. MainForm..MainPageControl..ChSetupMeasTabSheet..SetupPanel..RemoteSetupPageControl..RemoteTabSheet..RemoteSetup2PageControl..RemoteTransferTabSheet..RemoteBackPanel..RemoteTransferViewCB....Items.Strings
 #: DEWEsoft/MainUnit.dfm:18282
 msgid "Channel view"
-msgstr ""
+msgstr "Vista canale"
 
 #. MainForm..MainPageControl..DisplaysTabSheet..SettingsMenu..PropsPanel..BackPropsPanel..AOOutNamePanel..AOOutFreqLabel..Caption
 #: DEWEsoft/MainUnit.dfm:18365
@@ -20197,24 +20197,24 @@ msgstr "Proprietà del controllo"
 #: DEWEsoft/MainUnit.dfm:19151 Visuals/Forms/SensorEditorUnitX.dfm:1104
 #: Visuals/Forms/SensorEditorUnitX.dfm:1200
 msgid "List view"
-msgstr ""
+msgstr "Vista a lista"
 
 #. MainForm..MainPageControl..DisplaysTabSheet..CHPanel..CHButtonPanel..SelectedSpeedButton..Hint
 #. PropertyViewsFrame..ViewButtonPanel..ControlPropertiesView..Hint
 #: DEWEsoft/MainUnit.dfm:19274
 #: Visuals/Frames/PropertiesViewPanelFrameUnit.dfm:29
 msgid "Selected channels view"
-msgstr ""
+msgstr "Vista canali selezionati"
 
 #. MainForm..MainPageControl..DataSetupTabSheet..Caption
 #: DEWEsoft/MainUnit.dfm:19682
 msgid "Data setup"
-msgstr ""
+msgstr "Setup dati"
 
 #. MainForm..SequencerControlPanel..SequenceInfoLabel..Caption
 #: DEWEsoft/MainUnit.dfm:19942
 msgid "Dewesoft crashed on startup"
-msgstr ""
+msgstr "Dewesoft è crashato all'avvio"
 
 #. MainForm..SequencerControlPanel..SequenceSkipButton..Caption
 #: DEWEsoft/MainUnit.dfm:20205
@@ -20235,12 +20235,12 @@ msgstr ""
 #. MainForm..SequencerControlPanel..SequenceNoActionButton..Caption
 #: DEWEsoft/MainUnit.dfm:20564
 msgid "&No"
-msgstr "&No"
+msgstr ""
 
 #. MainForm..SequencerControlPanel..SequenceContinueActionButton..Caption
 #: DEWEsoft/MainUnit.dfm:20809
 msgid "&Continue"
-msgstr ""
+msgstr "Continua"
 
 #. MainForm..PerformanceMonitorPanel..Caption
 #. MainForm..SystemPopupMenu..ToolsMenuItem..PerformanceMonitorMenuItem..Caption
@@ -20271,17 +20271,17 @@ msgstr "Prestazioni"
 #. MainForm..EditMenu..MultiExportItem..Caption
 #: DEWEsoft/MainUnit.dfm:20989
 msgid "Multifile export..."
-msgstr ""
+msgstr "Esportazione multifile..."
 
 #. MainForm..EditMenu..Videopostsynchronization1..Caption
 #: DEWEsoft/MainUnit.dfm:20998
 msgid "&Video post synchronization..."
-msgstr ""
+msgstr "Post sincronizzazione video..."
 
 #. MainForm..EditMenu..UserGroupsItem..Caption
 #: DEWEsoft/MainUnit.dfm:21005
 msgid "User defined groups..."
-msgstr ""
+msgstr "Gruppi definiti da utente..."
 
 #. MainForm..SystemPopupMenu..ProjectMenuItem..Caption
 #: DEWEsoft/MainUnit.dfm:21019
@@ -20348,7 +20348,7 @@ msgstr ""
 #. MainForm..OpenDialogData..Title
 #: DEWEsoft/MainUnit.dfm:21120
 msgid "Load data file name"
-msgstr ""
+msgstr "Carica nome file dati"
 
 #. MainForm..SaveDialogSet..Title
 #. MainForm..MainMenu..SaveSetupMenuItem..Caption
@@ -20386,12 +20386,12 @@ msgstr "Salva immagine su file..."
 #. MainForm..EditPopupMenu..SaveDataToFileMenuItem..Caption
 #: DEWEsoft/MainUnit.dfm:21184
 msgid "Save data to file..."
-msgstr ""
+msgstr "Salva dati su file..."
 
 #. MainForm..EditPopupMenu..SaveAllDataToFileMenuItem..Caption
 #: DEWEsoft/MainUnit.dfm:21188
 msgid "Save all channels data  to file..."
-msgstr ""
+msgstr "Salva dati di tutti i canali su file..."
 
 #. MainForm..EditPopupMenu..CompressvideotoAVI1..Caption
 #: DEWEsoft/MainUnit.dfm:21196
@@ -20401,17 +20401,17 @@ msgstr "Comprimi video in AVI"
 #. MainForm..EditPopupMenu..ExportscreentoAVI1..Caption
 #: DEWEsoft/MainUnit.dfm:21200 DEWEsoft/MainUnit.pas:10753
 msgid "Export screen to AVI..."
-msgstr ""
+msgstr "Esporta schermo su AVI..."
 
 #. MainForm..AVISaveDialog..Title
 #: DEWEsoft/MainUnit.dfm:21215
 msgid "Select AVI file name for export"
-msgstr ""
+msgstr "Selezione nome file AVI per esportazione"
 
 #. MainForm..BridgeABPopupMenu..BridgeShortOnFor1s..Caption
 #: DEWEsoft/MainUnit.dfm:21231
 msgid "Short all on for 1s"
-msgstr ""
+msgstr "Corto ON tutti per 1s"
 
 #. MainForm..BridgeABPopupMenu..BridgeShortOffMenuItem..Caption
 #: DEWEsoft/MainUnit.dfm:21241
@@ -20419,17 +20419,17 @@ msgstr ""
 #: Core/Daq/Amplifiers/Visuals/AmplifierFrameUnit.pas:2687
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.pas:575
 msgid "Short off"
-msgstr ""
+msgstr "Corto OFF"
 
 #. MainForm..BridgeABPopupMenu..BridgeABshuntonfor1s2..Caption
 #: DEWEsoft/MainUnit.dfm:21249
 msgid "Shunt on for 1s"
-msgstr ""
+msgstr "Shunt ON per 1s"
 
 #. MainForm..BridgeABPopupMenu..BrExcOffAllMenuItem..Caption
 #: DEWEsoft/MainUnit.dfm:21264
 msgid "Excitation off all"
-msgstr ""
+msgstr "Eccitazione OFF tutti"
 
 #. MainForm..BridgeABPopupMenu..BridgeABsensorzero2..Caption
 #: DEWEsoft/MainUnit.dfm:21273
@@ -20450,7 +20450,7 @@ msgstr ""
 #. MainForm..PlayPopup..Scroll1..Caption
 #: DEWEsoft/MainUnit.dfm:21318 DEWEsoft/MainUnit.pas:14003
 msgid "Scroll"
-msgstr ""
+msgstr "Scrolla"
 
 #. MainForm..SoundMenu..SoundScalingItem..SoundFromDataItem..Caption
 #: DEWEsoft/MainUnit.dfm:21347 Visuals/Forms/AOFormUnit.pas:198
@@ -20461,7 +20461,7 @@ msgstr "Da dati"
 #. MainForm..RemotePopupMenu..ConnectRemoteMenuItem..Caption
 #: DEWEsoft/MainUnit.dfm:21453 DEWEsoft/MainUnit.pas:17512
 msgid "Connect to measurement units"
-msgstr ""
+msgstr "Connetti alle unità di misura"
 
 #. MainForm..RemotePopupMenu..StopRemoteDewesoftMenuItem..Caption
 #: DEWEsoft/MainUnit.dfm:21458
@@ -20471,13 +20471,13 @@ msgstr "Chiudi Dewesoft sulle unità di misura"
 #. MainForm..RemotePopupMenu..NETStatusItem..Caption
 #: DEWEsoft/MainUnit.dfm:21471
 msgid "Show status"
-msgstr ""
+msgstr "Mostra stato"
 
 #. MainForm..RemotePopupMenu..NETFileTransferMenuItem..Caption
 #. NETFileTransferForm..Caption
 #: DEWEsoft/MainUnit.dfm:21475 Visuals/Forms/NETFileTransferFormUnit.dfm:6
 msgid "File transfer"
-msgstr ""
+msgstr "Trasferimento file"
 
 #. MainForm..RemotePopupMenu..RebootRemoteMenuItem..Caption
 #: DEWEsoft/MainUnit.dfm:21483
@@ -20503,7 +20503,7 @@ msgstr "Tempo trigger"
 #. MainForm..ExportTypePopupMenu..CombustionDataItem..Caption
 #: DEWEsoft/MainUnit.dfm:21827
 msgid "Combustion data"
-msgstr ""
+msgstr "Dati combustione"
 
 #. MainForm..OpenDialogSeq..Title
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabStartup..ScrollBoxStartup..StartupLayoutPanel..StartingSetupGroup..StartupTaskProp....ComboBox.Items.Strings
@@ -20514,12 +20514,12 @@ msgstr "Carica sequenza"
 #. MainForm..ExportCAPopupMenu..CADegreesMenuItem..Caption
 #: DEWEsoft/MainUnit.dfm:21865
 msgid "Degrees (by cycle)"
-msgstr ""
+msgstr "Gradi (per ciclo)"
 
 #. MainForm..ExportCAPopupMenu..CADegreesContMenuItem..Caption
 #: DEWEsoft/MainUnit.dfm:21871
 msgid "Degrees (cont.)"
-msgstr ""
+msgstr "Gradi (cont.)"
 
 #. MainForm..SaveDialogDataFiles..Title
 #: DEWEsoft/MainUnit.dfm:22311
@@ -20586,7 +20586,7 @@ msgstr "Seleziona colonne da visualizzare"
 #. DSDrawGridEditor..Label3..Caption
 #: SharedLib/DS.UI.DSDrawGridColumnsEditor.dfm:40
 msgid "Width of selected column (in pixels)"
-msgstr ""
+msgstr "Ampiezza della colonna selezionata (in pixel)"
 
 #. DSDrawGridEditor..LabelNumOfDigits..Caption
 #: SharedLib/DS.UI.DSDrawGridColumnsEditor.dfm:48
@@ -20628,22 +20628,22 @@ msgstr ""
 #. AboutForm..LicMemo....Lines.Strings
 #: Visuals/Forms/AboutUnit.dfm:1138
 msgid "Version SP2 RC"
-msgstr ""
+msgstr "Versione SP2 RC"
 
 #. AboutForm..LicMemo....Lines.Strings
 #: Visuals/Forms/AboutUnit.dfm:1141
 msgid "Licence: PROFESSIONAL"
-msgstr ""
+msgstr "Licenza: PROFESSIONAL"
 
 #. AboutForm..LicMemo....Lines.Strings
 #: Visuals/Forms/AboutUnit.dfm:1142
 msgid "Build configuration: MemCheck"
-msgstr ""
+msgstr "Configurazione build: MemCheck"
 
 #. AboutForm..LicMemo....Lines.Strings
 #: Visuals/Forms/AboutUnit.dfm:1144
 msgid "System: Windows 8 (32-bit edition)"
-msgstr ""
+msgstr "Sistema: Windows 8 (32-bit edition)"
 
 #. AboutForm..EulaBtn..Caption
 #: Visuals/Forms/AboutUnit.dfm:1165
@@ -20669,12 +20669,12 @@ msgstr "Evento voce"
 #. EnterEventForm..EventVoicePanel..RecordingLabel..Caption
 #: Visuals/Forms/AddAnalyseEvent.dfm:98
 msgid "recording..."
-msgstr ""
+msgstr "registrazione..."
 
 #. EnterEventForm..Panel1..Panel2..EventTimeLabel..Caption
 #: Visuals/Forms/AddAnalyseEvent.dfm:209
 msgid "Time of event"
-msgstr "Ora evento"
+msgstr "Tempo evento"
 
 #. EnterEventForm..Panel1..Panel2..MicroSecLabel..Caption
 #: Visuals/Forms/AddAnalyseEvent.dfm:222
@@ -20694,24 +20694,24 @@ msgstr "Aggiungi nuovo template"
 #. AddNewTemplateForm..OKPanel..ProcessButton..Caption
 #: Visuals/Forms/AddNewTemplateUnit.dfm:70
 msgid "Process"
-msgstr ""
+msgstr "Processo"
 
 #. AddNewTemplateForm..WarningEmptyPanel..WarningPanel..Caption
 #: Visuals/Forms/AddNewTemplateUnit.dfm:144
 msgid "!!! Delete data before saving the template !!!"
-msgstr ""
+msgstr "!!! Eliminare dati prima di salvare il template !!!"
 
 #. AddNewTemplateForm..DescriptionPanel..SetupNameLabel..Caption
 #. RecallFrame..PropsPanel..FlexProPanel..FlexproListPanel..Panel1..Panel10..FlexproSetupNamePanel..Caption
 #: Visuals/Forms/AddNewTemplateUnit.dfm:183
 #: Visuals/Frames/RecallFrameUnit.dfm:987
 msgid "Setup name"
-msgstr ""
+msgstr "Nome setup"
 
 #. AddNewTemplateForm..DescriptionPanel..DecriptionLabel..Caption
 #: Visuals/Forms/AddNewTemplateUnit.dfm:196
 msgid "Description in export screen"
-msgstr ""
+msgstr "Descrizione in schermo export"
 
 #. AdvSaveSensorForm..Caption
 #: Visuals/Forms/AdvSaveSensorUnit.dfm:5
@@ -20851,37 +20851,37 @@ msgstr "Colore canale corrente"
 #: Visuals/Forms/AdvSaveSensorUnit.dfm:623
 #| msgid "Group"
 msgid "MainGroup"
-msgstr ""
+msgstr "GruppoPrincipale"
 
 #. AdvSaveSensorForm..ChannelPropsPanel..WriteChGroupToSensorComboBox....Items.Strings
 #: Visuals/Forms/AdvSaveSensorUnit.dfm:624
 #| msgid "Group"
 msgid "Group1"
-msgstr ""
+msgstr "Gruppo1"
 
 #. AdvSaveSensorForm..ChannelPropsPanel..WriteChGroupToSensorComboBox....Items.Strings
 #: Visuals/Forms/AdvSaveSensorUnit.dfm:625
 #| msgid "Group"
 msgid "Group2"
-msgstr ""
+msgstr "Gruppo2"
 
 #. AdvSaveSensorForm..ChannelPropsPanel..WriteChGroupToSensorComboBox....Items.Strings
 #: Visuals/Forms/AdvSaveSensorUnit.dfm:626
 #| msgid "Group"
 msgid "Group3"
-msgstr ""
+msgstr "Gruppo3"
 
 #. AdvSaveSensorForm..ChannelPropsPanel..WriteChGroupToSensorComboBox....Items.Strings
 #: Visuals/Forms/AdvSaveSensorUnit.dfm:627
 #| msgid "Group"
 msgid "Group4"
-msgstr ""
+msgstr "Gruppo4"
 
 #. AdvSaveSensorForm..ChannelPropsPanel..WriteChGroupToSensorComboBox....Items.Strings
 #: Visuals/Forms/AdvSaveSensorUnit.dfm:628
 #| msgid "Group"
 msgid "Group5"
-msgstr ""
+msgstr "Gruppo5"
 
 #. AdvSaveSensorForm..ChannelPropsPanel..WriteChWarnLowToSensorCheckBox..Caption
 #: Visuals/Forms/AdvSaveSensorUnit.dfm:661
@@ -20969,12 +20969,12 @@ msgstr "Setup originale"
 #. ChannelRemappingForm..OKButton..Caption
 #: Visuals/Forms/ChannelRemappingFormUnit.dfm:59
 msgid "Remap slots"
-msgstr ""
+msgstr "Rimappa slots"
 
 #. ChannelRemappingForm..Panel1..Label4..Caption
 #: Visuals/Forms/ChannelRemappingFormUnit.dfm:106
 msgid "Auto resolve"
-msgstr ""
+msgstr "Risolvi auto"
 
 #. ChannelRemappingForm..Panel1..ComboFilter....Items.Strings
 #: Visuals/Forms/ChannelRemappingFormUnit.dfm:127
@@ -20986,41 +20986,41 @@ msgstr ""
 #. ChannelRemappingForm..Panel1..BtnResolveByIndex..Caption
 #: Visuals/Forms/ChannelRemappingFormUnit.dfm:137
 msgid "By indexes"
-msgstr ""
+msgstr "Per indice"
 
 #. ChannelRemappingForm..Panel1..BtnResolveBySN..Caption
 #: Visuals/Forms/ChannelRemappingFormUnit.dfm:147
 msgid "By device SNs"
-msgstr ""
+msgstr "Per SN dispositivi"
 
 #. ChannelRemappingForm..Panel1..BtnExpandAll..Caption
 #: Visuals/Forms/ChannelRemappingFormUnit.dfm:157
 #: SharedLib/DS.UI.DSDrawGrid.pas:5373
 msgid "Expand all"
-msgstr ""
+msgstr "Espandi tutti"
 
 #. ChannelRemappingForm..Panel1..BtnCollapseAll..Caption
 #: Visuals/Forms/ChannelRemappingFormUnit.dfm:167
 #: SharedLib/DS.UI.DSDrawGrid.pas:5374
 msgid "Collapse all"
-msgstr ""
+msgstr "Collassa tutti"
 
 #. ChannelSettingsForm..SettingsPageControl..TabSheet1..Panel1..DigitsLabel..Caption
 #: Visuals/Forms/ChannelSettingsFormUnit.dfm:112
 msgid "Dec. places"
-msgstr ""
+msgstr "Pos. decimali"
 
 #. ChannelSettingsForm..SettingsPageControl..TabSheet1..Panel1..TypeComboBox....Items.Strings
 #: Visuals/Forms/ChannelSettingsFormUnit.dfm:180
 #: Core/Data/ChannelDataUnit.pas:6696
 msgid "GPS X absolute"
-msgstr ""
+msgstr "GPS X assoluto"
 
 #. ChannelSettingsForm..SettingsPageControl..TabSheet1..Panel1..TypeComboBox....Items.Strings
 #: Visuals/Forms/ChannelSettingsFormUnit.dfm:181
 #: Core/Data/ChannelDataUnit.pas:6697
 msgid "GPS Y absolute"
-msgstr ""
+msgstr "APS Y assoluto"
 
 #. ChannelSettingsForm..SettingsPageControl..TabSheet1..Panel1..TypeComboBox....Items.Strings
 #: Visuals/Forms/ChannelSettingsFormUnit.dfm:182
@@ -21032,7 +21032,7 @@ msgstr "Direzione GPS"
 #. information
 #: Visuals/Forms/ChannelSettingsFormUnit.dfm:244 DEWEsoft/MainUnit.pas:18183
 msgid "Information"
-msgstr ""
+msgstr "Informazioni"
 
 #. ChannelSettingsForm..SettingsPageControl..TabSheet2..InfoMemo....Lines.Strings
 #: Visuals/Forms/ChannelSettingsFormUnit.dfm:256
@@ -21052,7 +21052,7 @@ msgstr "Definisci valori discreti"
 #. DiscreteListForm..TopPanel..WarningLabel..Caption
 #: Visuals/Forms/DiscreteListFormUnit.dfm:35
 msgid "Discrete values cannot be changed!"
-msgstr ""
+msgstr "I valori discreti non possono essere cambiati!"
 
 #. DiscreteListForm..TopPanel..ImportButton..Hint
 #: Visuals/Forms/DiscreteListFormUnit.dfm:81
@@ -21075,7 +21075,7 @@ msgstr "Unità di misura"
 #. DownloadForm..BottomPanel..DownloadButton..Caption
 #: Visuals/Forms/DownloadFormUnit.dfm:56
 msgid "Start download"
-msgstr ""
+msgstr "Inizia download"
 
 #. EnterCodeForm..Caption
 #. GlobalSettingsFrame..Panel4..MainMenuPanel..MenuScrollBox..SettingsMenu..MISecurity..Caption
@@ -21108,7 +21108,7 @@ msgstr "Non chiedere più"
 #. EnterCodeForm..LayoutPanel..InfoGroup..NeverAskAgainCheckBox..Description
 #: Visuals/Forms/EnterCodeUnit.dfm:91
 msgid "Don't ask for this code until Dewesoft is restarted"
-msgstr ""
+msgstr "Non chiedere questo codice fino al prossimo riavvio Dewesoft"
 
 #. FileExistsForm..MainBackPanel..OverwriteRadioButton..Caption
 #: Visuals/Forms/FileExistsUnit.dfm:96
@@ -21128,17 +21128,17 @@ msgstr "Non chiedere più (solo questa sessione)"
 #. FileExistsForm..MainBackPanel..FileExistsPanel..Caption
 #: Visuals/Forms/FileExistsUnit.dfm:139
 msgid "File already exists. What would you like to do?"
-msgstr ""
+msgstr "Il file esiste già. Cosa vuoi fare ?"
 
 #. FileExistsForm..DataSaveDialog..Title
 #: Visuals/Forms/FileExistsUnit.dfm:174
 msgid "Save data file name"
-msgstr ""
+msgstr "Salva nome file dati"
 
 #. GPSPosEditForm..Caption
 #: Visuals/Forms/GPSPosEditDialog.dfm:5
 msgid "Position edit"
-msgstr "Position edit"
+msgstr "Modifica posizione"
 
 #. GPSPosEditForm..CBLatLonFormat....Items.Strings
 #: Visuals/Forms/GPSPosEditDialog.dfm:64
@@ -21150,7 +21150,7 @@ msgstr ""
 #: Visuals/Forms/GPSPosEditDialog.dfm:65
 #| msgid "Degrees"
 msgid "Decimal degrees"
-msgstr ""
+msgstr "Gradi decimali"
 
 #. GPSPosEditForm..PageControl..TabSheet3..LatitudeLabel..Caption
 #. GPSPosEditForm..PageControl..TabSheet4..Label2..Caption
@@ -21187,7 +21187,7 @@ msgstr "Secondi"
 #. MessagesForm..ResolveSetupPanel..Caption
 #: Visuals/Forms/MessagesFormUnit.dfm:100
 msgid "Resolve"
-msgstr ""
+msgstr "Risolvi"
 
 #. MessagesForm..ResolveSetupPanel..BottomPanel..ClearMissingPluginsButton..Caption
 #: Visuals/Forms/MessagesFormUnit.dfm:135
@@ -21202,28 +21202,28 @@ msgstr "Esportazione multi file"
 #. MultiExportForm..Panel1..PageControl..ExportedChannelsSheet..Caption
 #: Visuals/Forms/MultiExportUnit.dfm:171
 msgid "Exported channels"
-msgstr ""
+msgstr "Canali esportati"
 
 #. MultiExportForm..Panel1..PageControl..CustomExportSheet..Caption
 #: Visuals/Forms/MultiExportUnit.dfm:212
 msgid "Export setup"
-msgstr ""
+msgstr "Setup esportazione"
 
 #. MultiExportForm..Panel1..DEWESoftExportPanel..Caption
 #: Visuals/Forms/MultiExportUnit.dfm:237
 msgid "DEWESoft export"
-msgstr ""
+msgstr "Esporta DEWESoft"
 
 #. MultiExportForm..Panel1..DEWESoftExportPanel..MExportToZipFileCheckBox..Caption
 #. RecallFrame..PropsPanel..DewesoftExportPanel..Panel2..DWFileNamePanel..ExportToZipFileCheckBox..Caption
 #: Visuals/Forms/MultiExportUnit.dfm:250 Visuals/Frames/RecallFrameUnit.dfm:281
 msgid "Export to *.dxz"
-msgstr ""
+msgstr "Esporta in *.dxz"
 
 #. MultiExportForm..Panel1..Panel3..Panel4..DataExportLabel..Caption
 #: Visuals/Forms/MultiExportUnit.dfm:291
 msgid "Data export"
-msgstr ""
+msgstr "Esporta dati"
 
 #. MultiExportForm..Panel1..Panel3..Panel4..MExportTypeComboBox....Items.Strings
 #. MultiExportForm..Panel1..Panel3..Panel4..ExportPage..MultiReducedPanel..Label1..Caption
@@ -21299,22 +21299,22 @@ msgstr ""
 #. RecallFrame..PropsPanel..FileExportPanel..FileMainPanel..FileExpTypePanel..Panel3..Panel14..Panel19..CommonOptionsPanel..ExportSetupCheckBox..Caption
 #: Visuals/Forms/MultiExportUnit.dfm:378 Visuals/Frames/RecallFrameUnit.dfm:603
 msgid "Export setup to xml file"
-msgstr ""
+msgstr "Esporta setup su file xml"
 
 #. MultiExportForm..Panel1..Panel3..Panel4..FlexProSingleFilePanel..SingleFileCheckBox..Caption
 #: Visuals/Forms/MultiExportUnit.dfm:408
 msgid "Export to a single Flexpro file"
-msgstr ""
+msgstr "Esporta su singolo file Flexpro"
 
 #. MultiExportForm..Panel1..Panel3..Panel4..ExportPage..MultiReducedPanel..CompactCaption
 #: Visuals/Forms/MultiExportUnit.dfm:445
 msgid "Reduced export"
-msgstr ""
+msgstr "Esporta ridotti"
 
 #. MultiExportForm..Panel1..Panel3..Panel4..ExportPage..MultiComplexPanel..CompactCaption
 #: Visuals/Forms/MultiExportUnit.dfm:866
 msgid "Complex export"
-msgstr ""
+msgstr "Esporta complessi"
 
 #. MultiExportForm..Panel1..Panel3..Panel5..MDrivePanel..Caption
 #. RecallFrame..PropsPanel..DewesoftExportPanel..Panel2..Panel15..DWFileDirPanel..Caption
@@ -21333,37 +21333,37 @@ msgstr "Seleziona unità di misura"
 #. NETFileTransferForm..LocalFileNameLabel..Caption
 #: Visuals/Forms/NETFileTransferFormUnit.dfm:32
 msgid "Local file name"
-msgstr ""
+msgstr "Nome file locale"
 
 #. NETFileTransferForm..RemoteFolderLabel..Caption
 #: Visuals/Forms/NETFileTransferFormUnit.dfm:47
 msgid "Remote folder"
-msgstr ""
+msgstr "Cartella remota"
 
 #. NETFileTransferForm..UploadButton..Caption
 #: Visuals/Forms/NETFileTransferFormUnit.dfm:78
 msgid "Upload"
-msgstr ""
+msgstr "Carica"
 
 #. NETFileTransferForm..OpenDialog..Title
 #: Visuals/Forms/NETFileTransferFormUnit.dfm:101
 msgid "Choose file"
-msgstr ""
+msgstr "Scegli file"
 
 #. NTPSetupForm..Caption
 #: Visuals/Forms/NTPSetupFormUnit.dfm:5
 msgid "NTP setup"
-msgstr ""
+msgstr "Setup NTP"
 
 #. PluginSelectFrame..PluginSetupHWPanel..BackPluginPropsPanel..Caption
 #: Visuals/Forms/PluginSelectUnit1.dfm:44
 msgid "Plugin properties"
-msgstr ""
+msgstr "Proprietà plugin"
 
 #. ScopeExpAVIForm..Caption
 #: Visuals/Forms/ScopeAVIExpUnit.dfm:5
 msgid "Scope AVI export"
-msgstr ""
+msgstr "Esporta scope AVI"
 
 #. ScopeExpAVIForm..Notebook....VidCompressionLabel..Caption
 #. VideoCompressForm..Caption
@@ -21374,28 +21374,28 @@ msgstr "Compressione video"
 #. ScopeExpAVIForm..Notebook....TriggersLabel..Caption
 #: Visuals/Forms/ScopeAVIExpUnit.dfm:87
 msgid "Export triggers"
-msgstr ""
+msgstr "Esporta triggers"
 
 #. ScopeExpAVIForm..Notebook....CompressButton..Caption
 #: Visuals/Forms/ScopeAVIExpUnit.dfm:256
 msgid "Compress"
-msgstr "Compressione"
+msgstr "Comprimi"
 
 #. ScopeExpAVIForm..Notebook....ExportingLabel..Caption
 #: Visuals/Forms/ScopeAVIExpUnit.dfm:327
 msgid "Exporting, please wait..."
-msgstr ""
+msgstr "Esportazione, prego attendere..."
 
 #. SecondaryForm..SecondaryDisplayLabel..Caption
 #: Visuals/Forms/SecondaryFormUnit.dfm:420
 msgid "secondary display"
-msgstr ""
+msgstr "display secondario"
 
 #. SensorEditorFormX..Caption
 #: Visuals/Forms/SensorEditorUnitX.dfm:4
 #| msgid "Counter sensor editor"
 msgid "Analog sensor editor"
-msgstr ""
+msgstr "Editor sensore analogico"
 
 #. SensorEditorFormX..MenuPanel..Panel1..AdvPage1..AdvToolBar1..Caption
 #. SensorEditorFormX..MenuPanel..Panel1..AdvPage1..AdvToolBar1..SearchEdit..Hint
@@ -21409,32 +21409,32 @@ msgstr "Cerca"
 #. SensorEditorFormX..MenuPanel..Panel1..AdvPage1..AdvToolBar2..Caption
 #: Visuals/Forms/SensorEditorUnitX.dfm:1272
 msgid "View options"
-msgstr ""
+msgstr "Opzioni vista"
 
 #. SensorEditorFormX..MenuPanel..Panel1..AdvPage1..AdvToolBar2..ChannelNamingCheckBox..Caption
 #: Visuals/Forms/SensorEditorUnitX.dfm:1294
 msgid "Channel naming"
-msgstr ""
+msgstr "Nome canale"
 
 #. SensorEditorFormX..MenuPanel..Panel1..AdvPage1..AdvToolBar2..UseShuntCalCheckBox..Caption
 #: Visuals/Forms/SensorEditorUnitX.dfm:1344
 msgid "Shunt calibration"
-msgstr ""
+msgstr "Calibrazione shunt"
 
 #. SensorEditorFormX..MenuPanel..Panel1..AdvPage1..AdvToolBar2..UseCalInfoCheckBox..Caption
 #: Visuals/Forms/SensorEditorUnitX.dfm:1394
 msgid "Calibration info"
-msgstr ""
+msgstr "Info calibrazione"
 
 #. SensorEditorFormX..MenuPanel..Panel1..AdvPage1..AdvToolBar2..UseNonLinTCCheckBox..Caption
 #: Visuals/Forms/SensorEditorUnitX.dfm:1444
 msgid "Nonlinear scaling/transfer curve"
-msgstr ""
+msgstr "Scala non lineare/curva trasferimento"
 
 #. SensorEditorFormX..BottomPanel..AdvScalingPanel..NoScalingPanel..Caption
 #: Visuals/Forms/SensorEditorUnitX.dfm:1592
 msgid "Linear scaling selected"
-msgstr ""
+msgstr "Scala lineare selezionata"
 
 #. SensorEditorFormX..BottomPanel..AdvScalingPanel..ScalingPageControl..tsTransferCurve..Caption
 #. TransferCurveFrame..EditPanel..PointsPanel..Label1..Caption
@@ -21448,24 +21448,24 @@ msgstr "Funzione di trasferimento"
 #. SensorEditorFormX..OpenDialog..Title
 #: Visuals/Forms/SensorEditorUnitX.dfm:1931
 msgid "Load sensor from file"
-msgstr ""
+msgstr "Carica sensore da file"
 
 #. SensorEditorFormX..CopyPastePopupMenu..PasteAtEndMenuItem..Caption
 #: Visuals/Forms/SensorEditorUnitX.dfm:1942
 msgid "Add copy at end"
-msgstr ""
+msgstr "Aggiungi copia alla fine"
 
 #. SensorEditorFormX..CopyPastePopupMenu..PasteAtIdxMenuItem..Caption
 #: Visuals/Forms/SensorEditorUnitX.dfm:1947
 msgid "Add copy at this index"
-msgstr ""
+msgstr "Aggiungi copia a questo indice"
 
 #. SensorInfoForm..Caption
 #: Visuals/Forms/SensorInfoFormUnit.dfm:4
 #: Visuals/Forms/SensorEditorUnitX.pas:175
 #: Visuals/Forms/SensorEditorUnitX.pas:1103
 msgid "Sensor database"
-msgstr ""
+msgstr "Database sensori"
 
 #. ServersForm..Caption
 #: Visuals/Forms/ServersFormUnit.dfm:5
@@ -21480,12 +21480,12 @@ msgstr "Nome unità di misura"
 #. ServersForm..Label2..Caption
 #: Visuals/Forms/ServersFormUnit.dfm:39
 msgid "MAC address for \"Wake Up On LAN\" (xx:xx:xx:xx:xx:xx)"
-msgstr ""
+msgstr "Indirizzo MAC per \"Wake Up On LAN\" (xx:xx:xx:xx:xx:xx)"
 
 #. ServersForm..RunExeVersionLabel..Caption
 #: Visuals/Forms/ServersFormUnit.dfm:79
 msgid "RunExe version"
-msgstr ""
+msgstr "Versione RunExe"
 
 #. SimpleFileExistsForm..MainBackPanel..FileExistsLabel..Caption
 #. SaveDialogSet.FileName := Copy(DataFileName, 1, Length(DataFileName) - 4) + '.dss';
@@ -21494,7 +21494,7 @@ msgstr ""
 #: DEWEsoft/MainUnit.pas:5544 Visuals/Forms/ScopeAVIExpUnit.pas:193
 #: Visuals/Frames/RecallFrameUnit.pas:903
 msgid "File already exists. Do you want to overwrite it?"
-msgstr ""
+msgstr "Il file esiste già. Vuoi sovrascriverlo ?"
 
 #. SimpleFileExistsForm..ButtonsPanel..YesButton..Caption
 #. DSGrid.SetColumn(gsMaxValue, 'Max value', ctEditNumber, True, 50); //RangeMax
@@ -21544,7 +21544,7 @@ msgstr "Si"
 #: Visuals/Forms/SensorEditorUnitX.pas:923
 #: Visuals/Frames/ExportSelectFrameUnit.pas:590
 msgid "No"
-msgstr "No"
+msgstr ""
 
 #. StrainForm..Caption
 #: Visuals/Forms/StrainFormUnit.dfm:5
@@ -21555,7 +21555,7 @@ msgstr ""
 #. StrainForm..ScalePanel..ScaleSignaLabel..Caption
 #: Visuals/Forms/StrainFormUnit.dfm:284
 msgid "Scale sign"
-msgstr ""
+msgstr "Segno scala"
 
 #. TimeSelectForm..Caption
 #: Visuals/Forms/TimeSelectUnit.dfm:6
@@ -21570,7 +21570,7 @@ msgstr "Mostra ora"
 #. TimeSelectForm..DTDirectionPanel..StartTimePanel..DateLabel..Caption
 #: Visuals/Forms/TimeSelectUnit.dfm:110 Visuals/Forms/TimeSelectUnit.pas:104
 msgid "Days"
-msgstr ""
+msgstr "Giorni"
 
 #. TimeSelectForm..DTDirectionPanel..StartTimePanel..RelativeTimeRadioButton..Caption
 #: Visuals/Forms/TimeSelectUnit.dfm:158
@@ -21601,7 +21601,7 @@ msgstr "maggiore"
 #. TriggerSetupForm..Panel2..PageControl1..TimeTabSheet..Panel11..Panel10..TimeCondCombo....Items.Strings
 #: Visuals/Forms/TriggerSetupUnit.dfm:11324
 msgid "less"
-msgstr "minore"
+msgstr "inferiore"
 
 #. TriggerSetupForm..Panel2..Panel9..Caption
 #: Visuals/Forms/TriggerSetupUnit.dfm:11742
@@ -21622,18 +21622,18 @@ msgstr "tempo"
 #: Visuals/Forms/VersionInfoUnit.dfm:64 Visuals/Forms/PluginSelectUnit1.pas:112
 #: Visuals/Frames/Settings/ExtensionSettingsFrameUnit.pas:83
 msgid "Vendor"
-msgstr ""
+msgstr "Marca"
 
 #. VersionInfForm..RegAddonsButton..Caption
 #: Visuals/Forms/VersionInfoUnit.dfm:88
 #| msgid "Post time extension"
 msgid "Register extensions"
-msgstr ""
+msgstr "Registra estensioni"
 
 #. VideoCompressForm..CompressingLabel..Caption
 #: Visuals/Forms/VideoCompressUnit.dfm:35
 msgid "Compressing video, please wait..."
-msgstr ""
+msgstr "Video in compressione, attendere prego..."
 
 #. VideoExportForm..Caption
 #: Visuals/Forms/VideoExportUnit.dfm:6
@@ -21644,25 +21644,25 @@ msgstr "Esportazione schermo con video"
 #: Visuals/Forms/VideoExportUnit.dfm:45
 #| msgid "Output values"
 msgid "Output file(s)"
-msgstr ""
+msgstr "Files output"
 
 #. VideoExportForm..ScrollBox..LayoutPanel..DSPropertyGroup1..FilePathItem..Text
 #: Visuals/Forms/VideoExportUnit.dfm:53
 #| msgid "File name"
 msgid "File path"
-msgstr ""
+msgstr "Percorso file"
 
 #. VideoExportForm..ScrollBox..LayoutPanel..DSPropertyGroup1..FileNameTemplateItem..Text
 #: Visuals/Forms/VideoExportUnit.dfm:79
 #| msgid "Add new template"
 msgid "File name template"
-msgstr ""
+msgstr "Template nome file"
 
 #. VideoExportForm..ScrollBox..LayoutPanel..DSPropertyGroup2..Caption
 #: Visuals/Forms/VideoExportUnit.dfm:127
 #| msgid "Unified properties"
 msgid "Video / image properties"
-msgstr ""
+msgstr "Proprietà video/immagine"
 
 #. VideoExportForm..ScrollBox..LayoutPanel..DSPropertyGroup2..PlaySpeedItem..Text
 #: Visuals/Forms/VideoExportUnit.dfm:193
@@ -21673,33 +21673,33 @@ msgstr "Velocità riproduzione"
 #: Visuals/Forms/VideoExportUnit.dfm:229
 #| msgid "Per channel"
 msgid "Video channel"
-msgstr ""
+msgstr "Canale video"
 
 #. VideoExportForm..ScrollBox..LayoutPanel..DSPropertyGroup2..FrameOutputControlItem..Text
 #: Visuals/Forms/VideoExportUnit.dfm:249
 msgid "Frame output control"
-msgstr ""
+msgstr "Controllo uscita frame"
 
 #. VideoExportForm..ScrollBox..LayoutPanel..DSPropertyGroup2..FrameOutputControlItem....ComboBox.Items.Strings
 #: Visuals/Forms/VideoExportUnit.dfm:263
 msgid "Static - from frame rate"
-msgstr ""
+msgstr "Statica - da frame rate"
 
 #. VideoExportForm..ScrollBox..LayoutPanel..DSPropertyGroup2..FrameOutputControlItem....ComboBox.Items.Strings
 #: Visuals/Forms/VideoExportUnit.dfm:264
 msgid "Dynamic - from video channel"
-msgstr ""
+msgstr "Dinamica - da canale video"
 
 #. VideoExportForm..ScrollBox..LayoutPanel..CompressionPropertyGroup..CompressionItem..Description
 #: Visuals/Forms/VideoExportUnit.dfm:282
 #| msgid "New sequence"
 msgid "Image sequence"
-msgstr ""
+msgstr "Sequenza imagine"
 
 #. VideoExportForm..ScrollBox..LayoutPanel..SoundPropertyGroup..SoundChannelItem..Text
 #: Visuals/Forms/VideoExportUnit.dfm:312
 msgid "Sound channel"
-msgstr ""
+msgstr "Canale sound"
 
 #. VideoPostSyncForm..Caption
 #: Visuals/Forms/VideoPostSyncUnit.dfm:6
@@ -21709,22 +21709,22 @@ msgstr "Post-sincronizzazione video"
 #. VideoPostSyncForm..SyncParamsPanel..Caption
 #: Visuals/Forms/VideoPostSyncUnit.dfm:33
 msgid "Synchronization parameters"
-msgstr ""
+msgstr "Parametri sincronizzazione"
 
 #. VideoPostSyncForm..SyncParamsPanel..DayOfYearLabel..Caption
 #: Visuals/Forms/VideoPostSyncUnit.dfm:46
 msgid "day"
-msgstr ""
+msgstr "giorno"
 
 #. VideoPostSyncForm..SyncParamsPanel..Label1..Caption
 #: Visuals/Forms/VideoPostSyncUnit.dfm:53
 msgid "Frames found"
-msgstr ""
+msgstr "Frames trovati"
 
 #. VideoPostSyncForm..SyncParamsPanel..Label3..Caption
 #: Visuals/Forms/VideoPostSyncUnit.dfm:67
 msgid "frames/sec"
-msgstr "frames/sec"
+msgstr ""
 
 #. VideoPostSyncForm..SyncParamsPanel..Label4..Caption
 #: Visuals/Forms/VideoPostSyncUnit.dfm:74
@@ -21734,7 +21734,7 @@ msgstr "Dimensione video"
 #. VideoPostSyncForm..SyncParamsPanel..SizeLabel..Caption
 #: Visuals/Forms/VideoPostSyncUnit.dfm:118
 msgid "Frames"
-msgstr "Frames"
+msgstr ""
 
 #. VideoPostSyncForm..SyncParamsPanel..VideoFileNameLabel..Caption
 #: Visuals/Forms/VideoPostSyncUnit.dfm:133
@@ -21759,7 +21759,7 @@ msgstr "da tempo rel"
 #. VideoPostSyncForm..SyncParamsPanel..TrigTimeCombo....Items.Strings
 #: Visuals/Forms/VideoPostSyncUnit.dfm:222
 msgid "from abs. time"
-msgstr ""
+msgstr "da tempo abs"
 
 #. AddItemFrame..TopPanel..SearchPanel..ModesTab......Caption
 #: Visuals/Frames/AddItemFrameUnit.dfm:123
@@ -21985,6 +21985,9 @@ msgid ""
 "ratio). When \"user defined\" is selected transition width will be always "
 "achived, but computational load can become heavy."
 msgstr ""
+"\"Regola auto\" imposta AAF al 16% dell'ampiezza di transizione (fino a "
+"1:100 del sr. ratio). Quando \"Definisci\" è selezionato l'ampiezza di "
+"transizione è sempre raggiunta ma il carico CPU può diventare alto."
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet1..ScrollBox5..HardwareLayoutPanel..DigitalFiltersGroup..FIRDecimatorProp....ComboBox.Items.Strings
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:533
@@ -22013,7 +22016,7 @@ msgstr ""
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet1..ScrollBox5..HardwareLayoutPanel..DigitalFiltersGroup..DefaultLPFilterProp....ComboBox.Items.Strings
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:559
 msgid "Alias free (IIR)"
-msgstr ""
+msgstr "Senza alias (IIR)"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet2..Caption
 #. AdvancedSettingsFrame2..Menu..MenuVisuals..Caption
@@ -22021,7 +22024,7 @@ msgstr ""
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1954
 #: Visuals/Frames/GlobalSettingsFrameUnit.pas:1044
 msgid "Visuals"
-msgstr ""
+msgstr "Visuali"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet2..ScrollBox1..VisualsLayoutPanel..DSPropertyGroup2..MissDistanceProp..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:599
@@ -22036,7 +22039,7 @@ msgstr "Max numero vertici"
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet2..ScrollBox1..VisualsLayoutPanel..DSPropertyGroup8..Caption
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:642
 msgid "Graphics"
-msgstr ""
+msgstr "Grafica"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet2..ScrollBox1..VisualsLayoutPanel..DSPropertyGroup8..AsyncGDIBufferProp..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:650
@@ -22116,22 +22119,22 @@ msgstr "Memoria trigger oscilloscopio per canale"
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet2..ScrollBox1..VisualsLayoutPanel..ScopeGroup..ScopeMaxPicSizeProp..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:851
 msgid "Maximum picture size"
-msgstr ""
+msgstr "Massima dimensione immagine"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet2..ScrollBox1..VisualsLayoutPanel..ScopeGroup..ScopeMaxPicSizeProp..Description
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:853
 msgid "Maximum scope trigger picture size"
-msgstr ""
+msgstr "Massima dimensione dell'immagine scope trigger"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet2..ScrollBox1..VisualsLayoutPanel..ScopeGroup..ScopeMaxPicCntProp..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:874
 msgid "Maximum number of pictures"
-msgstr ""
+msgstr "Massimo numero di immagini"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet2..ScrollBox1..VisualsLayoutPanel..ScopeGroup..ScopeMaxPicCntProp..Description
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:875
 msgid "Maximum number of scope trigger pictures per channel"
-msgstr ""
+msgstr "Massimo numero di immagini scope trigger per canale"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet3..ScrollBox2..MathLayoutPanel..DSPropertyGroup5..Caption
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:920
