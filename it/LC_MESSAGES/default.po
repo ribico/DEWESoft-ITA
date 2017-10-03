@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2017-08-31 16:50\n"
-"PO-Revision-Date: 2017-10-02 11:00+0200\n"
+"PO-Revision-Date: 2017-10-03 14:47+0200\n"
 "Last-Translator: Somebody <your.email@address.com>\n"
 "Language-Team: \n"
 "Language: it\n"
@@ -9712,7 +9712,7 @@ msgstr "Punto riferimento scala dB"
 #: Visuals/Frames/SetupGridEx.pas:108 Visuals/Frames/SetupGridEx.pas:338
 #: Visuals/Frames/TriggerFrameUnit.pas:110
 msgid "Setup"
-msgstr "Impostazioni"
+msgstr ""
 
 #. FFTVCFrame..PageControl..CommonTS..MainPageControl..SetupTabSheet..LinesPanel..AdvCaptionPanel1..Caption
 #. MathFFTReferenceFrame..EditPanel..FFTOptionsPanel..Caption
@@ -10942,7 +10942,7 @@ msgstr ""
 #: Visuals/Frames/SetupGrid.pas:245 Visuals/Frames/SetupGrid.pas:246
 #: Visuals/Frames/SetupGridEx.pas:252 Visuals/Frames/SetupGridEx.pas:253
 msgid "Store"
-msgstr "Registra"
+msgstr "Rec"
 
 #. InputVCFrame..PageControl..CommonTS..DewesoftActionPanel..cbDewesoftAction....Items.Strings
 #. ScopeVCFrame..PageControl..CommonTS..MainPageControl..TriggerTabSheet..Caption
