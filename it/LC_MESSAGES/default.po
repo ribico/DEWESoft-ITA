@@ -7,14 +7,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2017-08-31 16:50\n"
-"PO-Revision-Date: 2017-10-01 02:11+0200\n"
+"PO-Revision-Date: 2017-10-02 11:00+0200\n"
 "Last-Translator: Somebody <your.email@address.com>\n"
 "Language-Team: \n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.0.3\n"
+"X-Generator: Poedit 2.0.4\n"
 
 #. AmplifierFrame..MainAmplPanel..AmplifierPageControl..GeneralTabSheet..Caption
 #. ChannelSetupExForm..BlockDiagPanel..SensorPanel..SensorPageControl..GeneralSensorTabSheet..Caption
@@ -15611,7 +15611,7 @@ msgstr "Canale condizione"
 #. LatchFrame..MathTypePanel..CriteriaLimitLabel..Caption
 #: Core/MathObjects/Visuals/MathLatchSetupUnit.dfm:126
 msgid "Criteria limit"
-msgstr "Limite condizione"
+msgstr "Soglia criterio"
 
 #. MathMultirateSetupFrame..GeneralSettingsPanel..Label1..Caption
 #: Core/MathObjects/Visuals/MathMultirateSetupUnit.dfm:31
@@ -27479,11 +27479,11 @@ msgstr "Canale limit con divisore di campionamento non supportato"
 
 #: Core/MathObjects/LatchMathUnit.pas:256
 msgid "Latch math"
-msgstr ""
+msgstr "Funzione latch"
 
 #: Core/MathObjects/LatchMathUnit.pas:276
 msgid "Latch value math"
-msgstr ""
+msgstr "Funzione valore latch"
 
 #: Core/MathObjects/LatchMathUnit.pas:277
 msgid "Latch"
@@ -27491,7 +27491,7 @@ msgstr ""
 
 #: Core/MathObjects/LatchMathUnit.pas:375
 msgid "Latch index"
-msgstr ""
+msgstr "Indice latch"
 
 #: Core/MathObjects/MathArrayGeneratorUnit.pas:222
 msgid "Vector, matrix constant"
