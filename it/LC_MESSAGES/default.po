@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2017-08-31 16:50\n"
-"PO-Revision-Date: 2017-10-03 14:47+0200\n"
+"PO-Revision-Date: 2017-10-04 11:39+0200\n"
 "Last-Translator: Somebody <your.email@address.com>\n"
 "Language-Team: \n"
 "Language: it\n"
@@ -30907,11 +30907,11 @@ msgstr "Impossibile rinomicare file. Esiste già un file con lo stesso nome"
 
 #: DEWEsoft/MainUnit.pas:16558
 msgid "Scanning AO watchdogs"
-msgstr ""
+msgstr "Scansione watchdogs AO"
 
 #: DEWEsoft/MainUnit.pas:16708 DEWEsoft/MainUnit.pas:19242
 msgid "Stopped"
-msgstr ""
+msgstr "Fermato"
 
 #: DEWEsoft/MainUnit.pas:16768
 msgid "ChaGen all off"
@@ -30923,7 +30923,7 @@ msgstr "campionamento"
 
 #: DEWEsoft/MainUnit.pas:16897
 msgid "bandwidth"
-msgstr ""
+msgstr "banda"
 
 #: DEWEsoft/MainUnit.pas:16978 DEWEsoft/MainUnit.pas:16979
 #: DEWEsoft/MainUnit.pas:16980
