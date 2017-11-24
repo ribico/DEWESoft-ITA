@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2017-11-22 11:18\n"
-"PO-Revision-Date: 2017-11-24 17:36+0100\n"
+"PO-Revision-Date: 2017-11-24 17:49+0100\n"
 "Last-Translator: Somebody <your.email@address.com>\n"
 "Language-Team: \n"
 "Language: it\n"
@@ -7704,7 +7704,7 @@ msgstr ""
 #. AxisFrame..AxisFirstLabel..Caption
 #: Core/Data/Visuals/AxisFrameUnit.dfm:48
 msgid "First"
-msgstr ""
+msgstr "Primo"
 
 #. AxisFrame..AxisStepLabel..Caption
 #. MathArrayGeneratorSetupFrame..AxisZeroPanel..StepOffsetZeroPanel..StepOffsetEditZero..Caption
@@ -9585,7 +9585,7 @@ msgstr "Formato ora"
 #: Core/Daq/DaqCards/AO/AOChannels.pas:778
 #: Core/Daq/DaqCards/AO/AOChannels.pas:779
 msgid "Control"
-msgstr ""
+msgstr "Controllo"
 
 #. DisplayPropsFrame..PageControl..DisplayTabSheet..Caption
 #. HarmonicFFTVCFrame..PageControl..CommonTS..DisplayValuePanel..Caption
@@ -11841,27 +11841,27 @@ msgstr "Assoluto"
 #. VideoVCFrame..PageControl..AnalisysTS..SettingsFilmPanel..CursorPosComboBox....Items.Strings
 #: Core/GObjects/Visuals/VideoVCFrameUnit.dfm:846
 msgid "First frame"
-msgstr ""
+msgstr "Primo frame"
 
 #. VideoVCFrame..PageControl..AnalisysTS..SettingsFilmPanel..CursorPosComboBox....Items.Strings
 #: Core/GObjects/Visuals/VideoVCFrameUnit.dfm:847
 msgid "Middle frame"
-msgstr ""
+msgstr "Frame centrale"
 
 #. VideoVCFrame..PageControl..AnalisysTS..SettingsFilmPanel..CursorPosComboBox....Items.Strings
 #: Core/GObjects/Visuals/VideoVCFrameUnit.dfm:848
 msgid "Last frame"
-msgstr ""
+msgstr "Ultimo frame"
 
 #. VideoVCFrame..PageControl..AnalisysTS..SettingsFilmPanel..CursorPosComboBox....Items.Strings
 #: Core/GObjects/Visuals/VideoVCFrameUnit.dfm:849
 msgid "Custom frame"
-msgstr ""
+msgstr "Frame personalizzato"
 
 #. VideoVCFrame..PageControl..AnalisysTS..SettingsFilmPanel..CursorPosComboBox....Items.Strings
 #: Core/GObjects/Visuals/VideoVCFrameUnit.dfm:850
 msgid "Floating"
-msgstr ""
+msgstr "Flottante"
 
 #. XYRecVCFrame..PageControl..CommonTS..SetupPagePanel..GraphTypePanel..GraphTypeComboBox....Items.Strings
 #: Core/GObjects/Visuals/XYRecVCFrameUnit.dfm:297
@@ -13372,7 +13372,7 @@ msgstr "Canale frequenza"
 #: Core/MathObjects/Visuals/AmplExtractMathSetupUnit.dfm:336
 #: Core/MathObjects/Visuals/AmplExtractMathSetupUnit.pas:646
 msgid "Tracking"
-msgstr ""
+msgstr "Inseguimento"
 
 #. AmplExtractSetupFrame..FFTCalcPanel..DecayPanel..Label1..Caption
 #. MathFFTSetupFrame..CalcParametersPanel..WinExpTranPanel..ExpTranTitleLabel..Caption
@@ -14148,7 +14148,7 @@ msgstr "Sezioni"
 #. AngleSensorSetupFrame..Panel3..OutputChannelsPanel..AngleDataCheckBox..Caption
 #: Core/MathObjects/Visuals/MathAngleSensorSetupUnit.dfm:48
 msgid "Angle data"
-msgstr ""
+msgstr "Dati angolo"
 
 #. AngleSensorSetupFrame..Panel3..AveragingPanel..Label1..Caption
 #: Core/MathObjects/Visuals/MathAngleSensorSetupUnit.dfm:106
@@ -14193,7 +14193,7 @@ msgstr "Ampiezza trigger non corretta."
 #. AngleSensorSetupFrame..SensorTypePanel..TriggerEdgeLabel..Caption
 #: Core/MathObjects/Visuals/MathAngleSensorSetupUnit.dfm:293
 msgid "Trigger edge"
-msgstr ""
+msgstr "Fronte trigger"
 
 #. AngleSensorSetupFrame..SensorTypePanel..RetriggerLevelCheckBox..Caption
 #. SineProcessingSetupFrame..AdvCaptionPanel3..ReTrgChkbox..Caption
@@ -14217,7 +14217,7 @@ msgstr "Struttura dati"
 #. MathArrayGeneratorSetupFrame..AdvCaptionPanel1..ComplexHelperLabel..Caption
 #: Core/MathObjects/Visuals/MathArrayGeneratorSetupUnit.dfm:45
 msgid "Complex data is presented in a form: \"Re;Im\"."
-msgstr ""
+msgstr "Dati complessi presentati nella forma: \"Re;Im\"."
 
 #. MathArrayGeneratorSetupFrame..AdvCaptionPanel1..DataStructureCBox....Items.Strings
 #: Core/MathObjects/Visuals/MathArrayGeneratorSetupUnit.dfm:57
@@ -14324,8 +14324,6 @@ msgstr "Importa/esporta dati"
 
 #. MathArrayGeneratorSetupFrame..ChannelSetupPanel..AdvCaptionPanel4..Label6..Caption
 #: Core/MathObjects/Visuals/MathArrayGeneratorSetupUnit.dfm:462
-#, fuzzy
-#| msgid "File format"
 msgid "File Format"
 msgstr "Formato file"
 
