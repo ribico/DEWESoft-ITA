@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2017-11-22 11:18\n"
-"PO-Revision-Date: 2017-11-24 17:49+0100\n"
+"PO-Revision-Date: 2017-11-24 18:01+0100\n"
 "Last-Translator: Somebody <your.email@address.com>\n"
 "Language-Team: \n"
 "Language: it\n"
@@ -17120,7 +17120,7 @@ msgstr "Su campioni"
 #. MathStatSetupFrame..CalcTypePanel..CalcTypePageControl..BlockTabSheet..Caption
 #: Core/MathObjects/Visuals/MathStatSetupUnit.dfm:655
 msgid "Block + running"
-msgstr ""
+msgstr "Blocco + mobile"
 
 #. MathStatSetupFrame..CalcTypePanel..CalcTypePageControl..BlockTabSheet..ArrayWarningLabel....Caption
 #: Core/MathObjects/Visuals/MathStatSetupUnit.dfm:663
@@ -17375,37 +17375,37 @@ msgstr ""
 #. ShakerControlSetupFrame..FFTCalcPanel..StandardCBox....Items.Strings
 #: Core/MathObjects/Visuals/ShakerControlSetupUnit.dfm:139
 msgid "Truck highway vibration (Vert)"
-msgstr ""
+msgstr "Vibrazioni camion autostrada (Vert)"
 
 #. ShakerControlSetupFrame..FFTCalcPanel..StandardCBox....Items.Strings
 #: Core/MathObjects/Visuals/ShakerControlSetupUnit.dfm:140
 msgid "Truck highway vibration (Trans)"
-msgstr ""
+msgstr "Vibrazioni camion autostrada (Trasv)"
 
 #. ShakerControlSetupFrame..FFTCalcPanel..StandardCBox....Items.Strings
 #: Core/MathObjects/Visuals/ShakerControlSetupUnit.dfm:141
 msgid "Truck highway vibration (Lon)"
-msgstr ""
+msgstr "Vibrazioni camion autostrada (Lon)"
 
 #. ShakerControlSetupFrame..FFTCalcPanel..StandardCBox....Items.Strings
 #: Core/MathObjects/Visuals/ShakerControlSetupUnit.dfm:142
 msgid "Aircraft cargo vibration (C-5)"
-msgstr ""
+msgstr "Vibrazioni aereo cargo (C-5)"
 
 #. ShakerControlSetupFrame..FFTCalcPanel..StandardCBox....Items.Strings
 #: Core/MathObjects/Visuals/ShakerControlSetupUnit.dfm:143
 msgid "Aircraft cargo vibration (C-17)"
-msgstr ""
+msgstr "Vibrazioni aereo cargo (C-17)"
 
 #. ShakerControlSetupFrame..FFTCalcPanel..StandardCBox....Items.Strings
 #: Core/MathObjects/Visuals/ShakerControlSetupUnit.dfm:144
 msgid "Aircraft cargo vibration (737)"
-msgstr ""
+msgstr "Vibrazioni aereo cargo (737)"
 
 #. ShakerControlSetupFrame..FFTCalcPanel..StandardCBox....Items.Strings
 #: Core/MathObjects/Visuals/ShakerControlSetupUnit.dfm:145
 msgid "Rail cargo vibration"
-msgstr ""
+msgstr "Vibrazioni treno merci"
 
 #. ShakerControlSetupFrame..CustomFilterPanel..Caption
 #. TorsionalVibSetupFrame..GraphTVPanel..OptionsPanel..RefCurveAngle..Caption
@@ -17418,7 +17418,7 @@ msgstr "Curva di riferimento"
 #. ShakerControlSetupFrame..AdvCaptionPanel1..Caption
 #: Core/MathObjects/Visuals/ShakerControlSetupUnit.dfm:247
 msgid "Regulation parameters"
-msgstr ""
+msgstr "Parametri di regolazione"
 
 #. SineProcessingSetupFrame..AdvCaptionPanel1..Caption
 #: Core/MathObjects/Visuals/SineProcessingFrameUnit.dfm:16
@@ -18977,7 +18977,7 @@ msgstr "Principale"
 #. SeqMainFrame..SeqAdvToolBarPager..SequenceAdvToolBarPager..AdvtbEventCustom..Caption
 #: Core/Sequencer/Visuals/SeqMainFrameUnit.dfm:950
 msgid "Event/Custom block"
-msgstr ""
+msgstr "Blocco Evento/Custom"
 
 #. SeqMainFrame..SeqAdvToolBarPager..SequenceAdvToolBarPager..AdvtbEventCustom..advbAddBlock..Hint
 #: Core/Sequencer/Visuals/SeqMainFrameUnit.dfm:970
@@ -22146,7 +22146,7 @@ msgstr "Senza alias (IIR)"
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet1..ScrollBox5..HardwareLayoutPanel..DigitalFiltersGroup..EnableAliasFreeFilteringProp..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:588
 msgid "Enable alias free filtering on Sirius-HS"
-msgstr ""
+msgstr "Abilita filtro anti-alias si Sirius-HS"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet1..ScrollBox5..HardwareLayoutPanel..DigitalFiltersGroup..EnableAliasFreeFilteringProp....Description
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:591
@@ -22154,6 +22154,8 @@ msgid ""
 "Enable alias free filtering on Sirius-HS when selecting manual IIR filters "
 "(e.g. 30kHz, 10kHz)"
 msgstr ""
+"Abilita filtro anti-alias su Sirius-HS quando si selezionano filtri manuali "
+"IIR (e.s. 30kHz, 10kHz)"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet2..Caption
 #. AdvancedSettingsFrame2..Menu..MenuVisuals..Caption
@@ -22395,7 +22397,7 @@ msgstr ""
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet4..ScrollBox6..AnalysisLayoutPanel..DSPropertyGroup9..UseRelEventTimeByDefaultProp..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1212
 msgid "Use relative event time by default for new setups"
-msgstr ""
+msgstr "Usa ora eventi relativa per default nei nuovi setups"
 
 #. AdvancedSettingsFrame2..DSPageControl1..NETTabSheet..ScrollBox7..NETLayoutPanel..NETGroup..Caption
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1256
@@ -22461,6 +22463,8 @@ msgid ""
 "Measurement units inside same multicast group will share trigger conditions "
 "when cross trigger is enabled"
 msgstr ""
+"Le unità di misura nello stesso gruppo multicast condivideranno condizioni "
+"di trigger quando la funzione trigger incrociato è abilitata"
 
 #. AdvancedSettingsFrame2..DSPageControl1..NETTabSheet..ScrollBox7..NETLayoutPanel..CrossTriggerGroup..CrossTriggerDelayProp..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1353
@@ -22470,12 +22474,12 @@ msgstr "Ritardo trigger incrociato"
 #. AdvancedSettingsFrame2..DSPageControl1..NETTabSheet..ScrollBox7..NETLayoutPanel..CrossTriggerGroup..CrossTriggerDelayProp..Description
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1354
 msgid "Maximum delay for received cross trigger event"
-msgstr ""
+msgstr "Ritardo massimo per ricevere eventi di trigger incrociati"
 
 #. AdvancedSettingsFrame2..DSPageControl1..NETTabSheet..ScrollBox7..NETLayoutPanel..CrossTriggerGroup..CrossTriggerInterface..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1376
 msgid "Selected network interface for cross trigger"
-msgstr ""
+msgstr "Interfaccia di rete selezionata per trigger incrociati"
 
 #. AdvancedSettingsFrame2..DSPageControl1..TabSheet5..Caption
 #. AdvancedSettingsFrame2..Menu..DSMenuItem1..Caption
@@ -22505,24 +22509,24 @@ msgstr ""
 #. AdvancedSettingsFrame2..DSPageControl1..Debug..ScrollBox4..DebugLayoutPanel..DSPropertyGroup1..Caption
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1476
 msgid "Analog & instrument math"
-msgstr ""
+msgstr "Analogici e math strumento"
 
 #. AdvancedSettingsFrame2..DSPageControl1..Debug..ScrollBox4..DebugLayoutPanel..DSPropertyGroup1..InstrumentMathProp..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1484
 msgid "Show instrument math"
-msgstr ""
+msgstr "Mostra math strumento"
 
 #. AdvancedSettingsFrame2..DSPageControl1..Debug..ScrollBox4..DebugLayoutPanel..DSPropertyGroup1..InstrumentMathProp....Description
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1487
 msgid ""
 "Shows math channels inside math grid which were created from display (e.g. "
 "FFT)"
-msgstr ""
+msgstr "Mostra canali math creati dal display (e.s. FFT) nella griglia math "
 
 #. AdvancedSettingsFrame2..DSPageControl1..Debug..ScrollBox4..DebugLayoutPanel..DSPropertyGroup1..AnalogtMathProp..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1507
 msgid "Show analog math"
-msgstr ""
+msgstr "Mostra canali analogici"
 
 #. AdvancedSettingsFrame2..DSPageControl1..Debug..ScrollBox4..DebugLayoutPanel..DSPropertyGroup1..AnalogtMathProp....Description
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1510
