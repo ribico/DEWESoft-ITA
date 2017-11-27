@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2017-11-22 11:18\n"
-"PO-Revision-Date: 2017-11-24 18:01+0100\n"
+"PO-Revision-Date: 2017-11-27 15:23+0100\n"
 "Last-Translator: Somebody <your.email@address.com>\n"
 "Language-Team: \n"
 "Language: it\n"
@@ -22521,7 +22521,7 @@ msgstr "Mostra math strumento"
 msgid ""
 "Shows math channels inside math grid which were created from display (e.g. "
 "FFT)"
-msgstr "Mostra canali math creati dal display (e.s. FFT) nella griglia math "
+msgstr "Mostra canali math creati dal display (e.s. FFT) nella griglia math"
 
 #. AdvancedSettingsFrame2..DSPageControl1..Debug..ScrollBox4..DebugLayoutPanel..DSPropertyGroup1..AnalogtMathProp..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1507
@@ -22534,21 +22534,23 @@ msgid ""
 "Shows math channels inside math grid which was created from analog channels "
 "(e.g. displacement, velocity, acceleration)"
 msgstr ""
+"Mostra canali matematici creati nel setup analogici (es. spostamento, "
+"velocità, accelerazione) nella griglia dei canali matematici"
 
 #. AdvancedSettingsFrame2..DSPageControl1..Debug..ScrollBox4..DebugLayoutPanel..DebugHWGroup..UcalibValuesSiriusProp..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1539
 msgid "Uncalibrated values (Sirius)"
-msgstr ""
+msgstr "Valori non calibrati (Sirius)"
 
 #. AdvancedSettingsFrame2..DSPageControl1..Debug..ScrollBox4..DebugLayoutPanel..DebugHWGroup..UcalibValuesSiriusProp..Description
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1540
 msgid "Enable to see raw uncalibrated values"
-msgstr ""
+msgstr "Impossibile accedere a valori grezzi non calibrati"
 
 #. AdvancedSettingsFrame2..DSPageControl1..Debug..ScrollBox4..DebugLayoutPanel..DebugHWGroup..ShowDualChProp..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1560
 msgid "Debug mode output"
-msgstr ""
+msgstr "Uscita modalità debug"
 
 #. AdvancedSettingsFrame2..DSPageControl1..Debug..ScrollBox4..DebugLayoutPanel..DebugHWGroup..ShowDualChProp....Description
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1563
@@ -22556,26 +22558,30 @@ msgid ""
 "Dual core devices show high and low gain as separate channels. Ethercat "
 "shows debug channels,..."
 msgstr ""
+"Dispositivi dual core generano due canali separati. Ethercat mostra canali "
+"debug, .."
 
 #. AdvancedSettingsFrame2..DSPageControl1..Debug..ScrollBox4..DebugLayoutPanel..DebugHWGroup..AutoCalSirProp..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1583
 msgid "Disable low gain offset correction (dual core Sirius)"
-msgstr ""
+msgstr "Disabilita compensazione offset guadagno basso (Sirius dual core)"
 
 #. AdvancedSettingsFrame2..DSPageControl1..Debug..ScrollBox4..DebugLayoutPanel..DebugHWGroup..AutoCalSirProp..Description
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1584
 msgid "If checked, low gain offset will not get corrected automatically"
 msgstr ""
+"Se selezionato, l'offset del segnale a basso guadagno non sarà compensato "
+"automaticamente"
 
 #. AdvancedSettingsFrame2..DSPageControl1..Debug..ScrollBox4..DebugLayoutPanel..DebugHWGroup..UseSyncConnForVCXOCalProp..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1604
 msgid "Use sync connector for VCXO calibration"
-msgstr ""
+msgstr "Usa connettore sync per calibrazioni VCXO"
 
 #. AdvancedSettingsFrame2..DSPageControl1..Debug..ScrollBox4..DebugLayoutPanel..DebugHWGroup..CalModeProp..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1624
 msgid "Calibration mode"
-msgstr ""
+msgstr "Modalità calibrazione"
 
 #. AdvancedSettingsFrame2..DSPageControl1..Debug..ScrollBox4..DebugLayoutPanel..DebugHWGroup..CalModeProp....Description
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1627
@@ -22583,6 +22589,8 @@ msgid ""
 "Calibration mode will disable some software features (filters, some ranges, "
 "etc)"
 msgstr ""
+"La modalità calibrazione disabilita alcune funzioni software (filtri, alcuni "
+"ranges, etc)"
 
 #. AdvancedSettingsFrame2..DSPageControl1..Debug..ScrollBox4..DebugLayoutPanel..DebugHWGroup..LegacyModeProp..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1647
@@ -22612,6 +22620,8 @@ msgstr ""
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1693
 msgid "This option will disable retransmit function on all Ethercat devices"
 msgstr ""
+"Questa opzione disabilita la funzione di ritrasmissione su tutti i "
+"dispositivi Ethercat"
 
 #. AdvancedSettingsFrame2..DSPageControl1..Debug..ScrollBox4..DebugLayoutPanel..DebugHWGroup..ForceDataLostProp..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1713
@@ -22622,6 +22632,8 @@ msgstr ""
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1716
 msgid "This option will simulate 1 lost Ethercat message per second per device"
 msgstr ""
+"Questa opzione simula la perdita di un pacchetto Ethercat al secondo per "
+"ciascun dispositivo"
 
 #. AdvancedSettingsFrame2..DSPageControl1..Debug..ScrollBox4..DebugLayoutPanel..DebugHWGroup..CANTimeoutProp..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1736
@@ -22691,6 +22703,8 @@ msgstr "Ottimizza per prestazioni"
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1919
 msgid "Allow acquisition loop to freeze displays when 100% occupied"
 msgstr ""
+"Permetti al loop di acquisizione di bloccare i displays quando occupato al "
+"100%"
 
 #. AdvancedSettingsFrame2..DSPageControl1..PerformanceTabSheet..ScrollBox8..PerformanceLayoutPanel..MemoryGroup..AllowAcqLoopToFreezeDisplaysProp....Description
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1923
@@ -22698,6 +22712,9 @@ msgid ""
 "When this option is checked, GUI won't refresh if acquisition loop is 100% "
 "occupied, but perfomance will be increased (disabled by default)"
 msgstr ""
+"Quando questa opzione è attiva, la grafica non viene aggiornata se il loop "
+"di acquisizione occupa il 100% delle risorse, ma le performances saranno "
+"migliorate (disabilitato per default)"
 
 #. AdvancedSettingsFrame2..DSPageControl1..PerformanceTabSheet..ScrollBox8..PerformanceLayoutPanel..DSPropertyGroup12..MaxCalcDelayProp..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1952
@@ -25245,6 +25262,7 @@ msgstr ""
 #: Core/Daq/DaqCards/DaqChannels.pas:1552
 msgid "loaded measured quantity (empty) not supported, set to custom."
 msgstr ""
+"l'unità di misura caricata (vuota) non è supportata, impostato a custom."
 
 #: Core/Daq/DaqCards/DaqChannels.pas:1557
 msgid "no amplifier"
@@ -25252,27 +25270,27 @@ msgstr "nessun amplificatore"
 
 #: Core/Daq/DaqCards/DaqChannels.pas:1562
 msgid "loaded measured quantity"
-msgstr ""
+msgstr "unità di misura caricata"
 
 #: Core/Daq/DaqCards/DaqChannels.pas:1562
 msgid "not supported for ampl. measurement"
-msgstr ""
+msgstr "non supportata per misura amp."
 
 #: Core/Daq/DaqCards/DaqChannels.pas:1562
 msgid ", set to custom."
-msgstr ""
+msgstr ", impostata su custom."
 
 #: Core/Daq/DaqCards/DaqChannels.pas:1567
 msgid "loaded unit"
-msgstr ""
+msgstr "unità caricata"
 
 #: Core/Daq/DaqCards/DaqChannels.pas:1567
 msgid "not supported for measured quantity"
-msgstr ""
+msgstr "non supportata per unità misurata"
 
 #: Core/Daq/DaqCards/DaqChannels.pas:1567
 msgid ", measured quantity set to custom."
-msgstr ""
+msgstr ", unità di misura impostata su custom."
 
 #: Core/Daq/DaqCards/TestDaq.pas:151
 msgid "Daqcard direct"
@@ -26442,7 +26460,7 @@ msgstr ""
 
 #: Core/Data/BatchCalc/BatchFileUnit.pas:559
 msgid "Offline math and displays"
-msgstr ""
+msgstr "Math offline e displays"
 
 #: Core/Data/BatchCalc/BatchFileUnit.pas:607
 #: Core/Data/BatchCalc/BatchFileUnit.pas:1058
@@ -26649,7 +26667,7 @@ msgstr "Termine exportazione..."
 
 #: Core/ExportObjects/ExcelComm.pas:291
 msgid "Please close Microsoft Excel and export again."
-msgstr ""
+msgstr "Prego chiudere Microsoft Excel e ripetere esportazione."
 
 #. rename to default english sheet names
 #: Core/ExportObjects/ExcelComm.pas:308
@@ -27069,10 +27087,8 @@ msgid "Interpolate asynchronous channels"
 msgstr "Interpola canali asincroni"
 
 #: Core/GObjects/RecVControl.pas:1874
-#, fuzzy
-#| msgid "User inputs"
 msgid "User notes"
-msgstr "Valori utente"
+msgstr "Note utente"
 
 #: Core/GObjects/RecVControl.pas:1889
 msgid "Show cursor during acquisition"
@@ -27194,7 +27210,7 @@ msgstr "Canale latitudine non assegnato"
 
 #: Core/GObjects/TmGPSMap.pas:3485
 msgid "Number of samples in latitude and longitude channel does not match"
-msgstr ""
+msgstr "Il numero di campioni in latitudine e longitudine sono diversi"
 
 #: Core/GObjects/VertRecVControl.pas:168
 msgid "Rec"
@@ -27226,7 +27242,7 @@ msgstr "Modalità freeze non supportata"
 
 #: Core/GObjects/VisualControl.pas:811
 msgid "Only default complex presentation can be shown"
-msgstr ""
+msgstr "Solo rappresentazione complessa default può essere mostrata"
 
 #: Core/GObjects/XYVControl.pas:1858
 #: Core/Updates/Firmware/FirmwareUpgradeFrameUnit.pas:304
@@ -27259,7 +27275,7 @@ msgstr "Misura completa"
 
 #: Core/GObjects/Visuals/GPSVCFrameUnit.pas:374
 msgid "Calibration file for this map allready exists, overwrite?"
-msgstr ""
+msgstr "Esiste già una calibrazione per questa mappa, sovrascrivere ?"
 
 #: Core/GObjects/Visuals/GPSVCFrameUnit.pas:381
 msgid "Calibration file saved."
@@ -27550,7 +27566,7 @@ msgstr "Canali input con divisore di campionamento non ammessi"
 
 #: Core/MathObjects/BlockMathUnit.pas:115
 msgid "Reduces input block by increment value"
-msgstr ""
+msgstr "Riduce blocchi di input in maniera incrementale"
 
 #: Core/MathObjects/BlockMathUnit.pas:222
 msgid "Calculates custom formula based on input blocks"
@@ -27628,7 +27644,7 @@ msgstr "Analisi nel dominio della frequenza"
 #: Core/MathObjects/ComplexFFTUnit.pas:360
 #: Core/MathObjects/ComplexFFTUnit.pas:362
 msgid "Full spectrum"
-msgstr ""
+msgstr "Spettro completo"
 
 #: Core/MathObjects/CorrelationUnit.pas:348
 #: Core/MathObjects/CorrelationUnit.pas:352
@@ -27853,7 +27869,7 @@ msgstr "Decimatore"
 
 #: Core/MathObjects/MathDelayUnit.pas:602
 msgid "Asynchronous channel are not supported when using dynamic delay"
-msgstr ""
+msgstr "I canali asincroni non sono compatibili con il ritardo dinamico"
 
 #: Core/MathObjects/MathDelayUnit.pas:824
 msgid "Delay channel"
@@ -27959,11 +27975,11 @@ msgstr "Canale base tempi non assegnato"
 
 #: Core/MathObjects/MathFormulaUnit.pas:2736
 msgid "Use manual async timebase"
-msgstr ""
+msgstr "Utilizza base tempi asincrona manuale"
 
 #: Core/MathObjects/MathFormulaUnit.pas:2738
 msgid "Trig function cannot be used if network trigger enabled"
-msgstr ""
+msgstr "Funzione di trig non disponibile se è abilitato un trigger di rete"
 
 #: Core/MathObjects/MathFormulaUnit.pas:2754
 msgid "No formula entered"
@@ -28150,7 +28166,7 @@ msgstr ""
 
 #: Core/MathObjects/MathSoundUnit.pas:437
 msgid "Lim will be calculated only if (I)mpulse weighting is checked"
-msgstr ""
+msgstr "Lim calcolato solo se pesatura (I)mpulso è selezionata"
 
 #: Core/MathObjects/MathSoundUnit.pas:569
 msgid "Sound level meter"
@@ -28365,6 +28381,8 @@ msgid ""
 "Slices are not synchronized in setup. Angle sensor and pressure channel must "
 "be on the same slice for correct TDC detection."
 msgstr ""
+"Le unità non sono sincronizzate in setup. Il sensore Angolo e Pressione "
+"devono essere collegati alla stessa unità per rilevare correttamente TDC."
 
 #: Core/MathObjects/CAMath/CAMathUnit.pas:8381
 msgid "Check sensor line direction (inv.)."
@@ -28409,7 +28427,7 @@ msgstr "Fattore di correzione"
 
 #: Core/MathObjects/CAMath/CAMathUnit.pas:10943
 msgid "Overall pressure"
-msgstr ""
+msgstr "Pressione overall"
 
 #: Core/MathObjects/CAMath/CAMathUnit.pas:11875
 msgid "New engine"
@@ -28449,7 +28467,7 @@ msgstr ""
 
 #: Core/MathObjects/CAMath/Visuals/CAMainGridUnit.pas:199
 msgid "Cylinder"
-msgstr ""
+msgstr "Cilindro"
 
 #: Core/MathObjects/CAMath/Visuals/CAMainGridUnit.pas:200
 msgid "Cyl."
@@ -28492,11 +28510,11 @@ msgstr "Canali aggiuntivi"
 
 #: Core/MathObjects/CAMath/Visuals/CAMainGridUnit.pas:586
 msgid "Piston offset"
-msgstr ""
+msgstr "Offset pistone"
 
 #: Core/MathObjects/CAMath/Visuals/CAMainGridUnit.pas:588
 msgid "Crankshaft offset"
-msgstr ""
+msgstr "Offset albero"
 
 #: Core/MathObjects/CAMath/Visuals/CAMathSetupUnit.pas:642
 msgid "CA scope diagram"
@@ -29099,15 +29117,15 @@ msgstr "Registrazione video fermata alle"
 
 #: Core/Objects/EventsUnit.pas:1533
 msgid "Keyboard event at"
-msgstr "Evento tastiera a"
+msgstr "Evento tastiera alle"
 
 #: Core/Objects/EventsUnit.pas:1534
 msgid "Text event at"
-msgstr "Evento testo a"
+msgstr "Evento testo alle"
 
 #: Core/Objects/EventsUnit.pas:1535
 msgid "Voice event at"
-msgstr ""
+msgstr "Evento voce alle"
 
 #: Core/Objects/EventsUnit.pas:1536
 msgid "Picture event at"
@@ -29115,11 +29133,11 @@ msgstr "Event immagine alle"
 
 #: Core/Objects/EventsUnit.pas:1537
 msgid "Module event at"
-msgstr "Evento modulo a"
+msgstr "Evento modulo alle"
 
 #: Core/Objects/EventsUnit.pas:1540
 msgid "Unknown event at"
-msgstr "Evento ignoto a"
+msgstr "Evento ignoto alle"
 
 #: Core/Objects/EventsUnit.pas:1563 DEWEsoft/MainUnit.pas:17389
 #: DEWEsoft/MainUnit.pas:17396
@@ -29210,7 +29228,7 @@ msgstr "Registrazione video"
 
 #: Core/Objects/MulticastUnit.pas:167
 msgid "Absolute timing must be selected"
-msgstr ""
+msgstr "Deve essere selezionata temporizzazione assoluta"
 
 #: Core/Objects/MulticastUnit.pas:169
 msgid "Valid network interface is not selected."
@@ -29218,7 +29236,7 @@ msgstr "Interfaccia di rete non selezionata o non valida."
 
 #: Core/Objects/MulticastUnit.pas:171
 msgid "IP not assigned to selected network interface."
-msgstr ""
+msgstr "IP non assegnato alla scheda di rete selezionata."
 
 #: Core/Objects/MulticastUnit.pas:173 Core/TcpIpObjects/TcpIpConnect.pas:128
 msgid "Unknown error"
@@ -29336,7 +29354,7 @@ msgstr "Angolo fase"
 
 #: Core/Objects/SensorsUnit.pas:2324
 msgid "Nonlinear sensor characteristic"
-msgstr ""
+msgstr "Caratteristica sensore non lineare"
 
 #: Core/Objects/SensorsUnit.pas:2339
 msgid "Sensor output"
@@ -29491,6 +29509,8 @@ msgid ""
 "Failed to load setup file. File is either corrupted or is not Dewesoft setup "
 "file."
 msgstr ""
+"Errore nel caricamento file setup. Il file potrebbe essere corrotto o non "
+"essere un setup valido Dewesoft."
 
 #: Core/Objects/SetupObjectUnit.pas:692 Core/Objects/SetupObjectUnit.pas:711
 msgid "Failed to load setup file. Password is not valid."
@@ -29498,13 +29518,15 @@ msgstr "Caricamento file setup fallito. Password non valida."
 
 #: Core/Objects/SetupObjectUnit.pas:700
 msgid "Failed to load setup file. XML is not valid."
-msgstr ""
+msgstr "Errore nel caricamento del file di setup. XML non valido."
 
 #: Core/Objects/SetupObjectUnit.pas:707
 msgid ""
 "Setup file is locked to specific license which is not active on this "
 "computer. You can still open file if you have password."
 msgstr ""
+"Il file di setup è bloccato su licenza specifica non attiva su questo "
+"computer. Puoi ancora aprire il file utilizzando la password."
 
 #: Core/Objects/SetupObjectUnit.pas:852
 msgid ""
@@ -29733,6 +29755,7 @@ msgstr "Chiudi applicazione"
 #: Core/Sequencer/DCOMUnit.pas:185
 msgid "Set appliaction window state: 0..Normal; 1..Minimized; 2..Maximized"
 msgstr ""
+"Imposta stato finestra applicazione: 0..Normal; 1..Minimized; 2..Maximized"
 
 #. SendPluginCommand
 #: Core/Sequencer/DCOMUnit.pas:198
@@ -29752,17 +29775,17 @@ msgstr "Salva canali calcolati in modalità analisi"
 #. Data Curr recalculate
 #: Core/Sequencer/DCOMUnit.pas:247
 msgid "Set current position in data file [seconds]"
-msgstr ""
+msgstr "Modifica posizione corrente nel file dati [secondi]"
 
 #. SetAllShunt
 #: Core/Sequencer/DCOMUnit.pas:265
 msgid "Set shunt for all channels"
-msgstr "Imposta shunts per tutti canali"
+msgstr "Attiva shunts per tutti canali"
 
 #. SetAllShort
 #: Core/Sequencer/DCOMUnit.pas:276
 msgid "Set short for all channels"
-msgstr ""
+msgstr "Attiva corto per tutti canali"
 
 #. SetAllZero
 #: Core/Sequencer/DCOMUnit.pas:287
@@ -29770,6 +29793,8 @@ msgid ""
 "Set zero for all channels in group - GroupIndex: 0..All channels; 1..Main "
 "group; 2..Group 1; 3..Group 2; etc."
 msgstr ""
+"Esegue azzeramento per i canali nel gruppo - GroupIndex: 0..All channels; 1.."
+"Main group; 2..Group 1; 3..Group 2; etc."
 
 #. SetSensorBalanceAll
 #: Core/Sequencer/DCOMUnit.pas:302
@@ -29777,6 +29802,8 @@ msgid ""
 "Set sensor balance for all channels in group - GroupIndex: 0..All channels; "
 "1..Main group; 2..Group 1; 3..Group 2; etc."
 msgstr ""
+"Attiva bilanciamento sensori per i canali nel gruppo - GroupIndex: 0..All "
+"channels; 1..Main group; 2..Group 1; 3..Group 2; etc."
 
 #. SetPowerOnDefault
 #: Core/Sequencer/DCOMUnit.pas:317
@@ -30614,11 +30641,11 @@ msgstr "Uso buffer acquisizione"
 
 #: Core/Utilities/SysMonitorFrame.pas:140
 msgid "Daq Data lost"
-msgstr ""
+msgstr "Dati DAQ persi"
 
 #: Core/Utilities/SysMonitorFrame.pas:147
 msgid "CAN Data lost"
-msgstr ""
+msgstr "Dati CAN persi"
 
 #: Core/Utilities/SysMonitorFrame.pas:155
 msgid "Video information"
@@ -30849,14 +30876,14 @@ msgid "Datafile"
 msgstr "Carica Data File"
 
 #: DEWEsoft/MainUnit.pas:2966
-#, fuzzy
-#| msgid "Unlock"
 msgid "Unlocking"
-msgstr "Sblocca"
+msgstr "Rimozione protezione"
 
 #: DEWEsoft/MainUnit.pas:2966
 msgid "Device is locked. Please enter password to unlock device (4 characters)"
 msgstr ""
+"Il dispositivo è protetto. Inserire la password per rimuovere sbloccare (4 "
+"caratteri)"
 
 #: DEWEsoft/MainUnit.pas:3952
 msgid "Ethercat libraries failed to load"
@@ -30925,20 +30952,16 @@ msgid "No last setup saved"
 msgstr "Nessun 'ultimo setup' salvato"
 
 #: DEWEsoft/MainUnit.pas:5426
-#, fuzzy
-#| msgid "Device is not connected"
 msgid "Device is already locked"
-msgstr "Il dispositivo non è connesso"
+msgstr "Il dispositivo è già protetto"
 
 #: DEWEsoft/MainUnit.pas:5430
-#, fuzzy
-#| msgid "Lock"
 msgid "Locking"
-msgstr "Proteggi"
+msgstr "Attivazione protezione"
 
 #: DEWEsoft/MainUnit.pas:5430
 msgid "Please enter password to lock device (4 characters)"
-msgstr ""
+msgstr "Prego inserire la password per proteggere il dispositivo (4 caratteri)"
 
 #: DEWEsoft/MainUnit.pas:5482 DEWEsoft/MainUnit.pas:5556
 #: DEWEsoft/MainUnit.pas:9915
@@ -30967,12 +30990,12 @@ msgstr "Voci default su nuovo setup"
 
 #: DEWEsoft/MainUnit.pas:6747
 msgid "Analysis defaults"
-msgstr ""
+msgstr "Default analisi"
 
 #. L
 #: DEWEsoft/MainUnit.pas:6777
 msgid "USB registration key disconnected"
-msgstr ""
+msgstr "Chiavetta USB di registrazione disconnessa"
 
 #. Check if possible to write to file
 #: DEWEsoft/MainUnit.pas:6831
@@ -31077,7 +31100,7 @@ msgstr "Inizializzazione setup canale"
 
 #: DEWEsoft/MainUnit.pas:10392
 msgid "Device is locked. Please unlock device before continue."
-msgstr ""
+msgstr "Dispositivo protetto. Prego sbloccare il dispositivo per continuare."
 
 #: DEWEsoft/MainUnit.pas:10405
 msgid "Storing in progress. Press stop"
@@ -31615,7 +31638,7 @@ msgstr "Il nuovo nome deve essere diverso dal precedente"
 
 #: Visuals/Forms/CrossTriggerTestFormUnit.pas:77
 msgid "Sending test message failed."
-msgstr ""
+msgstr "Invio messaggio di test fallito."
 
 #: Visuals/Forms/DiscreteListFormUnit.pas:199
 msgid "Transparent"
@@ -31700,7 +31723,7 @@ msgstr "Descrizione ch"
 #. CalInitials
 #: Visuals/Forms/SensorEditorUnitX.pas:261
 msgid "Initials"
-msgstr ""
+msgstr "Iniziali"
 
 #. chip id
 #: Visuals/Forms/SensorEditorUnitX.pas:264
@@ -32116,6 +32139,8 @@ msgid ""
 "This file name is reserved for use by Windows. Choose another name and try "
 "again."
 msgstr ""
+"Questo è un nome file riservato per Windows. Scegliere un altro nome e "
+"riprovare."
 
 #: Visuals/Frames/RecallFrameUnit.pas:1091
 msgid "FlexPro script not defined."
