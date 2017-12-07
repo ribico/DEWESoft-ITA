@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2017-11-22 11:18\n"
-"PO-Revision-Date: 2017-12-07 08:56+0100\n"
+"PO-Revision-Date: 2017-12-07 09:08+0100\n"
 "Last-Translator: Somebody <your.email@address.com>\n"
 "Language-Team: \n"
 "Language: it\n"
@@ -29065,19 +29065,19 @@ msgstr ""
 
 #: Core/Objects/EventsUnit.pas:619
 msgid "Storing started"
-msgstr "Inizio registrazione"
+msgstr "Registrazione iniziata"
 
 #: Core/Objects/EventsUnit.pas:620
 msgid "Storing stopped"
-msgstr "Stop registrazione"
+msgstr "Registrazione interrotta"
 
 #: Core/Objects/EventsUnit.pas:621
 msgid "Video storing started"
-msgstr "Inizio registrazione video"
+msgstr "Registrazione video iniziata"
 
 #: Core/Objects/EventsUnit.pas:622
 msgid "Video storing stopped"
-msgstr "Stop registrazione video"
+msgstr "Registrazione video interrotta"
 
 #: Core/Objects/EventsUnit.pas:623
 msgid "Data trigger event"
