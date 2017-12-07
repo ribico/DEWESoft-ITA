@@ -7,14 +7,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2017-11-22 11:18\n"
-"PO-Revision-Date: 2017-11-27 15:23+0100\n"
+"PO-Revision-Date: 2017-12-07 08:56+0100\n"
 "Last-Translator: Somebody <your.email@address.com>\n"
 "Language-Team: \n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.0.4\n"
+"X-Generator: Poedit 2.0.5\n"
 
 #. AmplifierFrame..MainAmplPanel..AmplifierPageControl..GeneralTabSheet..Caption
 #. ChannelSetupExForm..BlockDiagPanel..SensorPanel..SensorPageControl..GeneralSensorTabSheet..Caption
@@ -3828,7 +3828,7 @@ msgstr "Mostra canali controllo"
 #. AOSetupFrame..FGenPanel..FControlPanel..ControOptionsPanel..ControlOptionsPanel..StopAfterFinishCheckBox..Caption
 #: Core/Daq/DaqCards/Visuals/AOSetupFrameUnit.dfm:2021
 msgid "Stop measurement after finish"
-msgstr "Ferma acquisizione al termine"
+msgstr "Interrompi acquisizione al termine"
 
 #. AOSetupFrame..FGenPanel..FControlPanel..ControOptionsPanel..BasePanel..ChangePanel..FreqChangeLabel..Caption
 #: Core/Daq/DaqCards/Visuals/AOSetupFrameUnit.dfm:2050
@@ -10944,7 +10944,7 @@ msgstr "Start"
 #: DEWEsoft/MainUnit.dfm:4362 DEWEsoft/MainUnit.dfm:20016
 #: DEWEsoft/MainUnit.pas:13137 DEWEsoft/MainUnit.pas:18082
 msgid "Stop"
-msgstr "Ferma"
+msgstr ""
 
 #. InputVCFrame..PageControl..CommonTS..DewesoftActionPanel..cbDewesoftAction....Items.Strings
 #. MainForm..MainAdvToolBar..MeasurePage..DataControlToolBar..PauseToolButton..Caption
@@ -15328,7 +15328,7 @@ msgstr ""
 #: Core/MathObjects/Visuals/MathFFTSetupUnit.dfm:449
 #: Core/MathObjects/Visuals/TransferFunctionSetup.dfm:531
 msgid "Stop after"
-msgstr "Ferma dopo"
+msgstr "Stop dopo"
 
 #. MathFFTSetupFrame..CalcTypePanel..StopAfterAvgsPanel..StopAfterXUnitCBox....Items.Strings
 #: Core/MathObjects/Visuals/MathFFTSetupUnit.dfm:473
@@ -17704,7 +17704,7 @@ msgstr ""
 #. TransferFunctionSetupFrame..Panel1..RespPanel..Panel3..OverloadPanel..StopOnCondCheckBox..Caption
 #: Core/MathObjects/Visuals/TransferFunctionSetup.dfm:1018
 msgid "Stop test if any excitation exceeds"
-msgstr "Ferma test se eccitazione supera"
+msgstr "Interrompi test se eccitazione supera"
 
 #. TransferFunctionSetupFrame..Panel1..ExcPanel..Caption
 #: Core/MathObjects/Visuals/TransferFunctionSetup.dfm:1044
@@ -18700,7 +18700,7 @@ msgstr "Attendi"
 #. WaitForItemFrame..MainSeqItemPanel..AdvWaitFor..cbWaitFor....Items.Strings
 #: Core/Sequencer/Items/Visuals/WaitForItemFrameUnit.dfm:320
 msgid "Stop storing"
-msgstr "Ferma registrazione"
+msgstr "Stop registrazione"
 
 #. ModelPropsForm..LocalVariablesPanel..Caption
 #: Core/Sequencer/Visuals/ModelPropsUnit.dfm:30
@@ -20154,7 +20154,7 @@ msgstr "Opzioni file dati"
 #. MainForm..MainPageControl..ChSetupMeasTabSheet..SetupPanel..RemoteSetupPageControl..LocalTabSheet..MainOptionsPanel..SetupPageControl..GeneralSetupTabSheet..GeneralPanel..DataFileOptionsPanel..MultiFileOptionsPanel..StopStoringAfterCheckBox..Caption
 #: DEWEsoft/MainUnit.dfm:17388 DEWEsoft/MainUnit.pas:9538
 msgid "Stop storing after"
-msgstr "Ferma registr. dopo"
+msgstr "Stop registr. dopo"
 
 #. MainForm..MainPageControl..ChSetupMeasTabSheet..SetupPanel..RemoteSetupPageControl..LocalTabSheet..MainOptionsPanel..SetupPageControl..GeneralSetupTabSheet..GeneralPanel..DataFileOptionsPanel..MultiFileOptionsPanel..AutoFlipUnitComboBox....Items.Strings
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabPerformance..ScrollBoxPerformance..PerformanceLayoutPanel..PerformanceMemoryGroup..VideoMemorySizeProp..RightText
@@ -21714,7 +21714,7 @@ msgstr "Setup condizioni"
 #: Visuals/Forms/TriggerSetupUnit.dfm:11278
 #: Core/GObjects/RecorderDataGraph.pas:1925
 msgid "Absolute (time only)"
-msgstr "Assoluto (solo tempo)"
+msgstr "Assoluto (solo ora)"
 
 #. TriggerSetupForm..Panel2..PageControl1..TimeTabSheet..Panel11..Panel10..TimeCondCombo....Items.Strings
 #: Visuals/Forms/TriggerSetupUnit.dfm:11322
@@ -23764,7 +23764,7 @@ msgstr "Spazio disco minimo"
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:1563
 msgid "Storing will be stopped when minimum disk space is reached"
 msgstr ""
-"La registrazione sarà fermata al raggiungimento dello spazio disco minimo"
+"La registrazione sarà interrotta al raggiungimento dello spazio disco minimo"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabStoring..ScrollBoxStoring..StoringLayoutPanel..VideoStoringGroup..Caption
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:1586
@@ -23877,7 +23877,7 @@ msgstr "Usa per modificare il setup"
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabSecurity..ScrollBox2..SecurityLayoutPanel..DSPropertyGroup5..CBStopMeasurePassword..Text
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:2227
 msgid "Use for stopping measurement"
-msgstr "Usa per fermare la misura"
+msgstr "Usa per interrompere la misura"
 
 #. GlobalSettingsFrame..Panel4..RightPanel..MainPageControl..TabSecurity..ScrollBox2..SecurityLayoutPanel..DSPropertyGroup5..CBLeaveFullScreenPassword..Text
 #: Visuals/Frames/GlobalSettingsFrameUnit.dfm:2247
@@ -25317,7 +25317,7 @@ msgstr "Attendi"
 
 #: Core/Daq/DaqCards/AO/CommonAO.pas:683
 msgid "Stop output"
-msgstr "Ferma output"
+msgstr ""
 
 #: Core/Daq/DaqCards/AO/CommonAO.pas:689 Core/Daq/DaqCards/AO/CommonAO.pas:695
 msgid "Start sweep"
@@ -29039,7 +29039,7 @@ msgstr "Salvataggio frames rimanenti..."
 
 #: Core/Objects/ControllerTimer.pas:1630
 msgid "Out of disk space. Storing was stopped."
-msgstr "Spazio disco terminato. Registrazione fermata."
+msgstr "Spazio disco terminato. Registrazione interrotta."
 
 #: Core/Objects/ControllerTimer.pas:1726 Core/Objects/ControllerTimer.pas:1734
 msgid "Time code restored"
@@ -29065,19 +29065,19 @@ msgstr ""
 
 #: Core/Objects/EventsUnit.pas:619
 msgid "Storing started"
-msgstr "Acquisizione iniziata"
+msgstr "Inizio registrazione"
 
 #: Core/Objects/EventsUnit.pas:620
 msgid "Storing stopped"
-msgstr "Acquisizione fermata"
+msgstr "Stop registrazione"
 
 #: Core/Objects/EventsUnit.pas:621
 msgid "Video storing started"
-msgstr "Registrazione video iniziata"
+msgstr "Inizio registrazione video"
 
 #: Core/Objects/EventsUnit.pas:622
 msgid "Video storing stopped"
-msgstr "Registrazione video fermata"
+msgstr "Stop registrazione video"
 
 #: Core/Objects/EventsUnit.pas:623
 msgid "Data trigger event"
@@ -29097,11 +29097,11 @@ msgstr "Info cursore"
 
 #: Core/Objects/EventsUnit.pas:1528
 msgid "storing started at"
-msgstr "registr. avviata a"
+msgstr "registr. avviata alle"
 
 #: Core/Objects/EventsUnit.pas:1529
 msgid "storing stopped at"
-msgstr "registr. fermata a"
+msgstr "registr. interrotta alle"
 
 #: Core/Objects/EventsUnit.pas:1530
 msgid "data trigger event at"
@@ -29109,11 +29109,11 @@ msgstr "evento trigger a"
 
 #: Core/Objects/EventsUnit.pas:1531
 msgid "Video storing started at"
-msgstr "Registrazione video iniziata alle"
+msgstr "Inizio registrazione video alle"
 
 #: Core/Objects/EventsUnit.pas:1532
 msgid "Video storing stopped at"
-msgstr "Registrazione video fermata alle"
+msgstr "Stop registrazione video alle"
 
 #: Core/Objects/EventsUnit.pas:1533
 msgid "Keyboard event at"
@@ -29602,11 +29602,11 @@ msgstr "Pausa acquisizione"
 
 #: Core/Objects/StoreUnit.pas:1925
 msgid "Slow storing started"
-msgstr "Acquisizione lenta iniziata"
+msgstr "Inizio registrazione lenta"
 
 #: Core/Objects/StoreUnit.pas:1958
 msgid "Slow storing stopped"
-msgstr "Acquisizione lenta fermata"
+msgstr "Stop registrazione lenta"
 
 #: Core/Objects/StoreUnit.pas:2684
 msgid "No trigger shots available for storing"
@@ -30920,7 +30920,7 @@ msgstr "Caricamento setup su MU"
 
 #: DEWEsoft/MainUnit.pas:4939
 msgid "Please stop acquistion"
-msgstr "Prego fermare l'acquisizione"
+msgstr "Prego interrompere l'acquisizione"
 
 #: DEWEsoft/MainUnit.pas:4942
 msgid "Loading settings"
@@ -31157,7 +31157,8 @@ msgstr "Impossibile aprire il documento"
 
 #: DEWEsoft/MainUnit.pas:11473
 msgid "Data is being stored. Please stop the acquisition before exiting."
-msgstr "Salvataggio dati. Non fermare l'acquisizione prima della fine."
+msgstr ""
+"Salvataggio dati in corso. Prego interrompere l'acquisizione prima di uscire."
 
 #: DEWEsoft/MainUnit.pas:12487
 msgid "Invalid file structure. No channels were stored."
@@ -31296,7 +31297,7 @@ msgstr "Scansione watchdogs AO"
 
 #: DEWEsoft/MainUnit.pas:16823 DEWEsoft/MainUnit.pas:19396
 msgid "Stopped"
-msgstr "Fermato"
+msgstr "Interrotto"
 
 #: DEWEsoft/MainUnit.pas:16883
 msgid "ChaGen all off"
@@ -31350,7 +31351,7 @@ msgstr "Messaggi di setup"
 
 #: DEWEsoft/MainUnit.pas:18283
 msgid "Stop steps recorder..."
-msgstr "Ferma steps recorder..."
+msgstr ""
 
 #: DEWEsoft/MainUnit.pas:18286
 msgid "Found new device"
@@ -31367,7 +31368,7 @@ msgstr "Impossibile lanciare steps recorder"
 
 #: DEWEsoft/MainUnit.pas:18481
 msgid "Unable to stop steps recorder"
-msgstr "Impossibile fermare steps recorder"
+msgstr "Impossibile interrompere steps recorder"
 
 #: DEWEsoft/MainUnit.pas:18501
 msgid "Fan off"
