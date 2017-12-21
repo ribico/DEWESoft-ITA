@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2017-11-22 11:18\n"
-"PO-Revision-Date: 2017-12-07 09:08+0100\n"
+"PO-Revision-Date: 2017-12-15 18:08+0100\n"
 "Last-Translator: Somebody <your.email@address.com>\n"
 "Language-Team: \n"
 "Language: it\n"
@@ -481,7 +481,7 @@ msgstr "Bilancia"
 #: SharedLib/DS.UI.DSChannelsGridUnit.pas:931
 #: Visuals/Frames/ChannelsDSGridView.pas:451
 msgid "Sensor unbalance"
-msgstr "Sbilanciamento sensore"
+msgstr "Sbilanc. sensore"
 
 #. AmplifierFrame..MainAmplPanel..AmplifierPageControl..GeneralTabSheet..BridgeConfigPanel..BridgeConfigLabel..Caption
 #: Core/Daq/Amplifiers/Visuals/AmplifierFrameUnit.dfm:1012
@@ -11212,7 +11212,7 @@ msgstr "Selezionare fase in order tracking"
 #: Core/GObjects/Visuals/OrbitVCFrameUnit.dfm:478
 #: Core/GObjects/Visuals/TabFrameUnit.dfm:115
 msgid "Display time"
-msgstr "Mostra ora"
+msgstr "Intervallo display"
 
 #. OrbitVCFrame..PageControl..CommonTS..OTOptionPanel..Caption
 #. XYRecVCFrame..PageControl..CommonTS..SetupPagePanel..pOT..Caption
@@ -20493,22 +20493,22 @@ msgstr "Salva setup"
 #. MainForm..EditPopupMenu..CopyGroupImageMenuItem..Caption
 #: DEWEsoft/MainUnit.dfm:21082 Core/GObjects/DrawObjectUnit.pas:714
 msgid "Copy group image to clipboard"
-msgstr "Copia gruppo immagine su clipboard"
+msgstr "Copia gruppo immagine su appunti"
 
 #. MainForm..EditPopupMenu..CopyScreenImageMenuItem..Caption
 #: DEWEsoft/MainUnit.dfm:21086
 msgid "Copy screen image to clipboard"
-msgstr "Copia schermo in clipboard"
+msgstr "Copia schermo su appunti"
 
 #. MainForm..EditPopupMenu..CopyDataToClipMenuItem..Caption
 #: DEWEsoft/MainUnit.dfm:21094
 msgid "Copy data to clipboard"
-msgstr "Copia dati in clipboard"
+msgstr "Copia dati su appunti"
 
 #. MainForm..EditPopupMenu..CopyAllToClipMenuItem..Caption
 #: DEWEsoft/MainUnit.dfm:21098
 msgid "Copy all channels data to clipboard"
-msgstr "Copia tutti i dati in clipboard"
+msgstr "Copia tutti i dati su appunti"
 
 #. MainForm..EditPopupMenu..SaveToFileMenuItem..Caption
 #: DEWEsoft/MainUnit.dfm:21106
@@ -21309,7 +21309,7 @@ msgstr "Risolvi"
 #. MessagesForm..ResolveSetupPanel..BottomPanel..ClearMissingPluginsButton..Caption
 #: Visuals/Forms/MessagesFormUnit.dfm:135
 msgid "Clear missing plugins messages"
-msgstr "Elimina messaggi di estensioni mancanti"
+msgstr "Elimina msg estensioni mancanti"
 
 #. MultiExportForm..Caption
 #: Visuals/Forms/MultiExportUnit.dfm:6
@@ -21683,7 +21683,7 @@ msgstr "Selettore tempo"
 #. TimeSelectForm..DTDirectionPanel..ShownTimePanel..Caption
 #: Visuals/Forms/TimeSelectUnit.dfm:41
 msgid "Shown time"
-msgstr "Mostra ora"
+msgstr "Tempo mostrato"
 
 #. TimeSelectForm..DTDirectionPanel..StartTimePanel..DateLabel..Caption
 #: Visuals/Forms/TimeSelectUnit.dfm:111 Visuals/Forms/TimeSelectUnit.pas:111
@@ -26655,11 +26655,11 @@ msgstr "Chiusura file..."
 
 #: Core/ExportObjects/ClipBrdComm.pas:59
 msgid "Opening clipboard"
-msgstr "Apertura clipboard"
+msgstr "Apertura appunti"
 
 #: Core/ExportObjects/ClipBrdComm.pas:60
 msgid "Copying data to clipboard"
-msgstr "Copia dati clipboard"
+msgstr "Copia dati appunti"
 
 #: Core/ExportObjects/ClipBrdComm.pas:61
 msgid "Ending export..."
@@ -26922,7 +26922,7 @@ msgstr "Porta indietro"
 
 #: Core/GObjects/DrawObjectUnit.pas:708
 msgid "Copy group to clipboard"
-msgstr "Copia gruppo su clipboard"
+msgstr "Copia gruppo su appunti"
 
 #: Core/GObjects/FFTVControl.pas:1140 Core/GObjects/FFTVControl.pas:1392
 msgid "Maximum peaks"
