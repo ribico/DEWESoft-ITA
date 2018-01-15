@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2017-11-22 11:18\n"
-"PO-Revision-Date: 2017-12-15 18:08+0100\n"
+"PO-Revision-Date: 2018-01-15 18:07+0100\n"
 "Last-Translator: Somebody <your.email@address.com>\n"
 "Language-Team: \n"
 "Language: it\n"
@@ -1769,12 +1769,12 @@ msgstr "Su trigger"
 #. CanSetupForm..MsgDefinitionGroupBox..RXTXPageControl..TXTabSheet..ScheduleTypeComboBox....Items.Strings
 #: Core/Daq/CAN/Visuals/CANChannelSetupUnit.dfm:361
 msgid "Before message"
-msgstr "Prima messaggio"
+msgstr "Prima del messaggio"
 
 #. CanSetupForm..MsgDefinitionGroupBox..RXTXPageControl..TXTabSheet..ScheduleTypeComboBox....Items.Strings
 #: Core/Daq/CAN/Visuals/CANChannelSetupUnit.dfm:362
 msgid "After message"
-msgstr "Dopo messaggio"
+msgstr "Dopo al messaggio"
 
 #. CanSetupForm..MsgDefinitionGroupBox..RXTXPageControl..TXTabSheet..TransmitPageControl..PeriodTabSheet..Caption
 #: Core/Daq/CAN/Visuals/CANChannelSetupUnit.dfm:374
@@ -2395,14 +2395,14 @@ msgstr "Canali"
 #. CanSetupFrame..GeneralPanel..StoreAllMsgsCheckBox..Caption
 #: Core/Daq/CAN/Visuals/CanSetupFrameUnit.dfm:1204
 msgid "Store all messages"
-msgstr "Registra tutti i messaggi"
+msgstr "Registra tutto"
 
 #. CanSetupFrame..GeneralPanel..ScanButton..Caption
 #. CanSetupFrame..GeneralPanel..ScanCheckBox..Caption
 #: Core/Daq/CAN/Visuals/CanSetupFrameUnit.dfm:1219
 #: Core/Daq/CAN/Visuals/CanSetupFrameUnit.dfm:1228
 msgid "Scan"
-msgstr "Scansiona"
+msgstr ""
 
 #. CanSetupFrame..PluginPanel..ConfigureButton..Caption
 #. PluginSetupFrame..PluginPanel..ConfigureButton..Caption
@@ -25089,11 +25089,11 @@ msgstr "Non supportato"
 
 #: Core/Daq/CAN/Visuals/CanSetupFrameUnit.pas:2044
 msgid "Transmit"
-msgstr "Trasmetti"
+msgstr "Invio ON"
 
 #: Core/Daq/CAN/Visuals/CanSetupFrameUnit.pas:2050
 msgid "Transm.OFF"
-msgstr ""
+msgstr "Invio OFF"
 
 #. Matching signals will be updated and all their references will stay intact
 #: Core/Daq/CAN/Visuals/CanSetupFrameUnit.pas:2454
@@ -25131,7 +25131,7 @@ msgstr "Rinomina porta CAN"
 
 #: Core/Daq/CAN/Visuals/TestCanFrameUnit.pas:82
 msgid "traffic simulation stream file"
-msgstr "simulazione traffico in file stream"
+msgstr "file simulazione traffico"
 
 #. this is for DTTacho which reads dtSingle value. G
 #: Core/Daq/DaqCards/CNTChannels.pas:1450
