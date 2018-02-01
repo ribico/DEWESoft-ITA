@@ -7,14 +7,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2017-11-22 11:18\n"
-"PO-Revision-Date: 2018-01-15 18:07+0100\n"
+"PO-Revision-Date: 2018-02-01 11:05+0100\n"
 "Last-Translator: Somebody <your.email@address.com>\n"
 "Language-Team: \n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.0.5\n"
+"X-Generator: Poedit 2.0.6\n"
 
 #. AmplifierFrame..MainAmplPanel..AmplifierPageControl..GeneralTabSheet..Caption
 #. ChannelSetupExForm..BlockDiagPanel..SensorPanel..SensorPageControl..GeneralSensorTabSheet..Caption
@@ -1706,7 +1706,7 @@ msgstr "Ritardo"
 #: Visuals/Frames/TriggerFrameUnit.pas:325
 #: Visuals/Frames/TriggerFrameUnit.pas:327
 msgid "Time"
-msgstr "Ora"
+msgstr "Tempo"
 
 #. CanSetupForm..MsgDefinitionGroupBox..RXTXPageControl..RXTabSheet..DelayTypeComboBox....Items.Strings
 #: Core/Daq/CAN/Visuals/CANChannelSetupUnit.dfm:283
@@ -2363,7 +2363,7 @@ msgstr "Trasmetti file"
 #. CanSetupFrame..GeneralPanel..TxFilePanel..TxDelayLabel..Caption
 #: Core/Daq/CAN/Visuals/CanSetupFrameUnit.dfm:1017
 msgid "Transmit delay [ms]"
-msgstr "Ritardo trasmissione [ms]"
+msgstr "Ritardo trasmiss. [ms]"
 
 #. CanSetupFrame..GeneralPanel..TxFilePanel..TxFileActivetCheckBox..Caption
 #: Core/Daq/CAN/Visuals/CanSetupFrameUnit.dfm:1055
@@ -20551,7 +20551,7 @@ msgstr "Corto ON tutti per 1s"
 #: Core/Daq/Amplifiers/Visuals/AmplifierFrameUnit.pas:2687
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.pas:577
 msgid "Short off"
-msgstr "Corto OFF"
+msgstr ""
 
 #. MainForm..BridgeABPopupMenu..BridgeABshuntonfor1s2..Caption
 #: DEWEsoft/MainUnit.dfm:21175
@@ -24859,7 +24859,7 @@ msgstr ""
 
 #: Core/Daq/Amplifiers/Visuals/AmplifierFrameUnit.pas:660
 msgid "OPEN"
-msgstr "APRI"
+msgstr ""
 
 #: Core/Daq/Amplifiers/Visuals/AmplifierFrameUnit.pas:776
 #: Core/Daq/DaqCards/Visuals/ADCardSetupUnitX.pas:2437
