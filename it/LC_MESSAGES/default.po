@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2018-03-03 15:55\n"
-"PO-Revision-Date: 2018-03-05 18:15+0100\n"
+"PO-Revision-Date: 2018-03-06 09:42+0100\n"
 "Last-Translator: Somebody <your.email@address.com>\n"
 "Language-Team: \n"
 "Language: it\n"
@@ -376,7 +376,7 @@ msgstr "Misura"
 #: Core/MathObjects/MathRFCountUnit.pas:121
 #: Core/MathObjects/MathRFCountUnit.pas:261
 msgid "Range"
-msgstr "Range"
+msgstr ""
 
 #. AmplifierFrame..MainAmplPanel..AmplifierPageControl..GeneralTabSheet..RangePanel..RangeUnitLabel..Caption
 #. AmplifierFrame..MainAmplPanel..AmplifierPageControl..GeneralTabSheet..SensorOffsetPanel..SensorOffsetUnitLabel..Caption
@@ -4065,7 +4065,7 @@ msgstr ""
 #. ChannelSetupExForm..BlockDiagPanel..SensorPanel..SensorPageControl..GeneralSensorTabSheet..BridgeScalingPanel..LeadWireCompensationPanel..BrCorrLabel1..Caption
 #: Core/Daq/DaqCards/Visuals/ChannelSetupUnitEx.dfm:650
 msgid "Lead wire"
-msgstr ""
+msgstr "Cavo"
 
 #. ChannelSetupExForm..BlockDiagPanel..SensorPanel..SensorPageControl..GeneralSensorTabSheet..BridgeScalingPanel..LeadWireCompensationPanel..BrCorrLabel2..Caption
 #: Core/Daq/DaqCards/Visuals/ChannelSetupUnitEx.dfm:663
@@ -4080,12 +4080,12 @@ msgstr "Compensa"
 #. ChannelSetupExForm..BlockDiagPanel..SensorPanel..SensorPageControl..GeneralSensorTabSheet..BridgeScalingPanel..BridgeWirePanel..BrigeWireLabel..Caption
 #: Core/Daq/DaqCards/Visuals/ChannelSetupUnitEx.dfm:739
 msgid "Bridge wiring"
-msgstr ""
+msgstr "Cablaggio ponte"
 
 #. ChannelSetupExForm..BlockDiagPanel..SensorPanel..SensorPageControl..GeneralSensorTabSheet..ChargeCapCheckPanel..CapacityTargetLabel..Caption
 #: Core/Daq/DaqCards/Visuals/ChannelSetupUnitEx.dfm:789
 msgid "Capacity target"
-msgstr ""
+msgstr "Capacità target"
 
 #. ChannelSetupExForm..BlockDiagPanel..SensorPanel..SensorPageControl..GeneralSensorTabSheet..ChargeCapCheckPanel..CapacityTargetUnitLabel..Caption
 #: Core/Daq/DaqCards/Visuals/ChannelSetupUnitEx.dfm:803
@@ -4095,7 +4095,7 @@ msgstr ""
 #. ChannelSetupExForm..BlockDiagPanel..SensorPanel..SensorPageControl..SensorTabSheet..Caption
 #: Core/Daq/DaqCards/Visuals/ChannelSetupUnitEx.dfm:869
 msgid "Edit sensor"
-msgstr ""
+msgstr "Modifica sensore"
 
 #. ChannelSetupExForm..BlockDiagPanel..SensorPanel..SensorPageControl..SensorTabSheet..SensorsPanel..SDRecalibLabel..Caption
 #. RecalibDate-CalPeriod
@@ -4158,7 +4158,7 @@ msgstr "Periodo di calibrazione"
 #: Core/Daq/DaqCards/Visuals/ChannelSetupUnitEx.dfm:951
 #: Core/Daq/Amplifiers/TedsTemplateUnit.pas:2537
 msgid "Cal initials"
-msgstr ""
+msgstr "Iniziali Cal"
 
 #. ChannelSetupExForm..BlockDiagPanel..SensorPanel..SensorPageControl..SensorTabSheet..SensorsPanel..TedsHeaderCheckLabel..Caption
 #: Core/Daq/DaqCards/Visuals/ChannelSetupUnitEx.dfm:965
@@ -4462,7 +4462,7 @@ msgstr "Valore riferimento calibrazione RMS"
 #. ChannelSetupExForm..BlockDiagPanel..Panel8..Panel10..ScalingGroupBox..ScalePageControl..ScaleStrainTabSheet..Caption
 #: Core/Daq/DaqCards/Visuals/ChannelSetupUnitEx.dfm:2439
 msgid "Strain scaling"
-msgstr ""
+msgstr "Scalatura strain"
 
 #. ChannelSetupExForm..BlockDiagPanel..Panel8..Panel10..ScalingGroupBox..ScalePageControl..ScaleStrainTabSheet..BridgeSettingsPanel..GageTypePanel..Label6..Caption
 #: Core/Daq/DaqCards/Visuals/ChannelSetupUnitEx.dfm:2462
@@ -5219,7 +5219,7 @@ msgstr "Pin sorgente"
 #: Core/Daq/DaqCards/Visuals/CNTChannelSetup.dfm:1743
 #: Core/Daq/DaqCards/Visuals/CNTChannelSetup.dfm:1803
 msgid "Internal 100 kHz"
-msgstr ""
+msgstr "Interno 100kHz"
 
 #. CNTChannelSetupForm..ConnPanel..ConnPanel2..HWConnPageControl..ConnOrionTabSheet..OrionGatePanel..OrionCNTGateComboBox....Items.Strings
 #. CNTChannelSetupForm..ConnPanel..ConnPanel2..HWConnPageControl..ConnOrionTabSheet..OrionAUXPanel..OrionCNTAuxComboBox....Items.Strings
@@ -5236,7 +5236,7 @@ msgstr ""
 #: Core/Daq/DaqCards/Visuals/CNTChannelSetup.dfm:1744
 #: Core/Daq/DaqCards/Visuals/CNTChannelSetup.dfm:1804
 msgid "Internal 20 MHz"
-msgstr ""
+msgstr "Interno 20kHz"
 
 #. CNTChannelSetupForm..ConnPanel..ConnPanel2..HWConnPageControl..ConnOrionTabSheet..OrionGatePanel..OrionCNTGateComboBox....Items.Strings
 #. CNTChannelSetupForm..ConnPanel..ConnPanel2..HWConnPageControl..ConnOrionTabSheet..OrionAUXPanel..OrionCNTAuxComboBox....Items.Strings
@@ -5253,7 +5253,7 @@ msgstr ""
 #: Core/Daq/DaqCards/Visuals/CNTChannelSetup.dfm:1745
 #: Core/Daq/DaqCards/Visuals/CNTChannelSetup.dfm:1805
 msgid "Internal 80 MHz"
-msgstr ""
+msgstr "Interno 80kHz"
 
 #. CNTChannelSetupForm..ConnPanel..ConnPanel2..HWConnPageControl..ConnOrionTabSheet..OrionGatePanel..OrionGateInvCheckBox..Caption
 #. CNTChannelSetupForm..ConnPanel..ConnPanel2..HWConnPageControl..ConnOrionTabSheet..OrionAUXPanel..OrionAuxInvCheckBox..Caption
@@ -5398,7 +5398,7 @@ msgstr "Trova livelli trig"
 #: SharedLib/DS.UI.DSChannelsGridUnit.pas:501
 #: SharedLib/DS.UI.DSChannelsGridUnit.pas:506
 msgid "Default"
-msgstr ""
+msgstr "Predefinito"
 
 #. CNTChannelSetupForm..ConnPanel..ConnPanel2..HWConnPageControl..ConnDWUSBTabSheet..Caption
 #: Core/Daq/DaqCards/Visuals/CNTChannelSetup.dfm:1622
@@ -6697,7 +6697,7 @@ msgstr "Posizione base station"
 #. FrameJavadGPS..TopconPanel..BaseStationSettingsPanel..SatelliteUsedLabel..Caption
 #: Core/Daq/GPS/Visuals/JavadGPSFrame.dfm:295
 msgid "X sat. used"
-msgstr ""
+msgstr "X sat. usati"
 
 #. FrameJavadGPS..TopconPanel..BaseStationSettingsPanel..ReadGPSPositionButton..Caption
 #: Core/Daq/GPS/Visuals/JavadGPSFrame.dfm:308
@@ -6848,7 +6848,7 @@ msgstr "Nome file"
 #. FrameTestGPS..WrapReplayCheckBox..Caption
 #: Core/Daq/GPS/Visuals/TestGPSFrame.dfm:27
 msgid "Wrap replay"
-msgstr ""
+msgstr "Avvolgi risposta"
 
 #. DewesoftSyncFrame..ScrollBox..LayoutPanel..SynchronizationGroup..Caption
 #. LocalDevicesFrame..ScrollBox..LayoutPanel..SynchronizationGroup..Caption
@@ -6960,7 +6960,7 @@ msgstr "Cod temporale"
 #: Core/Daq/Timing/Visuals/DatumSetupFrameUnit.dfm:139
 #: Core/Daq/Timing/Visuals/DatumSetupFrameUnit.dfm:176
 msgid "Free running"
-msgstr ""
+msgstr "Corsa libera"
 
 #. DatumSetupFrame..ModeComboBox....Items.Strings
 #. DatumSetupFrame..PPSChannelCombo....Items.Strings
@@ -7056,21 +7056,21 @@ msgstr "Usato per scansionare clock"
 #: Core/Daq/Timing/Visuals/GPSSetupFrameUnit.dfm:222
 #: Core/Daq/Timing/Visuals/IRIGClockSetupFrameUnit.dfm:193
 msgid "Clock 2 frequency"
-msgstr ""
+msgstr "Frequenza clock 2"
 
 #. GPSTimingSetupFrame..Clock3Panel..Clock3Label..Caption
 #. IrigClockSetupFrame..Clock3Panel..Clock3Label..Caption
 #: Core/Daq/Timing/Visuals/GPSSetupFrameUnit.dfm:288
 #: Core/Daq/Timing/Visuals/IRIGClockSetupFrameUnit.dfm:259
 msgid "Clock 3 frequency"
-msgstr ""
+msgstr "Frequenza clock 3"
 
 #. GPSTimingSetupFrame..Clock4Panel..Clock4Label..Caption
 #. IrigClockSetupFrame..Clock4Panel..Clock4Label..Caption
 #: Core/Daq/Timing/Visuals/GPSSetupFrameUnit.dfm:354
 #: Core/Daq/Timing/Visuals/IRIGClockSetupFrameUnit.dfm:325
 msgid "Clock 4 frequency"
-msgstr ""
+msgstr "Frequenza clock 4"
 
 #. IrigClockSetupFrame..PageCtrl..IrigTabSheet..Caption
 #. IrigClockSetupFrame..TimeSourceCBox....Items.Strings
@@ -7150,7 +7150,7 @@ msgstr ""
 #. MainForm..MainPageControl..ChSetupMeasTabSheet..SetupPanel..RemoteSetupPageControl..LocalTabSheet..MainOptionsPanel..SetupPageControl..GeneralSetupTabSheet..GeneralPanel..TriggerCaptionPanel..Caption
 #: Core/Daq/Video/CamSettingsFormUnit.dfm:171 DEWEsoft/MainUnit.dfm:17712
 msgid "Trigger setup"
-msgstr ""
+msgstr "Impostazioni trigger"
 
 #. CamSettingsForm..Panel1..SettingsPageControl..BasicSettingsTabSheet..Panel2..ChanNameLabel..Caption
 #: Core/Daq/Video/CamSettingsFormUnit.dfm:256
@@ -7432,7 +7432,7 @@ msgstr "Compressione"
 #. DWVideoSetupCompressForm..TopPanel..CompressionComboBox....Items.Strings
 #: Core/Daq/Video/DWVideoSetupCompressFormUnit.dfm:48
 msgid "direct / raw / uncompressed"
-msgstr ""
+msgstr "diretto / raw / non compresso"
 
 #. DWVideoSetupCompressForm..TopPanel..CompressionComboBox....Items.Strings
 #. DWVideoSetupCompressForm..PageControl..ImagesTabSheet..Caption
@@ -7492,7 +7492,7 @@ msgstr "8 Mb/s (qualità massima)"
 #. DWVideoSetupCompressForm..PageControl..H264TabSheet..H264PresetText..Caption
 #: Core/Daq/Video/DWVideoSetupCompressFormUnit.dfm:174
 msgid "Preset"
-msgstr ""
+msgstr "Predefinito"
 
 #. DWVideoSetupCompressForm..PageControl..H264TabSheet..H264QualityText..Caption
 #. DWVideoSetupCompressForm..PageControl..MPEG4TabSheet..MPEG4QualityText..Caption
@@ -7639,14 +7639,14 @@ msgstr "Risoluzione"
 #: Core/Daq/Video/Cameras/DirX/DirXCameraFrameUnit.dfm:107
 #: Core/Daq/Video/Cameras/DirX/DirXCameraFrameUnit.dfm:120
 msgid "Format 0"
-msgstr ""
+msgstr "Formato 0"
 
 #. DirXCameraFrame..PageControl..DirectTab..BackPanel..CompCombo....Items.Strings
 #. DirXCameraFrame..PageControl..DirectTab..BackPanel..ResCombo....Items.Strings
 #: Core/Daq/Video/Cameras/DirX/DirXCameraFrameUnit.dfm:108
 #: Core/Daq/Video/Cameras/DirX/DirXCameraFrameUnit.dfm:121
 msgid "Format 7"
-msgstr ""
+msgstr "Formato 7"
 
 #. DirXCameraFrame..PageControl..DialogTab..Caption
 #: Core/Daq/Video/Cameras/DirX/DirXCameraFrameUnit.dfm:126
@@ -7697,7 +7697,7 @@ msgstr "File riferimento"
 #. ReferenceFileForm..ReferenceFilePanel..BrowseBtn..Caption
 #: Core/Data/BatchCalc/ReferenceFileUnit.dfm:60
 msgid "Browse"
-msgstr ""
+msgstr "Sfoglia"
 
 #. ReferenceFileForm..OptionsPanel..Caption
 #: Core/Data/BatchCalc/ReferenceFileUnit.dfm:75
@@ -7745,17 +7745,17 @@ msgstr "Intervallo"
 #. AxisFrame..AxisTypeComboBox....Items.Strings
 #: Core/Data/Visuals/AxisFrameUnit.dfm:95
 msgid "Tabular text"
-msgstr ""
+msgstr "Testo tabella"
 
 #. AxisFrame..AxisTypeComboBox....Items.Strings
 #: Core/Data/Visuals/AxisFrameUnit.dfm:96
 msgid "Tabular float"
-msgstr ""
+msgstr "Float tabella"
 
 #. AxisFrame..AxisTypeComboBox....Items.Strings
 #: Core/Data/Visuals/AxisFrameUnit.dfm:97
 msgid "Linear float"
-msgstr ""
+msgstr "Float lineare"
 
 #. AxisFrame..DefineTableButton..Caption
 #: Core/Data/Visuals/AxisFrameUnit.dfm:122
@@ -8134,7 +8134,7 @@ msgstr "Templates motore"
 #. SIUnitsEditor..EngineTemplatesPanel..Label1..Caption
 #: Core/Data/Visuals/SIUnitsEditorUnit.dfm:110
 msgid "User unit set"
-msgstr ""
+msgstr "Imposta unità utente"
 
 #. SIUnitsEditor..EngineTemplatesPanel..DefaultSetCBox..Caption
 #: Core/Data/Visuals/SIUnitsEditorUnit.dfm:143
@@ -8432,10 +8432,8 @@ msgstr "Esporta canali array in formato coppie X-Y (?)"
 
 #. NSoftFrame..cbSequentialNumbering..Caption
 #: Core/ExportObjects/Visuals/NSoftFrameUnit.dfm:98
-#, fuzzy
-#| msgid "System serial number"
 msgid "Use sequential numbering"
-msgstr "Numero di serie del sistema"
+msgstr "Usa numerazione sequenziale"
 
 #. RPCFrame..ChDescriptorLabel..Caption
 #: Core/ExportObjects/Visuals/RPCFrameUnit.dfm:19
@@ -8836,7 +8834,7 @@ msgstr "Tipo indicatore"
 #. BarVCFrame..PageControl..CommonTS..MeterTypePanel..cbMeterType....Items.Strings
 #: Core/GObjects/Visuals/BarVCFrameUnit.dfm:506 Core/GObjects/BarMeter.pas:948
 msgid "3D bar"
-msgstr ""
+msgstr "Barra 3D"
 
 #. BarVCFrame..PageControl..CommonTS..MeterTypePanel..cbMeterType....Items.Strings
 #: Core/GObjects/Visuals/BarVCFrameUnit.dfm:507 Core/GObjects/BarMeter.pas:949
@@ -9844,7 +9842,7 @@ msgstr "Tipo scala X"
 #. FFTVCFrame..PageControl..CommonTS..MainPageControl..SetupTabSheet..LinesPanel..AdvCaptionPanel1..FFTAmpltComboBox....Items.Strings
 #: Core/GObjects/Visuals/FFTVCFrameUnit.dfm:202
 msgid "Peak (Auto)"
-msgstr ""
+msgstr "Picco (Auto)"
 
 #. FFTVCFrame..PageControl..CommonTS..MainPageControl..SetupTabSheet..LinesPanel..AdvCaptionPanel1..FFTAmpltComboBox....Items.Strings
 #. MathFFTSetupFrame..AmplitudeTypePanel..AmplTypeCBox....Items.Strings
@@ -10364,7 +10362,7 @@ msgstr "Posizione"
 #. Edit2DMarkerForm..PageControl..SidebandMarkerPage..Caption
 #: Core/GObjects/Visuals/Graph2DEditMarkerUnit.dfm:80
 msgid "Sideband"
-msgstr ""
+msgstr "Banda laterale"
 
 #. Edit2DMarkerForm..PageControl..SidebandMarkerPage..SidebandPanel..Label3..Caption
 #: Core/GObjects/Visuals/Graph2DEditMarkerUnit.dfm:99
@@ -11017,7 +11015,7 @@ msgstr ""
 #: Visuals/Frames/SetupGrid.pas:245 Visuals/Frames/SetupGrid.pas:246
 #: Visuals/Frames/SetupGridEx.pas:252 Visuals/Frames/SetupGridEx.pas:253
 msgid "Store"
-msgstr "Rec"
+msgstr "Registra"
 
 #. InputVCFrame..PageControl..CommonTS..DewesoftActionPanel..cbDewesoftAction....Items.Strings
 #. ScopeVCFrame..PageControl..CommonTS..MainPageControl..TriggerTabSheet..Caption
@@ -11816,7 +11814,7 @@ msgstr "Num. frame"
 #. VideoVCFrame..PageControl..AnalisysTS..ModePanel..Caption
 #: Core/GObjects/Visuals/VideoVCFrameUnit.dfm:565
 msgid "View mode"
-msgstr ""
+msgstr "Tipo vista"
 
 #. VideoVCFrame..PageControl..AnalisysTS..ModePanel..ViewModeComboBox....Items.Strings
 #: Core/GObjects/Visuals/VideoVCFrameUnit.dfm:658
@@ -12295,12 +12293,12 @@ msgstr ""
 #. PIDTuningForm..AdvCaptionPanel5..Caption
 #: Core/MathObjects/PIDTuningUnit.dfm:3910
 msgid "Tuning rules"
-msgstr ""
+msgstr "Regole tuning"
 
 #. PIDTuningForm..AdvCaptionPanel5..Label19..Caption
 #: Core/MathObjects/PIDTuningUnit.dfm:3923
 msgid "Tuning rule (loop type)"
-msgstr ""
+msgstr "Regola tuning (tipo loop)"
 
 #. PIDTuningForm..AdvCaptionPanel5..Label15..Caption
 #. MathPIDSetupFrame..LoopTypePanel..AdvCaptionPanel2..Label1..Caption
@@ -12445,7 +12443,7 @@ msgstr ""
 #. PIDTuningForm..AdvCaptionPanel1..TuningRuleDescLabel..Caption
 #: Core/MathObjects/PIDTuningUnit.dfm:4214
 msgid "Rule desc.:"
-msgstr ""
+msgstr "Desc. regola:"
 
 #. CAFormulaEditor..Caption
 #. MathCaHWSetupFrame..Button1..Caption
@@ -12694,7 +12692,7 @@ msgstr "La pressione è inferiore a zero bar."
 #. CAMathSetupFrame..CaMathPageCtrl..MeasureTabSheet..TDCPanel..AdvCaptionPanel3..Caption
 #: Core/MathObjects/CAMath/Visuals/CAMathSetupUnit.dfm:4337
 msgid "Top dead center location"
-msgstr ""
+msgstr "Posizione top dead center"
 
 #. CAMathSetupFrame..CaMathPageCtrl..MeasureTabSheet..TDCPanel..AdvCaptionPanel3..TriggerOffsetLabel..Caption
 #: Core/MathObjects/CAMath/Visuals/CAMathSetupUnit.dfm:4358
@@ -12704,7 +12702,7 @@ msgstr ""
 #. CAMathSetupFrame..CaMathPageCtrl..MeasureTabSheet..TDCPanel..AdvCaptionPanel4..Caption
 #: Core/MathObjects/CAMath/Visuals/CAMathSetupUnit.dfm:4401
 msgid "Top dead center detection"
-msgstr ""
+msgstr "Rilevazione top dead center"
 
 #. CAMathSetupFrame..CaMathPageCtrl..MeasureTabSheet..TDCPanel..AdvCaptionPanel4..TDCInfoPanel..PistonWarningLabel..Caption
 #: Core/MathObjects/CAMath/Visuals/CAMathSetupUnit.dfm:4424
@@ -12835,7 +12833,7 @@ msgstr "Calcoli"
 #. CAMathSetupFrame..CaMathPageCtrl..CalcTabSheet..CalculationsPanel..AdvCaptionPanel9..Caption
 #: Core/MathObjects/CAMath/Visuals/CAMathSetupUnit.dfm:4892
 msgid "Running average cycles"
-msgstr ""
+msgstr "Cicli media mobile"
 
 #. CAMathSetupFrame..CaMathPageCtrl..CalcTabSheet..CalculationsPanel..AdvCaptionPanel9..Label11..Caption
 #. CAMathSetupFrame..CaMathPageCtrl..CalcTabSheet..ResultsPanelC..ResultsPanel..Panel10..CyclesLabel..Caption
@@ -13522,7 +13520,7 @@ msgstr "Scala personalizzata"
 #. CalculusSetupFrame..AdvCaptionPanel1..Panel3..OperationPanel..Label1..Caption
 #: Core/MathObjects/Visuals/CalculusSetupUnit.dfm:105
 msgid "Operation"
-msgstr ""
+msgstr "Operazione"
 
 #. CalculusSetupFrame..AdvCaptionPanel1..Panel3..OperationPanel..MathTypeCBox....Items.Strings
 #: Core/MathObjects/Visuals/CalculusSetupUnit.dfm:117
@@ -14000,7 +13998,7 @@ msgstr "Usa intervallo frequenze"
 #. ExactFreqMathSetupFrame..AdvCaptionPanel1..Caption
 #: Core/MathObjects/Visuals/ExactFreqMathSetupUnit.dfm:149
 msgid "Harmonic tracking"
-msgstr ""
+msgstr "Estrazione armonica"
 
 #. ExactFreqMathSetupFrame..AdvCaptionPanel1..FilterHarmCBox..Caption
 #: Core/MathObjects/Visuals/ExactFreqMathSetupUnit.dfm:162
@@ -14037,7 +14035,7 @@ msgstr "Parametri di design"
 #. FIRFiltersFrame..FIRGraphPanel..FIRDsgnPageCtrl..WindowDsgnTabSheet..DesignFIRPanel..FIRWindowCBox....Items.Strings
 #: Core/MathObjects/Visuals/FIRMathSetup.dfm:174
 msgid "Rectangle"
-msgstr ""
+msgstr "Rettangolo"
 
 #. FIRFiltersFrame..FIRGraphPanel..FIRDsgnPageCtrl..WindowDsgnTabSheet..DesignFIRPanel..FIRWindowCBox....Items.Strings
 #: Core/MathObjects/Visuals/FIRMathSetup.dfm:177
@@ -14169,7 +14167,7 @@ msgstr "Doppia derivata"
 #. MathModuleSetupFrame1..AdvCaptionPanel1..Panel3..Panel6..ToolBar1..TableToolButton..Hint
 #: Core/MathObjects/Visuals/IIRMathSetup.dfm:224
 msgid "Custom coefficient filter"
-msgstr ""
+msgstr "Coefficienti filtro custom"
 
 #. MathModuleSetupFrame1..AdvCaptionPanel1..Panel3..DisplayPageControl..ZPTabSheet..Caption
 #: Core/MathObjects/Visuals/IIRMathSetup.dfm:460
@@ -14193,6 +14191,8 @@ msgid ""
 "Note: lowest frequency between two consecutive pulses that will be detected. "
 "By lowering this value performance can be affected."
 msgstr ""
+"Nota: frequenza inferiore rilevabile tra due impulsi consecutivi. Le "
+"performances possono essere influenzate negativamente con un valore basso."
 
 #. AngleSensorSetupFrame..Panel3..AdvCaptionPanel1..Label3..Caption
 #. MathEnvelopeSetupFrame..SignalBandPanel..LowerSignalLimitLabel..Caption
@@ -14319,7 +14319,7 @@ msgstr "Tipo assi"
 #: Core/MathObjects/Visuals/MathArrayGeneratorSetupUnit.dfm:193
 #: Core/MathObjects/Visuals/MathArrayGeneratorSetupUnit.dfm:320
 msgid "String"
-msgstr ""
+msgstr "Stringa"
 
 #. MathArrayGeneratorSetupFrame..AxisZeroPanel..AxisTypeZeroCBox....Items.Strings
 #. MathArrayGeneratorSetupFrame..AxisOnePanel..AxisTypeOneCBox....Items.Strings
@@ -14491,7 +14491,7 @@ msgstr "Cambia nome asse/unità"
 #. MathArrayStatSetupFrame..InputPreviewPanel..Caption
 #: Core/MathObjects/Visuals/MathArrayStatSetupUnit.dfm:16
 msgid "Array area"
-msgstr ""
+msgstr "Area array"
 
 #. MathArrayStatSetupFrame..InputPreviewPanel..LabelSelectRange..Caption
 #: Core/MathObjects/Visuals/MathArrayStatSetupUnit.dfm:43
@@ -14854,7 +14854,7 @@ msgstr "Freq banda inferiore"
 #. MathCPBSetupFrame..LowerFreqPanel..SkipRinging..Caption
 #: Core/MathObjects/Visuals/MathCPBSetupUnit.dfm:312
 msgid "Skip filter ringing (output will start after 2 seconds)"
-msgstr ""
+msgstr "Salta ringing del filtro (l'uscita inizierà dopo 2 secondi)"
 
 #. MathDecimatorSetupFrame..GeneralSettingsPanel..DigitalFilterLabel..Caption
 #: Core/MathObjects/Visuals/MathDecimatorSetupUnit.dfm:29
@@ -14879,7 +14879,7 @@ msgstr ""
 #. MathDecimatorSetupFrame..FIRSettingsPanel..Caption
 #: Core/MathObjects/Visuals/MathDecimatorSetupUnit.dfm:97
 msgid "FIR settings"
-msgstr ""
+msgstr "Impostazioni FIR"
 
 #. MathDecimatorSetupFrame..FIRSettingsPanel..TransBandCbox..Caption
 #: Core/MathObjects/Visuals/MathDecimatorSetupUnit.dfm:125
@@ -14904,7 +14904,7 @@ msgstr "F2 (taglio superiore)"
 #. MathDecimatorSetupFrame..IIRSettingsPanel..Caption
 #: Core/MathObjects/Visuals/MathDecimatorSetupUnit.dfm:211
 msgid "IIR settings"
-msgstr ""
+msgstr "Impostazioni IIR"
 
 #. MathDecimatorSetupFrame..IIRSettingsPanel..FilterOderLabel..Caption
 #: Core/MathObjects/Visuals/MathDecimatorSetupUnit.dfm:224
@@ -15032,7 +15032,7 @@ msgstr "Banda inviluppo"
 #. MathEnvelopeSetupFrame..PresetsPanel..Caption
 #: Core/MathObjects/Visuals/MathEnvelopeSetupUnit.dfm:345
 msgid "Range preset"
-msgstr ""
+msgstr "Range predefinito"
 
 #. MathEnvelopeSetupFrame..PresetsPanel..BadPresetLabel..Caption
 #: Core/MathObjects/Visuals/MathEnvelopeSetupUnit.dfm:358
@@ -22732,7 +22732,7 @@ msgstr "Leggi messaggi CAN vuoti"
 #. AdvancedSettingsFrame2..DSPageControl1..Debug..ScrollBox4..DebugLayoutPanel..DebugHWGroup..DisableRetransmitProp..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1806
 msgid "ECAT - Disable Retransmit"
-msgstr ""
+msgstr "ECAT - Disabilita ritrasmissione"
 
 #. AdvancedSettingsFrame2..DSPageControl1..Debug..ScrollBox4..DebugLayoutPanel..DebugHWGroup..DisableRetransmitProp....Description
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1809
@@ -22744,7 +22744,7 @@ msgstr ""
 #. AdvancedSettingsFrame2..DSPageControl1..Debug..ScrollBox4..DebugLayoutPanel..DebugHWGroup..ForceDataLostProp..Text
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1829
 msgid "ECAT - Force Data Lost"
-msgstr ""
+msgstr "ECAT - Forza Data Lost"
 
 #. AdvancedSettingsFrame2..DSPageControl1..Debug..ScrollBox4..DebugLayoutPanel..DebugHWGroup..ForceDataLostProp....Description
 #: Visuals/Frames/AdvancedSettingsFrameUnit.dfm:1832
@@ -26194,11 +26194,11 @@ msgstr ""
 
 #: Core/Daq/Timing/GPSTimingUnit.pas:364 Core/Daq/Timing/GPSTimingUnit.pas:583
 msgid "Base clock divider"
-msgstr ""
+msgstr "Divisore clock base"
 
 #: Core/Daq/Timing/GPSTimingUnit.pas:365 Core/Daq/Timing/GPSTimingUnit.pas:585
 msgid "Clock steering"
-msgstr ""
+msgstr "Regolazione clock"
 
 #: Core/Daq/Video/CameraUnit.pas:1087 Core/Daq/Video/CameraUnit.pas:2173
 #: Core/Daq/Video/CameraUnit.pas:2908
@@ -26893,11 +26893,15 @@ msgstr "Errore caricamento funzione da dll Matlab"
 msgid ""
 "Failed to start exporting. Make sure a 64-bit version of Matlab is installed."
 msgstr ""
+"Errore esportazione. Assicurarsi che Matlab ver 64-bit è installata sul "
+"sistema."
 
 #: Core/ExportObjects/MatlabComm.pas:984 Visuals/Frames/RecallFrameUnit.pas:651
 msgid ""
 "Failed to start exporting. Make sure a 32-bit version of Matlab is installed."
 msgstr ""
+"Errore esportazione. Assicurarsi che Matlab ver 32-bit è installata sul "
+"sistema."
 
 #: Core/ExportObjects/NSoftComm.pas:115
 msgid "Copying data..."
@@ -26913,7 +26917,7 @@ msgstr "Quarto"
 
 #: Core/GObjects/BarMeter.pas:947
 msgid "2D bar"
-msgstr ""
+msgstr "Barra 2D"
 
 #: Core/GObjects/ButtonControl.pas:265
 msgid "Show name"
@@ -27941,10 +27945,12 @@ msgstr ""
 #: Core/MathObjects/MathBalancingApplicationUnit.pas:200
 msgid "Single plane balancing needs one vibration channel as an input"
 msgstr ""
+"Bilanciamento singolo piano necessita di un canale vibrazione come input."
 
 #: Core/MathObjects/MathBalancingApplicationUnit.pas:205
 msgid "Dual plane balancing needs two vibraton channels as an input"
 msgstr ""
+"Bilanciamento doppio piano necessita di due canali vibrazione come input."
 
 #: Core/MathObjects/MathBalancingApplicationUnit.pas:257
 msgid "Rotor balancer visual control is not installed"
@@ -27952,7 +27958,7 @@ msgstr "Il controllo video rotor balancer non è installato"
 
 #: Core/MathObjects/MathBalancingApplicationUnit.pas:271
 msgid "Please update rotor balancer visual control to latest version"
-msgstr ""
+msgstr "Aggiornare il controllo visuale rotor banacer all'ultima versione"
 
 #: Core/MathObjects/MathClassUnit.pas:1148
 msgid "Running mode supports only asynchronous channels"
@@ -28939,7 +28945,7 @@ msgstr "Salta ripple filtro"
 
 #: Core/MathObjects/Visuals/MathCPBSetupUnit.pas:136
 msgid "output will start after"
-msgstr ""
+msgstr "l'uscita inizierà dopo"
 
 #: Core/MathObjects/Visuals/MathEnvelopeSetupUnit.pas:121
 msgid "Component"
@@ -29151,18 +29157,24 @@ msgstr "Scegli uno tra dati statistici, ciclici o media"
 #: Core/Objects/CommObject.pas:3069
 msgid "Average cycle data can't be exported combined with cycle data to iFile"
 msgstr ""
+"Dati di media ciclo non possono essere esportati in combinazione con dati "
+"ciclo in iFile"
 
 #: Core/Objects/CommObject.pas:3078
 msgid ""
 "Average cycle-scalar data can't be exported combined with once per cycle "
 "data to iFile."
 msgstr ""
+"Dati scalari di media ciclo non possono essere esportati in combinazione con "
+"dati \"uno per ciclo\" in iFile"
 
 #: Core/Objects/CommObject.pas:3079
 msgid ""
 "All average cycle-scalar data will be automatically ignored on export to fit "
 "to iFile definition."
 msgstr ""
+"Tutti i dati scalari medi di ciclo saranno automaticamente ignorati durante "
+"l'export per compatibilità con la definizione di iFile"
 
 #: Core/Objects/ControllerTimer.pas:393
 msgid "No PPS channel defined. Please go to synchronization settings."
@@ -29914,7 +29926,7 @@ msgstr ""
 #. restart/shut down
 #: Core/Sequencer/DCOMUnit.pas:151
 msgid "Restart/shut down OS - RebootParam: 0..reboot; 1..shutdown"
-msgstr ""
+msgstr "Riavvia/spegni sistema - RebootParam:0..riavvia; 1..spegni"
 
 #. export screen to avi
 #: Core/Sequencer/DCOMUnit.pas:164
