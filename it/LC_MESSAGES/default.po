@@ -7,14 +7,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2018-03-03 15:55\n"
-"PO-Revision-Date: 2018-03-06 09:42+0100\n"
+"PO-Revision-Date: 2018-05-16 15:37+0200\n"
 "Last-Translator: Somebody <your.email@address.com>\n"
 "Language-Team: \n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.0.6\n"
+"X-Generator: Poedit 2.0.7\n"
 
 #. AmplifierFrame..MainAmplPanel..AmplifierPageControl..GeneralTabSheet..Caption
 #. ChannelSetupExForm..BlockDiagPanel..SensorPanel..SensorPageControl..GeneralSensorTabSheet..Caption
@@ -11526,7 +11526,7 @@ msgstr "Formato stampa"
 #. TabVCFrame..PageControl..CommonTS..PrintFormatPanel..RawFormatLabel..Caption
 #: Core/GObjects/Visuals/TabFrameUnit.dfm:411
 msgid "Raw value format"
-msgstr "Formato dati grezzo"
+msgstr "Formato dati non scalato"
 
 #. TabVCFrame..PageControl..CommonTS..PrintFormatPanel..RawFormatComboBox....Items.Strings
 #. ControlItemFrame..MainSeqItemPanel..CommandsPanel..HEXRadioButton..Caption
@@ -11549,7 +11549,7 @@ msgstr "Scalato"
 #. TabVCFrame..PageControl..CommonTS..PrintFormatPanel..ScaleComboBox....Items.Strings
 #: Core/GObjects/Visuals/TabFrameUnit.dfm:475
 msgid "Raw"
-msgstr "Grezzo"
+msgstr "Non scalato"
 
 #. TabVCFrame..PageControl..CommonTS..FontPanel..Caption
 #. TextDOFrame..OvDisplayTypePanel..Caption
@@ -32375,7 +32375,7 @@ msgstr "Proprietà"
 
 #: Visuals/Frames/SetupGridEx.pas:99
 msgid "Raw value"
-msgstr "Dato grezzo"
+msgstr "Dato non scalato"
 
 #: Visuals/Frames/SysMonitorTabFrameUnit.pas:104
 msgid "Check limits"
