@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2018-05-31 13:19\n"
-"PO-Revision-Date: 2018-06-04 14:32+0200\n"
+"PO-Revision-Date: 2018-06-04 15:59+0200\n"
 "Last-Translator: Somebody <your.email@address.com>\n"
 "Language-Team: \n"
 "Language: it\n"
@@ -1143,7 +1143,7 @@ msgstr "Adattatore DSI"
 #. DeweUSBAmplFrame..MainAmplPanel..AmplifierPageControl..GeneralTabSheet..SelfTestPanel..SelfTestSpeedButton..Caption
 #: Core/Daq/Amplifiers/Visuals/DeweUSBAmplFrameUnit.dfm:45
 msgid "Selftest on"
-msgstr ""
+msgstr "Attiva selftest"
 
 #. DeweUSBAmplOfflineFrame..MainPanel..ShuntPanel..IntShunt1Label..Caption
 #: Core/Daq/Amplifiers/Visuals/DeweUSBAmplOfflineFrameUnit.dfm:33
@@ -1629,7 +1629,7 @@ msgstr ""
 #. CanSetupForm..MsgDefinitionGroupBox..MSGFrameFormatCombo....Items.Strings
 #: Core/Daq/CAN/Visuals/CANChannelSetupUnit.dfm:216
 msgid "CAN extended"
-msgstr ""
+msgstr "CAN esteso"
 
 #. CanSetupForm..MsgDefinitionGroupBox..RXTXPageControl..RXTabSheet..Caption
 #. CanSetupFrame..GeneralPanel..RxTXFilterPanel..RxButton..Caption
@@ -6562,7 +6562,7 @@ msgstr ""
 #. FrameAshtechGPS..UrosPanel..DistanceOutputLabel..Caption
 #: Core/Daq/GPS/Visuals/AshTechGPSFrame.dfm:309
 msgid "Distance output"
-msgstr "Distanza output"
+msgstr "Output distanza"
 
 #. FrameAshtechGPS..ControlsPanel..outputLabel..Caption
 #: Core/Daq/GPS/Visuals/AshTechGPSFrame.dfm:387
@@ -10203,7 +10203,7 @@ msgstr "Opzioni media"
 #: Core/GObjects/Visuals/FFTVCFrameUnit.pas:495
 #: Core/GObjects/Visuals/FFTVCFrameUnit.pas:578
 msgid "Averages count"
-msgstr "Conteggio medie"
+msgstr "Numero medie"
 
 #. FFTVCFrame..PageControl..CommonTS..MainPageControl..CurveTabSheet..Caption
 #. XYRecVCFrame..PageControl..CommonTS..SelectorPanel..CurvePageButton..Caption
@@ -11480,7 +11480,7 @@ msgstr ""
 #. ScopeVCFrame..PageControl..CommonTS..MainPageControl..TriggerTabSheet..AdvCaptionPanel6..Caption
 #: Core/GObjects/Visuals/ScopeVCFrameUnit.dfm:11397
 msgid "Timing setup"
-msgstr ""
+msgstr "Impostazioni temporali"
 
 #. ScopeVCFrame..PageControl..CommonTS..MainPageControl..TriggerTabSheet..AdvCaptionPanel6..Label1..Caption
 #: Core/GObjects/Visuals/ScopeVCFrameUnit.dfm:11410
@@ -11535,12 +11535,12 @@ msgstr "Esporta su AVI"
 #. ScopeVCFrame..PageControl..CommonTS..MainPageControl..HistoryTabSheet..AdvCaptionPanel1..SetEndButton..Caption
 #: Core/GObjects/Visuals/ScopeVCFrameUnit.dfm:11695
 msgid "Set end"
-msgstr ""
+msgstr "Imp. fine"
 
 #. ScopeVCFrame..PageControl..CommonTS..MainPageControl..HistoryTabSheet..AdvCaptionPanel1..SetStartButton..Caption
 #: Core/GObjects/Visuals/ScopeVCFrameUnit.dfm:11710
 msgid "Set start"
-msgstr ""
+msgstr "Imp. inizio"
 
 #. ScopeVCFrame..PageControl..CommonTS..MainPageControl..HistoryTabSheet..AdvCaptionPanel2..TriggerCountLabel..Caption
 #: Core/GObjects/Visuals/ScopeVCFrameUnit.dfm:11770
@@ -11872,14 +11872,14 @@ msgstr "Non proporzionale"
 #: Core/GObjects/Visuals/VideoVCFrameUnit.dfm:187
 #: Core/GObjects/Visuals/VideoVCFrameUnit.dfm:406
 msgid "Zoom & pan"
-msgstr ""
+msgstr "Zoom & sposta"
 
 #. VideoVCFrame..PageControl..MeasureTS..IRPanelM..Caption
 #. VideoVCFrame..PageControl..AnalisysTS..IRPanelA..Caption
 #: Core/GObjects/Visuals/VideoVCFrameUnit.dfm:212
 #: Core/GObjects/Visuals/VideoVCFrameUnit.dfm:431
 msgid "Thermo vision"
-msgstr ""
+msgstr "Visione termica"
 
 #. VideoVCFrame..PageControl..MeasureTS..IRPanelM..TemperatureUnitLabel..Caption
 #. VideoVCFrame..PageControl..AnalisysTS..IRPanelA..UnitLabel..Caption
@@ -13223,17 +13223,17 @@ msgstr ""
 #. CAMathSetupFrame..CaMathPageCtrl..HeatReleaseTabSheet..HeatReleasePanel..TempPropsPanel..AdvCaptionPanel14..GasMassLabel..Caption
 #: Core/MathObjects/CAMath/Visuals/CAMathSetupUnit.dfm:5939
 msgid "Gas mass (efficient)"
-msgstr ""
+msgstr "Massa gas (efficiente)"
 
 #. CAMathSetupFrame..CaMathPageCtrl..HeatReleaseTabSheet..HeatReleasePanel..TempPropsPanel..AdvCaptionPanel14..IntakePPanel..IntakePressureLabel..Caption
 #: Core/MathObjects/CAMath/Visuals/CAMathSetupUnit.dfm:5962
 msgid "Intake pressure"
-msgstr ""
+msgstr "Pressione ingresso"
 
 #. CAMathSetupFrame..CaMathPageCtrl..HeatReleaseTabSheet..HeatReleasePanel..TempPropsPanel..AdvCaptionPanel14..IntakePPanel..IntakeTempLabel..Caption
 #: Core/MathObjects/CAMath/Visuals/CAMathSetupUnit.dfm:5977
 msgid "Intake temp."
-msgstr ""
+msgstr "Temp. ingresso"
 
 #. CAMathSetupFrame..CaMathPageCtrl..HeatReleaseTabSheet..HeatReleasePanel..TempPropsPanel..AdvCaptionPanel14..IntakePPanel..VolEffectLabel..Caption
 #: Core/MathObjects/CAMath/Visuals/CAMathSetupUnit.dfm:5992
@@ -13831,7 +13831,7 @@ msgstr "campioni"
 #. CepstrumSetupFrame..AdvCaptionPanel2..Caption
 #: Core/MathObjects/Visuals/CepstrumSetupUnit.dfm:124
 msgid "Liftering (split cepstrum to lower and upper part)"
-msgstr ""
+msgstr "Liftering (dividi cepstrum in parte alta e bassa)"
 
 #. CepstrumSetupFrame..AdvCaptionPanel2..LifterCBox..Caption
 #: Core/MathObjects/Visuals/CepstrumSetupUnit.dfm:144
@@ -14753,42 +14753,42 @@ msgstr ""
 #. MathClassSetupFrame..MeanCBox..Caption
 #: Core/MathObjects/Visuals/MathClassSetupUnit.dfm:30
 msgid "Arit. mean"
-msgstr ""
+msgstr "Media arit."
 
 #. MathClassSetupFrame..HarmMeanCBox..Caption
 #: Core/MathObjects/Visuals/MathClassSetupUnit.dfm:40
 msgid "Harm. mean"
-msgstr ""
+msgstr "Media arm."
 
 #. MathClassSetupFrame..GeoMeanCBox..Caption
 #: Core/MathObjects/Visuals/MathClassSetupUnit.dfm:50
 msgid "Geo. mean"
-msgstr ""
+msgstr "Media geo."
 
 #. MathClassSetupFrame..StdDevCBox..Caption
 #: Core/MathObjects/Visuals/MathClassSetupUnit.dfm:70
 msgid "Std. deviation"
-msgstr ""
+msgstr "Dev. Standard"
 
 #. MathClassSetupFrame..LQCBox..Caption
 #: Core/MathObjects/Visuals/MathClassSetupUnit.dfm:80
 msgid "Lower quartile (25%)"
-msgstr ""
+msgstr "Quartile basso (25%)"
 
 #. MathClassSetupFrame..MedianCBox..Caption
 #: Core/MathObjects/Visuals/MathClassSetupUnit.dfm:90
 msgid "Median (50%)"
-msgstr ""
+msgstr "Mediano (50%)"
 
 #. MathClassSetupFrame..UQCBox..Caption
 #: Core/MathObjects/Visuals/MathClassSetupUnit.dfm:100
 msgid "Upper quartile (75%)"
-msgstr ""
+msgstr "Quartile alto (75%)"
 
 #. MathClassSetupFrame..InterRCBox..Caption
 #: Core/MathObjects/Visuals/MathClassSetupUnit.dfm:110
 msgid "Interquartile range"
-msgstr ""
+msgstr "Range interquartile"
 
 #. MathClassSetupFrame..ClassDefinitionPanel..Caption
 #: Core/MathObjects/Visuals/MathClassSetupUnit.dfm:125
